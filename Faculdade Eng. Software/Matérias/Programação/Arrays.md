@@ -5,7 +5,7 @@ data: 27/07/2023
 ---
 ## Resumo
 
-Os *arrays* (*também chamado vetores*) são [[Conjuntos]]. Ele é **uma única variável pode armazenar vários valores** que dependendo da linguagem esse conjunto de valores *podem ser do mesmo tipo ou não*.
+Os *arrays* (*também chamado vetores*) é uma [[Classe]] que serve para manipular [[Conjuntos]]. Ele é **uma única variável pode armazenar vários valores** que dependendo da linguagem esse conjunto de valores *podem ser do mesmo tipo ou não*.
 
 ---
 ## Introdução
@@ -14,7 +14,7 @@ Os *arrays* (*também chamado vetores*) são [[Conjuntos]]. Ele é **uma única 
 ![[Desenho Array|600]]
 Sua **finalidade** é principalmente *conter vários dados em uma coleção de dados* ao invés de individualmente, o que *facilita bastante acessa-los futuramente*.
 
-Um array contém **tipo de valores fixos**, mas *podem ser manipulados* com algumas regras. Normalmente, os arrays possuem também um **tamanho fixo** quando declarado diretamente, e pode conter até aquela quantia de valores.
+Um array contém **valores fixos**, mas *podem ser manipulados* com algumas regras. Normalmente, os arrays possuem também um **tamanho fixo** quando declarado diretamente, e pode conter até aquela quantia de valores.
 
 Assim como os [[Conjuntos]], os arrays **possuem elementos** e são **acessados pelo índice** (*normalmente começando com 0*). Normalmente são utilizados para *trocar elementos, acrescentar* e até *contar todos eles de maneira imediata* sendo assim uma das *melhores formas de organizar dados* na área da programação.
 
