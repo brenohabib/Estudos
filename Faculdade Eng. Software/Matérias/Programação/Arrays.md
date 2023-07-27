@@ -32,4 +32,9 @@ Assim como os [[Conjuntos]], os arrays **possuem elementos** e são **acessados 
 >> ---
 >>
 
+
+## Declaração
 ---
+Um exemplo de *declaração de array* em [[Java]].
+
+[[ExemploJava]]
