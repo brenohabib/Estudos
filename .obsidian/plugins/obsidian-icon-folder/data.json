@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 17,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiPaintbrush",
+      "LiImage",
+      "SiCodecademy",
+      "LiFileText",
+      "LiRedo2",
+      "LiCode2"
+    ],
+    "recentlyUsedIconsSize": 8,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md": "LiPaintbrush",
+  "Faculdade Eng. Software/Explicações/Desenho Numeros.md": "LiPaintbrush",
+  "Faculdade Eng. Software/Explicações/Estrutura dos Tipos.md": "LiFileText",
+  "Faculdade Eng. Software/Explicações/Geração.md": "LiFileText",
+  "Faculdade Eng. Software/Explicações/Grau de Abstração.md": "LiFileText",
+  "Faculdade Eng. Software/Explicações/Paradigma de Programação.md": "LiFileText",
+  "Faculdade Eng. Software/Template.md": "SiCodecademy",
+  "Imagens/Cubo de Lógica.png": "LiImage",
+  "Imagens/Fluxograma.png": "LiImage",
+  "Imagens/Linguagens de programação.jpg": "LiImage",
+  "Imagens/Receita de Bolo Simplificada.png": "LiImage",
+  "Imagens/Rotina.png": "LiImage",
+  "Imagens/Desenho Array.md": "LiPaintbrush",
+  "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md": "LiCode2",
+  "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md": "LiCode2",
+  "Faculdade Eng. Software/Matérias/Programação/Arrays.md": "LiCode2",
+  "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md": "SiCircle",
+  "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md": "LiRedo2"
+}

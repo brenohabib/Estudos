@@ -1,0 +1,1 @@
+Refere-se a **organização e relacionamento dos tipos de dados**, incluindo os [[Tipos Primitivos]]. Ela define *como os dados são representados e manipulados* na memória e *quais operações podem ser realizadas*. Ela também pode definir [[Hierarquias]] e [[Herança]] ente eles.

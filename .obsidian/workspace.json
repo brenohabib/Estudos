@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "7a3afc18b1fb293c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e76b65793f4dec0",
+        "type": "tabs",
+        "dimension": 68.45679012345678,
+        "children": [
+          {
+            "id": "f2db70de589f5b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "275e9263dedea083"
+          }
+        ]
+      },
+      {
+        "id": "ff6af67066e7e579",
+        "type": "split",
+        "dimension": 31.54320987654321,
+        "children": [
+          {
+            "id": "ad9191536008c76e",
+            "type": "tabs",
+            "dimension": 38.08139534883721,
+            "children": [
+              {
+                "id": "bc216a4e487b87b2",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1.5546875,
+                      "lineSizeMultiplier": 1.73333333333333,
+                      "collapse-forces": false,
+                      "centerStrength": 0.666666666666667,
+                      "repelStrength": 10.4166666666667,
+                      "linkStrength": 0.484375,
+                      "linkDistance": 162,
+                      "scale": 0.6372987299011719,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "275e9263dedea083"
+              }
+            ]
+          },
+          {
+            "id": "23e918374e5f8c1b",
+            "type": "tabs",
+            "dimension": 61.91860465116279,
+            "children": [
+              {
+                "id": "b544263217ea7a68",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a47e061804b59679",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3ec6c6ebaebf46d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23b87f6cfa6fb1af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e43b1d235544e6b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3cedb2b2349503a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5
+  },
+  "right": {
+    "id": "af95615754575cd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "04548b0c945dac82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adbfb81a00eaf8d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "189de4aa318aaca4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea3b53f4bc3b4f58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f21e7f9721412503",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir visualização em gráfico": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "switcher:Abrir a troca rápida": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "f2db70de589f5b4c",
+  "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
+    "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+    "Imagens/Desenho Array.md",
+    "Faculdade Eng. Software/Template.md",
+    "Imagens/Rotina.png",
+    "Faculdade Eng. Software/Matérias/Lógica",
+    "Pasted Image 20230727001521_388.png",
+    "Imagens/Receita de Bolo Simplificada.png",
+    "Imagens/Linguagens de programação.jpg",
+    "Imagens/Drawing 2023-07-27 00.14.18.excalidraw.md",
+    "Imagens/Fluxograma.png",
+    "Faculdade Eng. Software/Fundamentos/Conjuntos (conflict 2023-07-26-21-41-46).md",
+    "Excalidraw/Drawing 2023-07-26 13.03.52.excalidraw.md",
+    "Excalidraw",
+    "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md",
+    "Faculdade Eng. Software/Explicações/Desenho Numeros.md",
+    "Faculdade Eng. Software/Explicações/Estrutura dos Tipos.md",
+    "Faculdade Eng. Software/Explicações/Geração.md",
+    "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
+    "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
+    "Faculdade Eng. Software/Explicações/Desenho Conjuntos (conflict 2023-07-25-13-46-23).md",
+    "Sem título.md",
+    "Faculdade Eng. Software/Explicações/Sem título.canvas",
+    "Excalidraw/Drawing 2023-07-24 23.36.04.excalidraw.md",
+    "Pasted image 20230724233446.png",
+    "Pasted image 20230724233159.png",
+    "imagem_2023-07-24_233205438-PhotoRoom.png-PhotoRoom.png",
+    "União.png",
+    "imagem_2023-07-24_232955449-PhotoRoom.png-PhotoRoom.png",
+    "Faculdade Eng. Software/Explicações",
+    "Linguagens.md",
+    "Faculdade Eng. Software/Blue Topaz",
+    "rotina.md",
+    "Faculdade Eng. Software/Sem título.canvas",
+    "imagem_2023-07-11_233134012-PhotoRoom.png-PhotoRoom.png.md",
+    "[[Algoritmos]].md",
+    "Faculdade Eng. Software/Matérias/Programação",
+    "Faculdade Eng. Software/Matérias",
+    "Sem título.canvas",
+    "Teste.md",
+    "Faculdade Eng. Software/Fundamentos/Algoritmos",
+    "Teste.md",
+    "Imagens",
+    "Faculdade Eng. Software"
+  ]
+}

@@ -1,0 +1,1 @@
+Refere-se ao **nível de complexidade** ao tentar entender um código. Uma linguagem mais abstrata facilita ao programador se concentrar em *desenvolver a lógica* e se *preocupar menos com a implementação* do [[Software]].

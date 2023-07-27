@@ -1,0 +1,1 @@
+É o **passo a passo** do código escrito pelo programador **virar um código executável pela máquina**. São várias etapas que são chamadas de *gerações*, podendo ser classificada, por exemplo, a primeira geração como o código fonte criado pelo programador, a segunda geração o intermediador entre eles e a terceira geração sendo o código executável final.
