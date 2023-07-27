@@ -41,7 +41,7 @@ Conjuntos **são um ou vários elementos** com algo em *comum* que são *agrupad
 
 ---
 ### Pertinência
-Representado pelo símbolo *∈* e *∉* sendo, respectivamente, *pertence e não pertence*.
+Representado pelo símbolo *∈* e *∉* sendo, respectivamente, *pertence e não pertence*. teste
 
 >[!example] Exemplo
 >**A** = {*5, 6, 7, 8, 9, 10*}
