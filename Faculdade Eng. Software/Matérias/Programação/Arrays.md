@@ -32,9 +32,36 @@ Assim como os [[Conjuntos]], os arrays **possuem elementos** e são **acessados 
 >> ---
 >>
 
+>[!caution] Cuidado
+>[[Vetores]] e Arrays **não são a mesma coisa**, os dois *possuem suas características* e *finalidades*.
+>De forma resumida, *os arrays podem possuir mais do que um índice, diferente dos vetores cada elemento é caracterizado em um único índice*
 
-## Declaração
+## Manipulando um Array
 ---
-Um exemplo de *declaração de array* em [[Java]].
+Um exemplo de *declaração de array* em [[Java]]:
 
-[[ExemploJava]]
+### Array de dimensão única
+
+```Java
+public class ExemploJava {
+    public static void main(String[] args) {
+    
+        double[] notas = {5.5, 8.7, 6.0, 7.9};
+        
+		//OU
+		
+		double[] notas = new double[4];
+		notas[0] = 5.5;
+		notas[1] = 8.7;
+		notas[2] = 6.0;
+		notas[3] = 7.9;
+    }
+}
+```
+
+### Array com múltiplas dimensões
+
+```Java
+
+
+```

@@ -42,7 +42,7 @@ Existem outras formas de classificação podendo levar em conta o [[Paradigma de
 ## Exemplo
 ---
 
-Um exemplo de uma linguagem de programação é o C:
+Um exemplo de uma linguagem de programação é o [[C]]:
 ```C
 int main(int argc, char *argv[]) {
 	setlocale(LC_ALL, "Portuguese");
