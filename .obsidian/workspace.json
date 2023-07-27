@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
+                    "file": "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -152,35 +152,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adbfb81a00eaf8d3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "189de4aa318aaca4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "ea3b53f4bc3b4f58",
             "type": "leaf",
             "state": {
@@ -192,12 +163,41 @@
             }
           },
           {
-            "id": "f21e7f9721412503",
+            "id": "587f5f1d5576684e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57b6bae4af539d4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b30ef860f0b922f2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays.md"
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md"
               }
             }
           }
@@ -205,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,10 +224,10 @@
   },
   "active": "f2db70de589f5b4c",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
+    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Imagens/Desenho Array.md",
     "Faculdade Eng. Software/Template.md",
