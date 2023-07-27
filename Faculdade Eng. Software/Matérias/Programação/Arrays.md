@@ -44,10 +44,10 @@ Um exemplo de *declaração de array* em [[Java]]:
 
 ```Java
 public class ExemploJava {
-    public static void main(String[] args) {
-    
-        double[] notas = {5.5, 8.7, 6.0, 7.9};
-        
+	public static void main(String[] args) {
+		
+		double[] notas = {5.5, 8.7, 6.0, 7.9};
+		
 		//OU
 		
 		double[] notas = new double[4];
@@ -55,13 +55,25 @@ public class ExemploJava {
 		notas[1] = 8.7;
 		notas[2] = 6.0;
 		notas[3] = 7.9;
-    }
+	}
 }
 ```
+
 
 ### Array com múltiplas dimensões
 
 ```Java
-
-
+class ArrayMultidimensional {
+	public static void main(String[] args) {
+		//Declaração de array aninhado
+		double[][] larguraAltura = {{2, 3}, {3, 4}};
+		
+		/*Multiplicação do primeiro conjunto e primeiro elemento com          primeiro conjunto e segundo elemento */
+		double area = larguraAltura[0][0] * larguraAltura[0][1];
+		
+		/*Multiplicação do segundo conjunto e primeiro elemento com segundo conjunto e segundo elemento */
+		double area2 = larguraAltura[1][0] * larguraAltura[1][1];
+		
+	}
+}
 ```
