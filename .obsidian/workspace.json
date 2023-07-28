@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz.md",
+                    "file": "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz.md"
+                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays.md"
               }
             }
           }
@@ -224,8 +224,8 @@
   },
   "active": "f2db70de589f5b4c",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
