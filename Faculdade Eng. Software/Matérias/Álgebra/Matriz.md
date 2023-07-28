@@ -5,7 +5,7 @@ data: 27/07/2023
 ---
 ## Resumo
 
-Matrizes é **uma forma matemática de organizar números** em forma de tabela. Ela sempre é nomeada com, respectivamente, *um número m de linhas e n de colunas* (*mxn*).
+Matrizes é **uma forma matemática de organizar números** em forma de tabela. Ela sempre é nomeada com, respectivamente, *um número m de linhas e n de colunas* (*m x n*).
 
 ---
 ## Introdução
@@ -19,7 +19,7 @@ As matrizes *sempre são representadas entre colchetes, parênteses ou duplas ba
 >0 & 1\\
 >1 & 0
 >\end {bmatrix}
->$ *É uma matriz 2x2*
+>$ *É uma matriz* ***2x2***, por ter, respectivamente, *duas linhas e duas colunas*
 >
 >$
 >\begin {pmatrix}
@@ -27,4 +27,12 @@ As matrizes *sempre são representadas entre colchetes, parênteses ou duplas ba
 >54 & 2\\
 >1 & 20
 >\end {pmatrix}
->$ *É uma matrix 3x2*
+>$ *É uma matrix* ***3x2***, por ter, respectivamente, *três linhas e três colunas*
+>
+>$
+>\begin {Vmatrix}
+>10 & 20 & \sqrt{30^2} \\
+>40 & \frac{50}{2} & 60
+>\end {Vmatrix}
+>$ *É uma matriz* ***2x3***, por ter, respectivamente, *duas linhas e três colunas*
+
