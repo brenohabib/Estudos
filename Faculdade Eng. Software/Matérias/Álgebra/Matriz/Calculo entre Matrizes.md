@@ -30,3 +30,4 @@ Para descobrir quais elementos usar na hora de fazer o cálculo, podemos simples
 > O mesmo vale para *subtração* entre duas matrizes:
 > 
 
+
