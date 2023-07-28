@@ -43,5 +43,7 @@ Uma *matriz é representada por uma letra maiúscula do nosso alfabeto* e os *el
 Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos dizer que ela é **ordem n**, *sendo n representando o número de linhas e colunas*.
 
 >[!example] Exemplo
->A = $\begin {bmatrix}a11 & a12 & a13\\ a21 & a22 & a23\\ a31 & a32 & a33\end {bmatrix}$
+>A = $\begin {bmatrix}a11 & a12 & a13\\ a21 & a22 & a23\\ a31 & a32 & a33\end {bmatrix}$ 
+>
+>É uma matriz de ***ordem 3*** em que *representa apenas as posições dos elementos da matriz*.
 >
