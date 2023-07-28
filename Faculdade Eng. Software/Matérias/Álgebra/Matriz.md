@@ -46,4 +46,7 @@ Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos diz
 >A = $\begin {bmatrix}a11 & a12 & a13\\ a21 & a22 & a23\\ a31 & a32 & a33\end {bmatrix}$ 
 >
 >É uma matriz de ***ordem 3*** em que *representa apenas as posições dos elementos da matriz*.
+>Então, podemos visualizar os elementos da seguinte forma:
+>
+>A = $\begin {bmatrix}\sqrt{9} & \frac{1}{3} & 2^2\\ 3^2 & \sqrt{81} & 8\\ 2^{2} & 0 & \frac{4}{4}\end {bmatrix}$A = $\begin {bmatrix}a_{11} & a_{12} & a_{13}\\ a_{21} & a_{22} & a_{23}\\ a_{31} & a_{32} & a_{33}\end {bmatrix}$
 >
