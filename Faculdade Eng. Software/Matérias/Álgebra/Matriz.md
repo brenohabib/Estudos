@@ -87,9 +87,23 @@ Para descobrir quais elementos usar na hora de fazer o cálculo, podemos simples
 
 R.: S = ሼx = ±4, y = 3, w = 1, t = 4ሽ
 
-R.: S = ቄx = 1, ou x = −2, y = −10, w =23, t = 0, ou t = ±2ቅ
+R.: S = ቄx = 1, ou x = −2, y = −10, w =
+2
+3
+, t = 0, ou t = ±2ቅ
 
-R.: S = ቄx = −23, y = 0, ou y = 1, w = 0, t = 0, ou t = 3ቅ
+R.: S = ቄx = −
+2
+3
+, y = 0, ou y = 1, w = 0, t = 0, ou t = 3ቅ
 
-R.: S = ቄx = −18, y =118, w = 5, t =34ቅ
-
+R.: S = ቄx = −
+1
+8
+, y =
+11
+8
+, w = 5, t =
+3
+4
+ቅ
