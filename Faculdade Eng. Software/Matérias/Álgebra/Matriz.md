@@ -51,11 +51,12 @@ Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos diz
 >
 >É uma matriz de ***ordem 2***, e assim sucessivamente.
 >
+>---
 >Então, podemos visualizar os elementos da seguinte forma:
 >
 >*A* = $\begin {bmatrix}\sqrt{9} & \frac{1}{3} & 2^2\\ 3^2 & \sqrt{81} & 8\\ 2^{2} & 0 & \frac{4}{4}\end {bmatrix}$*A* = $\begin {bmatrix}a_{11} & a_{12} & a_{13}\\ a_{21} & a_{22} & a_{23}\\ a_{31} & a_{32} & a_{33}\end {bmatrix}$
 >
->Sendo assim, podemos igualar os elementos às posições da matriz:
+>Sendo assim, podemos *igualar* os elementos às posições da matriz:
 >
 > $a_{11} = \sqrt{9}$ , $a_{12} = \frac{1}{3}$ , $a_{13} = 2^2$
 > 
