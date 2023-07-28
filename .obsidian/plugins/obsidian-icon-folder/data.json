@@ -6,12 +6,14 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiRotateClockwise2",
+      "TiRotateDot",
+      "TiMath",
       "LiPaintbrush",
       "LiImage",
       "SiCodecademy",
       "LiFileText",
-      "LiRedo2",
-      "LiCode2"
+      "LiRedo2"
     ],
     "recentlyUsedIconsSize": 8,
     "rules": [],
@@ -40,5 +42,7 @@
   "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md": "LiCode2",
   "Faculdade Eng. Software/Matérias/Programação/Arrays.md": "LiCode2",
   "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md": "SiCircle",
-  "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md": "LiRedo2"
+  "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md": "TiRotateClockwise2",
+  "Imagens/Desenho Matriz.md": "LiPaintbrush",
+  "Faculdade Eng. Software/Matérias/Álgebra/Matriz.md": "TiMath"
 }
