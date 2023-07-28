@@ -75,4 +75,8 @@ Para descobrir quais elementos usar na hora de fazer o cálculo, podemos simples
 >[!example] Exemplo
 >*A* = $\begin {bmatrix}\sqrt{9} & \frac{1}{3} & 2^2\\ 3^2 & \sqrt{81} & 8\\ 2^{2} & 0 & \frac{4}{4}\end {bmatrix}$ + *B* = $\begin {bmatrix}\sqrt{4} & 3 & 2^2\\ 2^3 & \sqrt{144} & 10\\ 2^{2} & 0 & \frac{4}{4}\end {bmatrix}$ *A+B* = $\begin {bmatrix} 5 & \frac{10}{3} & 8\\ 17 & 21 & 18\\ 8 & 0 & 2\end {bmatrix}$
 >
->$a_{11} + b_{11} = 5$
+> $a_{11} + b_{11} = 5$ , $a_{12} + b_{12} = \frac{10}{3}$ , $a_{13} + b_{13} = 8$
+> 
+> $a_{21} + b_{21} = 3^2$ , $a_{22} + b_{22} = \sqrt{81}$ , $a_{23} + b_{23} = 8$
+> 
+> $a_{31} + b_{31} = 2^{2}$ , $a_{32} + b_{32} = 0$ , $a_{33} + b_{33} = \frac{4}{4}$
