@@ -112,8 +112,3 @@ Seriam apenas *o comum entre dois ou mais conjuntos*. Representado como **∩**.
 >
 >**A** ∩ **B** = {*2, 3*}
 >
-
-
-### Rascunho
-
-Conjuntos no geral; conjuntos **GERALMENTE** começam com letra maiúscula; saber o que é intersecção, junção, união, complemento e contido fazer algumas atividades para treinar; objetos de um conjunto pode ser qualquer coisa

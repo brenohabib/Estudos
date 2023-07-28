@@ -65,4 +65,12 @@ Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos diz
 > $a_{31} = 2^{2}$ , $a_{32} = 0$ , $a_{33} = \frac{4}{4}$
 
 
+## Cálculo entre matrizes
 ---
+
+Sempre quando formos calcular duas matrizes, *utilizamos os elementos* dentro dela para *obter uma resposta que também é outra matriz*.
+
+Para descobrir quais elementos usar na hora de fazer o cálculo, podemos simplesmente *pegar o mesmo índice entre as duas tabelas*.
+
+>[!example] Exemplo
+>
