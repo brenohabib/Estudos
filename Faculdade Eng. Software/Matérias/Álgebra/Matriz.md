@@ -8,3 +8,4 @@ data: 27/07/2023
 ---
 ## Introdução
 ---
+$$ \begin{vmatrix}a & b\\ c & d \end{vmatrix}=ad-bc $$
