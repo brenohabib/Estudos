@@ -38,16 +38,16 @@ As matrizes *sempre são representadas entre colchetes, parênteses ou duplas ba
 
 ## Representação
 ---
-Uma matriz é **representada por uma letra maiúscula do nosso alfabeto** e os **elementos é representado pela mesma letra mas minúscula** e cada posição pode ser relacionado à outra matriz, possuindo os mesmos valores dos elementos de mesma posição.
+Uma matriz é **representada por uma letra maiúscula do nosso alfabeto** e os **elementos é representado pela mesma letra mas minúscula** e cada posição pode ser relacionado à outra matriz, *possuindo os mesmos valores dos elementos de mesma posição*.
 
 Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos dizer que ela é **ordem n**, *sendo n representando o número de linhas e colunas*.
 
 >[!example] Exemplo
->*A* = $\begin {bmatrix}a11 & a12 & a13\\ a21 & a22 & a23\\ a31 & a32 & a33\end {bmatrix}$ 
+>*A* = $\begin {bmatrix}a11 & a12 & a13\\ a21 & a22 & a23\\ a31 & a32 & a33\end {bmatrix}_{3X3}$ 
 >
 >É uma matriz de ***ordem 3*** em que *representa apenas as posições dos elementos da matriz*.
 >
->*A* = $\begin {bmatrix}a11 & a12\\ a21 & a22\end {bmatrix}$ 
+>*A* = $\begin {bmatrix}a11 & a12\\ a21 & a22\end {bmatrix}_{2X2}$ 
 >
 >É uma matriz de ***ordem 2***, e assim sucessivamente.
 >
@@ -63,3 +63,6 @@ Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos diz
 > $a_{21} = 3^2$ , $a_{22} = \sqrt{81}$ , $a_{23} = 8$
 > 
 > $a_{31} = 2^{2}$ , $a_{32} = 0$ , $a_{33} = \frac{4}{4}$
+
+
+---
