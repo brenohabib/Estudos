@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz.md",
+                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz.md"
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md"
               }
             }
           }
@@ -224,8 +224,11 @@
   },
   "active": "f2db70de589f5b4c",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Template.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz",
     "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
@@ -234,7 +237,6 @@
     "Imagens/Desenho Matriz.md",
     "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md",
     "Imagens/Desenho Array.md",
-    "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Matérias/Álgebra",
     "Códigos/ArrayMultidimensional.java",
     "Códigos",
@@ -270,8 +272,6 @@
     "imagem_2023-07-11_233134012-PhotoRoom.png-PhotoRoom.png.md",
     "[[Algoritmos]].md",
     "Faculdade Eng. Software/Matérias/Programação",
-    "Faculdade Eng. Software/Matérias",
-    "Sem título.canvas",
-    "Teste.md"
+    "Sem título.canvas"
   ]
 }
