@@ -36,7 +36,7 @@ As matrizes *sempre são representadas entre colchetes, parênteses ou duplas ba
 >\end {Vmatrix}
 >$ *É uma matriz* ***2x3***, por ter, respectivamente, *duas linhas e três colunas*
 
-## Representação
+## Construção
 ---
 Uma matriz é **representada por uma letra maiúscula do nosso alfabeto** e os **elementos é representado pela mesma letra mas minúscula** (*A =* $[a_{ij}]_{mxn}$) e cada posição pode ser relacionado à outra matriz, *possuindo os mesmos valores dos elementos de mesma posição*.
 
