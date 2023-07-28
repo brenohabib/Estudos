@@ -38,7 +38,7 @@ As matrizes *sempre são representadas entre colchetes, parênteses ou duplas ba
 
 ## Representação
 ---
-Uma *matriz é representada por uma letra maiúscula do nosso alfabeto* e os *elementos é representado pela mesma letra mas minúscula* e cada posição pode ser relacionado à outra matriz, possuindo os mesmos valores dos elementos de mesma posição.
+Uma matriz é **representada por uma letra maiúscula do nosso alfabeto** e os **elementos é representado pela mesma letra mas minúscula** e cada posição pode ser relacionado à outra matriz, possuindo os mesmos valores dos elementos de mesma posição.
 
 Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos dizer que ela é **ordem n**, *sendo n representando o número de linhas e colunas*.
 
