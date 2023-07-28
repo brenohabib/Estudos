@@ -73,4 +73,4 @@ Sempre quando formos calcular duas matrizes, *utilizamos os elementos* dentro de
 Para descobrir quais elementos usar na hora de fazer o cálculo, podemos simplesmente *pegar o mesmo índice entre as duas tabelas*.
 
 >[!example] Exemplo
->
+>*A* = $\begin {bmatrix}\sqrt{9} & \frac{1}{3} & 2^2\\ 3^2 & \sqrt{81} & 8\\ 2^{2} & 0 & \frac{4}{4}\end {bmatrix}$ + *B* = $\begin {bmatrix}\sqrt{4} & 3 & 2^2\\ 2^3 & \sqrt{144} & 10\\ 2^{2} & 0 & \frac{4}{4}\end {bmatrix}$ *A+B* = $\begin {bmatrix} 5 &  \end {bmatrix}$
