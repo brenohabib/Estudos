@@ -16,3 +16,4 @@ O **código limpo** é manter o código *fácil de entender* que consequentement
 ## Introdução
 ---
 
+![[Desenho Clean|600]]
