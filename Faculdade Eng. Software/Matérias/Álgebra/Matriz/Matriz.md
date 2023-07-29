@@ -13,6 +13,8 @@ Matrizes é **uma forma matemática de organizar números** em forma de tabela. 
 ![[Desenho Matriz]]
 As matrizes *sempre são representadas entre colchetes, parênteses ou duplas barras*. Os números dentro de uma matriz possui seu **índice** que diz em qual *linha* (*m*) ou *coluna* (*n*) ela está.
 
+Existem vários tipos de matrizes, dentre elas [[triangular superior]], [[triangular inferior]], [[identidade]], [[nula]], [[diagonal]], [[quadrada]], [[linha]], [[coluna]], [[simétrica]] e [[unitária]].
+
 >[!example] Exemplo
 >$
 >\begin {bmatrix}
@@ -64,6 +66,3 @@ Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos diz
 > 
 > $a_{31} = 2^{2}$ , $a_{32} = 0$ , $a_{33} = \frac{4}{4}$
 
-## Tipos
----
-Existem vários tipos de matrizes, dentre elas [[triangular superior]], [[triangular inferior]], [[identidade]], [[nula]], [[diagonal]], [[quadrada]], [[linha]], [[coluna]], [[simétrica]] e [[unitária]].
