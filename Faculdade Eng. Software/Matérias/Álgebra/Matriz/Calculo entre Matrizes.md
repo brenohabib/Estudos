@@ -5,6 +5,8 @@ data: 28/07/2023
 ---
 ## Resumo
 
+
+
 ---
 ## Soma e Subtração
 ---
