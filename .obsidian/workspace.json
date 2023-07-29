@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/triangular superior.md",
-                "mode": "preview",
+                "file": "Faculdade Eng. Software/Explicações/nula.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Explicações/triangular superior.md",
+                    "file": "Faculdade Eng. Software/Explicações/nula.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/triangular superior.md",
+                "file": "Faculdade Eng. Software/Explicações/nula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/triangular superior.md",
+                "file": "Faculdade Eng. Software/Explicações/nula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/triangular superior.md"
+                "file": "Faculdade Eng. Software/Explicações/nula.md"
               }
             }
           }
@@ -223,16 +223,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2db70de589f5b4c",
+  "active": "23b87f6cfa6fb1af",
   "lastOpenFiles": [
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Explicações/triangular superior.md",
-    "Faculdade Eng. Software/Explicações/diagonal.md",
-    "Faculdade Eng. Software/Explicações/simétrica.md",
+    "Faculdade Eng. Software/Explicações/nula.md",
+    "Faculdade Eng. Software/Explicações/identidade.md",
     "Faculdade Eng. Software/Explicações/triangular inferior.md",
+    "diagonal principal.md",
+    "Faculdade Eng. Software/Explicações/diagonal.md",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+    "Faculdade Eng. Software/Explicações/simétrica.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
@@ -248,10 +251,8 @@
     "Faculdade Eng. Software/Explicações/Desenho Numeros.md",
     "Faculdade Eng. Software/Template.md",
     "Imagens/Desenho Clean.md",
-    "Imagens/Desenho Matriz.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software",
     "Faculdade Eng. Software/Matérias/Programação/Arrays",
-    "[.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz",
     "Faculdade Eng. Software/Matérias/Álgebra",
     "Códigos/ArrayMultidimensional.java",
@@ -262,7 +263,6 @@
     "Pasted Image 20230727001521_388.png",
     "Imagens/Receita de Bolo Simplificada.png",
     "Imagens/Linguagens de programação.jpg",
-    "Imagens/Drawing 2023-07-27 00.14.18.excalidraw.md",
     "Imagens/Fluxograma.png",
     "Excalidraw",
     "Faculdade Eng. Software/Explicações/Sem título.canvas",
