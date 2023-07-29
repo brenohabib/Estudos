@@ -18,8 +18,8 @@ Existem vários tipos de matrizes, dentre elas [[triangular superior]], [[triang
 >[!example] Exemplo
 >$
 >\begin {bmatrix}
->0 & 1\\
->1 & 0
+>1 & 0\\
+>0 & 1
 >\end {bmatrix}
 >$ *É uma matriz* ***2x2***, por ter, respectivamente, *duas linhas e duas colunas*
 >

@@ -6,7 +6,7 @@
       {
         "id": "2e76b65793f4dec0",
         "type": "tabs",
-        "dimension": 68.45679012345678,
+        "dimension": 68.46203763789747,
         "children": [
           {
             "id": "f2db70de589f5b4c",
@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-                "mode": "source",
+                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -26,7 +26,7 @@
       {
         "id": "ff6af67066e7e579",
         "type": "split",
-        "dimension": 31.54320987654321,
+        "dimension": 31.53796236210253,
         "children": [
           {
             "id": "ad9191536008c76e",
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                    "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md"
+                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md"
               }
             }
           }
@@ -224,8 +224,8 @@
   },
   "active": "f2db70de589f5b4c",
   "lastOpenFiles": [
-    "Imagens/Desenho Array.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Imagens/Desenho Array.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
