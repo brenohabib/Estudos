@@ -6,14 +6,14 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCode2",
+      "TiCode",
+      "LiCode",
       "TiRotateClockwise2",
       "TiRotateDot",
       "TiMath",
       "LiPaintbrush",
-      "LiImage",
-      "SiCodecademy",
-      "LiFileText",
-      "LiRedo2"
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 8,
     "rules": [],
@@ -45,5 +45,6 @@
   "Faculdade Eng. Software/Explicações/Geração.md": "LiFileText",
   "Faculdade Eng. Software/Explicações/Grau de Abstração.md": "LiFileText",
   "Faculdade Eng. Software/Explicações/Paradigma de Programação.md": "LiFileText",
-  "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md": "LiCode2"
+  "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md": "LiCode2",
+  "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md": "LiCode2"
 }
