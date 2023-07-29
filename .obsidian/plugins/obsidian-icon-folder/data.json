@@ -34,7 +34,6 @@
   "Imagens/Desenho Array.md": "LiPaintbrush",
   "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md": "LiCode2",
   "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md": "LiCode2",
-  "Faculdade Eng. Software/Matérias/Programação/Arrays.md": "LiCode2",
   "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md": "SiCircle",
   "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md": "TiRotateClockwise2",
   "Imagens/Desenho Matriz.md": "LiPaintbrush",
@@ -45,5 +44,6 @@
   "Faculdade Eng. Software/Explicações/Estrutura dos Tipos.md": "LiFileText",
   "Faculdade Eng. Software/Explicações/Geração.md": "LiFileText",
   "Faculdade Eng. Software/Explicações/Grau de Abstração.md": "LiFileText",
-  "Faculdade Eng. Software/Explicações/Paradigma de Programação.md": "LiFileText"
+  "Faculdade Eng. Software/Explicações/Paradigma de Programação.md": "LiFileText",
+  "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md": "LiCode2"
 }

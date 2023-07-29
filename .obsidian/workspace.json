@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                    "file": "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md"
+                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md"
               }
             }
           }
@@ -226,6 +226,11 @@
   "lastOpenFiles": [
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays",
+    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
+    "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Explicações/Estrutura dos Tipos.md",
     "Faculdade Eng. Software/Explicações/Geração.md",
@@ -236,10 +241,6 @@
     "[.md",
     "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz",
-    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
-    "Faculdade Eng. Software/Matérias/Programação/Arrays.md",
-    "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
-    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Imagens/Desenho Matriz.md",
     "Imagens/Desenho Array.md",
     "Faculdade Eng. Software/Matérias/Álgebra",
@@ -270,8 +271,6 @@
     "Faculdade Eng. Software/Blue Topaz",
     "rotina.md",
     "Faculdade Eng. Software/Sem título.canvas",
-    "imagem_2023-07-11_233134012-PhotoRoom.png-PhotoRoom.png.md",
-    "Faculdade Eng. Software/Matérias/Programação",
     "Sem título.canvas"
   ]
 }
