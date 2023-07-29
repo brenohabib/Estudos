@@ -25,12 +25,6 @@
     },
     "iconInTabsEnabled": true
   },
-  "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md": "LiPaintbrush",
-  "Faculdade Eng. Software/Explicações/Desenho Numeros.md": "LiPaintbrush",
-  "Faculdade Eng. Software/Explicações/Estrutura dos Tipos.md": "LiFileText",
-  "Faculdade Eng. Software/Explicações/Geração.md": "LiFileText",
-  "Faculdade Eng. Software/Explicações/Grau de Abstração.md": "LiFileText",
-  "Faculdade Eng. Software/Explicações/Paradigma de Programação.md": "LiFileText",
   "Faculdade Eng. Software/Template.md": "SiCodecademy",
   "Imagens/Cubo de Lógica.png": "LiImage",
   "Imagens/Fluxograma.png": "LiImage",
@@ -45,5 +39,11 @@
   "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md": "TiRotateClockwise2",
   "Imagens/Desenho Matriz.md": "LiPaintbrush",
   "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md": "TiMath",
-  "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md": "TiMath"
+  "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md": "TiMath",
+  "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md": "LiPaintbrush",
+  "Faculdade Eng. Software/Explicações/Desenho Numeros.md": "LiPaintbrush",
+  "Faculdade Eng. Software/Explicações/Estrutura dos Tipos.md": "LiFileText",
+  "Faculdade Eng. Software/Explicações/Geração.md": "LiFileText",
+  "Faculdade Eng. Software/Explicações/Grau de Abstração.md": "LiFileText",
+  "Faculdade Eng. Software/Explicações/Paradigma de Programação.md": "LiFileText"
 }

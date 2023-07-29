@@ -66,4 +66,4 @@ Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos diz
 
 ## Tipos
 ---
-Existem vários tipos de matrizes, dentre elas 
+Existem vários tipos de matrizes, dentre elas [[triangular superior]], [[triangular inferior]], [[identidade]], [[nula]], [[diagonal]], [[quadrada]], [[linha]], [[coluna]], [[simétrica]] e [[únitária]].
