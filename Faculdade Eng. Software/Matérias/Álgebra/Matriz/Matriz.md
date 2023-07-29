@@ -1,5 +1,5 @@
 ---
-tags: fundamentos, Álgebra
+tags: fundamentos, álgebra
 referências: https://mundoeducacao.uol.com.br/matematica/matriz-1.htm, https://www.youtube.com/watch?v=kDr1CdPuVXo
 data: 27/07/2023
 ---
