@@ -32,27 +32,19 @@ Existem *quatro pontos* fundamentais do Clean Code:
  * ***DIE*** = *Duplication Is Evil* ( Duplicação é mau )
  * ***KISS*** = *Keep It Simple, Stupid* ( Mantenha-o simples, estúpido )
 
->[!help] **SOC**
->**Separe seus códigos grandes em códigos menores**. Divida os *problemas maiores em menores* desde que *não te atrapalhe e faça sentido*.
 
->[!help] **DRY**
->**Não repita código, nunca**. Se você ver um *problema similar* a um que você já resolveu, *não repita o mesmo código, reaproveite*.
+### SOC
+**Separe códigos grandes em códigos menores**. Divida os *problemas maiores em menores* desde que *não te atrapalhe e faça sentido*.
 
->[!help] **DIE**
->**Não repita funções onde não se deve**. Mantenha as funções *fazendo uma única coisa* e *não repita essa mesma funcionalidade posteriormente*.
+---
+### DRY
+**Não repita código, nunca**. Se você ver um *problema similar* a um que você já resolveu, *não repita o mesmo código, reaproveite*.
 
->[!help] **KISS**
->**Evite complexidade, mantenha simples se possível**. Código complexo sem necessidade é um *desperdício de esforço e atrapalha a todos*.
->>[!caution] Cuidado
->>Código simples **não significa ser mais fácil**, apenas *fazer a mesma coisa com menos*. Foque nesses dois conceitos:
->>- ***You Aren’t Going Need It*** (*Você não vai precisar disso*)
->>- ***Worse is better*** (*Quanto pior, melhor*)
->>
->>
->>>[!question] **You Aren’t Going Need It**
->>>**Não complique, faça o necessário**. Não fique se esforçando em *algo que não irá te levar a lugar nenhum*.
->>
->>>[!question] **Worse is better**
->>>**Ponha limite a si mesmo, foque na usabilidade**. Preze pela *usabilidade e praticidade* do código, *faça mais com menos*.
->>>
+---
+### DIE
+**Utilize o que já foi feito**. Mantenha as funções *fazendo uma única coisa* e *não repita essa mesma funcionalidade posteriormente*.
+
+---
+### KISS
+**Evite complexidade, mantenha simples se possível**. Código complexo sem necessidade é um *desperdício de esforço e atrapalha a todos*. Há alguns cuidados a ser tomados: [[Conceitos KISS]]
 

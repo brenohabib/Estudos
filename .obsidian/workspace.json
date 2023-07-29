@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
+                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
+                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
+                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/Conceitos KISS.md"
+                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md"
               }
             }
           }
@@ -233,20 +233,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23b87f6cfa6fb1af",
+  "active": "f6a40c1cf58be316",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md",
     "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
+    "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
     "Faculdade Eng. Software/Explicações/Geração.md",
     "Faculdade Eng. Software/Explicações/Estrutura dos Tipos.md",
-    "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md",
     "Faculdade Eng. Software/Explicações/Desenho Numeros.md",
     "Faculdade Eng. Software/Template.md",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
