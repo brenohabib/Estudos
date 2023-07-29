@@ -12,15 +12,14 @@ $
 \begin {bmatrix}
 0 & 0 & 0\\
 0 &  0 & 0\\
-0 & 0 &0
 \end {bmatrix}
-$  *nula 3x3*
+$  *nula 2x3*
 >
 $
 \begin {bmatrix}
-0 & 0 & 0 & 0\\
-0 &  0 & 0 & 0\\
-0 & 0 & 0 & 0\\
-0 & 0 & 0 & 0
+0 & 0 \\
+0 &  0 \\
+0 & 0 \\
+0 & 0 
 \end {bmatrix}
-$  *nula 4x4*
+$  *nula 4x2*

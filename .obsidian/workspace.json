@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
-                "mode": "source",
+                "file": "unitária.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                    "file": "unitária.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -82,8 +82,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-                    "mode": "preview",
+                    "file": "Faculdade Eng. Software/Explicações/quadrada.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "unitária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "unitária.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md"
+                "file": "unitária.md"
               }
             }
           }
@@ -223,19 +223,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2db70de589f5b4c",
+  "active": "23b87f6cfa6fb1af",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Explicações/nula.md",
+    "Faculdade Eng. Software/Explicações/quadrada.md",
+    "Faculdade Eng. Software/Explicações/linha.md",
+    "Faculdade Eng. Software/Explicações/coluna.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Explicações/simétrica.md",
+    "Faculdade Eng. Software/Explicações/nula.md",
+    "unitária.md",
     "Faculdade Eng. Software/Explicações/triangular superior.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Calculo.md",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+    "Faculdade Eng. Software/Explicações/diagonal.md",
     "Faculdade Eng. Software/Explicações/identidade.md",
     "Faculdade Eng. Software/Explicações/triangular inferior.md",
     "diagonal principal.md",
-    "Faculdade Eng. Software/Explicações/diagonal.md",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
-    "Faculdade Eng. Software/Explicações/simétrica.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
@@ -246,11 +251,6 @@
     "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md",
     "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
     "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
-    "Faculdade Eng. Software/Explicações/Geração.md",
-    "Faculdade Eng. Software/Explicações/Estrutura dos Tipos.md",
-    "Faculdade Eng. Software/Explicações/Desenho Numeros.md",
-    "Faculdade Eng. Software/Template.md",
-    "Imagens/Desenho Clean.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software",
     "Faculdade Eng. Software/Matérias/Programação/Arrays",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz",

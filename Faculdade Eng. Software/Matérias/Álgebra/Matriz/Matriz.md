@@ -5,7 +5,7 @@ data: 27/07/2023
 ---
 ## Resumo
 
-Matrizes é **uma forma matemática de organizar números** em forma de tabela. Ela sempre é nomeada com, respectivamente, *um número m de linhas e n de colunas* (*m x n*). Podemos usar elas para [calcular matrizes][(Calculo entre Matrizes)].
+Matrizes é **uma forma matemática de organizar números** em forma de tabela. Ela sempre é nomeada com, respectivamente, *um número m de linhas e n de colunas* (*m x n*). Podemos usar elas para [calcular matrizes](Calculo%20entre%20Matrizes.md).
 
 ---
 ## Introdução
