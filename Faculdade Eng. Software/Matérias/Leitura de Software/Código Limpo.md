@@ -32,19 +32,9 @@ Existem *quatro pontos* fundamentais do Clean Code:
  * ***DIE*** = *Duplication Is Evil* ( Duplicação é mau )
  * ***KISS*** = *Keep It Simple, Stupid* ( Mantenha-o simples, estúpido )
 
-
-### SOC
-**Separe códigos grandes em códigos menores**. Divida os *problemas maiores em menores* desde que *não te atrapalhe e faça sentido*.
-
----
-### DRY
-**Não repita código, nunca**. Se você ver um *problema similar* a um que você já resolveu, *não repita o mesmo código, reaproveite*.
-
----
-### DIE
-**Utilize o que já foi feito**. Mantenha as funções *fazendo uma única coisa* e *não repita essa mesma funcionalidade posteriormente*.
-
----
-### KISS
-**Evite complexidade, mantenha simples se possível**. Código complexo sem necessidade é um *desperdício de esforço e atrapalha a todos*. Há alguns cuidados a ser tomados: [[Conceitos KISS]]
-
+| Conceito    | Explicação                                                                                                                                                                                    | 
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ***SOC***   | **Não repita código, nunca**. Se você ver um *problema similar* a um que você já resolveu, *não repita o mesmo código, reaproveite*.                                                          |
+| ***DRY***  | **Não repita código, nunca**. Se você ver um *problema similar* a um que você já resolveu, *não repita o mesmo código, reaproveite*.                                                          |
+| ***DIE***  | **Utilize o que já foi feito**. Mantenha as funções *fazendo uma única coisa* e *não repita essa mesma funcionalidade posteriormente*.                                                        |
+| ***KISS*** | **Evite complexidade, mantenha simples se possível**. Código complexo sem necessidade é um *desperdício de esforço e atrapalha a todos*. Há alguns cuidados a ser tomados: [[Conceitos KISS]] |

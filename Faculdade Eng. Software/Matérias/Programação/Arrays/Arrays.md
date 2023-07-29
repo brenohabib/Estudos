@@ -21,16 +21,15 @@ Assim como os [[Conjuntos]], os arrays **possuem elementos** e são **acessados 
 >[!hint] Dica
 >Por o *índice começar com 0*, tome cuidado ao pegar o **PRIMEIRO** elemento do array.
 >
->>[!example] Exemplo
->>
->> |índice|Posição|
->> |------|--------|
->> |    0    |1ª Posição|
->> |     1    |2ª Posição|
->> |     2   |3ª Posição|
->> |     3   |4ª Posição|
->> ---
->>
+>
+> |índice|Posição|
+> |------|--------|
+> |    0    |1ª Posição|
+> |     1    |2ª Posição|
+> |     2   |3ª Posição|
+> |     3   |4ª Posição|
+> ---
+
 
 >[!caution] Cuidado
 >[[Vetores]] e Arrays **não são a mesma coisa**, os dois *possuem suas características* e *finalidades*.
