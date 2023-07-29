@@ -12,16 +12,25 @@
             "id": "f2db70de589f5b4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
-                "mode": "source",
-                "source": false
+                "file": "Imagens/Desenho Array.md"
               }
             },
             "group": "275e9263dedea083"
+          },
+          {
+            "id": "f6a40c1cf58be316",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Imagens/Drawing 2023-07-29 15.02.34.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ff6af67066e7e579",
@@ -39,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                    "file": "Imagens/Desenho Array.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -168,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "Imagens/Drawing 2023-07-29 15.02.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "Imagens/Drawing 2023-07-29 15.02.34.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md"
+                "file": "Imagens/Drawing 2023-07-29 15.02.34.excalidraw.md"
               }
             }
           }
@@ -222,11 +231,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2db70de589f5b4c",
+  "active": "f6a40c1cf58be316",
   "lastOpenFiles": [
+    "Imagens/Desenho Array.md",
+    "Imagens/Desenho Matriz.md",
+    "Imagens/Drawing 2023-07-29 15.02.34.excalidraw.md",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
@@ -244,8 +256,6 @@
     "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
     "[.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz",
-    "Imagens/Desenho Matriz.md",
-    "Imagens/Desenho Array.md",
     "Faculdade Eng. Software/Matérias/Álgebra",
     "Códigos/ArrayMultidimensional.java",
     "Códigos",
@@ -270,7 +280,6 @@
     "União.png",
     "imagem_2023-07-24_232955449-PhotoRoom.png-PhotoRoom.png",
     "Faculdade Eng. Software/Explicações",
-    "Linguagens.md",
     "Faculdade Eng. Software/Sem título.canvas",
     "Sem título.canvas"
   ]
