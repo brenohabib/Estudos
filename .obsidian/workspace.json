@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/nula.md",
+                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Explicações/nula.md",
+                    "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/nula.md",
+                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/nula.md",
+                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/nula.md"
+                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md"
               }
             }
           }
@@ -223,11 +223,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "23b87f6cfa6fb1af",
+  "active": "f2db70de589f5b4c",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Explicações/nula.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Explicações/triangular superior.md",
-    "Faculdade Eng. Software/Explicações/nula.md",
     "Faculdade Eng. Software/Explicações/identidade.md",
     "Faculdade Eng. Software/Explicações/triangular inferior.md",
     "diagonal principal.md",
