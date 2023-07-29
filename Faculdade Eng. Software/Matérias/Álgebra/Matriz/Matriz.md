@@ -66,3 +66,4 @@ Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos diz
 
 ## Tipos
 ---
+Existem vários tipos de matrizes, dentre elas 
