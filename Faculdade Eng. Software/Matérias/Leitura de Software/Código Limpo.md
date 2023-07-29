@@ -23,3 +23,6 @@ Com certeza alguém já se deparou com um código que era *difícil de se entend
 Basicamente, o **Clean Code** visa *melhorar esses códigos*, deixando eles *fácil de se entender*, que causa muitos *benefícios futuros*, como por exemplo, a *manutenibilidade do código*.
 
 
+## Aplicação
+---
+
