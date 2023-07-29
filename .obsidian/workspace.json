@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md"
+                "file": "Faculdade Eng. Software/Explicações/Conceitos KISS.md"
               }
             }
           }
@@ -233,11 +233,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6a40c1cf58be316",
+  "active": "23b87f6cfa6fb1af",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
+    "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
+    "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
+    "Faculdade Eng. Software/Explicações/Geração.md",
+    "Faculdade Eng. Software/Explicações/Estrutura dos Tipos.md",
+    "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md",
+    "Faculdade Eng. Software/Explicações/Desenho Numeros.md",
+    "Faculdade Eng. Software/Template.md",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
@@ -247,15 +255,8 @@
     "Imagens/Desenho Clean.md",
     "Imagens/Desenho Matriz.md",
     "Imagens/Desenho Array.md",
-    "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software",
     "Faculdade Eng. Software/Matérias/Programação/Arrays",
-    "Faculdade Eng. Software/Explicações/Estrutura dos Tipos.md",
-    "Faculdade Eng. Software/Explicações/Geração.md",
-    "Faculdade Eng. Software/Explicações/Desenho Numeros.md",
-    "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md",
-    "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
-    "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
     "[.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz",
     "Faculdade Eng. Software/Matérias/Álgebra",
@@ -275,7 +276,6 @@
     "Faculdade Eng. Software/Explicações/Desenho Conjuntos (conflict 2023-07-25-13-46-23).md",
     "Sem título.md",
     "Faculdade Eng. Software/Explicações/Sem título.canvas",
-    "Excalidraw/Drawing 2023-07-24 23.36.04.excalidraw.md",
     "Pasted image 20230724233446.png",
     "Pasted image 20230724233159.png",
     "imagem_2023-07-24_233205438-PhotoRoom.png-PhotoRoom.png",
