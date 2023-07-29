@@ -20,8 +20,21 @@
               }
             },
             "group": "275e9263dedea083"
+          },
+          {
+            "id": "72c170664afd35d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ff6af67066e7e579",
@@ -168,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md"
+                "file": "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md"
               }
             }
           }
@@ -222,12 +235,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2db70de589f5b4c",
+  "active": "72c170664afd35d3",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-    "Imagens/Desenho Array.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+    "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Imagens/Desenho Array.md",
     "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md",
@@ -237,11 +255,6 @@
     "Faculdade Eng. Software/Explicações/Estrutura dos Tipos.md",
     "Faculdade Eng. Software/Explicações/Desenho Numeros.md",
     "Faculdade Eng. Software/Template.md",
-    "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
-    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
-    "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
-    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
-    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
     "Imagens/Desenho Clean.md",
     "Imagens/Desenho Matriz.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software",

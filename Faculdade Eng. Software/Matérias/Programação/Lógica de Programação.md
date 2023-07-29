@@ -1,5 +1,5 @@
 ---
-tags: fundamentos, programação
+tags: fundamentos, programação, lógica
 referências: https://www.youtube.com/watch?v=JaTf3dhx464, https://www.alura.com.br/artigos/algoritmos-e-logica-de-programacao
 data: 11/07/2023
 ---
