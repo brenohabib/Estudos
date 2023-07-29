@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "triangular superior.md",
-                "mode": "source",
+                "file": "Faculdade Eng. Software/Explicações/triangular superior.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "triangular superior.md",
+                    "file": "Faculdade Eng. Software/Explicações/triangular superior.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -82,7 +82,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
+                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "triangular superior.md",
+                "file": "Faculdade Eng. Software/Explicações/triangular superior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "triangular superior.md",
+                "file": "Faculdade Eng. Software/Explicações/triangular superior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "triangular superior.md"
+                "file": "Faculdade Eng. Software/Explicações/triangular superior.md"
               }
             }
           }
@@ -226,11 +226,14 @@
   "active": "f2db70de589f5b4c",
   "lastOpenFiles": [
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-    "triangular superior.md",
+    "Faculdade Eng. Software/Explicações/triangular superior.md",
+    "Faculdade Eng. Software/Explicações/diagonal.md",
+    "Faculdade Eng. Software/Explicações/simétrica.md",
+    "Faculdade Eng. Software/Explicações/triangular inferior.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
-    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
@@ -261,10 +264,7 @@
     "Imagens/Linguagens de programação.jpg",
     "Imagens/Drawing 2023-07-27 00.14.18.excalidraw.md",
     "Imagens/Fluxograma.png",
-    "Faculdade Eng. Software/Fundamentos/Conjuntos (conflict 2023-07-26-21-41-46).md",
-    "Excalidraw/Drawing 2023-07-26 13.03.52.excalidraw.md",
     "Excalidraw",
-    "Faculdade Eng. Software/Explicações/Desenho Conjuntos (conflict 2023-07-25-13-46-23).md",
     "Faculdade Eng. Software/Explicações/Sem título.canvas",
     "Pasted image 20230724233446.png",
     "Pasted image 20230724233159.png",
