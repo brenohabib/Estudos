@@ -64,5 +64,5 @@ Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos diz
 > 
 > $a_{31} = 2^{2}$ , $a_{32} = 0$ , $a_{33} = \frac{4}{4}$
 
-
-
+## Tipos
+---
