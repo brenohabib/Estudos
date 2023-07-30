@@ -1,5 +1,5 @@
 ---
-tags: fundamentos, programação
+tags: fundamentos, programação, arrays
 referências: https://kenzie.com.br/blog/o-que-array/, https://blog.betrybe.com/linguagem-de-programacao/o-que-e-array/
 data: 27/07/2023
 ---
