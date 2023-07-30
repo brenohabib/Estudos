@@ -1,5 +1,5 @@
 ---
-tags: fundamentos, código limpo
+tags: fundamentos, código_limpo
 referências: https://www.youtube.com/watch?v=O5aWwBXPoh4, https://www.hostgator.com.br/blog/clean-code-o-que-e/, https://balta.io/artigos/clean-code
 data: 29/07/2023
 ---

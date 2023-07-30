@@ -1,5 +1,5 @@
 ---
-tags: explicação, código limpo
+tags: explicação, código_limpo
 data: 29/072023
 ---
 

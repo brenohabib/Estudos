@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                "file": "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                    "file": "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                "file": "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                "file": "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md"
+                "file": "Faculdade Eng. Software/Explicações/Grau de Abstração.md"
               }
             }
           }
@@ -219,37 +219,38 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f2db70de589f5b4c",
   "lastOpenFiles": [
-    "Imagens/Fluxograma.png",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Explicações/Geração.md",
+    "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
+    "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md",
     "Faculdade Eng. Software/Explicações/coluna.md",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+    "Imagens/Fluxograma.png",
     "Faculdade Eng. Software/Explicações/linha.md",
     "Faculdade Eng. Software/Explicações/quadrada.md",
     "Faculdade Eng. Software/Explicações/unitária.md",
     "Faculdade Eng. Software/Explicações/simétrica.md",
     "Faculdade Eng. Software/Explicações/nula.md",
     "Faculdade Eng. Software/Explicações/triangular superior.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Calculo.md",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Explicações/diagonal.md",
     "Faculdade Eng. Software/Explicações/identidade.md",
     "Faculdade Eng. Software/Explicações/triangular inferior.md",
     "diagonal principal.md",
-    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
-    "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
     "Imagens/Desenho Array.md",
-    "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
-    "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md",
     "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software",
     "Faculdade Eng. Software/Matérias/Programação/Arrays",
