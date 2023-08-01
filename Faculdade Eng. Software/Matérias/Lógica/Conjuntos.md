@@ -83,23 +83,19 @@ Representado pelo símbolo *⊂* e *⊄* sendo, respectivamente, *está contido 
 >
 >**A** = {*1, 2, 3, 4*}
 >
->Então, conjunto de partes de A:
+>Então, *conjunto de partes de A*:
 >**PA** = {*{}, {1}, {2}, {3}, {4}, {1, 2}, {1, 3}, {1, 4}, {2, 3}, {2, 4}, {3, 4}, {1, 2, 3}, {2, 3, 4}, {1, 2, 4}, {1, 3, 4}, {1, 2, 3, 4}*} 
 
 ---
 ### Complementar
 Complemento é os *elementos que faltam em um conjunto*. Pode ser representado como, por exemplo, **∁AB** que seria o *complemento de A em relação ao conjunto B*. 
-
 >[!example] Exemplo
->**A** = {*1, 2, 3, 4, 5*}
+>**A** = {*1, 2, 3*}
 >
->**B** = {*1, 2, 3*}
+>**B** = {*1, 2, 3, 4, 5*}
 >
->**∁BA** = {*4, 5*} ***(Que seria o mesmo que A - B, os elementos de A retirando os elementos de B)***
+>**∁$^a_b$** = {*4, 5*} ***(Que seria o mesmo que B - A, os elementos de B retirando os elementos de A)***
 >
->>[!hint] Dica!
->>
->>Quando se é escrito, ficam letras menores representando os conjuntos, o de *cima é quem vai ser relacionado ao conjunto de baixo*.
 
 ---
 ### Intersecção

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -82,7 +82,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Faculdade Eng. Software/Explicações/quadrada.md",
+                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                     "mode": "source",
                     "source": false
                   }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md"
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md"
               }
             }
           }
@@ -225,14 +225,15 @@
   },
   "active": "f2db70de589f5b4c",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
-    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
-    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Explicações/quadrada.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
@@ -243,7 +244,6 @@
     "Faculdade Eng. Software/Explicações/coluna.md",
     "Imagens/Fluxograma.png",
     "Faculdade Eng. Software/Explicações/linha.md",
-    "Faculdade Eng. Software/Explicações/quadrada.md",
     "Faculdade Eng. Software/Explicações/unitária.md",
     "Faculdade Eng. Software/Explicações/simétrica.md",
     "Faculdade Eng. Software/Explicações/nula.md",
