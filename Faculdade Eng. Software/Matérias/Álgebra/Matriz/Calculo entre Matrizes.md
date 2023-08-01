@@ -3,11 +3,7 @@ tags: matriz, álgebra
 referências: 
 data: 28/07/2023
 ---
-## Resumo
 
-
-
----
 ## Soma e Subtração
 ---
 Sempre quando formos calcular duas matrizes, *utilizamos os elementos* dentro dela para *obter uma resposta que ,normalmente, também é outra matriz*.
