@@ -20,8 +20,19 @@
               }
             },
             "group": "275e9263dedea083"
+          },
+          {
+            "id": "72c801bc46d92b56",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ff6af67066e7e579",
@@ -83,7 +94,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -223,7 +234,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2db70de589f5b4c",
+  "active": "b544263217ea7a68",
   "lastOpenFiles": [
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
