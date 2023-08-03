@@ -12,3 +12,4 @@ Relações binárias são **relações entre dois [[conjuntos]]** que *seguem um
 >![[Exemplo Relação|600]]
 >**AxB** = *(a,b), a $\in$ A* e *b $\in$ B*, Lê-se ***A cartesiano em B***.
 >
+>Pode ser escrito como **AxB** = *{(1,2),(1,4),(1,6),(3,2),(3,4),(3,6),(5,2),(5,4),(5,6),(7,2),(7,4),(7,6)}*
