@@ -20,8 +20,21 @@
               }
             },
             "group": "275e9263dedea083"
+          },
+          {
+            "id": "00c824f3300cc03a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ff6af67066e7e579",
@@ -223,16 +236,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2db70de589f5b4c",
+  "active": "00c824f3300cc03a",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/Lógica/Relações.md",
+    "Imagens/Desenho relação binária.md",
+    "Imagens/Desenho Array.md",
+    "Imagens/Desenho Clean.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Explicações/identidade.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Relações.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Explicações/Relação Simétrica.md",
     "Relação_Simétrica.md",
     "Faculdade Eng. Software/Explicações/simétrica.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
@@ -242,16 +259,12 @@
     "Faculdade Eng. Software/Explicações/quadrada.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
     "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
-    "Imagens/Desenho Array.md",
     "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
     "Faculdade Eng. Software/Explicações/Geração.md",
     "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md",
     "Faculdade Eng. Software/Explicações/coluna.md",
     "Imagens/Fluxograma.png",
     "Faculdade Eng. Software/Explicações/linha.md",
-    "Faculdade Eng. Software/Explicações/unitária.md",
-    "Faculdade Eng. Software/Explicações/nula.md",
-    "Faculdade Eng. Software/Explicações/triangular superior.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software",
     "Faculdade Eng. Software/Matérias/Programação/Arrays",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz",

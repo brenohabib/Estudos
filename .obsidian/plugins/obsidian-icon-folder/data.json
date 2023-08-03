@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPaintbrush",
       "SiCircle",
       "LiNewspaper",
       "LiCake",
@@ -64,5 +65,9 @@
   "Faculdade Eng. Software/Explicações/unitária.md": "LiNewspaper",
   "Faculdade Eng. Software/Matérias/Lógica/Relações.md": "SiCircle",
   "Faculdade Eng. Software/Explicações/Relação Simétrica.md": "LiNewspaper",
-  "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md": "SiCircle"
+  "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md": "SiCircle",
+  "Imagens/Desenho relação binária.md": {
+    "iconName": "LiPaintbrush",
+    "inheritanceIcon": "LiPaintbrush"
+  }
 }

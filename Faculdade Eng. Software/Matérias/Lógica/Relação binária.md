@@ -8,3 +8,5 @@ data: 02/08/2023
 ---
 ## Introdução
 ---
+![[Desenho relação binária|600]]
+Relações binárias são **relações entre dois conjuntos** que *seguem uma determinada propriedade*.
