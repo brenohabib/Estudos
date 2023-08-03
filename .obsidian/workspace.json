@@ -37,9 +37,11 @@
             "id": "977b53d302a8d044",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/Exemplo Relação.md"
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -191,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/Exemplo Relação.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/Exemplo Relação.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/Exemplo Relação.md"
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md"
               }
             }
           }
@@ -248,9 +250,9 @@
   },
   "active": "977b53d302a8d044",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Explicações/Exemplo Relação.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
-    "Faculdade Eng. Software/Explicações/Exemplo Relação.md",
     "Imagens/Desenho relação binária.md",
     "Imagens/Desenho Array.md",
     "Imagens/Desenho Clean.md",
