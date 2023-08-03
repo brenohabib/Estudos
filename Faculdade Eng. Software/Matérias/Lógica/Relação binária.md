@@ -9,4 +9,5 @@ data: 02/08/2023
 Relações binárias são **relações entre dois [[conjuntos]]** que *seguem uma determinada propriedade*, as relações são feitas em *relação aos elementos dos conjuntos, em pares*.
 
 >[!example] Exemplo
->
+>![[Exemplo Relação|600]]
+>**AxB** = *(a,b), a $\in$ A* e *b $\in$ B*

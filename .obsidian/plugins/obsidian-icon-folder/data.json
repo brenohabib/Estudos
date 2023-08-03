@@ -63,11 +63,12 @@
   "Faculdade Eng. Software/Explicações/linha.md": "LiNewspaper",
   "Faculdade Eng. Software/Explicações/quadrada.md": "LiNewspaper",
   "Faculdade Eng. Software/Explicações/unitária.md": "LiNewspaper",
-  "Faculdade Eng. Software/Matérias/Lógica/Relações.md": "SiCircle",
   "Faculdade Eng. Software/Explicações/Relação Simétrica.md": "LiNewspaper",
   "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md": "SiCircle",
   "Imagens/Desenho relação binária.md": {
     "iconName": "LiPaintbrush",
     "inheritanceIcon": "LiPaintbrush"
-  }
+  },
+  "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md": "SiCircle",
+  "Faculdade Eng. Software/Explicações/Exemplo Relação.md": "LiNewspaper"
 }
