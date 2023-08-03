@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiCircle",
       "LiNewspaper",
       "LiCake",
       "LiClipboardCheck",
@@ -60,5 +61,8 @@
   "Faculdade Eng. Software/Explicações/coluna.md": "LiNewspaper",
   "Faculdade Eng. Software/Explicações/linha.md": "LiNewspaper",
   "Faculdade Eng. Software/Explicações/quadrada.md": "LiNewspaper",
-  "Faculdade Eng. Software/Explicações/unitária.md": "LiNewspaper"
+  "Faculdade Eng. Software/Explicações/unitária.md": "LiNewspaper",
+  "Faculdade Eng. Software/Matérias/Lógica/Relações.md": "SiCircle",
+  "Faculdade Eng. Software/Explicações/Relação Simétrica.md": "LiNewspaper",
+  "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md": "SiCircle"
 }

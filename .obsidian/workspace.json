@@ -14,25 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "275e9263dedea083"
-          },
-          {
-            "id": "72c801bc46d92b56",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ff6af67066e7e579",
@@ -50,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+                    "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -179,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md"
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md"
               }
             }
           }
@@ -234,10 +223,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b544263217ea7a68",
+  "active": "f2db70de589f5b4c",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Relações.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+    "Faculdade Eng. Software/Template.md",
+    "Faculdade Eng. Software/Explicações/Relação Simétrica.md",
+    "Relação_Simétrica.md",
+    "Faculdade Eng. Software/Explicações/simétrica.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
@@ -245,8 +241,6 @@
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Explicações/quadrada.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
-    "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
     "Imagens/Desenho Array.md",
     "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
@@ -256,13 +250,8 @@
     "Imagens/Fluxograma.png",
     "Faculdade Eng. Software/Explicações/linha.md",
     "Faculdade Eng. Software/Explicações/unitária.md",
-    "Faculdade Eng. Software/Explicações/simétrica.md",
     "Faculdade Eng. Software/Explicações/nula.md",
     "Faculdade Eng. Software/Explicações/triangular superior.md",
-    "Calculo.md",
-    "Faculdade Eng. Software/Explicações/diagonal.md",
-    "Faculdade Eng. Software/Explicações/identidade.md",
-    "Faculdade Eng. Software/Explicações/triangular inferior.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software",
     "Faculdade Eng. Software/Matérias/Programação/Arrays",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz",
