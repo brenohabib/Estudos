@@ -20,3 +20,15 @@ Relações binárias são **relações entre dois [[conjuntos]]** que *seguem um
 
 Normalmente *representado como um par* (**a, b**) e somente (**a, b**) $\neq$ (**b, a**), se **a $\neq$ b**, ou seja, **a** *somente vai ser igual a* **b** se *ambos forem o mesmo valor*, senão, sempre serão diferentes.
 
+## Plano Cartesiano
+---
+O plano cartesiano *são duas retas que se cruzam*, sendo representadas por um valor **x** e **y**.
+
+Podemos representar os pares ordenados no plano cartesiano, sendo *apenas pontos se for um número finito de pares*, *uma reta ou curva se for infinito* e *uma área se forem intervalos reais*.
+
+>[!example] Exemplo
+>Plano cartesiano com pares ordenados (*1,3*), (*3,2*), (*5,5*)
+>
+>![[Desenho cartesiano]]
+>
+>

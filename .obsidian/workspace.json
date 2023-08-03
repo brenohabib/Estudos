@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9031bacd14418cbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "ff6af67066e7e579",
@@ -248,16 +260,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "977b53d302a8d044",
+  "active": "9031bacd14418cbd",
   "lastOpenFiles": [
     "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Explicações/Desenho cartesiano.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
+    "Desenho cartesiano.md",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
     "Faculdade Eng. Software/Explicações/Exemplo Relação.md",
     "Imagens/Desenho relação binária.md",
     "Imagens/Desenho Array.md",
@@ -274,8 +288,6 @@
     "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
     "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
     "Faculdade Eng. Software/Explicações/Geração.md",
-    "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md",
-    "Faculdade Eng. Software/Explicações/coluna.md",
     "Imagens/Fluxograma.png",
     "Faculdade Eng. Software/Matérias/Leitura de Software",
     "Faculdade Eng. Software/Matérias/Programação/Arrays",
