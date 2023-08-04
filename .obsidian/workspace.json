@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "12/07",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md"
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md"
               }
             }
           }
@@ -263,12 +262,13 @@
   },
   "active": "9031bacd14418cbd",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Explicações/Relação Simétrica.md",
     "Faculdade Eng. Software/Explicações/Desenho cartesiano.md",
     "Desenho cartesiano.md",
@@ -283,7 +283,6 @@
     "Relação_Simétrica.md",
     "Faculdade Eng. Software/Explicações/simétrica.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
-    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Explicações/quadrada.md",
     "Faculdade Eng. Software/Explicações/Conceitos KISS.md",

@@ -40,3 +40,13 @@ Para descobrir quais elementos usar na hora de fazer o cálculo, podemos simples
 
 ## Multiplicação
 ---
+### Multiplicação de um número e uma matriz
+Quando um **elemento *x* multiplica uma matriz A$_{mXn}$**, a multiplicação será feita *elemento por elemento dentro da matriz normalmente*.
+
+>[!example] Exemplo
+>*A* = $\begin {bmatrix}
+>1 & 2 & 3\\
+>4 & 5 & 6
+>\end {bmatrix}$ * 6 $=$ $\begin {bmatrix} 6 & 12 & 18\\ 24 & 30 & 36 \end {bmatrix}$
+
+### Multiplicação entre duas matrizes
