@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/ATT.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/ATT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/ATT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md"
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/ATT.md"
               }
             }
           }
@@ -262,11 +262,12 @@
   },
   "active": "9031bacd14418cbd",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/ATT.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Explicações/Relação Simétrica.md",
@@ -287,7 +288,6 @@
     "Faculdade Eng. Software/Explicações/quadrada.md",
     "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
     "Faculdade Eng. Software/Explicações/Grau de Abstração.md",
-    "Faculdade Eng. Software/Explicações/Geração.md",
     "Imagens/Fluxograma.png",
     "Faculdade Eng. Software/Matérias/Leitura de Software",
     "Faculdade Eng. Software/Matérias/Programação/Arrays",
