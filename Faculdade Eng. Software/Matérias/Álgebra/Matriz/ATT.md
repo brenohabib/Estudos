@@ -1,6 +1,7 @@
 
 $$\begin {bmatrix} 
-\frac {2}{3} & \frac {2}{3} & \frac {5}{3}\\
-1 & 1 & 1
+-\frac {5}{2} & -\frac {1}{2}\\
+\frac {3}{1} & -4\\
+-6 & -\frac{7}{2}
 \end {bmatrix}$$
 
