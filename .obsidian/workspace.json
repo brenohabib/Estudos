@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/ATT.md",
+                "file": "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/ATT.md",
+                "file": "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/ATT.md",
+                "file": "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/ATT.md"
+                "file": "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md"
               }
             }
           }
@@ -262,11 +262,14 @@
   },
   "active": "9031bacd14418cbd",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Template.md",
+    "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Matérias/Sistema Operacional",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/ATT.md",
     "Pasted image 20230804201348.png",
     "Pasted image 20230804201339.png",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/ATT.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
@@ -282,7 +285,6 @@
     "Imagens/Desenho Array.md",
     "Imagens/Desenho Clean.md",
     "Faculdade Eng. Software/Explicações/identidade.md",
-    "Faculdade Eng. Software/Template.md",
     "Relação_Simétrica.md",
     "Faculdade Eng. Software/Explicações/simétrica.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
@@ -307,8 +309,6 @@
     "Pasted image 20230724233446.png",
     "Pasted image 20230724233159.png",
     "imagem_2023-07-24_233205438-PhotoRoom.png-PhotoRoom.png",
-    "União.png",
-    "Faculdade Eng. Software/Explicações",
     "Faculdade Eng. Software/Sem título.canvas",
     "Sem título.canvas"
   ]
