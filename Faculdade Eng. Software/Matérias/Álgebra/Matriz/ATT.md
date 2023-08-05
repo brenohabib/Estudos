@@ -1,8 +1,8 @@
 
 $$\begin {bmatrix} 
-1 & -1\\
-\frac {-3}{2} & \frac {9}{2}\\
-\frac {9}{2} & \frac {-1}{2}
+2 & -7\\
+11 & 7\\
+-4 & -13
 
 \end {bmatrix}$$
 
