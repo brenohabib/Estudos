@@ -1,7 +1,8 @@
 
 $$\begin {bmatrix} 
-\frac {4}{3} & 1 & 1\\
-1 & 1 & 1\\
+1 & -1\\
+\frac {-3}{2} & \frac {9}{2}\\
+\frac {9}{2} & \frac {-1}{2}
 
 \end {bmatrix}$$
 
