@@ -1,6 +1,6 @@
 
 $$\begin {bmatrix} 
-1 & 1 & 1\\
+\frac {4}{3} & 1 & 1\\
 1 & 1 & 1\\
 
 \end {bmatrix}$$
