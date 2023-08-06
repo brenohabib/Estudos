@@ -1,8 +1,9 @@
 
 $$\begin {bmatrix} 
 
-\frac{2}{3} & -\frac{2}{3} & \frac{7}{3}\\
--\frac{1}{3} & \frac{5}{3} & -2
+\frac{17}{6} & -\frac{1}{6}\\
+-\frac{29}{6} & \frac{25}{3}\\
+\frac{25}{6} & \frac{13}{2}
 
 
 \end {bmatrix}$$
