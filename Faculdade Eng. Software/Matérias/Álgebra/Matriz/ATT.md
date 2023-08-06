@@ -1,8 +1,7 @@
 
 $$\begin {bmatrix} 
-\frac{1}{3} & -\frac{5}{3}\\
-\frac{5}{2} & \frac{5}{6}\\
--\frac{1}{6} & -\frac{23}{6}
+\frac{1}{2} & \frac{13}{2} & \frac{3}{2}\\
+-\frac{9}{2} & 14 & -\frac{15}{2}
 
 \end {bmatrix}$$
 
