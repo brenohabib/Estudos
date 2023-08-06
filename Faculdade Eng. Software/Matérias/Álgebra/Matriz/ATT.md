@@ -2,7 +2,7 @@
 $$\begin {bmatrix} 
 2 & -3\\
 5 & 4\\
--4 & -5
+-4 & \frac{5}{2}
 \end {bmatrix}$$
 
 ![[Pasted image 20230804201339.png]]
