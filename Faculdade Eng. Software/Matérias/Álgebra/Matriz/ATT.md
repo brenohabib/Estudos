@@ -1,7 +1,5 @@
 
 $$\begin {bmatrix} 
-\frac{1}{2} & \frac{9}{2} & \frac{3}{2}\\
--\frac{9}{2} & 6 & -\frac{15}{2}
 
 \end {bmatrix}$$
 
