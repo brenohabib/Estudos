@@ -1,8 +1,8 @@
 
 $$\begin {bmatrix} 
-2 & -7\\
-11 & 7\\
--4 & -13
+\frac{1}{3} & -\frac{5}{3}\\
+\frac{5}{2} & \frac{5}{6}\\
+-\frac{1}{6} & -\frac{23}{6}
 
 \end {bmatrix}$$
 
