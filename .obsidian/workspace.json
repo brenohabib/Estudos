@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md"
+                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md"
               }
             }
           }
@@ -262,14 +262,16 @@
   },
   "active": "9031bacd14418cbd",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/ATT.md",
     "Pasted image 20230804201348.png",
     "Pasted image 20230804201339.png",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/ATT.md",
     "Pasted image 20230805225031.png",
     "Pasted image 20230805224923.png",
     "Pasted image 20230805224743 1.png",
@@ -277,12 +279,10 @@
     "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
-    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Matérias/Sistema Operacional",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Explicações/Relação Simétrica.md",
     "Faculdade Eng. Software/Explicações/Desenho cartesiano.md",
     "Desenho cartesiano.md",
