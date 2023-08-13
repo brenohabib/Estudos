@@ -1,4 +1,4 @@
----
+pois ---
 tags: matriz, álgebra
 referências: 
 data: 28/07/2023
