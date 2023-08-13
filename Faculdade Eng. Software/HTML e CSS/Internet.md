@@ -15,4 +15,4 @@ Hoje em dia, a internet evoluiu o suficiente para todos no mundo estarem acessan
 
 
 ### Rascunho
-HTTP, TCP/IP, Word Wide Web, Cabos subaquáticos
+HTTP, TCP/IP, Word Wide Web, Cabos subaquáticos, servidores, DNS

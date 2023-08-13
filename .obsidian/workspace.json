@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
+                "file": "Faculdade Eng. Software/HTML e CSS/Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
+                "file": "Faculdade Eng. Software/HTML e CSS/Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md"
+                "file": "Faculdade Eng. Software/HTML e CSS/Internet.md"
               }
             }
           }
@@ -272,8 +272,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23b87f6cfa6fb1af",
+  "active": "2b5320edb4c49724",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
@@ -287,7 +288,6 @@
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Cleida - Algebra.png",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Drawing 2023-08-11 20.35.43.excalidraw.png",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Sem título.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
     "Faculdade Eng. Software/HTML e CSS",
