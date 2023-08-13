@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiWorldWww",
       "LiSettings",
       "LiPaintbrush",
       "SiCircle",
@@ -74,5 +75,6 @@
   "Faculdade Eng. Software/Explicações/Exemplo Relação.md": "LiNewspaper",
   "Faculdade Eng. Software/Explicações/Desenho cartesiano.md": "LiPaintbrush",
   "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md": "LiSettings",
-  "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md": "TiMath"
+  "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md": "TiMath",
+  "Faculdade Eng. Software/HTML e CSS/Internet.md": "TiWorldWww"
 }
