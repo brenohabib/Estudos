@@ -61,9 +61,11 @@
             "id": "2b5320edb4c49724",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md"
+                "file": "Faculdade Eng. Software/HTML e CSS/Internet.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -215,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md"
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md"
               }
             }
           }
@@ -270,8 +272,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b5320edb4c49724",
+  "active": "23b87f6cfa6fb1af",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
@@ -279,7 +282,6 @@
     "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Cleida - Algebra.png",
