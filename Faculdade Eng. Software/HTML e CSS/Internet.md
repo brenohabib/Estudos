@@ -1,5 +1,5 @@
 ---
-tags: html, internet
+tags: html, internet, fundamentos
 referências: https://www.youtube.com/watch?v=F74GKCLXUWM
 data: 13/08/2023
 ---
@@ -15,4 +15,4 @@ Hoje em dia, a internet evoluiu o suficiente para todos no mundo estarem acessan
 
 
 ### Rascunho
-HTTP, TCP/IP, Word Wide Web, Cabos subaquáticos, servidores, DNS
+HTTP, TCP/IP, Word Wide Web, Cabos subaquáticos, servidores, DNS, domínio, subdomínio, caminho, URL, TLD. CCTLD, GTLD
