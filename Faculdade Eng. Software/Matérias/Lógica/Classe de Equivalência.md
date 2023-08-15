@@ -5,6 +5,8 @@ data: 14/04/2023
 ---
 ## Resumo
 
+Dada uma **relação de equivalência R** em um **conjunto A**, para *cada x ∈ A*, o conjunto *x = \[x] = {a ∈ A | aRx} ⊂ A*, chamado de *classe de equivalência do elemento x*.
+
 ---
 ## Introdução
 ---
