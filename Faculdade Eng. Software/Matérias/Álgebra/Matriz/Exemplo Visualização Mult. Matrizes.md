@@ -185,6 +185,8 @@ B ^xyMwGlmT
 
 A.B ^UGmZvecF
 
+multiplica e soma o que sobrar ^Cms5VBMB
+
 %%
 # Drawing
 ```json
@@ -5969,6 +5971,43 @@ A.B ^UGmZvecF
 			]
 		},
 		{
+			"id": "Cms5VBMB",
+			"type": "text",
+			"x": 244.0323530519796,
+			"y": 31.070012484866425,
+			"width": 303.65972900390625,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1296798310,
+			"version": 129,
+			"versionNonce": 49578214,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1692631158579,
+			"link": null,
+			"locked": false,
+			"text": "multiplica e soma o que sobrar",
+			"rawText": "multiplica e soma o que sobrar",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "multiplica e soma o que sobrar",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "7hELRzmGTGLSHcaTZ8TvC",
 			"type": "freedraw",
 			"x": 143.63266129153595,
@@ -6117,8 +6156,8 @@ A.B ^UGmZvecF
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 454.93883416209803,
-		"scrollY": 640.2672783713731,
+		"scrollX": 294.15980080740286,
+		"scrollY": 548.393545025833,
 		"zoom": {
 			"value": 0.9578363346684686
 		},
