@@ -56,3 +56,5 @@ Para multiplicar duas matrizes A e B, as **dimensões devem ser compatíveis**, 
 
 A matriz resultante C terá dimensões correspondentes às *linhas de A e às colunas de B*. A multiplicação de matrizes é distributiva, mas **não comutativa**, ou seja, *AB não é igual a BA*, a menos que ambas sejam matrizes quadradas e idênticas.
 
+>[!example] Exemplo:
+> ![[Exemplo Visualização Mult. Matrizes|600]]
