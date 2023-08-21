@@ -50,3 +50,9 @@ Quando um **elemento *x* multiplica uma matriz A$_{mXn}$**, a multiplicação se
 >\end {bmatrix}$ * 6 $=$ $\begin {bmatrix} 6 & 12 & 18\\ 24 & 30 & 36 \end {bmatrix}$
 
 ### Multiplicação entre duas matrizes
+Uma multiplicação entre duas matrizes é quando os *elementos de uma matriz multiplicam a outra*, formando uma *nova matriz* que tem relação com o tamanho de ambas.
+
+Para multiplicar duas matrizes A e B, as **dimensões devem ser compatíveis**, ou seja, **o número de colunas de A deve ser igual ao número de linhas de B**.
+
+A matriz resultante C terá dimensões correspondentes às *linhas de A e às colunas de B*. A multiplicação de matrizes é distributiva, mas **não comutativa**, ou seja, *AB não é igual a BA*, a menos que ambas sejam matrizes quadradas e idênticas.
+
