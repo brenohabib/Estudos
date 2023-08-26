@@ -1,5 +1,5 @@
 ---
-tags: conjuntos, relação_binária, relação_equivalente
+tags: conjuntos, relação_binária, relação_equivalente, lógica
 referências: http://www.mat.ufpb.br/~sergio/provas/me_ead/livros/conjunto_quociente.pdf
 data: 14/04/2023
 ---

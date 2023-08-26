@@ -25,9 +25,11 @@
             "id": "0cd7d785b6c86106",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md"
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -179,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md"
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md"
               }
             }
           }
@@ -236,18 +238,20 @@
   },
   "active": "0cd7d785b6c86106",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Classe de Equivalência.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
+    "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
+    "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Classe de Equivalência.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Códigos/IPTUCalculator.java",
-    "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
@@ -271,8 +275,6 @@
     "Desenho cartesiano.md",
     "Faculdade Eng. Software/Explicações/Exemplo Relação.md",
     "Imagens/Desenho relação binária.md",
-    "Imagens/Desenho Array.md",
-    "Imagens/Desenho Clean.md",
     "Imagens/Fluxograma.png",
     "Faculdade Eng. Software/Matérias/Leitura de Software",
     "Faculdade Eng. Software/Matérias/Programação/Arrays",
@@ -281,7 +283,6 @@
     "Códigos/ArrayMultidimensional.java",
     "Códigos",
     "Faculdade Eng. Software/Explicações/ExemploJava.java",
-    "Imagens/Rotina.png",
     "Faculdade Eng. Software/Explicações/Sem título.canvas",
     "Faculdade Eng. Software/Sem título.canvas",
     "Sem título.canvas"
