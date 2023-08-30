@@ -1,5 +1,3 @@
-package Códigos;
-
 class ArrayMultidimensional {
     public static void main(String[] args) {
         
