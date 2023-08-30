@@ -9,7 +9,6 @@ public class Exemplo {
         criarArray(array);
         printArray(array);
         verificarAcertos(matriz, array);
-        System.out.println("\" algo assim \"");
     }
 
     public static int[][] criarMatriz(int[][] matriz){
