@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+                    "file": "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md"
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md"
               }
             }
           }
@@ -225,6 +225,12 @@
   },
   "active": "f2db70de589f5b4c",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Classe de Equivalência.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
+    "Faculdade Eng. Software/HTML e CSS/Internet.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
     "Códigos/Atividades Java/Aula7/Exemplo.java",
     "Códigos/Atividades Java/Aula7/Exe2.java",
@@ -236,21 +242,15 @@
     "Códigos/Atividades Java/Aula6/Ex9.java",
     "Códigos/Atividades Java/Aula6/Ex8.java",
     "Códigos/Atividades Java/Aula6/Ex6.java",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Classe de Equivalência.md",
     "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
     "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
     "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
-    "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Cleida - Algebra.png",
