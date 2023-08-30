@@ -16,5 +16,6 @@ public class Ex2 {
             }
         }
         System.out.printf("A soma de todos os valores é: %s",soma);
+        input.close();
     }
 }

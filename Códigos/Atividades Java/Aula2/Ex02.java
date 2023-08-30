@@ -1,5 +1,3 @@
-package ex02;
-
 import java.util.Vector;
 import java.util.Scanner;
 public class Ex02 {
