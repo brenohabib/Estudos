@@ -13,8 +13,4 @@ public class Au1Ex1{
         }
         System.out.println(soma);
     }
-
 }
-
-
-

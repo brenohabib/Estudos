@@ -1,15 +1,36 @@
+/*
+ Lógica: Toda vez que mover para a esquerda ou para a direita
+ ele aumenta a quantidade de movimentos em 1 para formar uma espiral
+ 
+ Ex:  
+ ---------------------------------------------
+ | baixo |esquerda|esquerda|esquerda|esquerda|
+ ---------------------------------------------
+ | baixo | baixo |esquerda|esquerda|  cima   |
+ ---------------------------------------------
+ | baixo | baixo |direita | cima   |  cima   |
+ ---------------------------------------------
+ | baixo |direita|direita |direita |  cima   | 
+ ---------------------------------------------
+ |direita|direita| direita| direita|direita  |
+ ---------------------------------------------
+
+ imaginando que comece no centro e que ele movimente primeiro e
+ depois tome a decisão para onde ir
+ */
+
 public class Au8Ex2 {
     public static void main(String[] args) {
         int size = 5;
-        int[][] matrix = new int[size][size];
-        int[] array = new int[size * size];
+        long[][] matrix = new long[size][size];
+        long[] array = new long[size * size];
         int x = matrix.length / 2, y = matrix[0].length / 2;
-        int steps = 0, direction = 4, totalSteps = 0;
+        int stepsToDo = 0, direction = 4, totalSteps = 0;
 
         array = fibonacci(array);
 
         while (totalSteps < size * size) {
-            for (int i = 0; i < steps; i++) {
+            for (int i = 0; i < stepsToDo; i++) {
                 if (totalSteps < size * size) {
 
                     matrix[x][y] = array[totalSteps];
@@ -37,8 +58,8 @@ public class Au8Ex2 {
                 }
             }
 
-            if (direction == 0 || direction == 2) {
-                steps++;
+            if (direction == 0 || direction == 2) { //A cada esquerda ou direita aumenta passos
+                stepsToDo++;
             }
 
             direction = (direction + 1) % 4;
@@ -47,11 +68,14 @@ public class Au8Ex2 {
         printMatrix(matrix);
     }
 
-    public static void printMatrix(int[][] matrix) {
+    public static void printMatrix(long[][] matrix) {
         
         int maxLength = String.valueOf(matrix[matrix.length - 1][matrix[0].length - 1]).length();
-        System.out.println(" -----------------------------------------");
-
+        System.out.print(" ");
+        for(int i = 0; i < (maxLength * matrix.length) + matrix.length * 3 + 1; i++){
+            System.out.print("-");
+        }
+        System.out.println();
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
 
@@ -60,7 +84,11 @@ public class Au8Ex2 {
                 System.out.printf(" | %" + maxLength + "s", centralizeString(number, padding));
             }
             System.out.println(" | ");
-            System.out.println(" -----------------------------------------");
+            System.out.print(" ");
+            for(int j = 0; j < (maxLength * matrix.length) + matrix.length * 3 + 1; j++){
+                System.out.print("-");
+            }
+            System.out.println();
         }
     }
     
@@ -72,7 +100,7 @@ public class Au8Ex2 {
             result.append(" ");
         }
         result.append(input);
-        
+
         for (int i = 0; i < padding; i++) {
 
             result.append(" ");
@@ -80,7 +108,7 @@ public class Au8Ex2 {
         return result.toString();
     }
 
-    public static int[] fibonacci(int[] array){
+    public static long[] fibonacci(long[] array){
 
         array[0] = 0;
         array[1] = 1;
