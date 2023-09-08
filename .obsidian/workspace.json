@@ -12,25 +12,16 @@
             "id": "f2db70de589f5b4c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md"
+                "file": "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "275e9263dedea083"
-          },
-          {
-            "id": "9374e42255461196",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ff6af67066e7e579",
@@ -48,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
+                    "file": "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -177,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
+                "file": "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
+                "file": "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md"
+                "file": "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md"
               }
             }
           }
@@ -232,8 +223,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9374e42255461196",
+  "active": "f2db70de589f5b4c",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
+    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
@@ -254,14 +249,10 @@
     "Códigos/Atividades Java/Aula6/Ex8.java",
     "Códigos/Atividades Java/Aula6/Ex6.java",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
-    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
     "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
     "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
-    "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
-    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Cleida - Algebra.png",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Drawing 2023-08-11 20.35.43.excalidraw.png",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Sem título.md",
