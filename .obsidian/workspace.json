@@ -18,8 +18,19 @@
               }
             },
             "group": "275e9263dedea083"
+          },
+          {
+            "id": "9374e42255461196",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ff6af67066e7e579",
@@ -221,7 +232,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2db70de589f5b4c",
+  "active": "9374e42255461196",
   "lastOpenFiles": [
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
