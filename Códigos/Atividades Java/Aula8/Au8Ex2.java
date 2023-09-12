@@ -21,7 +21,7 @@
 
 public class Au8Ex2 {
     public static void main(String[] args) {
-        int size = 9;
+        int size = 5;
         long[][] matrix = new long[size][size];
         long[] array = new long[size * size];
         int x = matrix.length / 2, y = matrix[0].length / 2;
