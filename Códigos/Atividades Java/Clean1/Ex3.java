@@ -28,7 +28,17 @@ public class Ex3 {
         input.close();
     }
     
-    public static double calculateWeightedAverage(double grade1, double weight1, double grade2, double weight2, double grade3, double weight3) {
+    public static double calculateWeightedAverage(
+        double grade1, 
+        double weight1,
+
+        double grade2, 
+        double weight2,
+        
+        double grade3, 
+        double weight3
+    ) 
+    {
         return (grade1 * weight1 + grade2 * weight2 + grade3 * weight3) / (weight1 + weight2 + weight3);
     }
 }
