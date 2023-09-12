@@ -25,9 +25,11 @@
             "id": "851de29b8ae9113f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.11"
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -246,6 +248,7 @@
   },
   "active": "851de29b8ae9113f",
   "lastOpenFiles": [
+    "Códigos/Teste.java",
     "Faculdade Eng. Software/Explicações/Nomes Porpriedades Boole.png",
     "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Explicações/Teoremas de Boole.png",
@@ -287,7 +290,6 @@
     "Pasted image 20230805225031.png",
     "Pasted image 20230805224923.png",
     "Pasted image 20230805224743 1.png",
-    "Pasted image 20230805224743.png",
     "Faculdade Eng. Software/Explicações/Relação Simétrica.md",
     "Faculdade Eng. Software/Explicações/Desenho cartesiano.md",
     "Desenho cartesiano.md",
