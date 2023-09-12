@@ -20,8 +20,19 @@
               }
             },
             "group": "275e9263dedea083"
+          },
+          {
+            "id": "851de29b8ae9113f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ff6af67066e7e579",
@@ -200,6 +211,16 @@
                 "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md"
               }
             }
+          },
+          {
+            "id": "f132b05a99862896",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -223,8 +244,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2db70de589f5b4c",
+  "active": "851de29b8ae9113f",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Explicações/Nomes Porpriedades Boole.png",
     "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Explicações/Teoremas de Boole.png",
     "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",

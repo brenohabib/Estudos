@@ -11,3 +11,5 @@ data: 12/09/2023
 ![[Teoremas de Boole.png]]
 
 Também conhecido como Álgebra Abstrata, a álgebra de Boole capta as propriedades importantes dos operadores lógicos ou oferecem uma base para lidar com afirmações.
+
+![[Nomes Porpriedades Boole.png]]
