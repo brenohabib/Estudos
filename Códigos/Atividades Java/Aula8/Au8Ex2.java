@@ -58,7 +58,7 @@ public class Au8Ex2 {
                 }
             }
 
-            if (direction == 0 || direction == 2) { //A cada esquerda ou direita aumenta passos
+            if (direction == 0 || direction == 2) { // A cada esquerda ou direita aumenta passos
                 stepsToDo++;
             }
 
@@ -69,10 +69,10 @@ public class Au8Ex2 {
     }
 
     public static void printMatrix(long[][] matrix) {
-        
+
         int maxLength = String.valueOf(matrix[matrix.length - 1][matrix[0].length - 1]).length();
         System.out.print(" ");
-        for(int i = 0; i < (maxLength * matrix.length) + matrix.length * 3 + 1; i++){
+        for (int i = 0; i < (maxLength * matrix.length) + matrix.length * 3 + 1; i++) {
             System.out.print("-");
         }
         System.out.println();
@@ -85,13 +85,13 @@ public class Au8Ex2 {
             }
             System.out.println(" | ");
             System.out.print(" ");
-            for(int j = 0; j < (maxLength * matrix.length) + matrix.length * 3 + 1; j++){
+            for (int j = 0; j < (maxLength * matrix.length) + matrix.length * 3 + 1; j++) {
                 System.out.print("-");
             }
             System.out.println();
         }
     }
-    
+
     public static String centralizeString(String input, int padding) {
 
         StringBuilder result = new StringBuilder(input.length() + 2 * padding);
@@ -108,15 +108,15 @@ public class Au8Ex2 {
         return result.toString();
     }
 
-    public static long[] fibonacci(long[] array){
+    public static long[] fibonacci(long[] array) {
 
         array[0] = 0;
         array[1] = 1;
-    
+
         for (int i = 2; i < array.length; i++) {
             array[i] = array[i - 1] + array[i - 2];
         }
-    
+
         return array;
     }
 }
