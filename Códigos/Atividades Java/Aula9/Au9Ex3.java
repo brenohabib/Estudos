@@ -1,7 +1,7 @@
 public class Au9Ex3 {
     public static void main(String[] args) {
         
-
+        int[] array = new int[10];
 
     }
     public static int[] bubbleSort(int[] array){
