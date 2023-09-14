@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+public class Au8Ex1{
+    public static void main(String[] args) {
+        String[][] game = new String[3][3];
+
+        fillEmpty(game);
+        System.out.println("The game beggin! You are X!");
+
+    }
+    public static String[][] fillEmpty(String[][] game){
+=======
 import java.util.Scanner;
 public class Au8Ex1 {
 
@@ -78,10 +89,18 @@ public class Au8Ex1 {
 
     }
     public static void printBoard(String[][] board){
+>>>>>>> d9b44b0551f9981b48e1bc8bbc8c92b3d34644e3
 
         for (int i = 0; i < 3; i++){
             for (int j = 0; j < 3; j++){
 
+<<<<<<< HEAD
+                game[i][j] = "-";
+            }
+        }
+        return game;
+    }
+=======
                 System.out.print(" | " + board[i][j]);
             }
 
@@ -149,4 +168,5 @@ public class Au8Ex1 {
         return true;
     }
 
+>>>>>>> d9b44b0551f9981b48e1bc8bbc8c92b3d34644e3
 }
