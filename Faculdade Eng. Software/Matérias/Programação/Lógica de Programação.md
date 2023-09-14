@@ -8,6 +8,7 @@ data: 11/07/2023
 A lógica de programação é **Entender e criar [[Algoritmos]]** usando a lógica de *quebrar problemas em vários pedaços* e resolve-los um por um.
 
 ---
+
 ## Introdução
 ---
 A lógica de programação é basicamente usar um ou mais [[Algoritmos]] com um certo padrão (*Sintaxe*) para se fazer algo. Quando se entende essa lógica, qualquer [[Linguagens de Programação]] fica fácil de entender.
@@ -24,4 +25,5 @@ A lógica de programação é colocar em prática os [[Algoritmos]] feitos, veri
 Com a lógica de programação a *eficiência do programador* aumenta exponencialmente, e a única forma de se estar conseguindo uma boa lógica é *praticando*.
 
 >[!tip] Dica
+>
 >- Um ótimo exercício para se estar fazendo é anotar precisamente sua ***rotina do dia a dia***, cada passo a passo, quanto mais *específico* melhor.
