@@ -18,5 +18,6 @@ public class P1At2 {
         }
 
         System.out.println("Vogais: " + cont + " Consoantes: " + (vetChar.length - cont));
+        input.close();
     }
 }

@@ -28,5 +28,6 @@ public class P1At3 {
             }
             System.out.println();
         }
+        input.close();
     }
 }
