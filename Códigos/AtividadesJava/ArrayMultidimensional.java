@@ -1,4 +1,5 @@
-package AtividadesJava.GayChecker;
+package AtividadesJava;
+
 class ArrayMultidimensional {
     public static void main(String[] args) {
         
