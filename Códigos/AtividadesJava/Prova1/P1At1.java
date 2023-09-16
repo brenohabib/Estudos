@@ -1,3 +1,5 @@
+package AtividadesJava.Prova1;
+
 public interface P1At1 {
     public static void main(String[] args) {
         int tamanho = 5;
