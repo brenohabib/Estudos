@@ -1,51 +1,49 @@
 package AtividadesJava;
 import java.util.Scanner;
-
 public class IPTUCalculator {
 
     public static void main(String[] args) {
 
         Scanner userInput = new Scanner(System.in);
         
-        boolean running = true;
+        boolean isRunning = true;
         int propertyCount = 0;
-        double totalOriginalTaxSum = 0;
-        double totalPenaltySum = 0;
-        double totalFeeSum = 0;
-        double totalAmountDueSum = 0;
-        
+        double taxSum = 0;
+        double penaltySum = 0;
+        double feeSum = 0;
+        double dueSum = 0;
 
         do {
-            Property property = readPropertyData(userInput);
+            Property property = readData(userInput);
             
             double penalty = calculatePenalty(property.getIPTUValue());
             double fees = calculateFees(property.getIPTUValue(), property.getMonthsLate());
-            double totalAmountDue = calculateTotalAmountDue(property.getIPTUValue(), penalty, fees);
+            double amountDue = calculateTotalDue(property.getIPTUValue(), penalty, fees);
             
-            displayPaymentDetails(penalty, fees, totalAmountDue);
+            displayPayment(penalty, fees, amountDue);
             
             propertyCount++;
-            totalOriginalTaxSum += property.getIPTUValue();
-            totalPenaltySum += penalty;
-            totalFeeSum += fees;
-            totalAmountDueSum += totalAmountDue;
+            taxSum += property.getIPTUValue();
+            penaltySum += penalty;
+            feeSum += fees;
+            dueSum += amountDue;
             
             System.out.println("Do you want to insert another property? (y/n)");
             String response = userInput.next();
             
             if (response.equalsIgnoreCase("n")) {
-                running = false;
+                isRunning = false;
             }
-        } while (running);
+        } while (isRunning);
         
-        displayFinancialSummary(propertyCount, totalOriginalTaxSum, totalPenaltySum, totalFeeSum, totalAmountDueSum);
+        displaySummary(propertyCount, taxSum, penaltySum, feeSum, dueSum);
         
         userInput.close();
     }
 
-    private static Property readPropertyData(Scanner input) {
+    private static Property readData(Scanner input) {
         System.out.println("Enter the property number:");
-        int number = input.nextInt();
+        int propertyNumber = input.nextInt();
             
         System.out.println("Enter the IPTU value:");
         double iptuValue = input.nextDouble();
@@ -53,7 +51,7 @@ public class IPTUCalculator {
         System.out.println("Enter the number of months late:");
         int monthsLate = input.nextInt();
         
-        return new Property(number, iptuValue, monthsLate);
+        return new Property(propertyNumber, iptuValue, monthsLate);
     }
     
     private static double calculatePenalty(double iptuValue) {
@@ -64,39 +62,39 @@ public class IPTUCalculator {
         return iptuValue * 0.015 * monthsLate;
     }
     
-    private static double calculateTotalAmountDue(double iptuValue, double penalty, double Fees) {
-        return iptuValue + penalty + Fees;
+    private static double calculateTotalDue(double iptuValue, double penalty, double fees) {
+        return iptuValue + penalty + fees;
     }
     
-    private static void displayPaymentDetails(double penalty, double Fees, double totalAmountDue) {
+    private static void displayPayment(double penalty, double fees, double totalDue) {
         System.out.printf("Penalty: %.2f\n", penalty);
-        System.out.printf("Fees: %.2f\n", Fees);
-        System.out.printf("Total amount due: %.2f\n", totalAmountDue);
+        System.out.printf("Fees: %.2f\n", fees);
+        System.out.printf("Total amount due: %.2f\n", totalDue);
     }
     
-    private static void displayFinancialSummary(int propertyCount, double totalOriginalTaxSum,
-        double totalPenaltySum, double totalFeeSum, double totalAmountDueSum) {
+    private static void displaySummary(int propertyCount, double taxSum,
+        double penaltySum, double feeSum, double dueSum) {
         System.out.println("Number of properties inserted: " + propertyCount + "\n");
-        System.out.printf("Total original tax sum: %.2f\n", totalOriginalTaxSum);
-        System.out.printf("Total penalty sum: %.2f\n", totalPenaltySum);
-        System.out.printf("Total Fees sum: %.2f\n", totalFeeSum);
-        System.out.printf("Total amount due sum: %.2f\n", totalAmountDueSum);
+        System.out.printf("Total original tax sum: %.2f\n", taxSum);
+        System.out.printf("Total penalty sum: %.2f\n", penaltySum);
+        System.out.printf("Total Fees sum: %.2f\n", feeSum);
+        System.out.printf("Total amount due sum: %.2f\n", dueSum);
     }
 }
 
 class Property {
-    private int number;
+    private int propertyNumber;
     private double iptuValue;
     private int monthsLate;
 
-    public Property(int number, double iptuValue, int monthsLate) {
-        this.number = number;
+    public Property(int propertyNumber, double iptuValue, int monthsLate) {
+        this.propertyNumber = propertyNumber;
         this.iptuValue = iptuValue;
         this.monthsLate = monthsLate;
     }
 
-    public int getNumber() {
-        return number;
+    public int getPropertyNumber() {
+        return propertyNumber;
     }
 
     public double getIPTUValue() {
