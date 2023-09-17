@@ -18,7 +18,7 @@ public class IPTUCalculator {
             
             double penalty = calculatePenalty(property.getIPTUValue());
             double fees = calculateFees(property.getIPTUValue(), property.getMonthsLate());
-            double amountDue = calculateTotalDue(property.getIPTUValue(), penalty, fees);
+            double amountDue = calculateDue(property.getIPTUValue(), penalty, fees);
             
             displayPayment(penalty, fees, amountDue);
             
@@ -62,7 +62,7 @@ public class IPTUCalculator {
         return iptuValue * 0.015 * monthsLate;
     }
     
-    private static double calculateTotalDue(double iptuValue, double penalty, double fees) {
+    private static double calculateDue(double iptuValue, double penalty, double fees) {
         return iptuValue + penalty + fees;
     }
     
@@ -75,10 +75,10 @@ public class IPTUCalculator {
     private static void displaySummary(int propertyCount, double taxSum,
         double penaltySum, double feeSum, double dueSum) {
         System.out.println("Number of properties inserted: " + propertyCount + "\n");
-        System.out.printf("Total original tax sum: %.2f\n", taxSum);
+        System.out.printf("Total tax sum: %.2f\n", taxSum);
         System.out.printf("Total penalty sum: %.2f\n", penaltySum);
         System.out.printf("Total Fees sum: %.2f\n", feeSum);
-        System.out.printf("Total amount due sum: %.2f\n", dueSum);
+        System.out.printf("Total due sum: %.2f\n", dueSum);
     }
 }
 
