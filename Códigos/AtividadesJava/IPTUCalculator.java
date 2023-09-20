@@ -18,15 +18,15 @@ public class IPTUCalculator {
             
             double penalty = calculatePenalty(property.getIPTUValue());
             double fees = calculateFees(property.getIPTUValue(), property.getMonthsLate());
-            double amountDue = calculateDue(property.getIPTUValue(), penalty, fees);
+            double totalDue = calculateDue(property.getIPTUValue(), penalty, fees);
             
-            displayPayment(penalty, fees, amountDue);
+            displayPayment(penalty, fees, totalDue);
             
             propertyCount++;
             taxSum += property.getIPTUValue();
             penaltySum += penalty;
             feeSum += fees;
-            dueSum += amountDue;
+            dueSum += totalDue;
             
             System.out.println("Do you want to insert another property? (y/n)");
             String response = userInput.next();
