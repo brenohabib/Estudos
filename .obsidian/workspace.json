@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,74 +37,47 @@
         "currentTab": 1
       },
       {
-        "id": "ff6af67066e7e579",
-        "type": "split",
+        "id": "ad9191536008c76e",
+        "type": "tabs",
         "dimension": 31.53796236210253,
         "children": [
           {
-            "id": "ad9191536008c76e",
-            "type": "tabs",
-            "dimension": 38.08139534883721,
-            "children": [
-              {
-                "id": "bc216a4e487b87b2",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [],
-                      "collapse-display": false,
-                      "showArrow": false,
-                      "textFadeMultiplier": -3,
-                      "nodeSizeMultiplier": 1.5546875,
-                      "lineSizeMultiplier": 1.73333333333333,
-                      "collapse-forces": false,
-                      "centerStrength": 0.666666666666667,
-                      "repelStrength": 10.4166666666667,
-                      "linkStrength": 0.484375,
-                      "linkDistance": 162,
-                      "scale": 0.6372987299011719,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "275e9263dedea083"
-              }
-            ]
-          },
-          {
-            "id": "23e918374e5f8c1b",
-            "type": "tabs",
-            "dimension": 61.91860465116279,
-            "children": [
-              {
-                "id": "b544263217ea7a68",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
-                    "mode": "preview",
-                    "source": false
-                  }
+            "id": "bc216a4e487b87b2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1.5546875,
+                  "lineSizeMultiplier": 1.73333333333333,
+                  "collapse-forces": false,
+                  "centerStrength": 0.666666666666667,
+                  "repelStrength": 10.4166666666667,
+                  "linkStrength": 0.484375,
+                  "linkDistance": 162,
+                  "scale": 0.6372987299011719,
+                  "close": true
                 }
               }
-            ]
+            },
+            "group": "275e9263dedea083"
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md"
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md"
               }
             }
           },
@@ -248,11 +221,15 @@
   },
   "active": "851de29b8ae9113f",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Códigos/Teste.java",
     "Faculdade Eng. Software/Explicações/Nomes Porpriedades Boole.png",
     "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Explicações/Teoremas de Boole.png",
-    "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
     "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
@@ -262,10 +239,6 @@
     "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Códigos/Atividades Java/Aula7/Exemplo.java",
     "Códigos/Atividades Java/Aula7/Exe2.java",
@@ -276,7 +249,6 @@
     "Códigos/Atividades Java/Aula4/Ex1.java",
     "Códigos/Atividades Java/Aula6/Ex9.java",
     "Códigos/Atividades Java/Aula6/Ex8.java",
-    "Códigos/Atividades Java/Aula6/Ex6.java",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
