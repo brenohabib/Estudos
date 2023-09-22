@@ -1,6 +1,6 @@
 package AtividadesJava.Aula11;
 
-public class Au11Ex1 {
+public class Au11Ex3 {
     public static void main(String[] args) {
 
         int[] array = new int[10];
@@ -17,19 +17,19 @@ public class Au11Ex1 {
 
     public static int[] selectionSort(int[] array) {
 
-        for (int i = 0; i < array.length - 1; i++) {
+        for (int i = array.length - 1; i >= 0; i--) {
             int key = i;
-            for (int j = i; j < array.length; j++) {
-                if (array[j] < array[key]) {
+            for (int j = 0; j < i; j++) {
+                if (array[j] > array[key]) {
 
                     key = j;
 
                 }
 
             }
-            int temp = array[key];
-            array[key] = array[i];
-            array[i] = temp;
+            int temp = array[i];
+            array[i] = array[key];
+            array[key] = temp;
 
         }
         return array;

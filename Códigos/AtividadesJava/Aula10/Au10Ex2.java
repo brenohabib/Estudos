@@ -10,13 +10,13 @@ public class Au10Ex2 {
         System.out.print("Antes: ");
         printArray(array);
 
-        array = selectionSort(array, isDescending);
+        array = insertionSort(array, isDescending);
         System.out.print("Depois:");
         printArray(array);
 
     }
 
-    public static int[] selectionSort(int[] array, boolean isDescending) {
+    public static int[] insertionSort(int[] array, boolean isDescending) {
         int key, i, j;
         if (isDescending) {
             for (i = 1; i < array.length; i++) {

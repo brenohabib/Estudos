@@ -1,12 +1,13 @@
-package AtividadesJava.Aula10;
+package AtividadesJava.Aula11;
 
-public class Au10Ex4 {
+public class Au11Ex4 {
 
     public static void main(String[] args) {
         int[] arrayA = new int[10];
         int[] arrayB = new int[10];
+        int[] arrayC = new int[10];
 
-        long insertionNanoTime, bubbleNanoTime, beginning;
+        long insertionNanoTime, bubbleNanoTime, selectionNanoTime, beginning;
 
         arrayB = randomArray(arrayB);
         printArray(arrayB);
@@ -22,11 +23,13 @@ public class Au10Ex4 {
         insertionSort(arrayB);
         insertionNanoTime = System.nanoTime() - beginning;
 
+        beginning = System.nanoTime();
+        selectionSort(arrayC);
+        selectionNanoTime = System.nanoTime() - beginning;
+
         System.out.println("Tempo do inserion: " + insertionNanoTime);
         System.out.println("Tempo do bubble: " + bubbleNanoTime);
-
-        System.out.print("Diferença em nanosegundos: ");
-        System.out.println(compareTime(insertionNanoTime, bubbleNanoTime));
+        System.out.println("Tempo do selection: " + selectionNanoTime);
 
     }
 
@@ -45,6 +48,27 @@ public class Au10Ex4 {
             array[j + 1] = key;
         }
         return array;
+    }
+    
+    public static int[] selectionSort(int[] array) {
+
+        for (int i = array.length - 1; i >= 0; i--) {
+            int key = i;
+            for (int j = 0; j < i; j++) {
+                if (array[j] > array[key]) {
+
+                    key = j;
+
+                }
+
+            }
+            int temp = array[i];
+            array[i] = array[key];
+            array[key] = temp;
+
+        }
+        return array;
+
     }
 
     public static int[] randomArray(int[] array) {

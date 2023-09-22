@@ -9,13 +9,13 @@ public class Au10Ex1 {
         System.out.print("Antes: ");
         printArray(array);
 
-        array = selectionSort(array);
+        array = insertionSort(array);
         System.out.print("Depois:");
         printArray(array);
 
     }
 
-    public static int[] selectionSort(int[] array) {
+    public static int[] insertionSort(int[] array) {
         int key, i, j;
 
         for (i = 1; i < array.length; i++) {

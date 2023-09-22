@@ -8,13 +8,13 @@ public class Au10Ex3 {
         System.out.print("Antes: ");
         printArray(array);
 
-        array = selectionSort(array);
+        array = insertionSort(array);
         System.out.print("Depois:");
         printArray(array);
 
     }
 
-    public static String[] selectionSort(String[] array) {
+    public static String[] insertionSort(String[] array) {
 
         String key;
         int i, j;
