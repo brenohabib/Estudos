@@ -25,9 +25,11 @@
             "id": "851de29b8ae9113f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md"
+                "file": "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -152,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md"
+                "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md"
               }
             }
           },
@@ -217,13 +219,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "851de29b8ae9113f",
+  "active": "23b87f6cfa6fb1af",
   "lastOpenFiles": [
+    "Chess/bin/root.class",
+    "Chess/bin/Piece.class",
+    "Chess/src/Piece.java",
+    "Chess/bin/Piece",
+    "Chess/src/Piece",
+    "Chess/src/root.java",
+    "Chess/src/Novo(a) Documento de Texto.txt",
+    "Faculdade Eng. Software/Matérias/Programação/Orientação a Objeto",
+    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Códigos/Teste.java",
     "Faculdade Eng. Software/Explicações/Nomes Porpriedades Boole.png",
     "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
@@ -234,19 +246,10 @@
     "Faculdade Eng. Software/Matérias/Lógica/Classe de Equivalência.md",
     "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
-    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
-    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
     "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Códigos/Atividades Java/Aula7/Exemplo.java",
     "Códigos/Atividades Java/Aula7/Exe2.java",
-    "Códigos/Atividades Java/Aula7/Exe1.java",
-    "Códigos/Atividades Java/Aula4/Ex3.java",
-    "Códigos/Atividades Java/Aula6/Ex7.java",
-    "Códigos/Atividades Java/Aula4/Ex2.java",
-    "Códigos/Atividades Java/Aula4/Ex1.java",
-    "Códigos/Atividades Java/Aula6/Ex9.java",
-    "Códigos/Atividades Java/Aula6/Ex8.java",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
