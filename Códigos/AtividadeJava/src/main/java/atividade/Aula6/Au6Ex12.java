@@ -1,4 +1,4 @@
-package AtividadesJava.Aula6;
+package atividade.Aula6;
 
 
 public class Au6Ex12 {
