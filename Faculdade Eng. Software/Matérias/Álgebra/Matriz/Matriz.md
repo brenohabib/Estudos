@@ -42,7 +42,7 @@ Existem vários tipos de matrizes, dentre elas [[triangular superior]], [[triang
 ---
 Uma matriz é **representada por uma letra maiúscula do nosso alfabeto** e os **elementos é representado pela mesma letra mas minúscula** (*A =* $[a_{ij}]_{mxn}$) e cada posição pode ser relacionado à outra matriz, *possuindo os mesmos valores dos elementos de mesma posição*.
 
-Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos dizer que ela é **ordem N**, *sendo N representando o número (natural) de linhas e colunas*.
+Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos dizer que ela é **ordem N**, sendo N representando o *número (natural) de linhas e colunas*.
 
 >[!example] Exemplo
 >*A* = $\begin {bmatrix}a11 & a12 & a13\\ a21 & a22 & a23\\ a31 & a32 & a33\end {bmatrix}_{3X3}$ 
