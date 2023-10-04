@@ -40,7 +40,7 @@ Para descobrir quais elementos usar na hora de fazer o cálculo, podemos simples
 
 ## Multiplicação
 ---
-### Multiplicação de um número e uma matriz
+### Multiplicação de uma constante e uma matriz
 Quando um **elemento *x* multiplica uma matriz A$_{mXn}$**, a multiplicação será feita *elemento por elemento dentro da matriz normalmente*.
 
 >[!example] Exemplo
@@ -58,3 +58,12 @@ A matriz resultante C terá dimensões correspondentes às *linhas de A e às co
 
 >[!example] Exemplo:
 > ![[Exemplo Visualização Mult. Matrizes|600]]
+
+## Igualdade entre matrizes
+---
+
+Imagine uma **matriz A** *sendo igual uma* **matriz B**. Podemos dizer que eles *são iguais quando*:
+
+$A = (a_{ij})$ e $B = (b_{ij})$ $\in M_{mXn}$ $\leftrightarrow a_{ij} = b_{ij}, 1 \leq i \leq m$ e $1 \leq j \leq n$ 
+
+Resumidamente, se *cada elemento nas mesmas posições* (*i* e *j*) em uma matriz de *mesmo tamanho* são **iguais**.
