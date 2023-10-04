@@ -1,4 +1,4 @@
-É aquela **matriz** [[quadrada]] onde somente há elementos positivos em sua **diagonal principal**
+É aquela **matriz** [[quadrada]] onde somente há elementos $a_{ij}$ = 0, $i \neq j$ em sua ***diagonal principal***
 
 >[!example] Exemplo
 >

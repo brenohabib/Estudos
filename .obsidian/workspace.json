@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/diagonal.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/diagonal.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/diagonal.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Explicações/diagonal.md"
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md"
               }
             }
           },
@@ -221,6 +221,8 @@
   },
   "active": "851de29b8ae9113f",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Explicações/diagonal.md",
+    "Faculdade Eng. Software/Explicações/coluna.md",
     "Códigos/AtividadeJava/target/classes/atividade/TheInfinite/MandelbrotSet.class",
     "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At4.class",
     "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At3.class",
@@ -231,11 +233,9 @@
     "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex3.class",
     "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex2.class",
     "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex1.class",
-    "Códigos/AtividadeJava/target/classes/atividade/Aula9/Au9Ex3.class",
     "Faculdade Eng. Software/Explicações/identidade.md",
     "Faculdade Eng. Software/Explicações/linha.md",
     "Faculdade Eng. Software/Explicações/Geração.md",
-    "Faculdade Eng. Software/Explicações/diagonal.md",
     "Faculdade Eng. Software/Explicações/nula.md",
     "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
