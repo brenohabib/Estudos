@@ -1,5 +1,6 @@
 package atividade.Aula13;
 
+import java.util.Scanner;
 /*1. Entrada de Dados:
 a. Permitir ao usuário inserir até 50 produtos.
 b. Cada produto terá um nome (string) e um preço (float).
@@ -42,29 +43,17 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int menuSize = 75;
-        int segmentSize = 20;
+        int menuSize = 56;
 
-        Menu menu = new Menu("Menu" , menuSize);
-        menu.printMenu();
-
-        for (int i = 0; i < segmentSize / 8 - 1; i++) {
-
-            menu.printSegment();
-
-        }
-
-        menu.printSegment("(1) - Adicionar Produto",
-                "          (4) - Remover Produto");
-        menu.printSegment("(2) - Exibir Produtos",
-              "            (5) - Buscar por nome");
-        menu.printSegment("(3) - Métodos de Ordenação",
-                   "       (6) - Sair do Sistema");
-
-        menu.printLine();
+        Menu menu = new Menu("Menu", menuSize);
+        Scanner input = new Scanner(System.in);
+        menu.printTitle();
+        menu.printBody();
+        menu.input(input);
 
     }
 }
+
 
 class Product {
 
@@ -182,10 +171,11 @@ class Menu {
 
         
         if (totalTextLength % 2 != 0) {
-        
+
             spacesAfter += 2;
 
         }
+
         
 
         for (int i = 0; i < spacesBefore; i++) {
@@ -204,8 +194,6 @@ class Menu {
         System.out.print("|\n");
     }
     
-    
-
     public void printLine() {
 
         int titleSize = title.length();
@@ -226,8 +214,7 @@ class Menu {
         }
     }
     
-    public void printMenu() {
-
+    public void printTitle() {
 
         int titleSize = title.length();
         int menuSize = size;
@@ -250,6 +237,32 @@ class Menu {
 
         printLine();
 
+        System.out.println();
+    }
+    
+    public void printBody() {
+
+        printSegment();
+        printSegment("(1) - Adicionar Produto",
+           "          (4) - Remover Produto");
+        printSegment("(2) - Exibir Produtos",
+         "            (5) - Buscar por nome");
+        printSegment("(3) - Métodos de Ordenação",
+              "       (6) - Sair do Sistema");
+        printLine();
+
+
+    }
+    
+    public void input(Scanner input) {
+
+        System.out.println();
+        printSegment(" input:\033[s",
+                "                                             ");
+        System.out.print("\033[1E");
+        printLine();
+        System.out.print("\033[u\033[1A ");
+        input.nextInt();
         System.out.println();
     }
 }
