@@ -42,16 +42,23 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int menuSize = 50;
+        int menuSize = 75;
+        int segmentSize = 20;
 
         Menu menu = new Menu("Menu" , menuSize);
         menu.printMenu();
 
-        for (int i = 0; i < 21; i++) {
+        for (int i = 0; i < segmentSize / 8 - 1; i++) {
 
             menu.printSegment();
 
         }
+
+        menu.printSegment("(1) - Adicionar Produto",
+                "          (3) - Remover Produto");
+        menu.printSegment("(2) - Exibir Produtos",
+              "            (4) - Buscar por nome");
+
         menu.printLine();
 
     }
@@ -119,7 +126,6 @@ class Menu {
         this.title = title;
         this.size = size;
     }
-    
 
     public void printSegment() {
 
@@ -144,6 +150,59 @@ class Menu {
         System.out.print("|\n");
 
     }
+
+    public void printSegment(String... texts) {
+
+        int titleSize = title.length();
+        int menuSize = size;
+        int paddle = 0;
+
+
+        
+        if (titleSize % 2 != 0 || menuSize % 2 != 0) {
+            paddle = 1;
+        }
+        
+        System.out.print("|");
+
+        int totalTextLength = 0;
+
+        for (String text : texts) {
+            totalTextLength += text.length();
+        }
+
+        int totalSpaces = size - totalTextLength - texts.length - paddle;
+
+
+        int spacesBefore = totalSpaces / 2;
+        int spacesAfter = totalSpaces / 2;
+
+
+        
+        if (totalTextLength % 2 != 0) {
+        
+            spacesAfter += 2;
+
+        }
+        
+
+        for (int i = 0; i < spacesBefore; i++) {
+            System.out.print(" ");
+        }
+
+        for (String text : texts) {
+            System.out.print(text);
+            System.out.print(" ");
+        }
+
+        for (int i = 0; i < spacesAfter; i++) {
+            System.out.print(" ");
+        }
+
+        System.out.print("|\n");
+    }
+    
+    
 
     public void printLine() {
 
