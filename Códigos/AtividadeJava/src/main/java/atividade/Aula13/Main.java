@@ -55,9 +55,11 @@ public class Main {
         }
 
         menu.printSegment("(1) - Adicionar Produto",
-                "          (3) - Remover Produto");
+                "          (4) - Remover Produto");
         menu.printSegment("(2) - Exibir Produtos",
-              "            (4) - Buscar por nome");
+              "            (5) - Buscar por nome");
+        menu.printSegment("(3) - Métodos de Ordenação",
+                   "       (6) - Sair do Sistema");
 
         menu.printLine();
 
