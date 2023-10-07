@@ -5,13 +5,7 @@ import java.util.Scanner;
 import atividade.Aula13.Menu.SegmentPosition;
 
 import java.util.concurrent.TimeUnit;
-/*1. Entrada de Dados:
-a. Permitir ao usuário inserir até 50 produtos.
-b. Cada produto terá um nome (string) e um preço (float).
-c. Os produtos devem ser armazenados em vetores e matrizes sendo:
-i. Uma do tipo string para armazenar o nome do produto
-ii. Uma matriz do tipo float 2x50 que irá armazenar o valor do produto e a
-quantidade do produto em estoque.
+/*
 
 2. Funções e Procedimentos:
 a. Implementar funções para os métodos de ordenação: Bubble Sort, Insertion Sort e
@@ -20,17 +14,7 @@ b. Implementar um procedimento para exibir a lista de produtos.
 c. Implementar uma função para buscar um produto pelo nome e retornar seu preço.
 
 3. Ordenação:
-a. Permitir ao usuário escolher o método de ordenação.
 b. Permitir ao usuário escolher se deseja ordenar por nome ou por preço.
-
-4. Interface:
-a. Exibir um menu para o usuário com as seguintes opções:
-b. Inserir produto.
-c. Exibir produtos.
-d. Ordenar produtos por nome.
-e. Ordenar produtos por preço.
-f. Buscar produto por nome.
-g. Sair.
 
 5. Funcionalidades:
 a. Implementar uma função que identifique e remova produtos duplicados (com base no
@@ -48,7 +32,7 @@ public class Main {
         int mainMenuSize = 60;
         int productMenuSize = 50;
         int ordinationMenuSize = 71;
-        int searchMenuSize = 80;
+        int searchMenuSize = 120;
         int maxProducts = 50;
 
         Menu mainMenu = new Menu("Menu", mainMenuSize);
@@ -66,7 +50,9 @@ public class Main {
 
         boolean isRunning = true, inProduct = false, inOrdination = false, inSearch = false;
         boolean usingBubble = true, usingInsertion = false, usingSelection = false;
+        boolean isAscending, isDescending;
         String currentOrdination = "Bubble Sort";
+        String currentOrder = "Crescente";
 
         int menuCommand, productCommand, removeCommand, ordinationCommand, searchCommand;
 
@@ -111,7 +97,7 @@ public class Main {
                 productCommand = productMenu.intInput(intInput);
 
                 if (productCommand == 1) {
-                    if (productList.length < 50) {
+                    if (productQuantity < 50) {
 
                         productMenu.printTitle();
                         nameList[productQuantity] = productMenu.stringInput(stringInput, "Nome");
@@ -122,7 +108,7 @@ public class Main {
 
                     }
 
-                    else if (productList.length >= 50) {
+                    else if (productQuantity >= 50) {
 
                         productMenu.printTitle();
                         productMenu.printSegment("A quantidade de produtos excede 50!");
@@ -220,6 +206,7 @@ public class Main {
                 ordinationMenu.printSegment("1 - Bubble", "   2 - Insertion", "   3 - Selection", "   4 - Voltar");
                 ordinationMenu.printSegment();
                 ordinationMenu.printSegment("Usando: " + currentOrdination);
+                ordinationMenu.printSegment("Usando: " + currentOrder);
                 ordinationMenu.printLine();
                 System.out.println();
 
@@ -251,10 +238,36 @@ public class Main {
                     currentOrdination = "Selection Sort";
 
                 }
-                if(ordinationCommand == 4){
-                
+                if (ordinationCommand == 4) {
+
                     inOrdination = false;
+
+                }
                 
+                ordinationMenu.printTitle();
+                ordinationMenu.printSegment();
+                ordinationMenu.printSegment("1 - Crescente", "  2 - Decrescente",  "  3 - Voltar");
+                ordinationMenu.printSegment();
+                ordinationMenu.printSegment("Usando: " + currentOrdination);
+                ordinationMenu.printSegment("Usando: " + currentOrder);
+
+                ordinationMenu.printLine();
+                System.out.println();
+
+                ordinationCommand = ordinationMenu.intInput(intInput);
+
+                if (ordinationCommand == 1) {
+
+                    isAscending = true;
+                    isDescending = false;
+                    currentOrder = "Crescente";
+
+                }
+                if(ordinationCommand == 2){
+                
+                    isAscending = false;
+                    isDescending = true;
+                    currentOrder = "Decrescente";
                 }
             } //ordenação
 
@@ -262,8 +275,13 @@ public class Main {
 
                 searchMenu.printTitle();
                 searchMenu.printSegment("Ordenação atual: " + currentOrdination, SegmentPosition.LEFT);
+                searchMenu.printSegment("Ordem atual: " + currentOrder, SegmentPosition.LEFT);
                 searchMenu.printSegment();
-                searchMenu.printSegment("1 - Buscar por nome" , "    2 - Mostrar todos os produtos", "    3 - Voltar");
+
+                searchMenu.printSegment("1 - Buscar por nome",
+                              "          2 - Mostrar todos os produtos",
+                              "          3 - Voltar");
+                              
                 searchMenu.printLine();
                 System.out.println();
                 
@@ -325,28 +343,26 @@ public class Main {
 
                     int toBeShown = productQuantity;
                     int productShowed = 0;
+
+                    String value;
+                    String quantity;
+
                     while (toBeShown > 0) {
 
-                        if (toBeShown - 2 <= -1) {
+                        value = String.format("%.2f", productList[0][productShowed]);
+                        quantity = String.format("%.0f", productList[1][productShowed]);
+                        searchMenu.printSegment(productShowed + " - " + nameList[productShowed], "      ",
+                                "R$ " + value, "      Quantidade: " + quantity);
 
-                            searchMenu.printSegment(productShowed + " - " + nameList[productShowed]);
-                            toBeShown -= 1;
-                        }
-
-                        else if (toBeShown >= 2) {
-
-                            searchMenu.printSegment(productShowed + " - " + nameList[productShowed++], "    ",
-                                    productShowed + " - " + nameList[productShowed++]);
-                            toBeShown -= 2;
-                        }
-
-                        if (productQuantity == 0) {
-
-                            searchMenu.printSegment("Nenhum produto encontrado");
-
-                        }
+                        productShowed++;
+                        toBeShown--;
                     }
 
+                    if (productQuantity == 0) {
+
+                        searchMenu.printSegment("Nenhum produto encontrado");
+
+                    }
                     searchMenu.printSegment("1 - Voltar", SegmentPosition.LEFT);
                     searchMenu.printLine();
                     System.out.println();
@@ -681,4 +697,3 @@ class Sort {
         return product;
     }
 }
-
