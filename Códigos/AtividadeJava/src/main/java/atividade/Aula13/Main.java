@@ -47,19 +47,28 @@ public class Main {
 
         int mainMenuSize = 60;
         int productMenuSize = 50;
+        int ordinationMenuSize = 71;
+        int searchMenuSize = 80;
         int maxProducts = 50;
 
         Menu mainMenu = new Menu("Menu", mainMenuSize);
         Menu productMenu = new Menu("Produtos", productMenuSize);
+        Menu ordinationMenu = new Menu("Ordenações", ordinationMenuSize);
+        Menu searchMenu = new Menu("Buscar Produto", searchMenuSize);
+
+
         Scanner intInput = new Scanner(System.in);
         Scanner stringInput = new Scanner(System.in);
+
         String[] nameList = new String[maxProducts];
-        float[][] productList = new float[2][maxProducts];
-        int productAmount = 0;
+        Float[][] productList = new Float[2][maxProducts];
+        int productQuantity = 0;
 
         boolean isRunning = true, inProduct = false, inOrdination = false, inSearch = false;
+        boolean usingBubble = true, usingInsertion = false, usingSelection = false;
+        String currentOrdination = "Bubble Sort";
 
-        int menuCommand, productCommand, removeCommand;
+        int menuCommand, productCommand, removeCommand, ordinationCommand, searchCommand;
 
         while (isRunning) {
 
@@ -105,18 +114,18 @@ public class Main {
                     if (productList.length < 50) {
 
                         productMenu.printTitle();
-                        nameList[productAmount] = productMenu.stringInput(stringInput, "Nome");
-                        productList[0][productAmount] = productMenu.floatInput(intInput, "Valor");
-                        productList[1][productAmount] = productMenu.intInput(intInput, "Quantidade");
+                        nameList[productQuantity] = productMenu.stringInput(stringInput, "Nome");
+                        productList[0][productQuantity] = productMenu.floatInput(intInput, "Valor");
+                        productList[1][productQuantity] = productMenu.floatInput(intInput, "Quantidade");
 
-                        productAmount++;
+                        productQuantity++;
 
                     }
 
                     else if (productList.length >= 50) {
 
                         productMenu.printTitle();
-                        productMenu.printSegment("A quantidade de produtos excede 50!", SegmentPosition.CENTER);
+                        productMenu.printSegment("A quantidade de produtos excede 50!");
                         productMenu.printLine();
 
                         TimeUnit.SECONDS.sleep(2);
@@ -125,7 +134,7 @@ public class Main {
 
                 }
 
-                if (productCommand == 2 && productAmount > 0) {
+                if (productCommand == 2 && productQuantity > 0) {
 
                     productMenu.printTitle();
                     productMenu.printSegment("Qual produto deseja remover?");
@@ -133,7 +142,7 @@ public class Main {
                     System.out.println();
                     productMenu.printSegment();
 
-                    int toBeShown = productAmount;
+                    int toBeShown = productQuantity;
                     int productShowed = 0;
                     while (toBeShown > 0) {
 
@@ -145,8 +154,8 @@ public class Main {
 
                         else if (toBeShown >= 2) {
 
-                            productMenu.printSegment(productShowed++ + " - " + nameList[productShowed], "    ",
-                                    productShowed++ + " - " + nameList[productShowed]);
+                            productMenu.printSegment(productShowed + " - " + nameList[productShowed++], "    ",
+                                    productShowed + " - " + nameList[productShowed++]);
                             toBeShown -= 2;
                         }
 
@@ -159,11 +168,18 @@ public class Main {
 
                     if (nameList[removeCommand] != null) {
 
-                        nameList[removeCommand] = null;
-                        productList[0][removeCommand] = 0;
-                        productList[1][removeCommand] = 0;
+                        for (int i = removeCommand; i < productQuantity - 1; i++) {
+                            nameList[i] = nameList[i + 1];
+                            productList[0][i] = productList[0][i + 1];
+                            productList[1][i] = productList[1][i + 1];
+                        }
 
-                        productAmount--;
+                        nameList[productQuantity - 1] = null;
+                        productList[0][productQuantity - 1] = 0f;
+                        productList[1][productQuantity - 1] = 0f;
+
+                        productQuantity--;
+
                     }
 
                     else if (nameList[removeCommand] == null) {
@@ -177,7 +193,7 @@ public class Main {
                         TimeUnit.SECONDS.sleep(2);
                     }
 
-                } else if (productCommand == 2 && productAmount <= 0) {
+                } else if (productCommand == 2 && productQuantity <= 0) {
 
                     productMenu.printTitle();
                     productMenu.printSegment();
@@ -197,14 +213,162 @@ public class Main {
 
             } // produto
 
+            while(inOrdination){
+            
+                ordinationMenu.printTitle();
+                ordinationMenu.printSegment();
+                ordinationMenu.printSegment("1 - Bubble", "   2 - Insertion", "   3 - Selection", "   4 - Voltar");
+                ordinationMenu.printSegment();
+                ordinationMenu.printSegment("Usando: " + currentOrdination);
+                ordinationMenu.printLine();
+                System.out.println();
+
+                ordinationCommand = ordinationMenu.intInput(intInput);
+
+                if (ordinationCommand == 1) {
+
+                    usingBubble = true;
+                    usingInsertion = false;
+                    usingSelection = false;
+                    currentOrdination = "Bubble Sort";
+
+                }
+                
+                if (ordinationCommand == 2) {
+
+                    usingBubble = false;
+                    usingInsertion = true;
+                    usingSelection = false;
+                    currentOrdination = "Insertion Sort";
+
+                }
+
+                if (ordinationCommand == 3) {
+
+                    usingBubble = false;
+                    usingInsertion = false;
+                    usingSelection = true;
+                    currentOrdination = "Selection Sort";
+
+                }
+                if(ordinationCommand == 4){
+                
+                    inOrdination = false;
+                
+                }
+            } //ordenação
+
+            while (inSearch) {
+
+                searchMenu.printTitle();
+                searchMenu.printSegment("Ordenação atual: " + currentOrdination, SegmentPosition.LEFT);
+                searchMenu.printSegment();
+                searchMenu.printSegment("1 - Buscar por nome" , "    2 - Mostrar todos os produtos", "    3 - Voltar");
+                searchMenu.printLine();
+                System.out.println();
+                
+                searchCommand = searchMenu.intInput(intInput);
+                int currentNamePos = 0;
+
+                if (searchCommand == 1) {
+
+                    searchMenu.printTitle();
+                    searchMenu.printSegment();
+                    String nameToFind = searchMenu.stringInput(stringInput, "Nome");
+
+                    boolean nameFound = false;
+                
+                    for (String name : nameList) {
+
+                        if (nameToFind.toLowerCase().equalsIgnoreCase(name) && !nameFound) {
+
+                            nameFound = true;
+                            break;
+                        }
+                        currentNamePos++;
+                    }
+
+                    if (nameFound) {
+
+                        searchMenu.printTitle();
+                        searchMenu.printSegment();
+
+                        String value = String.format("%.2f", productList[0][currentNamePos]);
+                        String quantity = String.format("%.0f", productList[1][currentNamePos]);
+
+                        searchMenu.printSegment("Nome do produto: ", nameList[currentNamePos]);
+                        searchMenu.printSegment("Valor do produto: R$", value);
+                        searchMenu.printSegment("Quantidade total: ", quantity);
+                        searchMenu.printSegment();
+
+                        searchMenu.printSegment("1 - Voltar");
+                        searchMenu.printLine();
+
+                        System.out.println();
+                        searchMenu.intInput(intInput);
+
+                    }
+                    if (!nameFound) {
+
+                        searchMenu.printTitle();
+                        searchMenu.printSegment();
+                        searchMenu.printSegment("Produto não encontrado!");
+                        searchMenu.printLine();
+                        System.out.println();
+
+                        TimeUnit.SECONDS.sleep(2);
+
+                    }
+                }
+                if (searchCommand == 2) {
+                    searchMenu.printTitle();
+
+                    int toBeShown = productQuantity;
+                    int productShowed = 0;
+                    while (toBeShown > 0) {
+
+                        if (toBeShown - 2 <= -1) {
+
+                            searchMenu.printSegment(productShowed + " - " + nameList[productShowed]);
+                            toBeShown -= 1;
+                        }
+
+                        else if (toBeShown >= 2) {
+
+                            searchMenu.printSegment(productShowed + " - " + nameList[productShowed++], "    ",
+                                    productShowed + " - " + nameList[productShowed++]);
+                            toBeShown -= 2;
+                        }
+
+                        if (productQuantity == 0) {
+
+                            searchMenu.printSegment("Nenhum produto encontrado");
+
+                        }
+                    }
+
+                    searchMenu.printSegment("1 - Voltar", SegmentPosition.LEFT);
+                    searchMenu.printLine();
+                    System.out.println();
+
+                    searchCommand = searchMenu.intInput(intInput);
+                }
+
+                if(searchCommand == 3){
+                
+                    inSearch = false;
+
+                }
+
+            }
         }
     }
 }
+
 class Menu {
 
     private int size;
     private String title;
-
 
     public Menu(String title, int size) {
 
@@ -246,7 +410,6 @@ class Menu {
             paddle = 1;
         }
 
-
         System.out.print("|");
 
         int totalTextLength = 0;
@@ -260,8 +423,6 @@ class Menu {
         int spacesBefore = totalSpaces / 2;
         int spacesAfter = totalSpaces / 2;
 
-
-
         if (totalTextLength % 2 != 0) {
 
             spacesAfter += 2;
@@ -273,16 +434,16 @@ class Menu {
             spacesAfter++;
 
         }
-        
+
         if (texts.length % 2 != 0 && totalTextLength % 2 != 0) {
 
             spacesAfter -= 3;
 
         }
-        if(texts.length % 2 == 0 && totalTextLength % 2 != 0){
-        
+        if (texts.length % 2 == 0 && totalTextLength % 2 != 0) {
+
             spacesAfter--;
-        
+
         }
 
         for (int i = 0; i < spacesBefore; i++) {
@@ -300,9 +461,11 @@ class Menu {
 
         System.out.print("|\n");
     }
+
     enum SegmentPosition {
-    LEFT, CENTER, RIGHT
-}
+        UNILEFT,LEFT,RIGHT
+    }
+
     public void printSegment(String text, SegmentPosition position) {
 
         int titleSize = title.length();
@@ -319,12 +482,12 @@ class Menu {
         int spacesAfter = 0;
 
         switch (position) {
-            case LEFT:
+            case UNILEFT:
                 spacesBefore = 1;
                 spacesAfter = size - text.length() - spacesBefore - paddle + 3;
                 break;
-            case CENTER:
-                spacesBefore = (size - text.length() - paddle) / 2;
+            case LEFT:
+                spacesBefore = 1;
                 spacesAfter = size - text.length() - spacesBefore - paddle;
                 break;
             case RIGHT:
@@ -345,7 +508,7 @@ class Menu {
 
         System.out.print("|\n");
     }
-    
+
     public void printLine() {
 
         int titleSize = title.length();
@@ -365,7 +528,7 @@ class Menu {
 
         }
     }
-    
+
     public void printTitle() {
 
         int titleSize = title.length();
@@ -394,7 +557,7 @@ class Menu {
 
         System.out.println();
     }
-    
+
     public void printBody() {
 
         printSegment();
@@ -404,14 +567,13 @@ class Menu {
                 "     (4) - Sair do Sistema");
         printLine();
 
-
     }
-    
+
     public int intInput(Scanner input) {
 
         int command;
 
-        printSegment(" input:\033[s", SegmentPosition.LEFT);
+        printSegment(" input:\033[s", SegmentPosition.UNILEFT);
 
         printLine();
         System.out.print("\033[u ");
@@ -425,7 +587,7 @@ class Menu {
 
         int command;
 
-        printSegment(" " + label + ":\033[s", SegmentPosition.LEFT);
+        printSegment(" " + label + ":\033[s", SegmentPosition.UNILEFT);
 
         printLine();
         System.out.print("\033[u ");
@@ -439,7 +601,7 @@ class Menu {
 
         String command;
 
-        printSegment(" " + label + ":\033[s", SegmentPosition.LEFT);
+        printSegment(" " + label + ":\033[s", SegmentPosition.UNILEFT);
 
         printLine();
         System.out.print("\033[u ");
@@ -454,7 +616,7 @@ class Menu {
 
         float command;
 
-        printSegment(" " + label + ":\033[s", SegmentPosition.LEFT);
+        printSegment(" " + label + ":\033[s", SegmentPosition.UNILEFT);
 
         printLine();
         System.out.print("\033[u ");
@@ -464,3 +626,59 @@ class Menu {
         return command;
     }
 }
+class Sort {
+
+    public static int[] selectionSort(int[] array) {
+
+        for (int i = 0; i < array.length - 1; i++) {
+            int key = i;
+            for (int j = i; j < array.length; j++) {
+                if (array[j] < array[key]) {
+
+                    key = j;
+
+                }
+
+            }
+            int temp = array[key];
+            array[key] = array[i];
+            array[i] = temp;
+
+        }
+        return array;
+
+    }
+
+    public static int[] insertionSort(int[] array) {
+        int key, i, j;
+
+        for (i = 1; i < array.length; i++) {
+            key = array[i];
+            j = i - 1;
+
+            while (j >= 0 && key < array[j]) {
+                array[j + 1] = array[j];
+                j--;
+
+            }
+            array[j + 1] = key;
+        }
+        return array;
+    }
+
+    public static Float[] bubbleSort(Float[] product) {
+
+        for (int i = 0; i < product.length; i++) {
+            for (int j = 0; j < product.length - 1; j++) {
+                if (product[j] > product[j + 1]) {
+                    float aux = product[j];
+                    product[j] = product[j + 1];
+                    product[j + 1] = aux;
+                }
+            }
+        }
+
+        return product;
+    }
+}
+
