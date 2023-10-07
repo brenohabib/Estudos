@@ -40,19 +40,21 @@ public class Main {
         Scanner stringInput = new Scanner(System.in);
 
         String[] nameList = new String[maxProducts];
+        
         Float[][] productList = new Float[2][maxProducts];
         int productQuantity = 0;
 
         boolean isRunning = true, inProduct = false, inOrdination = false, inSearch = false;
-        boolean usingBubble = true, usingInsertion = false, usingSelection = false;
-        boolean isAscending = true, isDescending = false;
-        boolean searchingByName = true, searchingByPrice = false;
+
+        boolean isAscending = true;
 
         boolean nameFound = false;
 
         String currentOrdination = "Bubble Sort";
         String currentOrder = "Crescente";
         String currentSearch = "Nome";
+
+        String[] sortConfiguration = { currentSearch, currentOrdination, currentOrder };
 
         int menuCommand, productCommand, removeCommand, ordinationCommand, searchCommand;
 
@@ -156,8 +158,6 @@ public class Main {
                         
                         }
                         
-                        
-
                     }
 
                     else if (productQuantity >= 50) {
@@ -267,27 +267,18 @@ public class Main {
 
                 if (ordinationCommand == 1) {
 
-                    usingBubble = true;
-                    usingInsertion = false;
-                    usingSelection = false;
                     currentOrdination = "Bubble Sort";
 
                 }
 
                 if (ordinationCommand == 2) {
 
-                    usingBubble = false;
-                    usingInsertion = true;
-                    usingSelection = false;
                     currentOrdination = "Insertion Sort";
 
                 }
 
                 if (ordinationCommand == 3) {
 
-                    usingBubble = false;
-                    usingInsertion = false;
-                    usingSelection = true;
                     currentOrdination = "Selection Sort";
 
                 }
@@ -313,16 +304,15 @@ public class Main {
 
                 if (ordinationCommand == 1) {
 
-                    isAscending = true;
-                    isDescending = false;
                     currentOrder = "Crescente";
+                    isAscending = true;
 
                 }
                 if (ordinationCommand == 2) {
 
-                    isAscending = false;
-                    isDescending = true;
                     currentOrder = "Decrescente";
+                    isAscending = false;
+
                 }
 
                 ordinationMenu.printTitle();
@@ -340,24 +330,33 @@ public class Main {
 
                 if (ordinationCommand == 1) {
 
-                    searchingByName = true;
-                    searchingByPrice = false;
                     currentSearch = "Nome";
 
                 }
                 if (ordinationCommand == 2) {
 
-                    searchingByName = false;
-                    searchingByPrice = true;
                     currentSearch = "Preço";
                 }
+
+                String[] aux = {currentSearch, currentOrdination, currentOrder};
+
+                for (int i = 0; i < 3; i++){
+                
+                    sortConfiguration[i] = aux[i];
+
+                }
+
+                Sort.chooseSort(sortConfiguration, nameList, productList);
 
             } //ordenação
 
             while (inSearch) {
 
                 searchMenu.printTitle();
-                searchMenu.printSegment("Ordenação atual: " + currentOrdination + ", Ordem " +currentOrder + ", Procurando pelo " +currentSearch, SegmentPosition.LEFT);
+
+                searchMenu.printSegment("Ordenação atual: " + currentOrdination +
+                        ", Ordem " + currentOrder +
+                            ", Procurando pelo " +currentSearch, SegmentPosition.LEFT);
 
                 searchMenu.printSegment();
 
@@ -377,16 +376,15 @@ public class Main {
                     searchMenu.printSegment();
 
                     String nameInput = searchMenu.stringInput(stringInput, "Nome");
-                    
+
                     namePos = Menu.searchName(nameList, nameInput, searchMenu);
 
                     if (namePos >= 0) {
 
                         nameFound = true;
 
-                    }
-                    else{
-                    
+                    } else {
+
                         nameFound = false;
 
                     }
@@ -423,6 +421,7 @@ public class Main {
 
                     }
                 }
+                
                 if (searchCommand == 2) { // Adicionar páginas
                     searchMenu.printTitle();
 
@@ -431,6 +430,8 @@ public class Main {
 
                     String value;
                     String quantity;
+
+                    Sort.chooseSort(sortConfiguration, nameList, productList);
 
                     while (toBeShown > 0) {
 
@@ -752,57 +753,184 @@ class Menu {
 }
 class Sort {
 
-    public static int[] selectionSort(int[] array) {
+    public static Float[] selectionSort(Float[] array, boolean isAscending) {
 
         for (int i = 0; i < array.length - 1; i++) {
             int key = i;
             for (int j = i; j < array.length; j++) {
-                if (array[j] < array[key]) {
+                if(array[j] != null){
+                    if (isAscending && array[j] < array[key]) {
+                        key = j;
+                    }
 
-                    key = j;
-
+                    else if (!isAscending && array[j] > array[key]) {
+                        key = j;
+                    }
                 }
-
             }
-            int temp = array[key];
+            Float temp = array[key];
             array[key] = array[i];
             array[i] = temp;
-
         }
         return array;
-
     }
 
-    public static int[] insertionSort(int[] array) {
-        int key, i, j;
+    public static String[] selectionSort(String[] array, boolean isAscending) {
+        for (int i = 0; i < array.length - 1; i++) {
+            int key = i;
+            for (int j = i; j < array.length; j++) {
+                if(array[j] != null){
+                    if (isAscending && array[j].compareTo(array[key]) < 0) {
+                        key = j;
+                    } else if (!isAscending && array[j].compareTo(array[key]) > 0) {
+                        key = j;
+                    }
+                }
+            }
+            String temp = array[key];
+            array[key] = array[i];
+            array[i] = temp;
+        }
+        return array;
+    }
 
+    public static Float[] insertionSort(Float[] array, boolean isAscending) {
+        Float key;
+        int i, j;
         for (i = 1; i < array.length; i++) {
             key = array[i];
             j = i - 1;
 
-            while (j >= 0 && key < array[j]) {
-                array[j + 1] = array[j];
-                j--;
+            if(array[j] != null){
+                while (j >= 0 && (isAscending && key < array[j])) {
+                    array[j + 1] = array[j];
+                    j--;
+                }
 
+                while (j >= 0 && (!isAscending && key > array[j])) {
+                    array[j + 1] = array[j];
+                    j--;
+                }
             }
             array[j + 1] = key;
         }
         return array;
     }
 
-    public static Float[] bubbleSort(Float[] product) {
+    public static String[] insertionSort(String[] array, boolean isAscending) {
+        
+        String key;
+        int i, j;
 
-        for (int i = 0; i < product.length; i++) {
-            for (int j = 0; j < product.length - 1; j++) {
-                if (product[j] > product[j + 1]) {
-                    float aux = product[j];
-                    product[j] = product[j + 1];
-                    product[j + 1] = aux;
+        for (i = 1; i < array.length; i++) {
+                key = array[i];
+                j = i - 1;
+
+                while (j >= 0 && (isAscending && key.compareTo(array[j]) < 0) && array[j] != null) {
+                    array[j + 1] = array[j];
+                    j--;
+                }
+
+                while (j >= 0 && (!isAscending && key.compareTo(array[j]) > 0) && array[j] != null) {
+                    array[j + 1] = array[j];
+                    j--;
+                }
+
+                array[j + 1] = key;
+        }
+        return array;
+    }
+
+    public static Float[] bubbleSort(Float[] array, boolean isAscending) {
+        for (int i = 0; i < array.length; i++) {
+            for (int j = 0; j < array.length - 1; j++) {
+
+                if (array[j] != null && array[j + 1] != null) {
+                    if ((isAscending && array[j] > array[j + 1]) || (!isAscending && array[j] < array[j + 1])) {
+                        float temp = array[j];
+                        array[j] = array[j + 1];
+                        array[j + 1] = temp;
+                    }
                 }
             }
         }
+        return array;
+    }
 
-        return product;
+    public static String[] bubbleSort(String[] array, boolean isAscending) {
+
+        for (int i = 0; i < array.length - 1; i++) {
+            for (int j = 0; j < array.length - i - 1; j++) {
+                
+                if (array[j] != null && array[j + 1] != null) {
+                    if (array[j].compareTo(array[j + 1]) > 0) {
+                        String temp = array[j];
+                        array[j] = array[j + 1];
+                        array[j + 1] = temp;
+                    }
+                }
+            }
+        }
+        return array;
+    }
+    
+    public static void chooseSort(String[] data, String[] nameList, Float[][] productList) {
+
+        boolean ascending = true;
+
+        if (data[2].equals("Crescente")) {
+            ascending = true;
+        }
+        if (data[2].equals("Decrescente")) {
+            ascending = false;
+        }
+        
+
+        if (data[0].equals("Nome")) {
+
+            if (data[1].equals("Bubble Sort")) {
+
+                Sort.bubbleSort(nameList, ascending);
+
+            }
+
+            if (data[1].equals("Insertion Sort")) {
+
+                Sort.insertionSort(nameList, ascending);
+
+            }
+
+            if (data[1].equals("Selection Sort")) {
+
+                Sort.selectionSort(nameList, ascending);
+
+            }
+
+        }
+        
+        if (data[0].equals("Preço")) {
+            
+            if (data[1].equals("Bubble Sort")) {
+
+                Sort.bubbleSort(productList[0], ascending);
+                Sort.bubbleSort(productList[1], ascending);
+
+            }
+
+            if (data[1].equals("Insertion Sort")) {
+
+                Sort.insertionSort(productList[0], ascending);
+                Sort.insertionSort(productList[1], ascending);
+
+            }
+
+            if (data[1].equals("Selection Sort")) {
+
+                Sort.selectionSort(productList[0], ascending);
+                Sort.selectionSort(productList[1], ascending);
+
+
+            }
+        }
     }
 }
-
