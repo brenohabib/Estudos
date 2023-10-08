@@ -416,7 +416,7 @@ public class Main {
                     String stringAvarage = String.format("%.2f", avarage);
                     searchMenu.printSegment("Média de preço: R$" + stringAvarage + ' ', SegmentPosition.RIGHT);
 
-                    Menu.productMenu(productMenu, productQuantity, productList, nameList);
+                    Menu.searchMenu(searchMenu, productQuantity, productList, nameList);
 
                     if (productQuantity == 0) {
 
@@ -724,7 +724,7 @@ class Menu {
         return command;
     }
 
-    public static void productMenu(Menu searchMenu, int productQuantity, Float productList[][], String[] nameList) {
+    public static void searchMenu(Menu searchMenu, int productQuantity, Float productList[][], String[] nameList) {
 
         String value, quantity;
         int toBeShown = productQuantity;
