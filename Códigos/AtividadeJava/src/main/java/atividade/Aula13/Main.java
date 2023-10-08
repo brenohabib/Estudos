@@ -5,19 +5,6 @@ import java.util.Scanner;
 import atividade.Aula13.Menu.SegmentPosition;
 
 import java.util.concurrent.TimeUnit;
-/*
-
-2. Funções e Procedimentos:
-b. Implementar um procedimento para exibir a lista de produtos.
-c. Implementar uma função para buscar um produto pelo nome e retornar seu preço.
-
-5. Funcionalidades:
-b. Implementar uma função que calcule e retorne a média de preço dos produtos
-inseridos.
-c. Permitir ao usuário escolher a ordem da ordenação (crescente ou decrescente) quando
-selecionar as opções de ordenar por nome ou preço.
-
-*/
 public class Main {
 
     public static void main(String[] args) throws InterruptedException {
@@ -42,8 +29,6 @@ public class Main {
         int productQuantity = 0;
 
         boolean isRunning = true, inProduct = false, inOrdination = false, inSearch = false;
-
-        boolean isAscending = true;
 
         boolean nameFound = false;
 
@@ -302,13 +287,11 @@ public class Main {
                 if (ordinationCommand == 1) {
 
                     currentOrder = "Crescente";
-                    isAscending = true;
 
                 }
                 if (ordinationCommand == 2) {
 
                     currentOrder = "Decrescente";
-                    isAscending = false;
 
                 }
 
@@ -419,27 +402,21 @@ public class Main {
                     }
                 }
                 
-                if (searchCommand == 2) { // Adicionar páginas
+                if (searchCommand == 2) { 
                     searchMenu.printTitle();
-
-                    int toBeShown = productQuantity;
-                    int productShowed = 0;
-
-                    String value;
-                    String quantity;
 
                     Sort.chooseSort(sortConfiguration, nameList, productList);
 
-                    while (toBeShown > 0) {
-
-                        value = String.format("%.2f", productList[0][productShowed]);
-                        quantity = String.format("%.0f", productList[1][productShowed]);
-                        searchMenu.printSegment(productShowed + " - " + nameList[productShowed], "      ",
-                                "R$ " + value, "      Quantidade: " + quantity);
-
-                        productShowed++;
-                        toBeShown--;
+                    Float avarage = 0f;
+                    for(int i = 0; i < productQuantity; i++){
+                    
+                        avarage += productList[0][i]/productQuantity;
+                    
                     }
+                    String stringAvarage = String.format("%.2f", avarage);
+                    searchMenu.printSegment("Média de preço: R$" + stringAvarage + ' ', SegmentPosition.RIGHT);
+
+                    Menu.productMenu(productMenu, productQuantity, productList, nameList);
 
                     if (productQuantity == 0) {
 
@@ -590,7 +567,6 @@ class Menu {
                 break;
             case RIGHT:
                 spacesBefore = size - text.length() - paddle;
-                spacesAfter = 1;
                 break;
         }
 
@@ -746,6 +722,24 @@ class Menu {
         System.out.println();
 
         return command;
+    }
+
+    public static void productMenu(Menu searchMenu, int productQuantity, Float productList[][], String[] nameList) {
+
+        String value, quantity;
+        int toBeShown = productQuantity;
+        int productShowed = 0;
+        while (toBeShown > 0) {
+
+            value = String.format("%.2f", productList[0][productShowed]);
+            quantity = String.format("%.0f", productList[1][productShowed]);
+            searchMenu.printSegment(productShowed + " - " + nameList[productShowed], "      ",
+                    "R$ " + value, "      Quantidade: " + quantity);
+
+            productShowed++;
+            toBeShown--;
+        }
+    
     }
 }
 
