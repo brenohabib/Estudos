@@ -1,0 +1,11 @@
+public class ReporterConfig {
+
+    private String className;
+
+    private List<Property> properties = new ArrayList<Property>();
+
+    public void addProperty(Property property) {
+        property.add(property);
+
+    }
+}
