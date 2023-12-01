@@ -35,11 +35,9 @@ public class Board {
     }
 
     public void printBoard() {
-        for(int i = 0; i < getY(); i++){
-            printLine();
-            printPipeLine();
-        }
         printLine();
+        printBoardPosition();
+        
     }
     
     public void printLine() {
@@ -49,9 +47,17 @@ public class Board {
         System.out.println();
     }
 
-    public void printPipeLine() {
-        for(int i = 0; i < getX() + 1; i++){
-            System.out.print("|     ");
+    public void printBoardPosition() {
+        for (int i = 0; i < getX(); i++) {
+            for (int j = 0; j < getY(); j++) {
+                if (pieces[i][j] != null) {
+                    System.out.print("|  " + pieces[i][j].getIcon() + "  ");
+                } else {
+                    System.out.print("|     ");
+                }
+            }
+            System.out.println("|");
+            printLine();
         }
         System.out.println();
     }
