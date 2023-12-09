@@ -13,7 +13,7 @@ public class Board {
     }
 
     public Piece getPiece(int x, int y) {
-        if (x < 0 || x >= x || y < 0 || y >= y) {
+        if (x < 0 || x >= 8 || y < 0 || y >= 8) {
             throw new IllegalArgumentException("Invalid coordinates");
         }
         return pieces[x][y];
@@ -33,12 +33,6 @@ public class Board {
     public int getY() {
         return y;
     }
-
-    public void printBoard() {
-        printLine();
-        printBoardPosition();
-        
-    }
     
     public void printLine() {
         for(int i = 0; i < getX() * 6 + 1; i++){
@@ -47,18 +41,25 @@ public class Board {
         System.out.println();
     }
 
-    public void printBoardPosition() {
-        for (int i = 0; i < getX(); i++) {
+    public void printBoard() {
+        printLine();
+        for (int i = getX() - 1; i >= 0; i--) {
             for (int j = 0; j < getY(); j++) {
                 if (pieces[i][j] != null) {
                     System.out.print("|  " + pieces[i][j].getIcon() + "  ");
-                } else {
+                } 
+                else {
                     System.out.print("|     ");
                 }
             }
-            System.out.println("|");
+            System.out.println("| " + (i + 1));
             printLine();
         }
-        System.out.println();
+        String label = "ABCDEFGH";
+        System.out.print(" ");
+        for (int i = 0; i < getX(); i++) {
+            System.out.print("  " + label.charAt(i) + "   ");
+        }
+        System.out.println("\n");
     }
 }

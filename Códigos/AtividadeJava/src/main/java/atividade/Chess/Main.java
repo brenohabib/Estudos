@@ -17,12 +17,13 @@ public class Main {
         for (int i = 0; i < board.getX(); i++) {
             board.setPiece(6, i, new Pawn(Color.BLACK, board, "P"));
         }
-
+        
         while(playing){
             board.printBoard();
+            System.out.print("Command: ");
             command = input.next();
+            
         }
-        
         
     }
 }

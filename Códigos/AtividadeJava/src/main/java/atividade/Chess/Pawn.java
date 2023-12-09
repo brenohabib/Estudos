@@ -8,7 +8,6 @@ public class Pawn extends Piece {
 
     @Override
     public boolean isValidMove(Board destination) {
-        // Use the board object passed to the constructor
         if (this.getColor() == Color.WHITE) {
             if (this.getPosition().getY() == 1 && destination.getY() == 3 && this.isFirstMove()) {
                 return true;
@@ -35,4 +34,5 @@ public class Pawn extends Piece {
         this.setPosition(destination);
         this.setFirstMove(false);
     }
+
 }
