@@ -51,7 +51,11 @@ TIPOS DE REDE
 	
 	São redes locais virtuais com o objetivo de dividir as redes do ambiente por fins de organização
 	Otimizam o tráfego, otimizando os pacotes de dados para determinados dispositivos
-	Aumenta a segurança 
+	Aumenta a segurança por não permitir relações de dispositivos entre rede virtual x e y
 	
 
-- VPN
+- VPN (Virtual Private Network)
+
+	Voltada principalmente para segurança entre duas ou mais redes públicas
+	Ela criptografa os dados através de um "túnel"
+	Pode ser aplicada em sistemas de segurança
