@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "file": "Emprego/Redes/Introdução.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "file": "Emprego/Redes/Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "file": "Emprego/Redes/Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md"
+                "file": "Emprego/Redes/Introdução.md"
               }
             }
           },
@@ -206,21 +206,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Abrir visualização em gráfico": false,
-      "markdown-importer:Abrir importador Markdown": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false,
-      "switcher:Abrir a troca rápida": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "851de29b8ae9113f",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Emprego/Redes/Introdução.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Explicações/diagonal.md",
@@ -241,7 +243,6 @@
     "Faculdade Eng. Software/Explicações/nula.md",
     "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Funções Elementares/Capítulo 1 - Conjuntos numéricos e coordenadas cartesianas/Sem título.md",
     "Faculdade Eng. Software/Funções Elementares/Sem título.md",
@@ -258,7 +259,6 @@
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
-    "Faculdade Eng. Software/Template.md",
     "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Cleida - Algebra.png",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Drawing 2023-08-11 20.35.43.excalidraw.png",
