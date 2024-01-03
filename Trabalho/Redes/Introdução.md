@@ -200,27 +200,26 @@
 
 ### IPV6 (Internet Protocol Version 6)
 
-	Possui um espaço de endereço de 128 bits e possui um formato de oito grupos de hexadecimais, por exemplo 2001:0db8:85a3:08d3:1319:8a2e:0370:7344
-	Por possuir uma enorme quantidade de possubilidades (340 undecilhões) ela não divide esses IP's da rede com a internet
+Possui um espaço de endereço de 128 bits e possui um formato de oito grupos de hexadecimais, por exemplo 2001:0db8:85a3:08d3:1319:8a2e:0370:7344
+Por possuir uma enorme quantidade de possubilidades (340 undecilhões) ela não divide esses IP's da rede com a internet
 
 ## MODOS DE OPERAÇÃO
 
-	- *Router*
-		O roteador entende que irá trabalhar com IP's tanto WAN quanto LAN
-	- *Bridge*
-		Trata tanto WAN quanto LAN como uma só, servindo apenas como ponte
-	- *Acess Point*
-		- *AP*
-			O roteador divulga um novo SSID (ou rede Wifi) para permitir conexão
-		- *Repetidor*
-			Ele expande a área de acesso Wifi repetindo as mesmas informações do que o AP
+- *Router*
+	O roteador entende que irá trabalhar com IP's tanto WAN quanto LAN
+- *Bridge*
+	Trata tanto WAN quanto LAN como uma só, servindo apenas como ponte
+- *Acess Point*
+	- *AP*
+		O roteador divulga um novo SSID (ou rede Wifi) para permitir conexão
+	- *Repetidor*
+		Ele expande a área de acesso Wifi repetindo as mesmas informações do que o AP
 	
 ## TIPOS DE COMUNICAÇÃO
 	
-	- *Simplex*
-		Formato de transmissão unidirecional, por exemplo, rádios, TV's, sinais de satélite, etc
-	- *Half-Duplex*
-		Formato de transmissão bidirecional por meio de uma única faixa, por exemplo, Wifi e rádios press-to-talk
-	- *Full-Duplex*
-		Formato de transmissão bidirecional com recebimento e envio de dados por faixas diferentes, por exemplo, computadores e telefonia fixa
-		
+- *Simplex*
+	Formato de transmissão unidirecional, por exemplo, rádios, TV's, sinais de satélite, etc
+- *Half-Duplex*
+	Formato de transmissão bidirecional por meio de uma única faixa, por exemplo, Wifi e rádios press-to-talk
+- *Full-Duplex*
+	Formato de transmissão bidirecional com recebimento e envio de dados por faixas diferentes, por exemplo, computadores e telefonia fixa
