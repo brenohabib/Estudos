@@ -173,3 +173,54 @@
 			Identificação do dispositivo na rede, permitindo a conexão entre dispositivos
 		- *Ethernet*
 			É um protocolo de conexão que gerencia como os dispositivos se comunicam em uma rede local
+
+## Endereçamento
+
+### IPV4 (Internet Protocol Version 4)
+
+	Possui um espaço de endereço de 32 bits e possui um formato de quatro pontos, por exemplo 192.0.2.235
+	- *Público*
+		Endereço padrão utilizado para identificar dispositivos na internet
+	- *Privado*
+		Endereço padrão utilizado para identificar dispositivos na rede
+	- *NAT (Network Address Translation)*
+		Por haver endereços de IP de rede separados da internet, foi criado o NAT para traduzir e enviar corretamente os dados da internet para seus hosts
+	- *Classes*
+		- *Classe A*
+			Possui o primeiro segmento de números fixo entre 1 a 126, e o restante livre de 0 a 225
+		- *Classe B*
+			Possui os dois primeiros segmentos de números fixos, sendo o primeiro de 128 a 191 e o segundo de 0 a 225, o restante livre
+		- *Classe C*
+			Possui os três primeiros segmentos de números fixos, sendo o primeiro de 192 a 223, segundo e terceiro de 0 a 225 e o quarto livre
+	- *VLSM (Variable Length Subnet Masking)*
+		Permite a alteração da quantidade de hosts em cada subrede
+	- *Gateway*
+		Serve como porta de entrada de dados da internet para a rede
+		
+
+### IPV6 (Internet Protocol Version 6)
+
+	Possui um espaço de endereço de 128 bits e possui um formato de oito grupos de hexadecimais, por exemplo 2001:0db8:85a3:08d3:1319:8a2e:0370:7344
+	Por possuir uma enorme quantidade de possubilidades (340 undecilhões) ela não divide esses IP's da rede com a internet
+
+## MODOS DE OPERAÇÃO
+
+	- *Router*
+		O roteador entende que irá trabalhar com IP's tanto WAN quanto LAN
+	- *Bridge*
+		Trata tanto WAN quanto LAN como uma só, servindo apenas como ponte
+	- *Acess Point*
+		- *AP*
+			O roteador divulga um novo SSID (ou rede Wifi) para permitir conexão
+		- *Repetidor*
+			Ele expande a área de acesso Wifi repetindo as mesmas informações do que o AP
+	
+## TIPOS DE COMUNICAÇÃO
+	
+	- *Simplex*
+		Formato de transmissão unidirecional, por exemplo, rádios, TV's, sinais de satélite, etc
+	- *Half-Duplex*
+		Formato de transmissão bidirecional por meio de uma única faixa, por exemplo, Wifi e rádios press-to-talk
+	- *Full-Duplex*
+		Formato de transmissão bidirecional com recebimento e envio de dados por faixas diferentes, por exemplo, computadores e telefonia fixa
+		
