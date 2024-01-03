@@ -56,9 +56,8 @@
 
 	Voltada principalmente para segurança entre duas ou mais redes públicas
 	Ela criptografa os dados através de um "túnel"
-<<<<<<< HEAD
 	Pode ser aplicada em sistemas de segurança
 
 # HARDWARE
 
-- 
+- Roteador

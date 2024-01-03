@@ -6,7 +6,26 @@
       {
         "id": "ad9191536008c76e",
         "type": "tabs",
-        "dimension": 99.99999999999999,
+        "dimension": 72.1351025331725,
+        "children": [
+          {
+            "id": "a53fad12e44e93a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trabalho/Redes/Introdução.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0334b82f472f8dd6",
+        "type": "tabs",
+        "dimension": 27.864897466827507,
         "children": [
           {
             "id": "bc216a4e487b87b2",
@@ -14,6 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Trabalho/Redes/Introdução.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -119,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Trabalho/Redes/Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Trabalho/Redes/Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Trabalho/Redes/Introdução.md"
+              }
             }
           },
           {
@@ -182,7 +206,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc216a4e487b87b2",
+  "active": "a53fad12e44e93a3",
   "lastOpenFiles": [
     "Trabalho/Redes/Introdução.md",
     "conflict-files-obsidian-git.md",
