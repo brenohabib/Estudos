@@ -147,6 +147,29 @@
 			Traduz os IP's para endereços de fácil acesso em forma de URL
 		- *DDNS (Dynamic Domain Name System)*
 			Usado comumente para acessar dispositivos em casa. Podem ser acessados pela internet
-		- *SNMP*
-			
-			
+		- *SNMP (Simple Network Management Protocol)*
+			Permite gerenciar roteadores, switchs, DVR's, câmeras... Com o monitoramento da rede, permite a resolução de problemas dos dispositivos
+		-  *DHCP (Dynamic Host Configuration Protocol)*
+			Gerencia automaticamente os IP's locais, disponibilizando esses IP's na rede
+		- *SMTP (Simple Mail Transfer Protocol)*
+			Basicamente um conjunto de comandos que autentica e direciona emails 
+			- *POP3 (Post Office Protocol 3)*
+				Responsável por baixar emails de um servidor de email para o dispositivo (porta segura sendo 110 ou criptografada sendo 995) sendo fácil a implementação
+			- *IMAP (Internet Message Acess Protocol)*
+				Ao conectar a um servidor IMAP, o usuário armazena cópias dos emails desse servidor, sendo as alterações reais feitas apenas em servidor
+		- *RTSP (Real Time Streaming Protocol)*
+			Realiza o controle da transferência de dados em tempo real (por exemplo, visualizar vídeos em tempo real)
+		- *RTMP (Real Time Messaging Protocol)*
+			Conexão entre o equipamento e a mídia de streamming (como youtube ou instagram)
+		- *IEEE 802.1X*
+			Ele fornece um mecanismo de autenticação para dispositivos que desejam se conectar a uma LAN ou WLAN
+		- *TCP (Transmission Control Protocol)*
+			Garante que as informações enviadas cheguem nos dispositivos de forma correta
+		- *UDP (User Datagram Protocol)*
+			Uma forma de transmissão de dados sem a necessidade de confirmação do dispositivo
+		- *QoS (Quality of Service)*
+			Os pacotes são marcados com prioridades diferentes, priorizando pacotes mais importantes
+		- *IP (Internet Protocol)*
+			Identificação do dispositivo na rede, permitindo a conexão entre dispositivos
+		- *Ethernet*
+			É um protocolo de conexão que gerencia como os dispositivos se comunicam em uma rede local
