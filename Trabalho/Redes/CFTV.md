@@ -1,8 +1,7 @@
-## CFTV (Circuito Fechado de TV)
+## Principais Componentes
 
-### Principais Componentes
-
-- *Câmeras*
+### Câmeras
+---
 	- *Sensor de Imagem*
 		Converte luz em sinal elétrico
 		Principal elemento da qualidade de imagem
@@ -88,8 +87,8 @@
 				Protocolo próprio da intelbras para câmeras IP, proporciona funcionalidades extras
 			- *ONVIF*
 				Implementação de câmeras IP, NVRs, DVRs e softwares e padroniza a comunicação entre eles
-			
-- *Gravadores*
+		
+### Gravadores
 	- *DVR (Digital Video Recorder)*
 		Armazena imagens em HD's e gerencia as câmeras, alguns possuem compatibilidade com câmeras IP
 	- *NVR (Network Video Recorder)*
@@ -125,7 +124,7 @@
 		- *Backup*
 			Os HDD's não guardam as imagens infinitamente, mas há a possibilidade de salva-las em outro lugar (por exemplo, usando FTP)
 			
-- Cabeamentos
+### Cabeamentos
 	- *Cabo Coaxial*
 		Recomendados para transmissão em CFTV. São RG59, RG6 ou 4mm com 85% mahla de cobre
 		Distância em par ordenado em relação a tecnologia (HDCVI,300m), (AHD, 250m), (HDTVI, 250m), (Analógica/SD, 300m)
@@ -139,5 +138,5 @@
 	- *Fibra Ótica*
 		Para transmissão a longas distâncias. É necessário um conversor de mídia que dependendo, pode transmitir várias câmeras na mesma fibra
 		
-- Softwares
-- Acessórios
+### Softwares
+### Acessórios
