@@ -103,3 +103,34 @@
 	- *Anel*
 		Rede onde ao menos um gerenciador de rede está conectado a outro, previnindo queda de rede (necessita de redes gerenciáveis com função spanning tree)
 
+## MODELOS
+
+- *Modelo de Referência OSI (Open Sistem Interconnection)* 
+	![[OSI.png]]
+	- *Camadas*
+		- *Aplicação*
+			Composto por protocolos e serviços (por exemplo HTTP ou HTTPS)
+		- *Apresentação*
+			Conversão dos arquivos para caracteres, imagens, etc
+		- *Sessão*
+			Controla quando começa, termina ou reiniciar aplicações de origem e destino
+		- *Transporte*
+			Identifica e elimina erros das camadas inferiores. Estabelece uma comunicação direta entre origem e fim
+		- *Rede*
+			Responsável pelo endereçamento dos dispositivos. Responsável pelas rotas e destinos
+		- *Enlace de Dados*
+			Corrige erros ocorridos na camada física. Controla o fluxo de dados
+		- *Física*
+			Comunicação entre dois ou mais dispositivos. Representa a parte física da transmissão de dados
+
+- *Modelo TCP/IP (Transmission Control Protocol/Internet Protocol)*
+	![[TCP IP.png]]
+	- *Camadas*
+		- *Aplicação*
+			Representa as camadas 7, 6 e 5 do modelo OSI
+		- *Transporte*
+			Representa a camada 4 do modelo OSI
+		- *Internet*
+			Representa a camada 3 do modelo OSI
+		- *Interface de Rede*
+			Representa as camadas 2 e 1 do modelo OSI
