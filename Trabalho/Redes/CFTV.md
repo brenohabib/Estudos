@@ -155,7 +155,7 @@
 
 - *ISIC Lite*
 	Gratuito para smartphones android e iOS, visualiza imagens em tempo real e mostra gravações
-- *SIM Next
+- *SIM Next*
 	Gratuito para Windows, utilizados em cenários até médio porte e possibilita visualização, reprodução, gravação e gerenciamento de eventos
 - *Defense IA*
 	Cenários de alta complexidade, arquitetura centralizada, suporte à inteligências artificiais, gerenciamento de eventos e relatórios
