@@ -4,10 +4,10 @@
 ---
 
 - *Sensor de Imagem*
-	Converte luz em sinal elétrico
-	Principal elemento da qualidade de imagem
-	Cada píxel acumula uma carga dependendo da luminosidade
-	Possui diferentes tamanhos, variando entre 1/4 a 2/3
+	- Converte luz em sinal elétrico
+	- Principal elemento da qualidade de imagem
+	- Cada píxel acumula uma carga dependendo da luminosidade
+	- Possui diferentes tamanhos, variando entre 1/4 a 2/3
 - *Padrão de Imagem*
 	- *NTSC*
 		Uso em sistema de TV broadcast, 60Hz, 525 linhas e 30 quadros por segundo
@@ -90,6 +90,7 @@
 			Implementação de câmeras IP, NVRs, DVRs e softwares e padroniza a comunicação entre eles
 		
 ### Gravadores
+---
 
 - *DVR (Digital Video Recorder)*
 	Armazena imagens em HD's e gerencia as câmeras, alguns possuem compatibilidade com câmeras IP
@@ -127,6 +128,7 @@
 		Os HDD's não guardam as imagens infinitamente, mas há a possibilidade de salva-las em outro lugar (por exemplo, usando FTP)
 			
 ### Cabeamentos
+---
 
 - *Cabo Coaxial*
 	Recomendados para transmissão em CFTV. São RG59, RG6 ou 4mm com 85% mahla de cobre
@@ -138,9 +140,22 @@
 	UTP são cabos parecidos com os de rede. Por possuirem diferentes níveis de impedância, usam o balun para "conversão"
 	Para transmissão em CFTV, é recomendado cabos CAT5e 100% cobre
 	Distância em par ordenado em relação a tecnologia (HDCVI,200m), (AHD, 250m), (HDTVI, 250m), (Analógica/SD, 350m)
+	Pode haver mais de uma câmera trafegando no mesmo cabo UTP e utilizando tecnologia PoE
+	- *PoE (Power over Ethernet)*
+		Possui dois padrões, IEEE 802.3AF (15.4W recomendadas para bullets e dome) e IEEE 802.3AT (30W para câmeras complexas como speed dome)
+		Existe injetores PoE para casos de alimentação de uma única câmera a partir de um ponto de energia qualquer (como a do poste)
+		Alguns switchs possuem a tecnologia PoE extender, podendo alcançar 250m via PoE
 - *Fibra Ótica*
 	Para transmissão a longas distâncias. É necessário um conversor de mídia que dependendo, pode transmitir várias câmeras na mesma fibra
-		
-### Softwares
+- *Rádio*
+	Uma opção alternativa para uma grande cobertura de área, podendo ser de ponto-a-ponto ou ponto-multiponto
 
-### Acessórios
+### Softwares
+---
+
+- *ISIC Lite*
+	Gratuito para smartphones android e iOS, visualiza imagens em tempo real e mostra gravações
+- *SIM Next
+	Gratuito para Windows, utilizados em cenários até médio porte e possibilita visualização, reprodução, gravação e gerenciamento de eventos
+- *Defense IA*
+	Cenários de alta complexidade, arquitetura centralizada, suporte à inteligências artificiais, gerenciamento de eventos e relatórios
