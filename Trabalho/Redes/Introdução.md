@@ -1,4 +1,4 @@
-# TIPOS DE REDE
+## TIPOS DE REDE
 
 - *LAN (Local Area Network)*
 
@@ -58,7 +58,7 @@
 	Ela criptografa os dados através de um "túnel"
 	Pode ser aplicada em sistemas de segurança
 
-# HARDWARE
+## HARDWARE
 
 - *Roteador*
 	Conecta a rede local à internet e outras redes
@@ -73,9 +73,19 @@
 		Mais avançado
 		Trabalhosa instalação
 
+## TRANSMISSÃO DE DADOS
+
 - *Meios de transmissão*
 	- *Guiado*
 		Instalação cabeada
 	- *Não Guiado*
 		Transmissão via rádio/ar
 	
+- *Métodos de transmissão*
+	- *Unicast*
+		Método de transmissão direta entre dois dispositivos (por exemplo, câmera se comunicando com DVR)
+	- *Multicast*
+		Método de transmissão para múltiplos dispositivos (por exemplo, câmera se comunica com DVR que então se comunica com vários computadores)
+	- *Broadcast*
+		Usado para enviar pacotes de dados para todos os dispositivos da rede (por exempo, atribuição de IP para dispositivos na rede)
+

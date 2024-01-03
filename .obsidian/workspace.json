@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TIPOS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a53fad12e44e93a3",
+  "active": "e43b1d235544e6b2",
   "lastOpenFiles": [
     "Trabalho/Redes/Introdução.md",
     "conflict-files-obsidian-git.md",
