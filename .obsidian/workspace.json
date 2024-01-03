@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TIPOS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +206,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e43b1d235544e6b2",
+  "active": "a53fad12e44e93a3",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
+    "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Trabalho/Redes/Introdução.md",
     "conflict-files-obsidian-git.md",
     "Emprego/Redes/Introdução.md",
@@ -216,7 +223,6 @@
     "Trabalho",
     "Nova pasta",
     "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Explicações/diagonal.md",
@@ -236,17 +242,10 @@
     "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Funções Elementares/Capítulo 1 - Conjuntos numéricos e coordenadas cartesianas/Sem título.md",
     "Faculdade Eng. Software/Funções Elementares/Sem título.md",
-    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
-    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Explicações/Nomes Porpriedades Boole.png",
     "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Explicações/Teoremas de Boole.png",
     "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Classe de Equivalência.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
-    "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Cleida - Algebra.png",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Drawing 2023-08-11 20.35.43.excalidraw.png",

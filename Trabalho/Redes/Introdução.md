@@ -73,7 +73,7 @@
 		Mais avançado
 		Trabalhosa instalação
 
-## TRANSMISSÃO DE DADOS
+### TRANSMISSÃO DE DADOS
 
 - *Meios de transmissão*
 	- *Guiado*
@@ -88,4 +88,18 @@
 		Método de transmissão para múltiplos dispositivos (por exemplo, câmera se comunica com DVR que então se comunica com vários computadores)
 	- *Broadcast*
 		Usado para enviar pacotes de dados para todos os dispositivos da rede (por exempo, atribuição de IP para dispositivos na rede)
+
+### TOPOLOGIA
+
+- *Física*
+	Foca na verdadeira aparência do layout da rede
+- *Lógica*
+	Foca na lógica de transmissão de dados na rede
+- *Principais perspectivas*
+	- *Estrela*
+		Rede centralizada onde os dispositivos estão conectados em um único gerenciador de rede
+	- *Árvore*
+		Rede espalhada onde há um gerenciador de rede controlando o tráfego de sub-redes
+	- *Anel*
+		Rede onde ao menos um gerenciador de rede está conectado a outro, previnindo queda de rede (necessita de redes gerenciáveis com função spanning tree)
 
