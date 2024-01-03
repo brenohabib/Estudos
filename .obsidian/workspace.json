@@ -4,28 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "2e76b65793f4dec0",
-        "type": "tabs",
-        "dimension": 77.4503084304318,
-        "children": [
-          {
-            "id": "aa4a70bf04d7962d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trabalho/Redes/Introdução.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ad9191536008c76e",
         "type": "tabs",
-        "dimension": 22.549691569568196,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "bc216a4e487b87b2",
@@ -33,7 +14,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trabalho/Redes/Introdução.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Redes/Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Redes/Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Trabalho/Redes/Introdução.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,10 +182,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa4a70bf04d7962d",
+  "active": "bc216a4e487b87b2",
   "lastOpenFiles": [
-    "Emprego/Redes/Introdução.md",
     "Trabalho/Redes/Introdução.md",
+    "conflict-files-obsidian-git.md",
+    "Emprego/Redes/Introdução.md",
     "Trabalho/Redes",
     "Trabalho",
     "Nova pasta",
@@ -245,7 +222,6 @@
     "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
-    "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Cleida - Algebra.png",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Drawing 2023-08-11 20.35.43.excalidraw.png",
