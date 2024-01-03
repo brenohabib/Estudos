@@ -134,3 +134,19 @@
 			Representa a camada 3 do modelo OSI
 		- *Interface de Rede*
 			Representa as camadas 2 e 1 do modelo OSI
+	- *Protocolos*
+		- *HTTP (Hypertext Transfer Protocol)*
+			Usado para visualizar páginas web na internet. Define como o cliente e servidor interagem
+		- *HTTPS (Hypertext Transfer Protocol Secure)*
+			Uma evolução do HTTP, feito para proteger os dados enviados entre ciente e servidor. Ela criptografa as informações enviadas
+		- *FTP (File Transfer Protocol)*
+			Permite a transferência de arquivos pela internet
+		- *SFTP (Secure File Transfer Protocol)*
+			Atua como o FTP, mas criptografa as informações enviadas
+		- *DNS (Domain Name System)*
+			Traduz os IP's para endereços de fácil acesso em forma de URL
+		- *DDNS (Dynamic Domain Name System)*
+			Usado comumente para acessar dispositivos em casa. Podem ser acessados pela internet
+		- *SNMP*
+			
+			
