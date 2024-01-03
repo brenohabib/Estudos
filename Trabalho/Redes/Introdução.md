@@ -73,3 +73,9 @@
 		Mais avançado
 		Trabalhosa instalação
 
+- *Meios de transmissão*
+	- *Guiado*
+		Instalação cabeada
+	- *Não Guiado*
+		Transmissão via rádio/ar
+	
