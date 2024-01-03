@@ -60,4 +60,16 @@
 
 # HARDWARE
 
-- Roteador
+- *Roteador*
+	Conecta a rede local à internet e outras redes
+- *Switch*
+	Conecta fisicamente os dispositivos na rede. Encaminha pacotes à vários dispositivos
+	- *não gerenciáveis*
+		Não precisam de configuração
+		Menos avançado
+		Fácil instalação
+	- *gerenciáveis*
+		Precisam de configuração
+		Mais avançado
+		Trabalhosa instalação
+
