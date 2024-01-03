@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa4a70bf04d7962d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ad9191536008c76e",
@@ -178,7 +189,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -204,7 +217,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "851de29b8ae9113f",
+  "active": "aa4a70bf04d7962d",
   "lastOpenFiles": [
     "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
     "Emprego/Redes/Introdução.md",
