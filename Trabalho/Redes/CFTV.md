@@ -33,7 +33,7 @@
 			Possuem um único foco com lentes não ajustáveis
 		- *Variáveis*
 			Possuem capacidade de foco manual ou motorizado
-	- *Linhas de Câmeras
+	- *Linhas de Câmeras*
 		- *Bullet*
 			Fácil instalação, mais precisão e mais utilizada em ambientes externos
 		- *Dome*
@@ -90,7 +90,54 @@
 				Implementação de câmeras IP, NVRs, DVRs e softwares e padroniza a comunicação entre eles
 			
 - *Gravadores*
-	
+	- *DVR (Digital Video Recorder)*
+		Armazena imagens em HD's e gerencia as câmeras, alguns possuem compatibilidade com câmeras IP
+	- *NVR (Network Video Recorder)*
+		Esclusivo para câmeras IP, armazenam e reproduzem imagens, gerencia as câmeras e podem possuir portas PoE
+	- *Gravadores IA*
+		Gravadores inteligentes com IA embarcada com tecnologias de reconhecimento facial embarcado
+	- *Características*
+		- *Processamento*
+			O DVR comumente diminui a quantidade de FPS conforme aumenta a resolução de uma câmera, nos NVR's isso não acontece
+			Maior qualidade de imagem e quantidade de FPS aumentam consideravelmente a quantidade de armazenamento exigida
+		- *Protocolos*
+			Nos DVR's MultiHD, são suportadas câmeras Analógicas, AHD, HDTVI, HDCVI e IP
+			Nos NVR's, se utiliza o protocolo Intelbras-1, permitindo a comunicação entre os dispositivos
+			O protocolo ONVIF é de código aberto e é a comunicação universal entre várias fabricantes (Intelbras usa ONVIF-S)
+		- *Compressão de Vídeo*
+			Os gravadores possuem diferentes protocolos de compressão de vídeo sendo:
+		
+			NVD 1304 (H.264 e H.265)
+			MHDX 3104 (H.264B, H.264, H.264H, H.264+, H.265 e H.265+)
+			NVDD 5124 (MJPEG, H.264, H.265 e H.265+)
+
+		- *Armazenamento*
+			Os gravadores possuem suporte para diferentes tamanhos de HDD
+			Clientes normalmente estimam pela quantidade de dias que podem ser gravados
+		- *Saídas de Vídeo*
+			Os gravadores podem possuir ou não HDMI, VGA, analógica BNC ou HDMI SPOT
+			Alguns gravadores podem espelhar o vídeo para duas saídas de vídeo
+		- *Acesso Remoto*
+			Aluns gravadores possuem compatibilidade para serviços Cloud ou DDNS, gratuítos para clientes Intelbras
+		- *Throughput*
+			Quantidade de informações trafegadas em uma rede por unidade de tempo
+			Gravadores possuem capacidade máxima de entrada e saída de dados
+		- *Backup*
+			Os HDD's não guardam as imagens infinitamente, mas há a possibilidade de salva-las em outro lugar (por exemplo, usando FTP)
+			
 - Cabeamentos
+	- *Cabo Coaxial*
+		Recomendados para transmissão em CFTV. São RG59, RG6 ou 4mm com 85% mahla de cobre
+		Distância em par ordenado em relação a tecnologia (HDCVI,300m), (AHD, 250m), (HDTVI, 250m), (Analógica/SD, 300m)
+		Distância em par ordenado em relação a queda de tensão (0,25A, 250m), (0,5A, 120m), (0,7A, 80m), (1,0A, 50m)
+		Utilizam conexão BNC, podendo ser de mola ou compressão. Conectores BNC borne não são recomendados para projetos
+		
+	- *Cabo UTP e Balun*
+		UTP são cabos parecidos com os de rede. Por possuirem diferentes níveis de impedância, usam o balun para "conversão"
+		Para transmissão em CFTV, é recomendado cabos CAT5e 100% cobre
+		Distância em par ordenado em relação a tecnologia (HDCVI,200m), (AHD, 250m), (HDTVI, 250m), (Analógica/SD, 350m)
+	- *Fibra Ótica*
+		Para transmissão a longas distâncias. É necessário um conversor de mídia que dependendo, pode transmitir várias câmeras na mesma fibra
+		
 - Softwares
 - Acessórios
