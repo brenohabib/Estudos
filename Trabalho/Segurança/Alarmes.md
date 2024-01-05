@@ -23,8 +23,6 @@ A seguir, são apresentadas algumas dicas para a instalação de alarmes:
 
 ## MANUTENÇÃO
 
-Os alarmes devem ser mantidos regularmente para garantir o seu funcionamento adequado. A manutenção de alarmes deve ser realizada por um profissional qualificado.
-A seguir, são apresentadas algumas dicas para a manutenção de alarmes:
   - Realize inspeções periódicas: As inspeções periódicas devem ser realizadas para verificar o estado dos componentes do sistema de alarme.
   - Troque as baterias dos sensores: As baterias dos sensores devem ser trocadas periodicamente.
   - Limpe os sensores: Os sensores devem ser limpos regularmente para garantir o seu funcionamento adequado.
