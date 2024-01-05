@@ -2,7 +2,6 @@
 
 Os alarmes são sistemas de segurança projetados para alertar as pessoas sobre situações de perigo ou emergência. Eles podem ser utilizados em residências, empresas, indústrias e outros locais.
 - *Componentes de um sistema de alarme*
-  Um sistema de alarme é composto pelos seguintes componentes:
   - Central de alarme: É o componente principal do sistema. Ela recebe os sinais dos sensores e ativa os dispositivos de alerta.
   - Sensores: São os dispositivos que detectam as situações de perigo ou emergência. Existem diversos tipos de sensores, como sensores de movimento, sensores de abertura de portas e janelas, sensores de fumaça, sensores de gás, etc.
   - Dispositivos de alerta: São os dispositivos que avisam as pessoas sobre as situações de perigo ou emergência. Existem diversos tipos de dispositivos de alerta, como sirenes, lâmpadas estroboscópicas, telefones, etc.
