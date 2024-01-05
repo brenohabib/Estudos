@@ -8,8 +8,6 @@ Os alarmes são sistemas de segurança projetados para alertar as pessoas sobre 
 
 ## TIPOS DE ALARMES
 
-  - Existem diversos tipos de alarmes, classificados de acordo com o seu objetivo ou função. Os principais tipos de alarmes são:
-
   - Alarmes contra invasão: São projetados para detectar a entrada de pessoas não autorizadas em um local.
   - Alarmes contra incêndio: São projetados para detectar incêndios e alertar as pessoas sobre o perigo.
   - Alarmes contra gás: São projetados para detectar vazamentos de gás e alertar as pessoas sobre o perigo.
@@ -17,7 +15,6 @@ Os alarmes são sistemas de segurança projetados para alertar as pessoas sobre 
 
 ## INSTALAÇÃO
 
-A instalação de alarmes deve ser realizada por um profissional qualificado. O profissional deve seguir as instruções do fabricante do sistema de alarme e as normas de segurança vigentes.
 A seguir, são apresentadas algumas dicas para a instalação de alarmes:
   - Escolha o sistema de alarme adequado: O sistema de alarme deve ser adequado às necessidades do local onde será instalado.
   - Realize um levantamento do local: O profissional deve realizar um levantamento do local para identificar os pontos onde os sensores serão instalados.
