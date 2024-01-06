@@ -19,8 +19,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b00be1093d34a98d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trabalho/Redes/CFTV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecaac87b741ed5c4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0334b82f472f8dd6",
@@ -33,7 +54,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Faculdade Eng. Software/HTML e CSS/Internet.md",
+                "file": "Trabalho/Redes/CFTV.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/HTML e CSS/Internet.md",
+                "file": "Trabalho/Redes/CFTV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/HTML e CSS/Internet.md",
+                "file": "Trabalho/Redes/CFTV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/HTML e CSS/Internet.md"
+                "file": "Trabalho/Redes/CFTV.md"
               }
             }
           },
@@ -206,13 +227,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a53fad12e44e93a3",
+  "active": "b00be1093d34a98d",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+    "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
     "Faculdade Eng. Software/Explicações/coluna.md",
     "Faculdade Eng. Software/Explicações/Desenho cartesiano.md",
     "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
-    "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Trabalho/Redes/Introdução.md",
     "Trabalho/Segurança/Speed Dome.md",
     "Trabalho/Segurança/DVR.md",
@@ -224,29 +253,21 @@
     "Códigos/AtividadeJava/src/main/java/atividade/Aula13/Menu.java",
     "Imagens/TCP IP.png",
     "Imagens/OSI.png",
-    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
-    "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
-    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
     "conflict-files-obsidian-git.md",
     "Emprego/Redes/Introdução.md",
     "Trabalho/Redes",
     "Trabalho",
     "Nova pasta",
     "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Explicações/diagonal.md",
     "Códigos/AtividadeJava/target/classes/atividade/TheInfinite/MandelbrotSet.class",
     "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At4.class",
     "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At3.class",
     "Faculdade Eng. Software/Explicações/identidade.md",
     "Faculdade Eng. Software/Explicações/linha.md",
-    "Faculdade Eng. Software/Explicações/Geração.md",
-    "Faculdade Eng. Software/Explicações/nula.md",
     "Faculdade Eng. Software/Explicações/Nomes Porpriedades Boole.png",
     "Faculdade Eng. Software/Explicações/Teoremas de Boole.png",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Cleida - Algebra.png",

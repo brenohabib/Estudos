@@ -159,3 +159,5 @@
 	Gratuito para Windows, utilizados em cenários até médio porte e possibilita visualização, reprodução, gravação e gerenciamento de eventos
 - *Defense IA*
 	Cenários de alta complexidade, arquitetura centralizada, suporte à inteligências artificiais, gerenciamento de eventos e relatórios
+	
+*ola*
