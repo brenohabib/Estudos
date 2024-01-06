@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/Redes/Introdução.md",
+                "file": "Faculdade Eng. Software/HTML e CSS/Internet.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trabalho/Redes/Introdução.md",
+                "file": "Faculdade Eng. Software/HTML e CSS/Internet.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Redes/Introdução.md",
+                "file": "Faculdade Eng. Software/HTML e CSS/Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Redes/Introdução.md",
+                "file": "Faculdade Eng. Software/HTML e CSS/Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/Redes/Introdução.md"
+                "file": "Faculdade Eng. Software/HTML e CSS/Internet.md"
               }
             }
           },
@@ -208,6 +208,12 @@
   },
   "active": "a53fad12e44e93a3",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
+    "Faculdade Eng. Software/Explicações/coluna.md",
+    "Faculdade Eng. Software/Explicações/Desenho cartesiano.md",
+    "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
+    "Faculdade Eng. Software/HTML e CSS/Internet.md",
+    "Trabalho/Redes/Introdução.md",
     "Trabalho/Segurança/Speed Dome.md",
     "Trabalho/Segurança/DVR.md",
     "Trabalho/Segurança/Alarmes.md",
@@ -217,7 +223,6 @@
     "Códigos/AtividadeJava/src/main/java/atividade/Aula13/SegmentPosition.java",
     "Códigos/AtividadeJava/src/main/java/atividade/Aula13/Menu.java",
     "Imagens/TCP IP.png",
-    "Trabalho/Redes/Introdução.md",
     "Imagens/OSI.png",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
@@ -226,7 +231,6 @@
     "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
-    "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "conflict-files-obsidian-git.md",
     "Emprego/Redes/Introdução.md",
     "Trabalho/Redes",
@@ -236,7 +240,6 @@
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Explicações/diagonal.md",
-    "Faculdade Eng. Software/Explicações/coluna.md",
     "Códigos/AtividadeJava/target/classes/atividade/TheInfinite/MandelbrotSet.class",
     "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At4.class",
     "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At3.class",
@@ -244,11 +247,8 @@
     "Faculdade Eng. Software/Explicações/linha.md",
     "Faculdade Eng. Software/Explicações/Geração.md",
     "Faculdade Eng. Software/Explicações/nula.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Explicações/Nomes Porpriedades Boole.png",
     "Faculdade Eng. Software/Explicações/Teoremas de Boole.png",
-    "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Cleida - Algebra.png",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Drawing 2023-08-11 20.35.43.excalidraw.png",
     "Pasted image 20230804201348.png",
