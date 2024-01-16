@@ -9,7 +9,6 @@ São utilizadas para **criar [[Algoritmos]]** para serem lidos pelos computadore
 
 ---
 ## Introdução
----
 No geral, é ela que **utilizamos para escrever [[Algoritmos]]** para o computador. Existem várias Linguagens de Programação e cada uma delas possui seu *jeito único de escrever e funcionar*. Várias linguagens podem chegar ao mesmo resultado, mas variando na eficiência, dificuldade de escrita e desempenho.
 
 ![[Linguagens de programação.jpg]]
@@ -18,7 +17,6 @@ Normalmente programadores usam um [[Ambiente de Desenvolvimento Integrado]] (mui
 
 
 ## Tipos de Linguagem
----
 São consideradas como **alto e baixo nível**, sendo as de alto nível mais fáceis de se entender pelas pessoas, por ser uma *linguagem natural*, e as de baixo nível são mais próximas da *linguagem de máquina*, o que acaba sendo mais complexo.
 Existem outras formas de classificação podendo levar em conta o [[Paradigma de Programação]], [[Estrutura dos Tipos]], [[Grau de Abstração]], [[Geração]] ou seguir os padrões da **Association for Computing Machinery** que utiliza as seguintes categorias:
 
@@ -38,7 +36,6 @@ Existem outras formas de classificação podendo levar em conta o [[Paradigma de
 
 
 ## Exemplo
----
 Um exemplo de uma linguagem de programação é o [[C]]:
 ```C
 int main(int argc, char *argv[]) {

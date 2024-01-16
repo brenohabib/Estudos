@@ -9,4 +9,3 @@ Dada uma **relação de equivalência R** em um **conjunto A**, para *cada x ∈
 
 ---
 ## Introdução
----

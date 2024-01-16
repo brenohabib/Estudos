@@ -13,9 +13,7 @@ Conjunto é quando um ou vários **objetos** com algo em comum são representado
 **B** = *{a,b,c,d...}* 
 **C** = *{$, #, @, !...}*
 
----
 ## Introdução
----
 
 ![[Desenho Conjuntos|700]]
 
@@ -25,7 +23,6 @@ Conjuntos **são um ou vários elementos** com algo em *comum* que são *agrupad
 >O conjunto **vazio** pode ser representado como " *{ }* " ou " *Ø* ", mas **jamais deve-se ser colocado o vazio entre chaves** "  *{ Ø }* "
 
 ## Representações
----
 ![[Desenho Numeros|600]]
 
 ---

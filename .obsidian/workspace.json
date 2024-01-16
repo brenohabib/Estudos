@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "Faculdade Eng. Software/Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220.5
   },
   "right": {
     "id": "86ce2ce3e397db43",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "Faculdade Eng. Software/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+                "file": "Faculdade Eng. Software/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md"
+                "file": "Faculdade Eng. Software/Template.md"
               }
             }
           }
@@ -151,6 +151,19 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
+    "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Classe de Equivalência.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Códigos/AtividadeJava/src/main/java/atividade/Aula9/Au9Ex3.java~RF4a800e4.TMP",
     "Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex13.java~RF4a7ff3e.TMP",
     "Códigos/AtividadeJava/target/classes/atividade/Aula7/Au7Ex1.class~RF4a7f4a0.TMP",

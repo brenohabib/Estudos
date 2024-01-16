@@ -9,4 +9,3 @@ Basicamente programação com [[Arrays]].
 
 ---
 ## Introdução
----

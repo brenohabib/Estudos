@@ -6,7 +6,6 @@ referências: https://www.emathhelp.net/pt/calculators/discrete-mathematics/bool
 data: 12/09/2023
 ---
 ## Introdução
----
 
 ![[Teoremas de Boole.png]]
 

@@ -5,6 +5,4 @@ data: dd/mm/aaaa
 ---
 ## Resumo
 
----
 ## Introdução
----

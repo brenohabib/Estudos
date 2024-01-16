@@ -9,7 +9,6 @@ Os *arrays* (*também chamado vetores*) é uma [[Classe]] que serve para manipul
 
 ---
 ## Introdução
----
 
 ![[Desenho Array|600]]
 Sua **finalidade** é principalmente *conter vários dados em uma coleção de dados* ao invés de individualmente, o que *facilita bastante acessa-los futuramente*.
@@ -36,7 +35,6 @@ Assim como os [[Conjuntos]], os arrays **possuem elementos** e são **acessados 
 >De forma resumida, *os arrays podem possuir mais do que um índice, diferente dos vetores cada elemento é caracterizado em um único índice*
 
 ## Manipulando um Array
----
 Um exemplo de *declaração de array* em [[Java]]:
 
 ### Array de dimensão única
