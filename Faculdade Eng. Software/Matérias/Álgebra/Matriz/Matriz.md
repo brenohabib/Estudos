@@ -9,7 +9,6 @@ Matrizes é **uma forma matemática de organizar números** em forma de tabela. 
 
 ---
 ## Introdução
----
 ![[Desenho Matriz]]
 As matrizes *sempre são representadas entre colchetes, parênteses ou duplas barras*. Os números dentro de uma matriz possui seu **índice** que diz em qual *linha* (*m*) ou *coluna* (*n*) ela está.
 
@@ -39,7 +38,6 @@ Existem vários **tipos** de matrizes, dentre elas [[triangular superior]], [[tr
 >$ *É uma matriz* ***2x3***, por ter, respectivamente, *duas linhas e três colunas*
 
 ## Construção
----
 Uma matriz é **representada por uma letra maiúscula do nosso alfabeto** e os **elementos é representado pela mesma letra mas minúscula** (*A =* $[a_{ij}]_{mxn}$) e cada posição pode ser relacionado à outra matriz, *possuindo os mesmos valores dos elementos de mesma posição*.
 
 Quando uma matriz possui o *mesmo número de linhas e colunas*, nós podemos dizer que ela é **ordem N**, sendo N representando o *número (natural) de linhas e colunas*.

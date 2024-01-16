@@ -1,10 +1,10 @@
 [
-  "templater-obsidian",
-  "cm-editor-syntax-highlight-obsidian",
-  "obsidian-style-settings",
   "obsidian-admonition",
-  "obsidian-icon-folder",
+  "table-editor-obsidian",
+  "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
   "obsidian-git",
-  "table-editor-obsidian"
+  "obsidian-style-settings",
+  "templater-obsidian"
 ]

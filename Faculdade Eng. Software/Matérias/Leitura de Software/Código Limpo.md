@@ -14,7 +14,6 @@ O **código limpo** é manter o código *fácil de entender* que consequentement
 
 ---
 ## Introdução
----
 
 ![[Desenho Clean|600]]
 
@@ -24,7 +23,6 @@ Basicamente, o **Clean Code** visa *melhorar esses códigos*, deixando eles *fá
 
 
 ## Aplicação
----
 Existem *quatro pontos* fundamentais do Clean Code:
 
  * ***SOC*** = *Separation Of Concerns* ( Separe os interesses )
