@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef4e3570726d2332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Template.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Template.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Template.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -149,8 +162,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49882ea1db6bac20",
+  "active": "ef4e3570726d2332",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Template.md",
+    "conflict-files-obsidian-git.md",
+    "Códigos/AtividadeJava/src/main/java/atividade/Aula13/Sort.java",
+    "Códigos/AtividadeJava/src/main/java/atividade/test.sh",
+    "Códigos/AtividadeJava/src/main/java/atividade/CountingSort/CountingSort.java",
+    "Códigos/AtividadeJava/src/main/java/atividade/CountingSort/Counting.java",
+    "Códigos/AtividadeJava/src/main/java/atividade/CountingSort",
+    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At2/B.txt",
+    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At2/A.txt",
+    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At1/B.txt",
+    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At1/A.txt",
+    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At2",
+    "Trabalho/Segurança/DVR.md",
+    "Trabalho/Segurança/Speed Dome.md",
+    "Trabalho/Segurança/Alarmes.md",
+    "Trabalho/Redes/Introdução.md",
+    "Trabalho/Redes/CFTV.md",
+    "Imagens/TCP IP.png",
+    "Imagens/OSI.png",
     "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
     "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
@@ -164,13 +196,6 @@
     "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
     "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
-    "Códigos/AtividadeJava/src/main/java/atividade/Aula9/Au9Ex3.java~RF4a800e4.TMP",
-    "Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex13.java~RF4a7ff3e.TMP",
-    "Códigos/AtividadeJava/target/classes/atividade/Aula7/Au7Ex1.class~RF4a7f4a0.TMP",
-    "Códigos/AtividadeJava/target/classes/atividade/Aula6/Au6Ex4.class~RF4a7f154.TMP",
-    "Códigos/AtividadeJava/target/classes/atividade/Aula4/Au4Ex3.class~RF4a7ebb6.TMP",
-    "Códigos/AtividadeJava/target/classes/atividade/Aula2/Au2Ex2.class~RF4a7e993.TMP",
-    "Códigos/AtividadeJava/target/classes/atividade/Aula1/Au1Ex1.class~RF4a7e1d3.TMP",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",

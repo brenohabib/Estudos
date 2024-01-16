@@ -1,0 +1,10 @@
+public static void printOwing(invoice) {
+    printBanner();
+    Float outstanding = calculateOutstanding(invoice);
+    printDetails(invoice, outstanding);
+}
+
+private static void printDetails(invoice, outstanding) {
+    System.out.println("name: " + invoice.customer);
+    System.out.println("amount: " + outstanding);
+}
