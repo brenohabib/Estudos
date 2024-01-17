@@ -1,11 +1,5 @@
 package atividade.Aula13;
 
-import java.util.Scanner;
-
-import atividade.Aula13.Menu.SegmentPosition;
-
-import java.util.concurrent.TimeUnit;
-
 class Sort {
     
     public static int[] indices;

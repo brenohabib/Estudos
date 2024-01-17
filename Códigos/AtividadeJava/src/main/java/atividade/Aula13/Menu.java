@@ -2,11 +2,7 @@ package atividade.Aula13;
 
 import java.util.Scanner;
 
-import atividade.Aula13.Menu.SegmentPosition;
-
-import java.util.concurrent.TimeUnit;
-
-class Menu extends SegmentPosition {
+class Menu {
 
     private int size;
     private String title;
