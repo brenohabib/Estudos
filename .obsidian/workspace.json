@@ -1,21 +1,64 @@
 {
   "main": {
-    "id": "a3863e3ef4bc0504",
+    "id": "7a3afc18b1fb293c",
     "type": "split",
     "children": [
       {
-        "id": "2b8a96bb578ca3cc",
+        "id": "ad9191536008c76e",
         "type": "tabs",
+        "dimension": 72.1351025331725,
         "children": [
           {
-            "id": "49882ea1db6bac20",
+            "id": "a53fad12e44e93a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0334b82f472f8dd6",
+        "type": "tabs",
+        "dimension": 27.864897466827507,
+        "children": [
+          {
+            "id": "bc216a4e487b87b2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1.5546875,
+                  "lineSizeMultiplier": 1.73333333333333,
+                  "collapse-forces": false,
+                  "centerStrength": 0.666666666666667,
+                  "repelStrength": 10.4166666666667,
+                  "linkStrength": 0.484375,
+                  "linkDistance": 162,
+                  "scale": 0.4545695463989534,
+                  "close": true
+                }
               }
             }
           }
@@ -25,15 +68,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cf4647f3e297e1e6",
+    "id": "a47e061804b59679",
     "type": "split",
     "children": [
       {
-        "id": "a6256ee5dbfcce8c",
+        "id": "f3ec6c6ebaebf46d",
         "type": "tabs",
         "children": [
           {
-            "id": "b764ee9116fea7b6",
+            "id": "23b87f6cfa6fb1af",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +86,7 @@
             }
           },
           {
-            "id": "fd9e78369213ea37",
+            "id": "e43b1d235544e6b2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +101,7 @@
             }
           },
           {
-            "id": "64d04bfd709ca79e",
+            "id": "e3cedb2b2349503a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +112,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 217.5
   },
   "right": {
-    "id": "86ce2ce3e397db43",
+    "id": "af95615754575cd7",
     "type": "split",
     "children": [
       {
-        "id": "04df13a9b49312bc",
+        "id": "04548b0c945dac82",
         "type": "tabs",
         "children": [
           {
-            "id": "594042c69bfdbe70",
+            "id": "ea3b53f4bc3b4f58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "587f5f1d5576684e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,35 +151,36 @@
             }
           },
           {
-            "id": "1b8d1f90fa7f01ff",
+            "id": "57b6bae4af539d4a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c654a06213ab005e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ca91bcc6b8cc2e23",
+            "id": "b30ef860f0b922f2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md"
+                "file": "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md"
+              }
+            }
+          },
+          {
+            "id": "f132b05a99862896",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -133,59 +188,74 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49882ea1db6bac20",
+  "active": "a53fad12e44e93a3",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
+    "Faculdade Eng. Software/Explicações/Desenho Numeros.md",
+    "Faculdade Eng. Software/Explicações/Desenho Conjuntos.md",
+    "Faculdade Eng. Software/Explicações/coluna.md",
     "Faculdade Eng. Software/Template.md",
-    "conflict-files-obsidian-git.md",
-    "Códigos/AtividadeJava/src/main/java/atividade/Aula13/Sort.java",
-    "Códigos/AtividadeJava/src/main/java/atividade/test.sh",
-    "Códigos/AtividadeJava/src/main/java/atividade/CountingSort/CountingSort.java",
-    "Códigos/AtividadeJava/src/main/java/atividade/CountingSort/Counting.java",
-    "Códigos/AtividadeJava/src/main/java/atividade/CountingSort",
-    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At2/B.txt",
-    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At2/A.txt",
-    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At1/B.txt",
-    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At1/A.txt",
-    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At2",
-    "Trabalho/Segurança/DVR.md",
     "Trabalho/Segurança/Speed Dome.md",
+    "Trabalho/Segurança/DVR.md",
     "Trabalho/Segurança/Alarmes.md",
     "Trabalho/Redes/Introdução.md",
     "Trabalho/Redes/CFTV.md",
-    "Imagens/TCP IP.png",
-    "Imagens/OSI.png",
-    "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
-    "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
-    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
-    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
-    "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
-    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+    "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Faculdade Eng. Software/Matérias/Lógica/Classe de Equivalência.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md"
+    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
+    "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
+    "Faculdade Eng. Software/Explicações/Conceitos KISS.md",
+    "Faculdade Eng. Software/Explicações/Desenho cartesiano.md",
+    "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
+    "Trabalho/Segurança",
+    "Códigos/AtividadeJava/src/main/java/atividade/Aula13/Sort.java",
+    "Códigos/AtividadeJava/src/main/java/atividade/Aula13/SegmentPosition.java",
+    "Códigos/AtividadeJava/src/main/java/atividade/Aula13/Menu.java",
+    "Imagens/TCP IP.png",
+    "Imagens/OSI.png",
+    "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
+    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
+    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
+    "Trabalho/Redes",
+    "Trabalho",
+    "Nova pasta",
+    "Códigos/AtividadeJava/target/classes/atividade/TheInfinite/MandelbrotSet.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At4.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At3.class",
+    "Faculdade Eng. Software/Explicações/Nomes Porpriedades Boole.png",
+    "Faculdade Eng. Software/Explicações/Teoremas de Boole.png",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Cleida - Algebra.png",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Drawing 2023-08-11 20.35.43.excalidraw.png",
+    "Pasted image 20230804201348.png",
+    "Pasted image 20230804201339.png",
+    "Pasted image 20230805225031.png",
+    "Faculdade Eng. Software/Explicações/Sem título.canvas",
+    "Faculdade Eng. Software/Sem título.canvas",
+    "Sem título.canvas"
   ]
 }

@@ -112,7 +112,6 @@
 		NVD 1304 (H.264 e H.265)
 		MHDX 3104 (H.264B, H.264, H.264H, H.264+, H.265 e H.265+)
 		NVDD 5124 (MJPEG, H.264, H.265 e H.265+)
-
 	- *Armazenamento*
 		Os gravadores possuem suporte para diferentes tamanhos de HDD
 		Clientes normalmente estimam pela quantidade de dias que podem ser gravados
@@ -159,5 +158,3 @@
 	Gratuito para Windows, utilizados em cenários até médio porte e possibilita visualização, reprodução, gravação e gerenciamento de eventos
 - *Defense IA*
 	Cenários de alta complexidade, arquitetura centralizada, suporte à inteligências artificiais, gerenciamento de eventos e relatórios
-	
-*ola*
