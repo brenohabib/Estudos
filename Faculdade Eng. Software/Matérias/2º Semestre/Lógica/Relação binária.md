@@ -5,7 +5,7 @@ data: 02/08/2023
 ---
 ## Introdução
 ![[Desenho relação binária|600]]
-Relações binárias são **relações entre dois [[conjuntos]]** que *seguem uma determinada propriedade*, as relações são feitas em *relação aos elementos dos conjuntos, em pares*.
+Relações binárias são **relações entre dois [[Conjuntos]]** que *seguem uma determinada propriedade*, as relações são feitas em *relação aos elementos dos conjuntos, em pares*.
 
 >[!example] Exemplo
 >![[Exemplo Relação|600]]
@@ -14,7 +14,7 @@ Relações binárias são **relações entre dois [[conjuntos]]** que *seguem um
 >Pode ser escrito como **AxB** = *{(1,2),(1,4),(1,6),(3,2),(3,4),(3,6),(5,2),(5,4),(5,6),(7,2),(7,4),(7,6)}*
 
 ## Par Ordenado
-É uma **coleção de dois elementos onde a ordem deles importa e eles podem ser iguais** ao contrário dos [[conjuntos]].
+É uma **coleção de dois elementos onde a ordem deles importa e eles podem ser iguais** ao contrário dos [[Conjuntos]].
 
 Normalmente *representado como um par* (**a, b**) e somente (**a, b**) $\neq$ (**b, a**), se **a $\neq$ b**, ou seja, **a** *somente vai ser igual a* **b** se *ambos forem o mesmo valor*, senão, sempre serão diferentes.
 

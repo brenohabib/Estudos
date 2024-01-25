@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 282.5
   },
   "right": {
     "id": "86ce2ce3e397db43",
@@ -141,10 +141,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49882ea1db6bac20",
+  "active": "b764ee9116fea7b6",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/Lógica/Álgebra Booleana.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Análise Combinatória.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Untitled",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto",
+    "Faculdade Eng. Software/Matérias/3º Semestre",
+    "Faculdade Eng. Software/Matérias/2º Semestre",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Template.md",
     "conflict-files-obsidian-git.md",
     "Códigos/AtividadeJava/src/main/java/atividade/Aula13/Sort.java",
@@ -153,10 +158,6 @@
     "Códigos/AtividadeJava/src/main/java/atividade/CountingSort/Counting.java",
     "Códigos/AtividadeJava/src/main/java/atividade/CountingSort",
     "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At2/B.txt",
-    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At2/A.txt",
-    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At1/B.txt",
-    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At1/A.txt",
-    "Códigos/AtividadeJava/src/main/java/atividade/Clean4/At2",
     "Trabalho/Segurança/DVR.md",
     "Trabalho/Segurança/Speed Dome.md",
     "Trabalho/Segurança/Alarmes.md",
@@ -164,20 +165,20 @@
     "Trabalho/Redes/CFTV.md",
     "Imagens/TCP IP.png",
     "Imagens/OSI.png",
-    "Faculdade Eng. Software/Matérias/Sistema Operacional/Sistema Operacional.md",
-    "Faculdade Eng. Software/Matérias/Programação/Lógica de Programação.md",
-    "Faculdade Eng. Software/Matérias/Programação/Linguagens de Programação.md",
-    "Faculdade Eng. Software/Matérias/Programação/Algoritmos.md",
-    "Faculdade Eng. Software/Matérias/Programação/Arrays/Programando com Arrays.md",
-    "Faculdade Eng. Software/Matérias/Programação/Arrays/Arrays.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Relações equivalentes.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Relação binária.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Conjuntos.md",
-    "Faculdade Eng. Software/Matérias/Lógica/Classe de Equivalência.md",
-    "Faculdade Eng. Software/Matérias/Leitura de Software/Código Limpo.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matrizes - Propriedades.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Matriz.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Calculo entre Matrizes.md"
+    "Faculdade Eng. Software/Matérias/2º Semestre/Sistema Operacional/Sistema Operacional.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Lógica de Programação.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Linguagens de Programação.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Algoritmos.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Programando com Arrays.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Relações equivalentes.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Relação binária.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Conjuntos.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Classe de Equivalência.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Leitura de Software/Código Limpo.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md"
   ]
 }
