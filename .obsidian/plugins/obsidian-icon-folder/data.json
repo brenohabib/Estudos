@@ -30,7 +30,6 @@
     },
     "iconInTabsEnabled": true
   },
-  "Faculdade Eng. Software/Template.md": "SiCodecademy",
   "Imagens/Cubo de Lógica.png": "LiImage",
   "Imagens/Fluxograma.png": "LiImage",
   "Imagens/Linguagens de programação.jpg": "LiImage",
@@ -79,5 +78,6 @@
   "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Linguagens de Programação.md": "LiCode2",
   "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md": "LiCode2",
   "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Programando com Arrays.md": "LiCode2",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Sistema Operacional/Sistema Operacional.md": "LiSettings"
+  "Faculdade Eng. Software/Matérias/2º Semestre/Sistema Operacional/Sistema Operacional.md": "LiSettings",
+  "Faculdade Eng. Software/template/Template.md": "SiCodecademy"
 }
