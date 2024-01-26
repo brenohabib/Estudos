@@ -25,5 +25,14 @@
       ],
       "key": "U"
     }
+  ],
+  "templater-obsidian:Faculdade Eng. Software/Template.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }
