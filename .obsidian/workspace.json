@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Sem título.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Sem título.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Sem título.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Sem título.md"
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,15 +150,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "49882ea1db6bac20",
+  "active": "ca91bcc6b8cc2e23",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/Sem título.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Análise Combinatória.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Algoritmos.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Leitura de Software/Código Limpo.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Classe de Equivalência.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Sem título.md",
+    "Faculdade Eng. Software/template/Template.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Sem título.md",
+    "2023-02-08.md",
+    "Faculdade Eng. Software/Matérias/Sem título.md",
     "Faculdade Eng. Software/Sem título.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Untitled.md",
     "Sem título.md",
     "Faculdade Eng. Software/template",
-    "Faculdade Eng. Software/template/Template.md",
     "conflict-files-obsidian-git.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa",
@@ -168,8 +177,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos",
     "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto",
     "Faculdade Eng. Software/Matérias/3º Semestre",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Análise Combinatória.md",
     "Trabalho/Segurança/DVR.md",
     "Trabalho/Segurança/Speed Dome.md",
     "Trabalho/Segurança/Alarmes.md",
@@ -180,14 +187,8 @@
     "Faculdade Eng. Software/Matérias/2º Semestre/Sistema Operacional/Sistema Operacional.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Linguagens de Programação.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Programando com Arrays.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Relações equivalentes.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Relação binária.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Conjuntos.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Classe de Equivalência.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Leitura de Software/Código Limpo.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md"
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Relação binária.md"
   ]
 }

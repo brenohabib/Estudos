@@ -1,7 +1,7 @@
 ---
 tags: 
 referências: 
-data: dd/mm/aaaa
+data: 2024-01-25
 ---
 ## Resumo
 
