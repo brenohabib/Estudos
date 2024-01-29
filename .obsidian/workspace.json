@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
+                "file": "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "paradig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
+                "file": "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
+                "file": "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md"
+                "file": "Faculdade Eng. Software/Explicações/Paradigma de Programação.md"
               }
             }
           }
@@ -152,9 +153,20 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
+    "Códigos/AtividadeJava/target/classes/atividade/TheInfinite/MandelbrotSet.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At4.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At3.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At2.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At1.class",
+    "Códigos/AtividadeJava/target/classes/atividade/CountingSort/CountingSort.class",
+    "Códigos/AtividadeJava/target/classes/atividade/CountingSort/Counting.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Clean3/Somatoria.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex3.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex2.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex1.class",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Linguagens de Programação.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
+    "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Análise Combinatória.md",
@@ -170,17 +182,7 @@
     "Faculdade Eng. Software/Sem título.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Untitled.md",
     "Sem título.md",
-    "Faculdade Eng. Software/template",
     "conflict-files-obsidian-git.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto",
-    "Faculdade Eng. Software/Matérias/3º Semestre",
     "Trabalho/Segurança/DVR.md",
     "Trabalho/Segurança/Speed Dome.md",
     "Trabalho/Segurança/Alarmes.md",
@@ -188,7 +190,6 @@
     "Trabalho/Redes/CFTV.md",
     "Imagens/TCP IP.png",
     "Imagens/OSI.png",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Sistema Operacional/Sistema Operacional.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Lógica de Programação.md"
+    "Faculdade Eng. Software/Matérias/2º Semestre/Sistema Operacional/Sistema Operacional.md"
   ]
 }
