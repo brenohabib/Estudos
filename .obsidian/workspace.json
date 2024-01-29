@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Sem título.md"
               }
             }
           }
@@ -151,8 +150,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca91bcc6b8cc2e23",
+  "active": "49882ea1db6bac20",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Sem título.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Linguagens de Programação.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Algoritmos.md",
@@ -186,10 +189,6 @@
     "Imagens/TCP IP.png",
     "Imagens/OSI.png",
     "Faculdade Eng. Software/Matérias/2º Semestre/Sistema Operacional/Sistema Operacional.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Lógica de Programação.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Linguagens de Programação.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Programando com Arrays.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Relações equivalentes.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Relação binária.md"
+    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Lógica de Programação.md"
   ]
 }
