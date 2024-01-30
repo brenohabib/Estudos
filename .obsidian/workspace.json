@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
-                "mode": "preview",
+                "file": "Faculdade Eng. Software/template/Template.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
+                "file": "Faculdade Eng. Software/template/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
+                "file": "Faculdade Eng. Software/template/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md"
+                "file": "Faculdade Eng. Software/template/Template.md"
               }
             }
           }
@@ -151,6 +151,11 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
+    "2024-01-03.md",
+    "Faculdade Eng. Software/template/Template.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Classe de Equivalência.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Análise Combinatória.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
@@ -174,19 +179,14 @@
     "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex2.class",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Algoritmos.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Classe de Equivalência.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Sem título.md",
-    "Faculdade Eng. Software/template/Template.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Sem título.md",
     "2023-02-08.md",
     "Faculdade Eng. Software/Matérias/Sem título.md",
     "Faculdade Eng. Software/Sem título.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Untitled.md",
     "Sem título.md",
-    "conflict-files-obsidian-git.md",
     "Imagens/TCP IP.png",
     "Imagens/OSI.png"
   ]
