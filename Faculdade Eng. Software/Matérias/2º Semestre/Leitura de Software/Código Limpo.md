@@ -12,7 +12,6 @@ O **código limpo** é manter o código *fácil de entender* que consequentement
 >
 >Saber o básico para *manter o código entendível é importante*, mas muitas técnicas podem fazer você desistir de programar, por ser "complicado" demais.
 
----
 ## Introdução
 
 ![[Desenho Clean|600]]

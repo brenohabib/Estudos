@@ -11,9 +11,11 @@
             "id": "49882ea1db6bac20",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md"
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md"
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md"
               }
             }
           }
@@ -149,9 +151,10 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/2º Semestre/Leitura de Software/Código Limpo.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Explicações/Relação Simétrica.md",
     "Faculdade Eng. Software/Explicações/coluna.md",
@@ -174,7 +177,6 @@
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Classe de Equivalência.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Sem título.md",
     "Faculdade Eng. Software/template/Template.md",
