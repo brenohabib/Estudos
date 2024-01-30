@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
@@ -186,7 +187,6 @@
     "2023-02-08.md",
     "Faculdade Eng. Software/Matérias/Sem título.md",
     "Faculdade Eng. Software/Sem título.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Untitled.md",
     "Imagens/TCP IP.png",
     "Imagens/OSI.png"
   ]
