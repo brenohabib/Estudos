@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md"
               }
             }
           }
@@ -152,8 +152,8 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
     "Faculdade Eng. Software/Explicações/Paradigma de Programação.md",
     "Códigos/AtividadeJava/target/classes/atividade/TheInfinite/MandelbrotSet.class",
     "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At4.class",

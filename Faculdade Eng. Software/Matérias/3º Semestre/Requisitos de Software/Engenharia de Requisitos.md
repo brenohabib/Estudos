@@ -6,7 +6,7 @@ data: 2024-01-29
 ---
 ## Resumo
 
-Definição do que pode ou não ser feito a modo de que é realizado *todos* os requisitos que foram prepostos. 
+Definição do que pode ou não ser feito a modo de que é realizado *todos* os requisitos que foram prepostos.
 ## Introdução
 
 ### Requisitos de usuário
