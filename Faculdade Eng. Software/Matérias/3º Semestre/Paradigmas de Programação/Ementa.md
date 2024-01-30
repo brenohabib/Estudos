@@ -1,7 +1,9 @@
 ---
-tags: 
+tags:
+  - paradigma
+  - ementa
 referências: 
-data: 2024-01-25
+data: 2024-01-29
 ---
 * Linguagem de Programação
 * Estruturas de controle
@@ -13,5 +15,6 @@ data: 2024-01-25
 	* Lógico
 	* Concorrente
 
-Trabalhos/Atividades3,0
-Prova - 7,0
+### Forma de avaliação
+- Trabalhos/Atividades3,0
+- Prova - 7,0

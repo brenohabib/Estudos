@@ -1,23 +1,28 @@
 ---
-tags: 
+tags:
+  - lógica
 referências: 
-data: 2024-01-25
+data: 2024-01-29
 ---
 ## Resumo
 
-Definição do que pode ou não ser feito a modo de que é feito *todos* os requisitos que foram prepostos. 
+Definição do que pode ou não ser feito a modo de que é realizado *todos* os requisitos que foram prepostos. 
 ## Introdução
 
 ### Requisitos de usuário
 - Declaração de alto nível escritas em linguagem natural
 - Escritos para os clientes
+- São mais abstratos e simples de entender
+- Podem ser interpretados de várias formas
 ### Requisito de sistema
 - Um documento estruturado estabelecendo descrições detalhadas das funções, serviços e restrições operacionais do sistema
 - Define o que deve ser implementado e pode até ser parte de um contrato entre o cliente e o desenvolvedor
+- São informações mais específicas do que ser feito na hora do desenvolvimento
 ### Requisitos funcionais
 - Serviços que o sistema deve fornecer
 - Como o sistema deve reagir a entradas específicas
 - Como o sistema deve se comportar em determinadas situações
+- São funções que não podem faltar em um projeto
 ### Requisitos não funcionais
 - Restrições sobre serviços ou funções oferecidos pelo sistema tais como restrições de tempo de resposta, restrições sobre o processo de desenvolvimento, padrões, etc.
 ### Imprecisão de requisitos
