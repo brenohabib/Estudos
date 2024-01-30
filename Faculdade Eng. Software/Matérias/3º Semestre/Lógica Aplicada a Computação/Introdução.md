@@ -10,6 +10,8 @@ data: 2024-01-30
 Um argumento é um conjunto de proposições que utilizamos para justificar (provar, dar razão, suportar) algo. A proposição que queremos justificar tem o nome de **conclusão**;
 
 
+
+
 ## Importância
 
 - Desenvolvimento do Pensamento Crítico
