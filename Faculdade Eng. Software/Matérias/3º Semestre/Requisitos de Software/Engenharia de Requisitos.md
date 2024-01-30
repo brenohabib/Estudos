@@ -26,3 +26,10 @@ Definição do que pode ou não ser feito a modo de que é feito *todos* os requ
 - Considere o termo 'telas apropriadas'
 	- Intenção do usuário - tela de propósito especial para cada tipo diferente de documento
 	- Interpretação do desenvolvedor - fornece uma tela de texto que mostra o conteúdo de documento
+### Requisitos completos e consistentes
+- Em princípio, requisitos devem ser completos e consistentes
+- Completude
+	- Eles devem incluir descrições de todos os recursos requiridos
+- Consistência
+	- Não deve haver conflitos ou contradições nas descrições dos recursos de sistema
+- Na prática, é impossível produzir um documento de requisitos completo e consistente
