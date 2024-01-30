@@ -1,7 +1,10 @@
 ---
-tags: html, internet, fundamentos
+tags:
+  - html
+  - internet
+  - fundamentos
 referências: https://www.youtube.com/watch?v=F74GKCLXUWM
-data: 13/08/2023
+data: 2023-08-20
 ---
 ## Resumo
 
@@ -11,7 +14,6 @@ Hoje em dia, a internet evoluiu o suficiente para todos no mundo estarem acessan
 
 ---
 ## Introdução
----
 
 
 ### Rascunho

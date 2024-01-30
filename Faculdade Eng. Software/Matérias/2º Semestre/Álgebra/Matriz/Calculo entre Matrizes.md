@@ -5,7 +5,6 @@ data: 28/07/2023
 ---
 
 ## Soma e Subtração
----
 Sempre quando formos calcular duas matrizes, *utilizamos os elementos* dentro dela para *obter uma resposta que ,normalmente, também é outra matriz*.
 
 Para descobrir quais elementos usar na hora de fazer o cálculo, podemos simplesmente *pegar o mesmo índice entre as duas tabelas*.
