@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sem título.md"
               }
             }
           }
@@ -151,6 +151,8 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sem título.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
@@ -178,7 +180,6 @@
     "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex3.class",
     "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex2.class",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Linguagens de Programação.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Sem título.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Sem título.md",
@@ -186,7 +187,6 @@
     "Faculdade Eng. Software/Matérias/Sem título.md",
     "Faculdade Eng. Software/Sem título.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Untitled.md",
-    "Sem título.md",
     "Imagens/TCP IP.png",
     "Imagens/OSI.png"
   ]
