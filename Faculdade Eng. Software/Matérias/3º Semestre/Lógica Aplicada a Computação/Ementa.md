@@ -14,7 +14,6 @@ data: 2024-01-30
 - Dedução natural: Consequência lógica
 - Regras Derivadas e Teoremas
 - Prova por Refutação
-
 ## Cronograma
 
 - [ ] Colocar cronograma aqui
