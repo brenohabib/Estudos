@@ -17,8 +17,8 @@ data: 2024-01-30
 ## Cronograma
 
 | LÓGICA APLICADA À COMPUTAÇÃO |       |         |                                                                          |
-|:----------------------------:| ----- | ------- | ------------------------------------------------------------------------ |
-|           Semanas            | Datas | Aulas   | Tópicos                                                                  |
+|:----------------------------:|:-----:|:-------:|:------------------------------------------------------------------------ |
+|           Semanas            | Datas |  Aulas  | Tópicos                                                                  |
 |           Semana 1           | 30/01 | Aula 01 | Apresentação da disiciplina                                              |
 |                              | 01/02 | Aula 02 | A linguagem da Lógica Proposicional (Seções 1.1 a 1.7)                   |
 |           Semana 2           | 06/02 | Aula 03 | Exercícios                                                               |

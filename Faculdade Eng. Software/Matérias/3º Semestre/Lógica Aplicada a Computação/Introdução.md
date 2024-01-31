@@ -6,11 +6,19 @@ data: 2024-01-30
 ---
 ## Estrutura
 
+### Lógica
+
+Uma das disciplinas mais antigas e fundamentais da filosofia e da matemática, é o estudo *sistemático* dos princípios de validade do raciocínio e da argumentação.
+
+A lógica investiga as *estruturas* que determinam a *verdade* ou a *falsidade* das *proposições e a validade dos argumentos*, ou seja, ela lida com a maneira correta de raciocinar.
 ### Argumentos, Premissas e Proposições
-Um argumento é um conjunto de proposições que utilizamos para justificar (provar, dar razão, suportar) algo. A proposição que queremos justificar tem o nome de **conclusão**;
 
+> [!hint] O que são?
+> **Proposição** é uma declaração ou frase em que pode ser dada como ***verdadeira*** ou ***falsa*** mas nunca os dois ao mesmo tempo
+> **Premissas** são sempre *declarações* que podem ser claramente avaliadas como ***verdadeiro*** ou ***falso***. Todas as premissas são proposições, mas *nem todas as proposições* são premissas pois premissas vem acompanhadas com uma *conclusão*
+> 
 
-
+Um *argumento* é um conjunto de *proposições* que utilizamos para justificar (provar, dar razão, suportar) algo. A proposição que queremos justificar tem o nome de **conclusão**;
 
 ## Importância
 
