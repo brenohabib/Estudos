@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md"
               }
             }
           },
@@ -160,10 +160,11 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
@@ -192,7 +193,6 @@
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Linguagens de Programação.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Algoritmos.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Sem título.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Sem título.md",
     "2023-02-08.md",
     "Faculdade Eng. Software/Matérias/Sem título.md",
     "Faculdade Eng. Software/Sem título.md",
