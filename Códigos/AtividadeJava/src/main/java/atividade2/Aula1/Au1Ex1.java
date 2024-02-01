@@ -7,8 +7,8 @@ public class Au1Ex1 {
 
         Scanner input = new Scanner(System.in);
         System.out.println("Digite um valor inteiro: ");
-        parametro(input.nextInt());
-
+        
+        System.out.println("O valor digitado é " + parametro(input.nextInt()));
         input.close();
     }
 
