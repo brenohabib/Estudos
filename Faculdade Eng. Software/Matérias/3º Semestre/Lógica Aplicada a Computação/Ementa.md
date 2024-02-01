@@ -5,9 +5,6 @@ tags:
 referências: 
 data: 2024-01-30
 ---
-
-## Introdução
-
 - Formalização de argumentos
 - Lógica de Primeira Ordem
 - Cálculo de predicado e cálculo proposicional

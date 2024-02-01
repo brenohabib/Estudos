@@ -5,8 +5,6 @@ tags:
 referências: 
 data: 2024-01-31
 ---
-### Introdução
-
 - Compreender e diferenciar procedimentos e funções;
 - Capacitar a identificar a necessidade de utilização de procedimentos e funções de acordo com a necessidade;
 - Apresentar o conceito de tipos personalizados bem como agrupamentos

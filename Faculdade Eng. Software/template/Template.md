@@ -1,7 +1,7 @@
 ---
 tags: 
 referências: 
-data: 2024-01-31
+data: 2024-02-01
 ---
 ## Resumo
 
