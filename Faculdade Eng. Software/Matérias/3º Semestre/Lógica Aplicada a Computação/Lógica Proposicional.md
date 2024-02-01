@@ -47,6 +47,8 @@ Definição 1.2
 - Se H e G são fórmulas, então a disjunção de H e G: dada por (H v G), é uma fórmula
 - Se H e G são fórmulas, então a conjunção de H e G: dada por (H ^ G) é uma fórmula
 
+Definição 1.3
+ Precedência
 ## Características sintáticas das fórmulas
 
 Definição 1.4
@@ -57,5 +59,14 @@ Definição 1.4
 Definição 1.5
 - H é uma subfórmula de H
 - se H é uma fórmula do tipo (~G), então G é uma subfórmula de H
+
+ Subfórmula é o cabeçalho da tabela verdade
+
+Definição 1.6
+Notação Polonesa
+- Todo símbolo proposicional é uma fórmula
+- Se H e G são fórulas, então a disjunção de H e G é dada por vHG; é uma fórmula
+- Se H e G sãofórmulas então a conjunção de H e G é dada por ^ HG; é uma fórmula
+
 
 
