@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - lógica
 referências: 
 data: 2024-02-01
 ---
@@ -66,7 +67,7 @@ Definição 1.6
 Notação Polonesa
 - Todo símbolo proposicional é uma fórmula
 - Se H e G são fórulas, então a disjunção de H e G é dada por vHG; é uma fórmula
-- Se H e G sãofórmulas então a conjunção de H e G é dada por ^ HG; é uma fórmula
+- Se H e G são fórmulas então a conjunção de H e G é dada por ^ HG; é uma fórmula
 
 
 
