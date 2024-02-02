@@ -40,7 +40,7 @@ Imagine um universo onde as frases são como peças de Lego. A Lógica Proposici
 5. **Equivalência (↔)**
 ### Definição 1.4
 
-Principio fundamental da contagem
+Basicamente seria uma forma de *demonstrar* a contagem de símbolos e conectivos lógicos, seria uma *contagem* desse total.
 
 - Se H = P, então comp\[H] = 1
 - comp\[~H] = comp\[H] + 1
@@ -48,15 +48,24 @@ Principio fundamental da contagem
 
 ### Definição 1.5
 
-- H é uma subfórmula de H
-- se H é uma fórmula do tipo (~G), então G é uma subfórmula de H
+Subfórmula é basicamente o cabeçalho da tabela verdade
 
-Subfórmula é o cabeçalho da tabela verdade
+**Seja H uma fórmula da lógica proposicional:**
 
+ 1. H é uma subfórmula de *si mesma*.
+ 2. Se *H = (¬G)*, então *G é uma subfórmula de H*.
+ 3. Se *H* é uma fórmula do tipo *(G ∨ E), (G ∧ E), (G → E) ou (G ↔ E)*, então G e E são subfórmulas de H.
+ 
+ Se G é uma subfórmula de H, então toda subfórmula de G é uma subfórmula de H.
+
+>[!example] Exemplo
+Considere a fórmula *H = (P ∨ (¬Q → R))*.
+>
+> As subfórmulas de H são: {*P*, *Q*, *R*, *¬Q*, *¬Q → R*, *(P ∨ (¬Q → R))*}
 ### Definição 1.6
 
 Notação Polonesa
 - Todo símbolo proposicional é uma fórmula
-- Se H e G são fórulas, então a disjunção de H e G é dada por vHG; é uma fórmula
+- Se H e G são fórmulas, então a disjunção de H e G é dada por vHG; é uma fórmula
 - Se H e G são fórmulas então a conjunção de H e G é dada por ^ HG; é uma fórmula
 
