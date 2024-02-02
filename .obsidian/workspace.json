@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Ementa.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Lógica Proposicional.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Ementa.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
@@ -195,7 +196,6 @@
     "Faculdade Eng. Software/Matérias/2º Semestre/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Explicações/Relação Simétrica.md",
-    "Faculdade Eng. Software/Explicações/coluna.md",
     "Imagens/TCP IP.png",
     "Imagens/OSI.png"
   ]

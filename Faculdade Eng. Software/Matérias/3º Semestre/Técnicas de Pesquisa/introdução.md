@@ -1,6 +1,5 @@
 ---
 tags:
-  - ementa
   - pesquisa
 referências: 
 data: 2024-02-01
