@@ -37,4 +37,3 @@ Um *argumento* é um conjunto de *proposições* que utilizamos para justificar 
 - Aplicação na Tecnologia e Computação
 - Melhoria na Comunicação e na Argumentação
 - Ferramenta para Entender o Mundo
-
