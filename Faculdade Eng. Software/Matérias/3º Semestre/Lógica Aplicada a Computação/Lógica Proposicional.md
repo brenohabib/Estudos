@@ -64,8 +64,5 @@ Considere a fórmula *H = (P ∨ (¬Q → R))*.
 > As subfórmulas de H são: {*P*, *Q*, *R*, *¬Q*, *¬Q → R*, *(P ∨ (¬Q → R))*}
 ### Definição 1.6
 
-Notação Polonesa
-- Todo símbolo proposicional é uma fórmula
-- Se H e G são fórmulas, então a disjunção de H e G é dada por vHG; é uma fórmula
-- Se H e G são fórmulas então a conjunção de H e G é dada por ^ HG; é uma fórmula
+A notação polonesa, também conhecida como notação prefixa, é uma forma de escrever fórmulas da lógica proposicional que elimina a necessidade de parênteses e aumenta a clareza da leitura. Ela coloca os operadores lógicos antes dos seus operandos, facilitando a análise da ordem de precedência das operações.
 
