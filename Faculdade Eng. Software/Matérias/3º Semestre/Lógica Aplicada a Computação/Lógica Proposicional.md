@@ -64,5 +64,9 @@ Considere a fórmula *H = (P ∨ (¬Q → R))*.
 > As subfórmulas de H são: {*P*, *Q*, *R*, *¬Q*, *¬Q → R*, *(P ∨ (¬Q → R))*}
 ### Definição 1.6
 
-A notação polonesa, também conhecida como notação prefixa, é uma forma de escrever fórmulas da lógica proposicional que elimina a necessidade de parênteses e aumenta a clareza da leitura. Ela coloca os operadores lógicos antes dos seus operandos, facilitando a análise da ordem de precedência das operações.
+A **notação polonesa** é uma forma de anotação para *eliminar* o uso de pontuação nas fórmulas.
+
+>[!example] Exemplo
+>Considere a fórmula *H = (P ∨ (¬Q → R))*
+>Transformando em notação polonesa: *H = ∨P→¬QR*
 
