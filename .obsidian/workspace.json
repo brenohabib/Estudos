@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Lógica Proposicional.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Lógica Proposicional.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Lógica Proposicional.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Lógica Proposicional.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +157,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b764ee9116fea7b6",
+  "active": "49882ea1db6bac20",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/template/Template.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Lógica Proposicional.md",
+    "Faculdade Eng. Software/template/Template.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Ementa.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
@@ -170,8 +171,6 @@
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Conjuntos.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Relação binária.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Relações equivalentes.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ementa.md",
