@@ -16,5 +16,5 @@ data: 2024-01-29
 	* Concorrente
 
 ### Forma de avaliação
-- Trabalhos/Atividades3,0
+- Trabalhos/Atividades - 3,0
 - Prova - 7,0

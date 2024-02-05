@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md"
               }
             }
           },
@@ -159,6 +159,11 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
+    "Imagem do WhatsApp de 2024-02-02 à(s) 20.12.41_93a3aad1.jpg",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
+    "Faculdade Eng. Software/template/Template.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Lógica Proposicional.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex4.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex5.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula2/Au2Ex5.java",
@@ -169,17 +174,12 @@
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula2/Au2Ex3.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex2.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula2/Au2Ex2.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex1.class",
-    "Imagem do WhatsApp de 2024-02-02 à(s) 20.12.41_93a3aad1.jpg",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Lógica Proposicional.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Excalidraw/Drawing 2024-02-02 12.42.35.excalidraw.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
-    "Faculdade Eng. Software/template/Template.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Ementa.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
@@ -192,7 +192,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ementa.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Algoritmos.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
     "2024-01-03.md",
