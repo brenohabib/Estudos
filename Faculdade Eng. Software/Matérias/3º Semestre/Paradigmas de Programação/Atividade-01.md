@@ -26,6 +26,7 @@ Executa várias funções matemáticas pré-definidas, ajudando a evitar reescri
 2) Por que é importante aprender sobre paradigmas? 
 
 Existem vários motivos para estudar sobre paradigmas de programação, dentre elas:
+
 - Pensamento para resolução de problemas
 - Te torna um desenvolvedor melhor
 - Vantagem no mercado de trabalho
