@@ -1,4 +1,4 @@
-- 06/08/2024
+- 06/02/2024
 	- Manhã
 		- Tiro de Guerra - Entreguei declaração
 	- Tarde
