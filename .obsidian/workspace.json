@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
+                "file": "Trabalho/Horário.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
+                "file": "Trabalho/Horário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
+                "file": "Trabalho/Horário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md"
+                "file": "Trabalho/Horário.md"
               }
             }
           },
@@ -159,9 +159,13 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Lógica Proposicional.md",
+    "Trabalho/Horário.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.epub",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.pandoc.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.tex",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/~$Requisitos Não Funcionais.pptx",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.pptx",
@@ -170,7 +174,6 @@
     "Atividade-01.pdf",
     "Sem título.canvas",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Lógica Proposicional.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/O que é.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
@@ -180,10 +183,7 @@
     "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex4.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex5.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula2/Au2Ex5.java",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula2/Au2Ex4.java",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Excalidraw/Drawing 2024-02-02 12.42.35.excalidraw.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
