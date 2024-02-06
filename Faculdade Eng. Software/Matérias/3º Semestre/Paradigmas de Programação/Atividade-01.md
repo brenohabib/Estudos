@@ -4,7 +4,7 @@ tags:
 referências: 
 data: 2024-02-05
 ---
-1) Cite quais são os paradigmas e descreva sobre eles:
+ 1) Cite quais são os paradigmas e descreva sobre eles:
 Imperativo, Lógico, Concorrente, Orientado a Objeto e Funcional.
 
 - *Imperativo*
