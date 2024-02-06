@@ -1,6 +1,7 @@
 ---
 tags:
-  - lógica
+  - requisitos
+  - fundamentos
 referências: 
 data: 2024-01-29
 ---

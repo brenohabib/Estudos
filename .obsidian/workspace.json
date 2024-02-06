@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Requisitos Não Funcionais.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Requisitos Não Funcionais.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Requisitos Não Funcionais.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Requisitos Não Funcionais.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md"
               }
             }
           },
@@ -159,14 +159,16 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
+    "Atividade-01.pdf",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
+    "Sem título.canvas",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Lógica Proposicional.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Requisitos Não Funcionais.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/O que é.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
-    "Atividade-01.pdf",
     "Imagem do WhatsApp de 2024-02-02 à(s) 20.12.41_93a3aad1.jpg",
     "Faculdade Eng. Software/template/Template.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Lógica Proposicional.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex4.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex5.class",
@@ -194,8 +196,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ementa.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Algoritmos.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
     "Imagens/TCP IP.png",
     "Imagens/OSI.png"
   ]
