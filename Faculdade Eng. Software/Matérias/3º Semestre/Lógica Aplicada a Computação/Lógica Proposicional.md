@@ -31,7 +31,7 @@ Imagine um universo onde as frases são como peças de Lego. A Lógica Proposici
 
 ### Definição 1.3
 
- A ordem de precedência dos conectivos lógicos, da maior para a menor, é a seguinte:
+ A ordem de *precedência* dos conectivos lógicos, da maior para a menor, é a seguinte:
 
 1. **Negação (¬)**
 2. **Conjunção (∧)**
@@ -48,7 +48,7 @@ Basicamente seria uma forma de *demonstrar* a contagem de símbolos e conectivos
 
 ### Definição 1.5
 
-Subfórmula é basicamente o cabeçalho da tabela verdade
+*Subfórmula* é basicamente o cabeçalho da tabela verdade.
 
 **Seja H uma fórmula da lógica proposicional:**
 
