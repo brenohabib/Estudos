@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:segurança",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md"
               }
             }
           },
@@ -158,10 +159,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "49882ea1db6bac20",
+  "active": "fd9e78369213ea37",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
     "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
@@ -183,7 +185,7 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
     "Imagem do WhatsApp de 2024-02-02 à(s) 20.12.41_93a3aad1.jpg",
     "Faculdade Eng. Software/template/Template.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex4.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex5.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula2/Au2Ex5.java",
