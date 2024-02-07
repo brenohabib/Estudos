@@ -3,7 +3,7 @@ package atividade2.Aula2;
 public class Au2Ex3 {
     public static void main(String[] args) {
         
-        System.out.println(fibonacci(3));
+        System.out.println(fibonacci(2));
 
     }
     public static int fibonacci(int num) {
