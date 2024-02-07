@@ -9,6 +9,6 @@ data: 2024-02-06
 - Objetos
 - Atributos
 - Mensagens e métodos
-- Encapsulamento de dados]
+- Encapsulamento de dados
 - Herança
 - Polimorfismo
