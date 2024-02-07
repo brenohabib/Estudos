@@ -7,7 +7,7 @@ public class Au2Ex5 {
     }
     public static void imprimirVetor(int[] vetor) {
         for(int i = 0; i < vetor.length; i++) {
-            System.out.print(vetor[i] + " ");
+            System.out.print(vetor[i] + " "); 
         }
     }
 }
