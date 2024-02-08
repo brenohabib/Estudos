@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md"
               }
             }
           },
@@ -160,8 +160,10 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ementa.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula3",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula3",
@@ -181,7 +183,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Lógica Proposicional.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/O que é.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
@@ -198,7 +199,6 @@
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Análise Combinatória.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Classe de Equivalência.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Conjuntos.md",
     "Imagens/TCP IP.png",
     "Imagens/OSI.png"
   ]
