@@ -26,3 +26,4 @@ Uma função total é uma função definida em todos os elementos de seu domíni
 
 Dadas uma fórmula E e uma interpretação i, então a interpretação de E, indicado por i\[E], é determinada pelas regras E, OU, SE ENTÃO, SE SOMENTE SE e NÃO.
 
+2,3,4,5,8,10
