@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ementa.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md"
               }
             }
           },
@@ -160,6 +160,10 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula3",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula3",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
     "Trabalho/Horário.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex5.class",
@@ -171,7 +175,6 @@
     "Códigos/AtividadeJava/target/classes/atividade2/Aula1/Au1Ex1.class",
     "Códigos/AtividadeJava/target/classes/atividade/TheInfinite/MandelbrotSet.class",
     "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At4.class",
-    "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At3.class",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
@@ -196,9 +199,6 @@
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Classe de Equivalência.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Conjuntos.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Relação binária.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Relações equivalentes.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md",
     "Imagens/TCP IP.png",
     "Imagens/OSI.png"
   ]
