@@ -7,3 +7,7 @@
 - 07/02/2024
 	- Tarde
 		- Saída Gaúcho -> Direto para faculdade
+
+- 09/02/2024
+	- Manhã/Tarde
+		- Ida para o Tiro de Guerra de Jataí
