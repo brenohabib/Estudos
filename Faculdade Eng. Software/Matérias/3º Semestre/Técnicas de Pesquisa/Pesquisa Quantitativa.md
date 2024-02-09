@@ -49,3 +49,7 @@ Exemplo:
 São valores atípicos entre os dados analisados
 
 Destaca-se o quanto um valor difere dos demais em um conjunto de dados
+
+Outliers nem sempre são erros
+
+
