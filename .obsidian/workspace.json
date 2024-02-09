@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/Horário.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Horário.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Horário.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/Horário.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md"
               }
             }
           },
@@ -160,6 +160,9 @@
   },
   "active": "49882ea1db6bac20",
   "lastOpenFiles": [
+    "Códigos/AtividadeJava/target/classes/AjudaGaby.class",
+    "Códigos/AtividadeJava/src/main/java/AjudaGaby.java",
+    "Trabalho/Horário.md",
     "Códigos/AtividadeJava/src/main/java/atividade2/AjudaGaby.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex5.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex4.class",
@@ -169,8 +172,6 @@
     "Códigos/AtividadeJava/target/classes/atividade2/Aula1/Au1Ex2.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula1/Au1Ex1.class",
     "Códigos/AtividadeJava/target/classes/atividade/Clean3/Somatoria.class",
-    "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex3.class",
-    "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex2.class",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
@@ -178,7 +179,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ementa.md",
-    "Trabalho/Horário.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
