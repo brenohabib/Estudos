@@ -29,3 +29,5 @@ Seria o quanto os dados do usuário está protegido contra possíveis ataques a 
 
 - Proteção
 
+Seria os meios de proteção para manter a integridade dos dados do usuário intacta
+
