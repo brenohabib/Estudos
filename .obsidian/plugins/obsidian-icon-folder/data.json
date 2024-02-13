@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": 4,
+    "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 17,
     "emojiStyle": "none",
@@ -21,27 +21,14 @@
       "TiMath"
     ],
     "recentlyUsedIconsSize": 15,
-    "rules": [
-      {
-        "icon": "LiPaintbrush",
-        "rule": "Imagens/Desenho relação binária.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
-        "for": "files",
-        "order": 0,
-        "useFilePath": true
-      }
-    ],
+    "rules": [],
     "extraMargin": {
       "top": 0,
       "right": 4,
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": true,
-    "iconInTitleEnabled": false,
-    "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconInTabsEnabled": true
   },
   "Imagens/Cubo de Lógica.png": "LiImage",
   "Imagens/Fluxograma.png": "LiImage",
@@ -68,26 +55,11 @@
   "Faculdade Eng. Software/Explicações/linha.md": "LiNewspaper",
   "Faculdade Eng. Software/Explicações/quadrada.md": "LiNewspaper",
   "Faculdade Eng. Software/Explicações/unitária.md": "LiNewspaper",
+  "Imagens/Desenho relação binária.md": {
+    "iconName": "LiPaintbrush",
+    "inheritanceIcon": "LiPaintbrush"
+  },
   "Faculdade Eng. Software/Explicações/Exemplo Relação.md": "LiNewspaper",
   "Faculdade Eng. Software/Explicações/Desenho cartesiano.md": "LiPaintbrush",
-  "Faculdade Eng. Software/HTML e CSS/Internet.md": "TiWorldWww",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md": "TiMath",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md": "TiMath",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md": "TiMath",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md": "TiMath",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Leitura de Software/Código Limpo.md": "LiClipboardCheck",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Classe de Equivalência.md": "SiCircle",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Conjuntos.md": "SiCircle",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Análise Combinatória.md": "TiMath",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Relação binária.md": "SiCircle",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Relações equivalentes.md": "SiCircle",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md": "TiMath",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Lógica de Programação.md": "LiCode2",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Algoritmos.md": "TiRotateClockwise2",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Linguagens de Programação.md": "LiCode2",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md": "LiCode2",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Programando com Arrays.md": "LiCode2",
-  "Faculdade Eng. Software/Matérias/2º Semestre/Sistema Operacional/Sistema Operacional.md": "LiSettings",
-  "Faculdade Eng. Software/template/Template.md": "SiCodecademy",
-  "Imagens/Desenho relação binária.md": "LiPaintbrush"
+  "Faculdade Eng. Software/HTML e CSS/Internet.md": "TiWorldWww"
 }
