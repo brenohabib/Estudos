@@ -12,8 +12,12 @@
             "id": "a53fad12e44e93a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -29,6 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md"
+              }
             }
           },
           {
@@ -197,9 +206,13 @@
   },
   "active": "a53fad12e44e93a3",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
     "Faculdade Eng. Software/template/Template.md",
     "Faculdade Eng. Software/template",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
@@ -210,11 +223,8 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/O que é.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação",
@@ -233,7 +243,6 @@
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Programando com Arrays.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Sistema Operacional/Sistema Operacional.md",
     "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
     "Imagens/TCP IP.png",
     "Imagens/OSI.png",
