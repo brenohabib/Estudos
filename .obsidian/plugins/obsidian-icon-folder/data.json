@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": true,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 17,
     "emojiStyle": "none",
@@ -21,14 +21,27 @@
       "TiMath"
     ],
     "recentlyUsedIconsSize": 15,
-    "rules": [],
+    "rules": [
+      {
+        "icon": "LiPaintbrush",
+        "rule": "Imagens/Desenho relação binária.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": true
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
   },
   "Imagens/Cubo de Lógica.png": "LiImage",
   "Imagens/Fluxograma.png": "LiImage",
@@ -55,11 +68,8 @@
   "Faculdade Eng. Software/Explicações/linha.md": "LiNewspaper",
   "Faculdade Eng. Software/Explicações/quadrada.md": "LiNewspaper",
   "Faculdade Eng. Software/Explicações/unitária.md": "LiNewspaper",
-  "Imagens/Desenho relação binária.md": {
-    "iconName": "LiPaintbrush",
-    "inheritanceIcon": "LiPaintbrush"
-  },
   "Faculdade Eng. Software/Explicações/Exemplo Relação.md": "LiNewspaper",
   "Faculdade Eng. Software/Explicações/Desenho cartesiano.md": "LiPaintbrush",
-  "Faculdade Eng. Software/HTML e CSS/Internet.md": "TiWorldWww"
+  "Faculdade Eng. Software/HTML e CSS/Internet.md": "TiWorldWww",
+  "Imagens/Desenho relação binária.md": "LiPaintbrush"
 }
