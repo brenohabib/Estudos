@@ -4,69 +4,29 @@ tags:
 referências: 
 data: 2024-02-01
 ---
-## O que é Lógica Proposicional
+### Resumo do Capítulo 1: Introdução à Lógica Proposicional
 
-Imagine um universo onde as frases são como peças de Lego. A Lógica Proposicional te ensina a *combinar* essas peças para construir frases complexas, definindo se elas são **verdadeiras** ou **falsas**.
+Neste capítulo inicial, somos introduzidos ao mundo da Lógica Proposicional, que se assemelha a um universo onde as frases são comparáveis a peças de Lego, sendo combinadas para formar estruturas complexas que podem ser avaliadas como verdadeiras ou falsas.
 
-## Definições
+#### Definições Principais
 
-- **Fórmula:** Uma *frase* simples (P) ou uma *frase* complexa *formada por conectivos* (P v Q, ~P, P ^ Q).
-- **Negação:** "Não P" é o contrário de P. Por exemplo: "Está chovendo" vira "Não está chovendo".
-- **Disjunção:** "P ou Q" é verdadeira se pelo menos uma frase for verdadeira. Por exemplo: "Está frio ou está nublado".
-- **Conjunção:** "P e Q" é verdadeira se ambas as frases forem verdadeiras. Por exemplo: "Está frio e está nublado".
-- **Condicional:** "Se P então Q" é verdadeira se P for falsa ou se ambas forem verdadeiras. Por exemplo: "Se está frio, então está nublado".
-- **Bi condicional:** "P se e somente se Q" é verdadeira se ambas as frases tiverem o mesmo valor (verdadeiro ou falso). Por exemplo: "Está frio se e somente se está nublado".
-### Definição 1.1
+- **Fórmula:** Uma frase simples (representada por letras maiúsculas, como P) ou uma frase complexa formada por conectivos (como P v Q, ~P, P ^ Q).
+- **Negação:** Representada por "¬", denota o oposto de uma proposição. Por exemplo, "Não está chovendo" é a negação de "Está chovendo".
+- **Disjunção:** Representada por "∨", uma proposição "P ou Q" é verdadeira se pelo menos uma das proposições for verdadeira.
+- **Conjunção:** Representada por "∧", uma proposição "P e Q" é verdadeira apenas se ambas as proposições forem verdadeiras.
+- **Condicional:** Representado por "→", uma proposição "Se P então Q" é verdadeira se a proposição P for falsa ou se ambas forem verdadeiras.
+- **Bicondicional:** Representado por "↔", uma proposição "P se e somente se Q" é verdadeira se ambas as proposições tiverem o mesmo valor de verdade.
 
-- **Símbolos de pontuação:** como *parênteses* "()" para organizar as frases.
-- **Símbolos proposicionais:** *letras maiúsculas* (P, Q, R...) que representam frases simples.
-- **Conectivos proposicionais:** conectivos que *combinam frases*, como "não", "ou", "e", "se... então", "senão".
+#### Definições Detalhadas
 
-### Definição 1.2
-
-- Todo símbolo proposicional é uma *formula*
-- Se H é uma fórmula, então (~H), a negação de H, é uma fórmula
-- Se H e G são fórmulas, então a disjunção de H e G: dada por (H v G), é uma fórmula
-- Se H e G são fórmulas, então a conjunção de H e G: dada por (H ^ G) é uma fórmula
-
-### Definição 1.3
-
- A ordem de *precedência* dos conectivos lógicos, da maior para a menor, é a seguinte:
-
-1. **Negação (¬)**
-2. **Conjunção (∧)**
-3. **Disjunção (∨)**
-4. **Implicação (→)**
-5. **Equivalência (↔)**
-### Definição 1.4
-
-Basicamente seria uma forma de *demonstrar* a contagem de símbolos e conectivos lógicos, seria uma *contagem* desse total.
-
-- Se H = P, então comp\[H] = 1
-- comp\[~H] = comp\[H] + 1
-- comp\[H v G] = comp\[H] + 1 + comp\[G]
-
-### Definição 1.5
-
-*Subfórmula* é basicamente o cabeçalho da tabela verdade.
-
-**Seja H uma fórmula da lógica proposicional:**
-
- 1. H é uma subfórmula de *si mesma*.
- 2. Se *H = (¬G)*, então *G é uma subfórmula de H*.
- 3. Se *H* é uma fórmula do tipo *(G ∨ E), (G ∧ E), (G → E) ou (G ↔ E)*, então G e E são subfórmulas de H.
- 
- Se G é uma subfórmula de H, então toda subfórmula de G é uma subfórmula de H.
+1. **Símbolos de Pontuação e Proposicionais:** Parênteses e letras maiúsculas são usados para organizar e representar frases.
+2. **Conectivos Proposicionais:** São operadores lógicos que combinam frases.
+3. **Ordem de Precedência dos Conectivos:** Determina a ordem de avaliação das operações lógicas.
+4. **Contagem de Símbolos e Conectivos Lógicos:** Uma técnica para contar o número de símbolos e operadores em uma fórmula.
+5. **Subfórmula:** Partes constituintes de uma fórmula, incluindo a própria fórmula, suas negações e sub-expressões formadas por conectivos.
+6. **Notação Polonesa:** Uma forma alternativa de representar fórmulas sem o uso de parênteses.
 
 >[!example] Exemplo
-Considere a fórmula *H = (P ∨ (¬Q → R))*.
->
-> As subfórmulas de H são: {*P*, *Q*, *R*, *¬Q*, *¬Q → R*, *(P ∨ (¬Q → R))*}
-### Definição 1.6
-
-A **notação polonesa** é uma forma de anotação para *eliminar* o uso de pontuação nas fórmulas.
-
->[!example] Exemplo
->Considere a fórmula *H = (P ∨ (¬Q → R))*
->Transformando em notação polonesa: *H = ∨P→¬QR*
-
+>Considere a fórmula *H = (P ∨ (¬Q → R))*. 
+> Suas ***subfórmulas*** são: {P, Q, R, ¬Q, ¬Q → R, (P ∨ (¬Q → R))}.
+> Transformando em ***notação polonesa***: *H = ∨P→¬QR*.
