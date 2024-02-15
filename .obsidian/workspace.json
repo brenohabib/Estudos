@@ -1,64 +1,21 @@
 {
   "main": {
-    "id": "7a3afc18b1fb293c",
+    "id": "a3863e3ef4bc0504",
     "type": "split",
     "children": [
       {
-        "id": "ad9191536008c76e",
+        "id": "2b8a96bb578ca3cc",
         "type": "tabs",
-        "dimension": 72.1351025331725,
         "children": [
           {
-            "id": "a53fad12e44e93a3",
+            "id": "49882ea1db6bac20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0334b82f472f8dd6",
-        "type": "tabs",
-        "dimension": 27.864897466827507,
-        "children": [
-          {
-            "id": "bc216a4e487b87b2",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1.5546875,
-                  "lineSizeMultiplier": 1.73333333333333,
-                  "collapse-forces": false,
-                  "centerStrength": 0.666666666666667,
-                  "repelStrength": 10.4166666666667,
-                  "linkStrength": 0.484375,
-                  "linkDistance": 162,
-                  "scale": 0.4545695463989534,
-                  "close": true
-                }
               }
             }
           }
@@ -68,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a47e061804b59679",
+    "id": "cf4647f3e297e1e6",
     "type": "split",
     "children": [
       {
-        "id": "f3ec6c6ebaebf46d",
+        "id": "a6256ee5dbfcce8c",
         "type": "tabs",
         "children": [
           {
-            "id": "23b87f6cfa6fb1af",
+            "id": "b764ee9116fea7b6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -86,7 +43,7 @@
             }
           },
           {
-            "id": "e43b1d235544e6b2",
+            "id": "fd9e78369213ea37",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -101,7 +58,7 @@
             }
           },
           {
-            "id": "e3cedb2b2349503a",
+            "id": "64d04bfd709ca79e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -112,29 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 282.5
   },
   "right": {
-    "id": "af95615754575cd7",
+    "id": "86ce2ce3e397db43",
     "type": "split",
     "children": [
       {
-        "id": "04548b0c945dac82",
+        "id": "04df13a9b49312bc",
         "type": "tabs",
         "children": [
           {
-            "id": "ea3b53f4bc3b4f58",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "587f5f1d5576684e",
+            "id": "594042c69bfdbe70",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -151,7 +97,7 @@
             }
           },
           {
-            "id": "57b6bae4af539d4a",
+            "id": "1b8d1f90fa7f01ff",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -163,7 +109,18 @@
             }
           },
           {
-            "id": "b30ef860f0b922f2",
+            "id": "c654a06213ab005e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca91bcc6b8cc2e23",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -173,87 +130,76 @@
             }
           },
           {
-            "id": "f132b05a99862896",
+            "id": "11c9c734cc44be74",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 367.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a53fad12e44e93a3",
+  "active": "49882ea1db6bac20",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex4.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex3.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex2.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex1.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex5.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex4.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex3.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex2.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula2/Au2Ex1.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula1/Au1Ex2.class",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
-    "Faculdade Eng. Software/template/Template.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
+    "Estudos",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex4.class",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex4.java",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex3.class",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex3.java",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex2.class",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex2.java",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex1.class",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex1.java",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
+    "Faculdade Eng. Software/template/Template.md",
+    "Códigos/AtividadeJava/target/classes/AjudaGaby.class",
+    "Trabalho/Horário.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ementa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/O que é.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md",
-    "Excalidraw/Drawing 2024-02-02 12.42.35.excalidraw.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.pandoc.md",
+    "Sem título.canvas",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
+    "Imagem do WhatsApp de 2024-02-02 à(s) 20.12.41_93a3aad1.jpg",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Programando com Arrays.md",
-    "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
+    "Excalidraw/Drawing 2024-02-02 12.42.35.excalidraw.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Ementa.md",
     "Imagens/TCP IP.png",
-    "Imagens/OSI.png",
-    "Faculdade Eng. Software/Explicações/Nomes Porpriedades Boole.png",
-    "Faculdade Eng. Software/Explicações/Teoremas de Boole.png",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Cleida - Algebra.png",
-    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Drawing 2023-08-11 20.35.43.excalidraw.png",
-    "Pasted image 20230804201348.png",
-    "Pasted image 20230804201339.png",
-    "Pasted image 20230805225031.png",
-    "Faculdade Eng. Software/Explicações/Sem título.canvas",
-    "Faculdade Eng. Software/Sem título.canvas",
-    "Sem título.canvas"
+    "Imagens/OSI.png"
   ]
 }
