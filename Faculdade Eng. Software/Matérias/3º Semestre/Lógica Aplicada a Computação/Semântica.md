@@ -35,3 +35,16 @@ Considere a expressão *P → (Q ∧ R)*. Sua tabela verdade é construída cons
 | F | V | F |   F   |      V     |
 | F | F | V |   F   |      V     |
 | F | F | F |   F   |      V     |
+
+### Propriedade Semântica
+
+#### Tautologia
+
+Seja H uma fórmula da Lógica Proposicional, então: H é uma tautologia, se, e somente se, para toda interpretação I, I\[H] = T
+
+>[!example] Exemplo
+>- H = (P V ~P) é uma tautologia
+>- Toda interpretação I, I\[H] = T
+>- Toda interpretação I, I\[(P V ~P)] = T
+>- Toda interpretação I, I\[P] = T ou I\[~P] = T
+
