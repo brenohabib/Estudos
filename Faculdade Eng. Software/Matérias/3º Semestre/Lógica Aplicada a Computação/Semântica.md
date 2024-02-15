@@ -22,10 +22,9 @@ No segundo capítulo, mergulhamos no estudo das tabelas verdade, uma ferramenta 
 4. **Equivalência de Expressões:** Duas expressões são equivalentes se possuem tabelas verdade idênticas.
 5. **Contradição e Tautologia:** Uma expressão é uma contradição se sua tabela verdade contém apenas Falsos; é uma tautologia se contém apenas Verdadeiros.
 
-#### Exemplo
-
+>[!example] Exemplo
 Considere a expressão *P → (Q ∧ R)*. Sua tabela verdade é construída considerando todas as combinações possíveis de valores de verdade para P, Q e R, e determinando o valor de verdade de *P → (Q ∧ R)* para cada combinação.
-
+>
 | P | Q | R | Q ∧ R | P → (Q ∧ R) |
 |---|---|---|-------|------------|
 | V | V | V |   V   |      V     |
