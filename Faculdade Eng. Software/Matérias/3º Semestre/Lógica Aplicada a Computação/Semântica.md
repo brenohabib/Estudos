@@ -79,3 +79,5 @@ Seja H uma fórmula da Lógica Proposicional. Então: H é uma contingência, se
 #### Contradição
 
 Seja H uma fórmula da Lógica Proposicional, Então: H é uma contradição se, e somente se, para toda I\[H] = F
+
+1 (a,b,c), 2 (a,b), 4 (a,b) 5, 7, 9(a,b,c,d), 11(a,b) capítulo 3
