@@ -72,3 +72,10 @@ Um conjunto é insatisfazível se houver ao menos um elemento do conjunto sendo 
 | F | F | V |   F   |      V     |
 | F | F | F |   F   |      V     |
 
+#### Contingência
+
+Seja H uma fórmula da Lógica Proposicional. Então: H é uma contingência, se, e somente se, existirem interpretações I e J, tais que I\[H] = T e J\[H] = F
+
+#### Contradição
+
+Seja H uma fórmula da Lógica Proposicional, Então: H é uma contradição se, e somente se, para toda I\[H] = F
