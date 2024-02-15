@@ -48,3 +48,27 @@ Seja H uma fórmula da Lógica Proposicional, então: H é uma tautologia, se, e
 >- Toda interpretação I, I\[(P V ~P)] = T
 >- Toda interpretação I, I\[P] = T ou I\[~P] = T
 
+#### Satisfatibilidade
+
+Seja H uma fórmula da Lógica Proposicional, então: H é uma fórmula satisfazível, se, e somente se, existe interpretação I, I\[H] = T
+
+Seja $\beta$ o conjunto de fórmulas da Lógica Proposicional, $\beta$ = {$H_1, H_2, H_3, ...$} então ela é satisfazível se todos os elementos do conjunto for verdade
+
+Um conjunto é insatisfazível se houver ao menos um elemento do conjunto sendo falso
+
+>[!example] Exemplo
+>- H = (P V Q) é satisfazível 
+>- H = (P ^ Q) é satisfazível
+> Satisfazível por possuir *ao menos* uma verdade:
+> 
+| P | Q | R | Q ∧ R | P → (Q ∧ R) |
+|---|---|---|-------|------------|
+| V | V | V |   V   |      V     |
+| V | V | F |   F   |      F     |
+| V | F | V |   F   |      F     |
+| V | F | F |   F   |      F     |
+| F | V | V |   V   |      V     |
+| F | V | F |   F   |      V     |
+| F | F | V |   F   |      V     |
+| F | F | F |   F   |      V     |
+
