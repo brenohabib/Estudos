@@ -57,33 +57,11 @@ A estatística descritiva é o ramo da estatística que tem como objetivo sumari
 - **Desvio Padrão:** Raiz quadrada da variância, indicando a dispersão dos valores em relação à média.
   - **Exemplo de cálculo**: Desvio padrão do mesmo conjunto de números é sqrt(2) ≈ 1.41.
 
-### Tipos de Perguntas
-
 #### NPS (Net Promoter Score)
 
 - **Definição:** O Net Promoter Score é uma métrica utilizada para medir a satisfação e lealdade dos clientes em relação a uma empresa ou serviço.
 - **Cálculo:** Calcula-se a porcentagem de promotores (clientes extremamente satisfeitos), subtraindo a porcentagem de detratores (clientes insatisfeitos) do total de respostas.
   - **Fórmula:** NPS = % de promotores - % de detratores.
   - **Exemplo:** Se 70% dos clientes são promotores e 15% são detratores, o NPS seria 70 - 15 = 55.
-
-### Outliers
-
-Os outliers são identificados visualmente por meio de gráficos como boxplots ou histogramas. Uma abordagem comum para identificar outliers é utilizar critérios estatísticos, como o intervalo interquartil (IQR). Qualquer valor abaixo de Q1 - 1,5 * IQR ou acima de Q3 + 1,5 * IQR é considerado um outlier, onde Q1 e Q3 são o primeiro e o terceiro quartil, respectivamente, e IQR é a diferença entre eles.
-
-### Tendência Central
-
-- **Média Ponderada:** Uma média na qual diferentes elementos têm pesos diferentes.
-  - **Exemplo de cálculo:** Se as notas de um aluno em três testes são 80, 85 e 90, e esses testes têm pesos de 1, 2 e 3, respectivamente, a média ponderada é (80*1 + 85*2 + 90*3) / (1 + 2 + 3) = 86.67.
-- **Mediana Ponderada:** A mediana de um conjunto de dados com pesos diferentes atribuídos a cada elemento.
-- **Moda Ponderada:** O valor que ocorre com mais frequência em um conjunto de dados ponderados.
-
-### Medidas de Dispersão
-
-- **Amplitude Interquartil (IQR):** A diferença entre o terceiro e o primeiro quartil, que indica a dispersão dos valores centrais do conjunto de dados.
-  - **Cálculo:** IQR = Q3 - Q1.
-- **Coeficiente de Variação:** Uma medida de variabilidade relativa, expressa como uma porcentagem do desvio padrão em relação à média.
-  - **Fórmula:** CV = (Desvio Padrão / Média) * 100%.
-- **Desvio Absoluto Médio:** A média das distâncias dos valores ao redor da média.
-  - **Fórmula:** MAD = Σ(|x - média|) / n, onde x são os valores, média é a média dos valores e n é o número de observações.
 
 A utilização dessas técnicas estatísticas permite uma compreensão mais profunda dos dados coletados na pesquisa quantitativa, possibilitando *insights* valiosos para a *tomada de decisões*.
