@@ -7,6 +7,7 @@ public class Au1Ex2 {
         Scanner input = new Scanner(System.in);
         System.out.print("Digite um valor: ");
         System.out.println("Fatorial = " + fatorial(input.nextInt()));
+        input.close();
     }
 
     public static int fatorial(int valor) {
