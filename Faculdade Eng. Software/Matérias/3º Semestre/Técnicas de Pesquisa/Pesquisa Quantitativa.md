@@ -53,11 +53,9 @@ A estatística descritiva é o ramo da estatística que tem como objetivo sumari
 
 - **Mínima e Máxima:** O menor e o maior valor em um conjunto de dados.
 - **Variância:** Medida de dispersão que indica o quão distantes os valores estão da média.
-  - Exemplo de cálculo: Variância de um conjunto de números {1, 2, 3, 4, 5} é \[(1-3)^2 + (2-3)^2 + (3-3)^2 + (4-3)^2 + (5-3)^2] / 5 = 2.
+  - **Exemplo de cálculo**: Variância de um conjunto de números {1, 2, 3, 4, 5} é \[(1-3)^2 + (2-3)^2 + (3-3)^2 + (4-3)^2 + (5-3)^2] / 5 = 2.
 - **Desvio Padrão:** Raiz quadrada da variância, indicando a dispersão dos valores em relação à média.
   - **Exemplo de cálculo**: Desvio padrão do mesmo conjunto de números é sqrt(2) ≈ 1.41.
-
-Claro, continuando:
 
 ### Tipos de Perguntas
 
