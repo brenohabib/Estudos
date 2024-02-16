@@ -11,7 +11,7 @@ Explica quatro dimensões de confiança:
 - Segurança
 - Proteção
 
-## Requisitos de  confiança
+## Requisitos de confiança
 
 O sistema deve estar disponível para resolver problemas com tratamentos de erros. A confiança em um sistema equivale ao seu merecimento de confiança.
 

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md"
               }
             }
           },
@@ -169,13 +169,15 @@
   },
   "active": "d554cd154a93aaba",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Atividades.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Leitura de Software/Código Limpo.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex6.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex6.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex5.class",
@@ -189,14 +191,12 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
     "Estudos",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex4.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex4.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex3.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex3.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex2.class",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
     "Faculdade Eng. Software/template/Template.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ementa.md",
