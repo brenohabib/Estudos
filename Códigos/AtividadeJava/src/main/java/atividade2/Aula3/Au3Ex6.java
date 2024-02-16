@@ -2,7 +2,7 @@ package atividade2.Aula3;
 
 public class Au3Ex6 {
     public static void main(String[] args) {
-        int[][] matrix = {{10, 2, 1}, {4, 5, 1}, {1,1,1}};
+        int[][] matrix = {{1, 2, 1}, {4, 5, 1}, {1,1,1}};
         printMatrix(matrix);
     }
     
