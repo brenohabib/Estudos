@@ -43,11 +43,11 @@ A estatística descritiva é o ramo da estatística que tem como objetivo sumari
 #### Tendência Central
 
 - **Média:** Soma de todos os valores dividida pelo número total de observações.
-  - Exemplo de cálculo: A média de um conjunto de números {2, 4, 6, 8, 10} é (2+4+6+8+10)/5 = 6.
+  - **Exemplo de cálculo**: A média de um conjunto de números {2, 4, 6, 8, 10} é (2+4+6+8+10)/5 = 6.
 - **Mediana:** O valor central em um conjunto de dados ordenados.
-  - Exemplo de cálculo: A mediana de um conjunto de números {3, 6, 9, 12, 15} é 9.
+  - **Exemplo de cálculo**: A mediana de um conjunto de números {3, 6, 9, 12, 15} é 9.
 - **Moda:** O valor que mais se repete em um conjunto de dados.
-  - Exemplo de cálculo: A moda de um conjunto de números {3, 4, 4, 5, 6, 6, 6, 7} é 6.
+  - **Exemplo de cálculo**: A moda de um conjunto de números {3, 4, 4, 5, 6, 6, 6, 7} é 6.
 
 #### Medidas de Dispersão
 
