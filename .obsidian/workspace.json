@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-02.md",
                 "mode": "preview",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-02.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-02.md"
               }
             }
           },
@@ -204,11 +204,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "23b87f6cfa6fb1af",
+  "active": "a53fad12e44e93a3",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-02.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-02.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade_02.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Recursividade.md",
@@ -242,7 +243,6 @@
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
     "Imagens/TCP IP.png",
     "Imagens/OSI.png",
