@@ -2,7 +2,7 @@ package atividade2.Aula3;
 
 public class Au3Ex2 {
     public static void main(String[] args) {
-        encontrarPrimosIntervalo(1, 100);
+        encontrarPrimosIntervalo(2, 100);
     }
     public static void encontrarPrimosIntervalo(int inicio, int fim){
         for(int i = inicio; i <= fim; i++){
@@ -12,6 +12,9 @@ public class Au3Ex2 {
         }
     }
     private static boolean verificarPrimo(int numero) {
+        if (numero <= 1) {
+            return false;
+        }
         for (int j = 2; j < numero; j++) {
             if (numero % j == 0)
                 return false;   
