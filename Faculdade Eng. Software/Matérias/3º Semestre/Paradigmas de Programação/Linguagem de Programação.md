@@ -12,11 +12,16 @@ Uma das principais metas das linguagens de programação é que programadores te
 ## Tipos de Linguagens
 
 - Primeira geração
-- Segunda geração - São linguagens de baixo nível usadas em kernels
-- Terceira geração - 
+- Segunda geração
+- Terceira geração
 - Quarta geração
 - Quinta geração
 - Sexta geração
 
+## Classificação
 
+- Genérica
+	
+- Específica
+	Possibilitam o desenvolvimento para qualquer um tipo de aplicação
 
