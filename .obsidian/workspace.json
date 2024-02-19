@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/template/Template.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Linguagem de Programação.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/template/Template.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Linguagem de Programação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/template/Template.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Linguagem de Programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/template/Template.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Linguagem de Programação.md"
               }
             }
           },
@@ -169,6 +169,9 @@
   },
   "active": "d554cd154a93aaba",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Introdução.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Linguagem de Programação.md",
+    "Faculdade Eng. Software/template/Template.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
     "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
@@ -202,10 +205,7 @@
     "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex3.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex3.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex2.class",
-    "Faculdade Eng. Software/template/Template.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ementa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/O que é.md",
     "Sem título.canvas",
     "Imagem do WhatsApp de 2024-02-02 à(s) 20.12.41_93a3aad1.jpg",
     "Imagens/TCP IP.png",
