@@ -74,10 +74,39 @@ Um conjunto é insatisfazível se houver ao menos um elemento do conjunto sendo 
 
 #### Contingência
 
-Seja H uma fórmula da Lógica Proposicional. Então: H é uma contingência, se, e somente se, existirem interpretações I e J, tais que I\[H] = T e J\[H] = F
+Uma fórmula da Lógica Proposicional é considerada uma contingência se, e somente se, for possível encontrar duas interpretações diferentes que lhe atribuam valores lógicos distintos. Em outras palavras, uma contingência é uma afirmação que pode ser verdadeira em algumas situações e falsa em outras.
+
+**Exemplo:**
+
+Considere a fórmula H: "Está chovendo e está frio". Essa fórmula é uma contingência porque podemos encontrar interpretações que a tornam verdadeira e outras que a tornam falsa:
+
+- **Interpretação I:** Está chovendo (Verdadeiro) e está frio (Verdadeiro). Nesse caso, H é verdadeira.
+- **Interpretação J:** Não está chovendo (Falso) e está frio (Verdadeiro). Nesse caso, H é falsa.
+
+**Formalmente:**
+
+Seja H uma fórmula da Lógica Proposicional. Então:
+
+- **H é uma contingência** se, e somente se, **existirem interpretações I e J**, tais que:
+    
+    - **I[H] = T** (H é verdadeira sob a interpretação I)
+    - **J[H] = F** (H é falsa sob a interpretação J)
+    
 
 #### Contradição
 
-Seja H uma fórmula da Lógica Proposicional, Então: H é uma contradição se, e somente se, para toda I\[H] = F
+Uma fórmula da Lógica Proposicional é considerada uma contradição se, e somente se, for falsa em todas as interpretações possíveis. Ou seja, uma contradição é uma afirmação que nunca pode ser verdadeira.
 
-1 (a,b,c), 2 (a,b), 4 (a,b) 5, 7, 9(a,b,c,d), 11(a,b) capítulo 3
+**Exemplo:**
+
+Considere a fórmula H: "Está chovendo e não está chovendo". Essa fórmula é uma contradição porque é impossível encontrar uma interpretação que a torne verdadeira:
+
+- Se está chovendo, então não pode estar **não** chovendo ao mesmo tempo.
+- Se não está chovendo, então não pode estar chovendo ao mesmo tempo.
+
+**Formalmente:**
+
+Seja H uma fórmula da Lógica Proposicional. Então:
+
+- **H é uma contradição** se, e somente se, **para toda interpretação I**, **I[H] = F** (H é falsa sob qualquer interpretação I).
+
