@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Sem título.md"
               }
             }
           },
@@ -205,17 +205,19 @@
   },
   "active": "8ef6aed467266414",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-19 19.54.34.excalidraw.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Sem título.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
+    "Excalidraw/Drawing 2024-02-19 19.54.34.excalidraw.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Linguagem de Programação.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-02.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Introdução.md",
     "Faculdade Eng. Software/template/Template.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
     "Faculdade Eng. Software/HTML e CSS/Internet.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Recursividade.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-02.md",
@@ -233,9 +235,7 @@
     "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex5.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex5.java",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sem título.md",
     "Estudos",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex4.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex4.java",
