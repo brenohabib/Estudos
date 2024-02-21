@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md"
               }
             }
           },
@@ -203,8 +203,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b764ee9116fea7b6",
+  "active": "af63460459e5aaf8",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
@@ -229,8 +232,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Atividades.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Leitura de Software/Código Limpo.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex6.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex6.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula3/Au3Ex5.class",
