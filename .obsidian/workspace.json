@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md"
               }
             }
           },
@@ -205,6 +205,9 @@
   },
   "active": "af63460459e5aaf8",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
     "Códigos/AtividadeJava/target/classes/Game/Item.class",
     "Códigos/AtividadeJava/src/main/java/Game/Item.java",
     "Códigos/AtividadeJava/target/classes/Game/Game.class",
@@ -215,16 +218,12 @@
     "Códigos/AtividadeJava/target/classes/atividade/Clean3/Somatoria.class",
     "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex3.class",
     "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex2.class",
-    "Códigos/AtividadeJava/target/classes/atividade/Clean1/Ex1.class",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Sem título.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
     "Excalidraw/Drawing 2024-02-19 19.54.34.excalidraw.md",
