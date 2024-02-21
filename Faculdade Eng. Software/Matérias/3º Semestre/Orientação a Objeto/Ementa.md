@@ -1,6 +1,7 @@
 ---
 tags:
   - ementa
+  - orientação_objeto
 referências: 
 data: 2024-02-06
 ---
