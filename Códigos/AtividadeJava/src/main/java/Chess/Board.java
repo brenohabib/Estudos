@@ -17,4 +17,5 @@ public class Board {
             addPieceAt(i, 6, new Pawn());
         }
     }
+
 }
