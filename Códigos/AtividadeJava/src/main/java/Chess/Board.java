@@ -1,10 +1,10 @@
 package Chess;
 
 public class Board {
-    private Piece[][] board = new Piece[8][8];
+    private final Piece[][] board = new Piece[8][8];
 
-    public Piece[][] getBoard() {
-        return board;
+    public Board() {
+        init();
     }
 
     public void addPieceAt(int x, int y, Piece piece) {
@@ -18,4 +18,7 @@ public class Board {
         }
     }
 
+    public Piece[][] getBoard() {
+        return board;
+    }
 }

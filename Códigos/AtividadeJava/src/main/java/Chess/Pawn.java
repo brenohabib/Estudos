@@ -18,6 +18,7 @@ public class Pawn extends Piece{
         
     }
 
+    @Override
     public boolean isValidMove(int newX, int newY) {
 
         // Verificar se movimento está dentro do tabuleiro
