@@ -33,19 +33,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Distribuição Normal.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f1ab6d9c9a75c0bf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
               }
             }
           },
@@ -74,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Distribuição Normal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Distribuição Normal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Distribuição Normal.md"
               }
             }
           },
@@ -213,8 +203,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1ab6d9c9a75c0bf",
+  "active": "af63460459e5aaf8",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Distribuição Normal.md",
     "Códigos/AtividadeJava/target/classes/Chess/Main.class",
     "Códigos/AtividadeJava/target/classes/Chess/Board.class",
     "Códigos/AtividadeJava/src/main/java/Chess/Board.java",
@@ -225,9 +217,7 @@
     "Códigos/AtividadeJava/src/main/java/Chess/Main.java",
     "Códigos/AtividadeJava/target/classes/Chess",
     "Códigos/AtividadeJava/src/main/java/Chess",
-    "Códigos/AtividadeJava/target/classes/Game/Sword.class",
     "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
