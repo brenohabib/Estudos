@@ -2,7 +2,7 @@ package atividade2.Aula5;
 
 import java.util.Scanner;
 
-public class Au1Ex1 {
+public class Au5Ex1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in); 
         System.out.println(somaPar(input.nextInt()));
