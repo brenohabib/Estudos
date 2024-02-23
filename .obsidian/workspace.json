@@ -40,6 +40,16 @@
             }
           },
           {
+            "id": "f1ab6d9c9a75c0bf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
             "id": "5d5927cc5e8b7c14",
             "type": "leaf",
             "state": {
@@ -64,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,7 +213,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af63460459e5aaf8",
+  "active": "f1ab6d9c9a75c0bf",
   "lastOpenFiles": [
     "Códigos/AtividadeJava/target/classes/Chess/Main.class",
     "Códigos/AtividadeJava/target/classes/Chess/Board.class",
