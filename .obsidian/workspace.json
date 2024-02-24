@@ -1,84 +1,51 @@
 {
   "main": {
-    "id": "a3863e3ef4bc0504",
+    "id": "7a3afc18b1fb293c",
     "type": "split",
     "children": [
       {
-        "id": "2b8a96bb578ca3cc",
+        "id": "0334b82f472f8dd6",
         "type": "tabs",
         "children": [
           {
-            "id": "79def064c14a3acc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d554cd154a93aaba",
+            "id": "4f4a8951b7dca99c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af63460459e5aaf8",
+            "id": "4b3a6f4d220ccc78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d5927cc5e8b7c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ef6aed467266414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Sem título.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cf4647f3e297e1e6",
+    "id": "a47e061804b59679",
     "type": "split",
     "children": [
       {
-        "id": "a6256ee5dbfcce8c",
+        "id": "f3ec6c6ebaebf46d",
         "type": "tabs",
         "children": [
           {
-            "id": "b764ee9116fea7b6",
+            "id": "23b87f6cfa6fb1af",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -88,12 +55,12 @@
             }
           },
           {
-            "id": "fd9e78369213ea37",
+            "id": "e43b1d235544e6b2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "estruturas de controle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,34 +70,46 @@
             }
           },
           {
-            "id": "64d04bfd709ca79e",
+            "id": "e3cedb2b2349503a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 232.5
   },
   "right": {
-    "id": "86ce2ce3e397db43",
+    "id": "af95615754575cd7",
     "type": "split",
     "children": [
       {
-        "id": "04df13a9b49312bc",
+        "id": "04548b0c945dac82",
         "type": "tabs",
         "children": [
           {
-            "id": "594042c69bfdbe70",
+            "id": "ea3b53f4bc3b4f58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "587f5f1d5576684e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-03.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,109 +121,109 @@
             }
           },
           {
-            "id": "1b8d1f90fa7f01ff",
+            "id": "57b6bae4af539d4a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-03.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c654a06213ab005e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ca91bcc6b8cc2e23",
+            "id": "b30ef860f0b922f2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-03.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-04.md"
               }
             }
           },
           {
-            "id": "11c9c734cc44be74",
+            "id": "f132b05a99862896",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af63460459e5aaf8",
+  "active": "4f4a8951b7dca99c",
   "lastOpenFiles": [
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula5/Au5Ex4.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula5/Au5Ex4.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula5/Au5Ex3.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula5/Au5Ex3.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula5/Au5Ex1.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula5/Au5Ex2.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula5/Au5Ex2.java",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula5/Au5Ex1.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula5/Au1Ex1.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula5/Au1Ex1.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula5",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Distribuição Normal.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-03.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Introdução.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Análise e Projeto Orientado a Objetos.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Sem título.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
-    "Excalidraw/Drawing 2024-02-19 19.54.34.excalidraw.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Linguagem de Programação.md",
+    "Estudos/Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-04.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-02.md",
-    "Faculdade Eng. Software/template/Template.md",
-    "Faculdade Eng. Software/HTML e CSS/Internet.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Recursividade.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Introdução.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
+    "Códigos/AtividadeJava/target/classes/paradigmas/Reajuste.class",
+    "Códigos/AtividadeJava/src/main/java/paradigmas/Reajuste.java",
+    "Códigos/AtividadeJava/target/classes/paradigmas/At1.class",
+    "Códigos/AtividadeJava/src/main/java/paradigmas/At1.java",
+    "Códigos/AtividadeJava/target/classes/paradigmas",
+    "Códigos/AtividadeJava/src/main/java/paradigmas",
+    "Códigos/AtividadeJava/target/classes/paradigmas1",
+    "Códigos/AtividadeJava/src/main/java/paradigmas1",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula5/Au5Ex4.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula5/Au5Ex3.class",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
+    "Estudos/Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
+    "Estudos/Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
+    "Estudos/Faculdade Eng. Software/Matérias/2º Semestre/Programação/Lógica de Programação.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Lógica de Programação.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-02.md",
-    "Sem título.canvas",
-    "Imagem do WhatsApp de 2024-02-02 à(s) 20.12.41_93a3aad1.jpg",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
+    "Excalidraw/Drawing 2024-02-19 19.54.34.excalidraw.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Arrays/Arrays.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Recursividade.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Ementa.md",
+    "Faculdade Eng. Software/template/Template.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
+    "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
     "Imagens/TCP IP.png",
-    "Imagens/OSI.png"
+    "Imagens/OSI.png",
+    "Faculdade Eng. Software/Explicações/Nomes Porpriedades Boole.png",
+    "Faculdade Eng. Software/Explicações/Teoremas de Boole.png",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Cleida - Algebra.png",
+    "Faculdade Eng. Software/Matérias/Álgebra/Matriz/Drawing 2023-08-11 20.35.43.excalidraw.png",
+    "Pasted image 20230804201348.png",
+    "Pasted image 20230804201339.png",
+    "Pasted image 20230805225031.png",
+    "Faculdade Eng. Software/Explicações/Sem título.canvas",
+    "Faculdade Eng. Software/Sem título.canvas",
+    "Sem título.canvas"
   ]
 }

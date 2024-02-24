@@ -51,7 +51,3 @@ As estruturas de controle são elementos essenciais em qualquer linguagem de pro
 **7. Conclusão**
 
 As linguagens de programação e as estruturas de controle são ferramentas fundamentais para a criação de softwares e sistemas computacionais. Através do domínio de seus conceitos e aplicações, é possível desenvolver programas mais eficientes, organizados e com maior capacidade de atender às necessidades específicas dos usuários.
-
-**8. Referências**
-
-- Apostila de Introdução à Programação ([https://www.unirv.edu.br/conteudos/fckfiles/files/Manual%20para%20padronizacao%20de%20trabalhos%20de%20graduacao%20e%20pos-graduacao%20-%20UniRV%20-%20oficial%202016.pdf](https://www.unirv.edu.br/conteudos/fckfiles/files/Manual%20para%20padronizacao%20de%20trabalhos%20de%20graduacao%20e%20pos-graduacao%20-%20UniRV%20-%20oficial%202016.pdf))
