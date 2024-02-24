@@ -13,6 +13,8 @@ na última pesquisa que você realizou, construa um algoritmo para calcular este
 salarial: uma empresa quer reajustar os salários dos Gerentes em 20%, dos Técnicos em
 30% e dos demais funcionários em 40%.
 
+>Algoritmo
+>
 	Para cada funcionário na lista de funcionários:
     Se o funcionário for um Gerente:
         Reajustar o salário em 20%
@@ -22,28 +24,24 @@ salarial: uma empresa quer reajustar os salários dos Gerentes em 20%, dos Técn
         Reajustar o salário em 40%
 	Fim Para
 
-``` Java
-package paradigmas;
 
-public class Reajuste {
-
-    public static float gerente(float salario) {
-
-        return salario += salario * 0.2;
-
-    }
-
+>Java
+>
+>``` Java
+>package paradigmas;
+>
+>public class Reajuste {
+>
+    public static float gerente(float salario) {
+>	    return salario += salario * 0.2;
+> 	}
+>
     public static float tecnico(float salario) {
-
-        return salario += salario * 0.3;
-
-    }
-
+>	    return salario += salario * 0.3;
+> 	}
+>
     public static float funcionario(float salario) {
-
-        return salario += salario * 0.4;
-
-    }
-
-}
-```
+>	    return salario += salario * 0.4;
+> 	}
+>}
+>```
