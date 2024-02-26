@@ -40,6 +40,26 @@
             }
           },
           {
+            "id": "7dcdb11453a7f759",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-05.md"
+              }
+            }
+          },
+          {
+            "id": "6c544b37f2c498e9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-05.md"
+              }
+            }
+          },
+          {
             "id": "5d5927cc5e8b7c14",
             "type": "leaf",
             "state": {
@@ -64,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Paradigma de Programação.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Paradigma de Programação.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Paradigma de Programação.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-05.md"
               }
             }
           },
@@ -203,10 +223,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af63460459e5aaf8",
+  "active": "6c544b37f2c498e9",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Linguagem de Programação.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-06.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-05.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Sem título.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Paradigma de Programação.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Sem título.canvas",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Linguagem de Programação.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Atividade-01.md",
@@ -239,9 +263,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Sem título.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
-    "Excalidraw/Drawing 2024-02-19 19.54.34.excalidraw.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-02.md",
-    "Faculdade Eng. Software/HTML e CSS/Internet.md",
     "Sem título.canvas",
     "Imagem do WhatsApp de 2024-02-02 à(s) 20.12.41_93a3aad1.jpg",
     "Imagens/TCP IP.png",
