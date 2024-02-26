@@ -111,8 +111,8 @@ Atividade 01 ^ijo7WjTP
 		},
 		{
 			"type": "arrow",
-			"version": 86,
-			"versionNonce": 1426922054,
+			"version": 90,
+			"versionNonce": 257173638,
 			"isDeleted": false,
 			"id": "PP9VnX4rHKZIwBwuLYQmq",
 			"fillStyle": "solid",
@@ -121,12 +121,12 @@ Atividade 01 ^ijo7WjTP
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -183.98203828656523,
-			"y": 0.38961907178234645,
+			"x": -183.9820369377323,
+			"y": 0.3896069047258133,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 106.33207490765898,
-			"height": 0.05326949373182255,
+			"width": 106.33207355882602,
+			"height": 0.05326238823851803,
 			"seed": 1158922694,
 			"groupIds": [],
 			"frameId": null,
@@ -134,7 +134,7 @@ Atividade 01 ^ijo7WjTP
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708987974301,
+			"updated": 1708988176350,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -156,8 +156,8 @@ Atividade 01 ^ijo7WjTP
 					0
 				],
 				[
-					106.33207490765898,
-					-0.05326949373182255
+					106.33207355882602,
+					-0.05326238823851803
 				]
 			]
 		},
@@ -242,8 +242,8 @@ Atividade 01 ^ijo7WjTP
 		},
 		{
 			"type": "arrow",
-			"version": 692,
-			"versionNonce": 2047002438,
+			"version": 696,
+			"versionNonce": 1848685958,
 			"isDeleted": false,
 			"id": "2mbFmZVBVZcnTkF_X6yEM",
 			"fillStyle": "solid",
@@ -253,11 +253,11 @@ Atividade 01 ^ijo7WjTP
 			"opacity": 100,
 			"angle": 0,
 			"x": 69.75,
-			"y": 1.454525272617282,
+			"y": 1.4545264471234511,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 117.06871447411692,
-			"height": 1.477283548034988,
+			"width": 117.06871423494809,
+			"height": 1.4772829042999471,
 			"seed": 48123482,
 			"groupIds": [],
 			"frameId": null,
@@ -265,7 +265,7 @@ Atividade 01 ^ijo7WjTP
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708987974302,
+			"updated": 1708988176351,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -287,8 +287,8 @@ Atividade 01 ^ijo7WjTP
 					0
 				],
 				[
-					117.06871447411692,
-					1.477283548034988
+					117.06871423494809,
+					1.4772829042999471
 				]
 			]
 		},
@@ -377,8 +377,8 @@ Atividade 01 ^ijo7WjTP
 		},
 		{
 			"type": "arrow",
-			"version": 199,
-			"versionNonce": 1790933894,
+			"version": 203,
+			"versionNonce": 1160806854,
 			"isDeleted": false,
 			"id": "9o6tFHjWMZuG_oyPLpZRc",
 			"fillStyle": "solid",
@@ -387,12 +387,12 @@ Atividade 01 ^ijo7WjTP
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 380.0126613581682,
-			"y": 3.564232697097404,
+			"x": 380.01266132375633,
+			"y": 3.564232647492246,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 217.5873142277693,
-			"height": 1.8235193273008092,
+			"width": 217.58731426218117,
+			"height": 1.823519364250628,
 			"seed": 397553114,
 			"groupIds": [],
 			"frameId": null,
@@ -405,7 +405,7 @@ Atividade 01 ^ijo7WjTP
 					"id": "R2vpdtnP"
 				}
 			],
-			"updated": 1708987974302,
+			"updated": 1708988176351,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -427,8 +427,8 @@ Atividade 01 ^ijo7WjTP
 					0
 				],
 				[
-					217.5873142277693,
-					1.8235193273008092
+					217.58731426218117,
+					1.823519364250628
 				]
 			]
 		},
@@ -471,8 +471,8 @@ Atividade 01 ^ijo7WjTP
 		},
 		{
 			"type": "arrow",
-			"version": 430,
-			"versionNonce": 764549830,
+			"version": 432,
+			"versionNonce": 411588870,
 			"isDeleted": false,
 			"id": "TMejgHc9o0wnCqRaVF4SG",
 			"fillStyle": "solid",
@@ -499,7 +499,7 @@ Atividade 01 ^ijo7WjTP
 					"id": "ZBwnsy9z"
 				}
 			],
-			"updated": 1708987974302,
+			"updated": 1708988176351,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -767,8 +767,8 @@ Atividade 01 ^ijo7WjTP
 		},
 		{
 			"type": "arrow",
-			"version": 104,
-			"versionNonce": 323932678,
+			"version": 105,
+			"versionNonce": 962807878,
 			"isDeleted": false,
 			"id": "G9CxuxkY4tU_9Ij0UMpum",
 			"fillStyle": "solid",
@@ -790,7 +790,7 @@ Atividade 01 ^ijo7WjTP
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708987974302,
+			"updated": 1708988176352,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -924,6 +924,43 @@ Atividade 01 ^ijo7WjTP
 			"originalText": "Atividade 01",
 			"lineHeight": 1.25,
 			"baseline": 31
+		},
+		{
+			"id": "zTRH6ldb",
+			"type": "text",
+			"x": 827.0104905862128,
+			"y": -331.51721322125667,
+			"width": 18,
+			"height": 45,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1406456794,
+			"version": 2,
+			"versionNonce": 1837671942,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1708988225736,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 31,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -942,7 +979,7 @@ Atividade 01 ^ijo7WjTP
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 376.3228427471205,
-		"scrollY": 477.81719084169936,
+		"scrollY": 479.41720711774104,
 		"zoom": {
 			"value": 0.75
 		},
