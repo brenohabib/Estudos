@@ -25,7 +25,7 @@ Imagine um pintor pintando um quadro. A pintura é a linguagem objeto e o artist
 
 **3. Demonstração**
 
-Apresentamos duas demonstrações, uma informal e outra mais formal, com notação matemática. Primeiro a informal:
+Apresentamos duas demonstrações, uma informal e outra mais formal, com notação matemática para demonstrar se ela é satisfatível. Primeiro a informal:
 
 H é tautologia
 			⇔ para toda linha da tabela-verdade associada a H, temos H é verdadeira,
