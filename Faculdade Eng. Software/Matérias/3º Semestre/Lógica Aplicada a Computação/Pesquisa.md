@@ -9,3 +9,9 @@ Pesquisar sobre metalinguagem e linguagem objeto. Principais diferenças
 
 - **Metalinguagem:** linguagem utilizada para falar sobre outra linguagem. Ela é um nível superior de linguagem que permite analisar e descrever a linguagem objeto.
 - **Linguagem objeto:** linguagem que está sendo analisada pela metalinguagem. É o foco da metalinguagem e pode ser qualquer tipo de linguagem, como português, inglês, linguagem de programação, etc.
+
+>[!example] Por exemplo
+>"I love New York é uma sentença com quatro palavras da língua inglesa."
+>Onde: "I love New York" é o *objeto* e "...é uma sentença com quatro palavras da língua inglesa" é a *metalinguagem*
+
+
