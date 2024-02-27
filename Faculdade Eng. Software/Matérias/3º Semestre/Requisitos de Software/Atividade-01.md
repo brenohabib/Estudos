@@ -4,6 +4,8 @@ tags:
 referências: 
 data: 2024-02-26
 ---
+
+
 1) Qual dos seguintes é um exemplo de Requisito de Negócio?
    
 A) O usuário deve ser capaz de transferir dinheiro usando apenas o número de telefone do destinatário.
@@ -48,18 +50,24 @@ Requisitos de produto englobam todos os requisitos que fazem o produto final ser
 7) Descreva como os requisitos de projeto diferem dos requisitos de produto,
 usando exemplos de um carro elétrico e um site de e-commerce para ilustrar suas diferenças.
 
-Os requisitos de projeto se referem aos detalhes técnicos enquanto os requisitos de produto focam no essencial. Um carro elétrico deve ser um carro movido a eletricidade (Requisito de Produto); Um carro elétrico deve ser vistoriado manualmente (Requisitos de Projeto). O E-Commerce deve possuir um carrinho de compras para o usuário final (Requisitos de Produto); O E-Commerce deve possuir botões e ícones arredondados(Requisitos de Projeto).
+Os requisitos de projeto se referem aos detalhes técnicos enquanto os requisitos de produto focam no essencial. O carro elétrico deve ser um carro movido a eletricidade (Requisito de Produto); O carro elétrico deve ser vistoriado manualmente na fabricante antes de ser entregue para o consumidor (Requisitos de Projeto). O E-Commerce deve possuir um carrinho de compras para o usuário final (Requisitos de Produto); O E-Commerce deve possuir toda a interface feita em Java (Requisitos de Projeto).
 
 8) Com base nos exemplos fornecidos para smartphone, carro elétrico e site de
 e-commerce, discuta como a especificação detalhada de requisitos de produto pode
 contribuir para o sucesso do desenvolvimento e lançamento de um produto.
 
+A especificação detalhada pode estar impactando diretamente na popularidade do produto por ser o principal diferencial entre vários outros similares, como por exemplo, a quantidade de memória dos celulares que vem aumentando com o tempo, o que é um dos principais marketings para os celulares.
+
 9) Explique o conceito de requisitos de processo e sua relevância para a
 eficiência e qualidade na produção ou execução de projetos. Forneça um exemplo de como a
 falta de requisitos de processo bem definidos pode afetar negativamente um projeto.
+
+Os requisitos de processo dizem respeito aos procedimentos e métodos utilizados durante o desenvolvimento, implementação e manutenção do software. A falta desses requisitos, podem levar ao atraso do projeto, falta de segurança e perca de eficiência do software. Um ótimo exemplo seria maior parte dos colaboradores não seguirem um padrão de escrita de código, dificultando a manutenção e o entendimento.
 
 10) Considerando os exemplos de processo de fabricação de automóveis,
 atendimento ao cliente em uma central de atendimento e desenvolvimento de software,
 discuta as principais considerações ao definir requisitos de processo em diferentes indústrias
 e como esses requisitos podem ser adaptados para melhorar a eficiência operacional e a
 satisfação do cliente.
+
+Por os requisitos de processos ser um requisito mais interno do desenvolvimento do software, ela pode ser altamente flexível para resolver vários tipos de problemas. Normalmente garantem a redução do tempo necessário para conclusão do projeto, ajuda na manutenção futura do software além de garantir a funcionalidade do software para o usuário final.
