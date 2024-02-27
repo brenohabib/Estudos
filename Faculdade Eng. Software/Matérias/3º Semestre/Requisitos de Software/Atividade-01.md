@@ -15,33 +15,40 @@ D) O software deve se comunicar com o leitor de cartão de crédito usando o pro
    
 A) Critérios de desempenho, segurança e usabilidade que o software deve atender.
 B) Funções específicas que o sistema ou componentes devem executar.
-C) Objetivos ou tarefas que os usuários finais precisam realizar com o auxílio do software.
+**C) Objetivos ou tarefas que os usuários finais precisam realizar com o auxílio do software.**
 D) Necessidades ou problemas que o software visa resolver para a organização.
 
 3)  Qual dos seguintes é considerado um Requisito Funcional?
+   
 A) O sistema deve cumprir com a legislação de proteção de dados de saúde.
-B) Os usuários devem ser capazes de pesquisar livros por título, autor ou ISBN.
+**B) Os usuários devem ser capazes de pesquisar livros por título, autor ou ISBN.**
 C) A interface do usuário deve ser intuitiva e fácil de usar.
 D) O software deve garantir operação adequada sob condições normais de rede.
 
 4)  Requisitos Não Funcionais incluem todos os seguintes, EXCETO:
+   
 A) Especificações de como o sistema interage com outros sistemas.
 B) Critérios de desempenho, segurança, e confiabilidade.
-C) Detalhes sobre a criptografia de dados do paciente e acesso por pessoal autorizado.
+**C) Detalhes sobre a criptografia de dados do paciente e acesso por pessoal autorizado.**
 D) Requisitos de usabilidade e padrões de qualidade.
 
 5)  Um Requisito de Domínio pode ser melhor descrito como:
+   
 A) Uma declaração de alto nível sobre o valor que o software trará para o usuário final.
 B) Uma especificação de como o software deve interagir com componentes de hardware.
-C) Uma necessidade que deriva do domínio de aplicação específico do sistema.
+**C) Uma necessidade que deriva do domínio de aplicação específico do sistema.**
 D) Uma função específica que o sistema deve ser capaz de executar para o usuário.
 
 6) Explique a importância da definição de requisitos de produto na engenharia
 de software e dê um exemplo de como um requisito mal definido pode impactar o
 desenvolvimento de um produto.
 
+Requisitos de produto englobam todos os requisitos que fazem o produto final ser considerado como bom ou ruim. Um requisito mal definido pode impactar diretamente no consumidor final, como um resultado não esperado, levando à ineficiência do produto podendo torná-lo até mesmo descartável.
+
 7) Descreva como os requisitos de projeto diferem dos requisitos de produto,
 usando exemplos de um carro elétrico e um site de e-commerce para ilustrar suas diferenças.
+
+Os requisitos de projeto se referem aos detalhes técnicos enquanto os requisitos de produto focam no essencial. Um carro elétrico deve ser um carro movido a eletricidade (Requisito de Produto); Um carro elétrico deve ser vistoriado manualmente (Requisitos de Projeto). O E-Commerce deve possuir um carrinho de compras para o usuário final (Requisitos de Produto); O E-Commerce deve possuir botões e ícones arredondados(Requisitos de Projeto).
 
 8) Com base nos exemplos fornecidos para smartphone, carro elétrico e site de
 e-commerce, discuta como a especificação detalhada de requisitos de produto pode
