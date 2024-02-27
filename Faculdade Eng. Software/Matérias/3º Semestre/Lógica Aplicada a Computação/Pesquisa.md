@@ -14,4 +14,12 @@ Pesquisar sobre metalinguagem e linguagem objeto. Principais diferenças
 >"I love New York é uma sentença com quatro palavras da língua inglesa."
 >Onde: "I love New York" é o *objeto* e "...é uma sentença com quatro palavras da língua inglesa" é a *metalinguagem*
 
+**Diferença principal:**
+
+A principal diferença entre metalinguagem e linguagem objeto está no **seu papel**:
+
+- **Metalinguagem:** fala sobre a linguagem.
+- **Linguagem objeto:** é o que a metalinguagem fala sobre.
+
+Imagine um pintor pintando um quadro. A pintura é a linguagem objeto e o artista que a descreve e analisa é a metalinguagem.
 
