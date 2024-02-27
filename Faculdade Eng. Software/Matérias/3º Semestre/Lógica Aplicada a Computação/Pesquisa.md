@@ -14,7 +14,7 @@ Pesquisar sobre metalinguagem e linguagem objeto. Principais diferenças
 >"I love New York é uma sentença com quatro palavras da língua inglesa."
 >Onde: "I love New York" é o *objeto* e "...é uma sentença com quatro palavras da língua inglesa" é a *metalinguagem*
 
-**Diferença principal:**
+**2. Diferença principal:**
 
 A principal diferença entre metalinguagem e linguagem objeto está no **seu papel**:
 
@@ -23,3 +23,26 @@ A principal diferença entre metalinguagem e linguagem objeto está no **seu pap
 
 Imagine um pintor pintando um quadro. A pintura é a linguagem objeto e o artista que a descreve e analisa é a metalinguagem.
 
+**3. Demonstração**
+
+Apresentamos duas demonstrações, uma informal e outra mais formal, com notação matemática. Primeiro a informal:
+
+H é tautologia
+			⇔ para toda linha da tabela-verdade associada a H, temos H é verdadeira,
+			⇒ existe linha da tabela-verdade associada a H, tal que H é verdadeira,
+			⇔ H é satisfatível.
+
+A demonstração correspondente, utilizando notação matemática é:
+
+H é tautologia  ⇔ ∀ I, I\[H] = T,
+			⇒ ∃ I; I\[H] = T,
+			⇔ H é satisfatível.
+
+>[!hint] servação
+Observe que na segunda linha dessa demonstração aparece o símbolo ⇒. Isso ocorre porque:
+>
+{ ∀ I, I\[H] = T } implica { ∃ I, I\[H] = T}.
+>
+O inverso, porém, é falso. Ou seja:
+>
+{ ∃ I, I\[H] = T } não implica { ∀ I, I\[H] = T}.
