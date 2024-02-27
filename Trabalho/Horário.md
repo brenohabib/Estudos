@@ -1,12 +1,14 @@
+## Fevereiro
+
 - 06/02/2024
 	- Manhã
 		- Tiro de Guerra - Entreguei declaração
 	- Tarde
-		- Saída Gaúcho -> Direto para faculdade
+		- Gaúcho -> Direto para faculdade
 
 - 07/02/2024
 	- Tarde
-		- Saída Gaúcho -> Direto para faculdade
+		- Gaúcho -> Direto para faculdade
 
 - 09/02/2024
 	- Manhã/Tarde
@@ -15,3 +17,7 @@
 - 15/02/2024
 	- Tarde
 		- Cereal Ouro -> saí 18:00
+
+- 24/02/2024
+	- Tarde
+		- Gaúcho -> Direto para faculdade
