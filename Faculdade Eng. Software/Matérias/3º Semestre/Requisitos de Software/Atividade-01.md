@@ -6,14 +6,13 @@ data: 2024-02-26
 ---
 1) Qual dos seguintes é um exemplo de Requisito de Negócio?
    
-A) O usuário deve ser capaz de transferir dinheiro usando apenas o número de telefone do
-destinatário.
-B) Reduzir o tempo médio de checkout no site de 5 minutos para 2 minutos.
-C) O sistema deve garantir a entrega de mensagens com uma latência máxima de 2
-segundos.
+A) O usuário deve ser capaz de transferir dinheiro usando apenas o número de telefone do destinatário.
+**B) Reduzir o tempo médio de checkout no site de 5 minutos para 2 minutos.**
+C) O sistema deve garantir a entrega de mensagens com uma latência máxima de 2 segundos.
 D) O software deve se comunicar com o leitor de cartão de crédito usando o protocolo XYZ.
 
 2) Os Requisitos do Usuário são definidos como:
+   
 A) Critérios de desempenho, segurança e usabilidade que o software deve atender.
 B) Funções específicas que o sistema ou componentes devem executar.
 C) Objetivos ou tarefas que os usuários finais precisam realizar com o auxílio do software.
