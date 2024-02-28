@@ -17,6 +17,5 @@ public class Au5Ex4 {
             return n;
         }
         return fibonacciRecursiva(n - 1) + fibonacciRecursiva(n - 2);
-
     }
 }
