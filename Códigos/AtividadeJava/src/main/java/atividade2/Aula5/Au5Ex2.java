@@ -12,7 +12,6 @@ public class Au5Ex2 {
         if (array.length == 0) {
             return 0;
         }
-
         return array[0] + somaRecursiva(Arrays.copyOfRange(array, 1, array.length));
     }
 }
