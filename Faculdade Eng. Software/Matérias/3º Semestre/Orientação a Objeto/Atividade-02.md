@@ -4,8 +4,7 @@ tags:
 referências: 
 data: 2024-02-27
 ---
-![[Pasted image 20240227211225.png]]
-Segundo o diagrama marque verdadeiro (V) ou falso (F) para as afirmações abaixo:
+1) Segundo o diagrama marque verdadeiro (V) ou falso (F) para as afirmações abaixo:
 
 (V) O digrama acima ilustra cinco classes e três objetos.
 
