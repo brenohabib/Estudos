@@ -10,25 +10,6 @@ public class Window {
         this.sizeY = sizeY;
     }
 
-    private void printLine() {
-        for (int i = 0; i <= sizeX; i++) {
-            System.out.print('-');
-        }
-        System.out.println();
-    }
-
-    private void printLateral() {
-        for (int i = 0; i <= sizeX; i++) {
-            if(i == 0 || i == sizeX) {
-                System.out.print('|');
-            }
-            else {
-                System.out.print(" ");
-            }
-        }
-        System.out.println();
-    }
-
     public String getName() {
         return name;
     }
