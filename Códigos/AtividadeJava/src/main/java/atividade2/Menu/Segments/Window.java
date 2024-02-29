@@ -3,12 +3,12 @@ package atividade2.Menu.Segments;
 import java.util.Scanner;
 
 public class Window {
-    protected String name;
+    protected String label;
     protected int sizeX, sizeY;
     private int paddle;
 
     public Window(String name, int sizeX,int sizeY) {
-        this.name = name;
+        this.label = name;
         this.sizeX = sizeX;
         this.sizeY = sizeY;
         paddle = adjustPaddle();
@@ -16,14 +16,14 @@ public class Window {
 
     protected void printHeader() {
         int halfSizeX = sizeX / 2;
-        int halfNameLength = name.length() / 2;
+        int halfNameLength = label.length() / 2;
         printLine();
         System.out.print('|');
         for (int i = 0; i <= halfSizeX - halfNameLength; i++) {
             System.out.print(' ');
             
         }
-        System.out.print(name);
+        System.out.print(label);
 
         for (int i = 0; i <= halfSizeX - halfNameLength; i++) {
             System.out.print(' ');
@@ -33,13 +33,6 @@ public class Window {
         System.out.println();
         printLine();
 
-    }
-
-    protected int input() {
-        Scanner input = new Scanner(System.in);
-        int value = input.nextInt();
-        input.close();
-        return value;
     }
 
     protected void printLine() {
@@ -73,14 +66,14 @@ public class Window {
             paddle = 4;
         }
 
-        if(name.length() % 2 == 0) {
+        if(label.length() % 2 == 0) {
             paddle = 3;
         }
         return paddle;
     }
 
-    public String getName() {
-        return name;
+    public String getLabel() {
+        return label;
     }
 
     public int getSizeX() {

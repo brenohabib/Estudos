@@ -11,7 +11,8 @@ public class Menu extends Window{
     public void printMenu() {
         printHeader();
         printBody();
+        input("input");
     }
 
-    
+
 }
