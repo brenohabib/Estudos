@@ -1,8 +1,8 @@
 package atividade2.Menu.Segments;
 
 public class Window {
-    private String name;
-    private int sizeX, sizeY;
+    protected String name;
+    protected int sizeX, sizeY;
 
     public Window(String name, int sizeX,int sizeY) {
         this.name = name;
