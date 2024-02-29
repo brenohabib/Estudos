@@ -25,13 +25,13 @@ A principal diferença entre metalinguagem e linguagem objeto está no **seu pap
 
 Apresentamos duas demonstrações, uma informal e outra mais formal, com notação matemática para demonstrar se ela é satisfatível. Primeiro a informal:
 
-H é tautologia  ⇔ para toda linha da tabela-verdade associada a H, temos H é verdadeira,
+H é *tautologia*  ⇔ para toda linha da tabela-verdade associada a H, temos H é verdadeira,
 			⇒ existe linha da tabela-verdade associada a H, tal que H é verdadeira,
 			⇔ H é satisfatível.
 
 A demonstração correspondente, utilizando notação matemática é:
 
-H é tautologia  ⇔ ∀ I, I\[H] = T,
+H é *tautologia*  ⇔ ∀ I, I\[H] = T,
 			⇒ ∃ I; I\[H] = T,
 			⇔ H é satisfatível.
 
