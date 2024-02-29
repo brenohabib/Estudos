@@ -1,5 +1,7 @@
 package atividade2.Menu.Segments;
 
+import java.util.Scanner;
+
 public class Window {
     protected String name;
     protected int sizeX, sizeY;
@@ -10,13 +12,6 @@ public class Window {
         this.sizeX = sizeX;
         this.sizeY = sizeY;
         paddle = adjustPaddle();
-    }
-
-    protected void printLine() {
-        for (int i = 0; i <= sizeX + paddle; i++) {
-            System.out.print('-');
-        }
-        System.out.println();
     }
 
     protected void printHeader() {
@@ -40,13 +35,27 @@ public class Window {
 
     }
 
+    protected int input() {
+        Scanner input = new Scanner(System.in);
+        int value = input.nextInt();
+        input.close();
+        return value;
+    }
+
+    protected void printLine() {
+        for (int i = 0; i <= sizeX + paddle; i++) {
+            System.out.print('-');
+        }
+        System.out.println();
+    }
+
     protected void printLateral() {
         for (int i = 0; i <= sizeX + paddle; i++) {
             if(i == 0 || i == sizeX + paddle) {
                 System.out.print('|');
             }
             else {
-                System.out.print(" ");
+                System.out.print(' ');
             }
         }
         System.out.println();
