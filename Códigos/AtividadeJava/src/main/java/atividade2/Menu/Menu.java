@@ -8,10 +8,8 @@ public class Menu extends Window{
         super(name, sizeX, sizeY);
     }
 
-    @Override
-    public void printWindow() {
-        // TODO Auto-generated method stub
-        super.printWindow();
+    public void printMenu() {
+        
     }
 
 }

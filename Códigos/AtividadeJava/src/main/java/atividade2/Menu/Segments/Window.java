@@ -10,14 +10,6 @@ public class Window {
         this.sizeY = sizeY;
     }
 
-    public void printWindow() {
-        printLine();
-        for (int i = 0; i < sizeY; i++) {
-            printLateral();
-        }
-        printLine();
-    }
-
     private void printLine() {
         for (int i = 0; i <= sizeX; i++) {
             System.out.print('-');
