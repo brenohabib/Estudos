@@ -21,14 +21,11 @@ A principal diferença entre metalinguagem e linguagem objeto está no **seu pap
 - **Metalinguagem:** fala sobre a linguagem.
 - **Linguagem objeto:** é o que a metalinguagem fala sobre.
 
-Imagine um pintor pintando um quadro. A pintura é a linguagem objeto e o artista que a descreve e analisa é a metalinguagem.
-
 **3. Demonstração**
 
 Apresentamos duas demonstrações, uma informal e outra mais formal, com notação matemática para demonstrar se ela é satisfatível. Primeiro a informal:
 
-H é tautologia
-			⇔ para toda linha da tabela-verdade associada a H, temos H é verdadeira,
+H é tautologia  ⇔ para toda linha da tabela-verdade associada a H, temos H é verdadeira,
 			⇒ existe linha da tabela-verdade associada a H, tal que H é verdadeira,
 			⇔ H é satisfatível.
 
