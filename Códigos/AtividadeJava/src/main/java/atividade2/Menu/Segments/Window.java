@@ -34,6 +34,7 @@ public class Window {
         printLine();
 
     }
+    
 
     protected void printLine() {
         for (int i = 0; i <= sizeX + paddle; i++) {
