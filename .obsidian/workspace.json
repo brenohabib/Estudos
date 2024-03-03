@@ -13,9 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-05.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-07.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4c5e6fa09f0f65ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "416cf66523ffc157",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-03 20.19.49.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d74165c2dd709330",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-03 20.19.49.excalidraw.md"
               }
             }
           },
@@ -31,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-05.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-05.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-05.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Ementa.md"
               }
             }
           },
@@ -173,19 +206,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f4a8951b7dca99c",
+  "active": "4c5e6fa09f0f65ab",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-01.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-05.md",
-    "conflict-files-obsidian-git.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-07.md",
+    "Excalidraw/Drawing 2024-03-03 20.19.49.excalidraw.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-04.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-05.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-01.md",
+    "conflict-files-obsidian-git.md",
     "Códigos/AtividadeJava/src/main/java/atividade2/Menu/Window.java",
     "Códigos/AtividadeJava/src/main/java/atividade2/Menu/Menu.java",
     "Códigos/AtividadeJava/src/main/java/atividade2/Menu/Main.java",
     "Códigos/AtividadeJava/src/main/java/atividade2/Menu",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Paradigma de Programação.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
     "Estudos/Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-02.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
@@ -209,8 +244,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Recursividade.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Ética aplicada a computação.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
     "Faculdade Eng. Software/Explicações/Mapa Análise Combinatória.png",
     "Imagens/TCP IP.png",
