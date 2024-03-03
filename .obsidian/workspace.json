@@ -14,18 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-04.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6c60763275ad6fd7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
               }
             }
           },
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +173,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c60763275ad6fd7",
+  "active": "4f4a8951b7dca99c",
   "lastOpenFiles": [
-    "Estudos/Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-04.md",
+    "Estudos/Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-02.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
     "Códigos/AtividadeJava/target/classes/paradigmas/Reajuste.class",
@@ -205,7 +195,6 @@
     "Estudos/Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
     "Estudos/Faculdade Eng. Software/Matérias/2º Semestre/Programação/Lógica de Programação.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Programação/Lógica de Programação.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-02.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-01.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
