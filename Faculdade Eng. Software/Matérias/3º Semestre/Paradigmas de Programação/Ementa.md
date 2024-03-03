@@ -18,3 +18,4 @@ data: 2024-01-29
 ### Forma de avaliação
 - Trabalhos/Atividades - 3,0
 - Prova - 7,0
+	- 11/03
