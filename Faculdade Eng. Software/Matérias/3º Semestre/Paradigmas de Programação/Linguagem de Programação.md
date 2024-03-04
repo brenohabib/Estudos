@@ -29,3 +29,17 @@ Essas linguagens têm como principal objetivo aumentar a produtividade dos progr
 
 - **Específica:** Linguagens projetadas para atender a requisitos muito específicos de domínios particulares, otimizando o desenvolvimento para determinados tipos de aplicação. Um exemplo é a linguagem SQL, voltada para manipulação de bancos de dados relacionais, ou VHDL, utilizada para projetar circuitos digitais.
 
+Programação Imperativa
+
+Programação Orientada a Objetos
+
+Programação Funcional
+
+Programação Concorrente
+
+Linguagens multiparadigma
+
+Linguagem multiplataforma
+
+Tipos de dados
+
