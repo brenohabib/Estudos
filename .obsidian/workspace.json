@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "86ce2ce3e397db43",
@@ -168,6 +169,12 @@
   },
   "active": "07e4677fba03848b",
   "lastOpenFiles": [
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex2.class",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula6/Au6Ex2.java",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex1.class",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula6/Au6Ex1.java",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula6",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula6",
     "Trabalho/Redes/CFTV.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Menu/Window.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Menu/Window.java",
@@ -177,11 +184,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Pesquisa.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Menu/Segments/Window.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Menu/Segments/Window.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Menu/Menu.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Menu/Menu.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Menu/Segments/Menu.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Menu/Segments/Menu.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Menu/Segments",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Paradigma de Programação.md",
@@ -207,7 +209,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-04.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Distribuição Normal.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
     "Sem título.canvas",
     "Imagem do WhatsApp de 2024-02-02 à(s) 20.12.41_93a3aad1.jpg",

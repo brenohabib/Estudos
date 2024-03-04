@@ -1,4 +1,4 @@
-package atividade2.Menu.Segments;
+package atividade2.Menu;
 
 import java.util.Scanner;
 
