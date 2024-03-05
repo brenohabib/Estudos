@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-08.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "requisitos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,8 +180,14 @@
   },
   "active": "4322ced595e60e79",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-08.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-02.md",
     "Excalidraw/Drawing 2024-03-04 20.57.28.excalidraw.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-01.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-08.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Linguagem de Programação.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Paradigma de Programação.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Introdução.md",
@@ -192,7 +199,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-05.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-03.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-02.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-07.md",
     "Excalidraw/Drawing 2024-03-03 20.19.49.excalidraw.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
@@ -207,15 +213,11 @@
     "Códigos/AtividadeJava/src/main/java/atividade2/Menu/Window.java",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
     "Trabalho/Sergio/Câmeras.md",
-    "Trabalho/Sergio",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Pesquisa.md",
-    "Códigos/AtividadeJava/target/classes/atividade2/Menu/Segments/Window.class",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Atividade-02.md",
     "Pasted image 20240227211225.png",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Equivalência.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Semântica.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Sintaxe.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-06.png",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-05.png",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Sem título.canvas",
