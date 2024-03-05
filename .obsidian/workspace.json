@@ -23,14 +23,52 @@
             "id": "4322ced595e60e79",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-04 20.57.28.excalidraw.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3aef08c34e3035a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77690923e366a40e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3016c3ed39a488ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -59,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Prioriza",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-04 20.57.28.excalidraw.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-04 20.57.28.excalidraw.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-04 20.57.28.excalidraw.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md"
               }
             }
           },
@@ -178,10 +215,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4322ced595e60e79",
+  "active": "3016c3ed39a488ce",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
     "Excalidraw/Drawing 2024-03-04 20.57.28.excalidraw.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-02.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-01.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-08.md",
@@ -217,7 +255,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Orientação a Objeto/Atividade-02.md",
     "Pasted image 20240227211225.png",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Equivalência.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-06.png",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-05.png",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Sem título.canvas",
