@@ -21,4 +21,10 @@
 
 - Dia 24
 	- Tarde
-		- Gaúcho -> Direto para faculdade
+		- Gaúcho -> Direto para casa
+
+## Março
+
+- Dia 05
+	- Manhã
+		- Recarga cartão almoço
