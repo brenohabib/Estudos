@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Alcance das Aplicações do Computador na Sociedade.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Alcance das Aplicações do Computador na Sociedade.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Alcance das Aplicações do Computador na Sociedade.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Alcance das Aplicações do Computador na Sociedade.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md"
               }
             }
           },
@@ -217,8 +217,8 @@
   },
   "active": "3016c3ed39a488ce",
   "lastOpenFiles": [
-    "Trabalho/Horário.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Alcance das Aplicações do Computador na Sociedade.md",
+    "Trabalho/Horário.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Pesquisa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
     "Excalidraw/Drawing 2024-03-04 20.57.28.excalidraw.md",
