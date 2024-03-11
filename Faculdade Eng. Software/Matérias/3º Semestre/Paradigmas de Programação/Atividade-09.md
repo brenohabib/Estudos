@@ -13,9 +13,7 @@ Neste paradigma, o estado do programa é **mutável**, ou seja, as variáveis po
 ## Conceitos
 
 - **Variáveis:** Armazenam dados que podem ser manipulados durante a execução.
-
 - **Comandos:** Instruções que alteram o estado do programa, como comandos de atribuição, controle de fluxo (if, while, for) e entrada/saída.
-
 - **Expressões:** Combinam valores e operadores para gerar novos valores.
 
 
@@ -24,21 +22,15 @@ Neste paradigma, o estado do programa é **mutável**, ou seja, as variáveis po
 ### Vantagens
 
 - **Eficiência:** O controle granular sobre o estado do programa permite otimizações e facilita a manipulação de memória.
-
 - **Simplicidade:** A lógica sequencial é intuitiva e fácil de aprender, tornando o paradigma acessível para iniciantes.
-
 - **Flexibilidade:** A natureza imperativa permite implementar diversos algoritmos e estruturas de dados com grande liberdade.
-
 - **Versatilidade:** A ampla variedade de linguagens imperativas oferece opções para diferentes contextos e necessidades.
 
 ### Desvantagens
 
 - **Dificuldade de depuração:** O estado mutável pode dificultar a identificação de erros e a compreensão do comportamento do programa.
-
 - **Manutenibilidade:** A lógica sequencial pode tornar o código rígido e difícil de modificar, especialmente em projetos complexos.
-
 - **Expressividade:** A necessidade de especificar detalhes de baixo nível pode tornar o código menos legível e intuitivo.
-
 - **Paralelismo:** A natureza sequencial dificulta a implementação de paralelismo eficiente, limitando a escalabilidade em alguns casos.
 
 ---

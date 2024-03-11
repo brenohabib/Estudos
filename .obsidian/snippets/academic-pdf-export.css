@@ -9,7 +9,7 @@ Auth: Nicklas Vraa
 
     /* Document-wide. ---------------------------------------------------------------------- */
     @page { /* Page structure. */
-        margin: 4cm !important;
+        margin: 2cm !important;
     }
     a:link, a:visited, a { /* Links. */
         color: black !important;
@@ -23,7 +23,7 @@ Auth: Nicklas Vraa
         --code-normal: black !important;
     }
     p {
-        font-family: "Latin Modern Roman" !important;
+        font-family: "Times New Roman" !important;
         font-size: 12pt !important;
         text-align: justify !important;
         line-height: 1.5 !important;
