@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md"
               }
             }
           },
@@ -217,6 +217,8 @@
   },
   "active": "b764ee9116fea7b6",
   "lastOpenFiles": [
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula8/Au8Ex3.class",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula8/Au8Ex3.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula8/Au8Ex2.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula8/Au8Ex2.java",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Alcance das Aplicações do Computador na Sociedade.md",
@@ -249,9 +251,7 @@
     "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex1.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula6/Au6Ex1.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula6",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula6",
     "Trabalho/Redes/CFTV.md",
-    "Códigos/AtividadeJava/target/classes/atividade2/Menu/Window.class",
     "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
     "Trabalho/Sergio/Câmeras.md",
     "Pasted image 20240227211225.png",
