@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md"
               }
             }
           },
@@ -215,8 +215,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b764ee9116fea7b6",
+  "active": "3016c3ed39a488ce",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula8/Au8Ex3.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula8/Au8Ex3.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula8/Au8Ex2.class",
@@ -226,7 +231,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Pesquisa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
     "Excalidraw/Drawing 2024-03-04 20.57.28.excalidraw.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-02.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-01.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-08.md",
@@ -250,15 +254,10 @@
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula6/Au6Ex2.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex1.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula6/Au6Ex1.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula6",
-    "Trabalho/Redes/CFTV.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
-    "Trabalho/Sergio/Câmeras.md",
     "Pasted image 20240227211225.png",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-06.png",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-05.png",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Sem título.canvas",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
     "Sem título.canvas",
     "Imagem do WhatsApp de 2024-02-02 à(s) 20.12.41_93a3aad1.jpg",
     "Imagens/TCP IP.png",

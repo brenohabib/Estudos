@@ -41,14 +41,14 @@ A Engenharia de Requisitos é uma disciplina fundamental no processo de desenvol
 - Problemas surgem quando os requisitos não são precisamente definidos.
 - Requisitos ambíguos podem ser interpretados de maneiras diferentes pelos desenvolvedores e usuários.
 - Considere o termo 'telas apropriadas'.
-  - Intenção do usuário - tela de propósito especial para cada tipo diferente de documento.
-  - Interpretação do desenvolvedor - fornece uma tela de texto que mostra o conteúdo de documento.
+	 - Intenção do usuário - tela de propósito especial para cada tipo diferente de documento.
+	 - Interpretação do desenvolvedor - fornece uma tela de texto que mostra o conteúdo de documento.
 
 ### Requisitos Completos e Consistentes
 
 - Em princípio, requisitos devem ser completos e consistentes.
 - **Completude**:
-  - Eles devem incluir descrições de todos os recursos requeridos.
+	- Eles devem incluir descrições de todos os recursos requeridos.
 - **Consistência**:
-  - Não deve haver conflitos ou contradições nas descrições dos recursos do sistema.
+	- Não deve haver conflitos ou contradições nas descrições dos recursos do sistema.
 - Na prática, é impossível produzir um documento de requisitos completo e consistente.
