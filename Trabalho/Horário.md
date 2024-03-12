@@ -28,3 +28,9 @@
 - Dia 05
 	- Manhã
 		- Recarga cartão almoço
+
+- Dia11
+	- Manhã
+		- Ida para fazenda Sérgio; Almoço de 1 Hora
+	- Tarde
+		- Chegada em Rio Verde às 18:00
