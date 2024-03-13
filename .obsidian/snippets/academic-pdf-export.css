@@ -18,12 +18,12 @@ Auth: Nicklas Vraa
 
     /* Main body of text. ------------------------------------------------------------------ */
     body {
-        tab-size: 4 !important;
+        tab-size: 2 !important;
         --code-background: white !important;
         --code-normal: black !important;
     }
     p {
-        font-family: "Latin Modern Roman" !important;
+        font-family: "Times New Roman" !important;
         font-size: 12pt !important;
         text-align: justify !important;
         line-height: 1.5 !important;
@@ -51,7 +51,7 @@ Auth: Nicklas Vraa
         text-align: center !important;
         font-size: 18pt !important;
         font-weight: normal !important;
-        margin-top: 0px !important;
+        margin-top: 4px !important;
         counter-reset: H2;
     }
     h6 { /* Subtitle. */

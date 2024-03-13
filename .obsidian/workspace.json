@@ -61,7 +61,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Trabalho/Horário.md",
+=======
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-09.md",
+>>>>>>> 1ca414cebc5a17243430308f8f330082880eb8b0
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +138,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Trabalho/Horário.md",
+=======
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-09.md",
+>>>>>>> 1ca414cebc5a17243430308f8f330082880eb8b0
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +159,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Trabalho/Horário.md",
+=======
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-09.md",
+>>>>>>> 1ca414cebc5a17243430308f8f330082880eb8b0
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Trabalho/Horário.md"
+=======
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-09.md"
+>>>>>>> 1ca414cebc5a17243430308f8f330082880eb8b0
               }
             }
           },
@@ -204,12 +220,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false
@@ -217,11 +233,17 @@
   },
   "active": "3016c3ed39a488ce",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Códigos/AtividadeJava/target/classes/paradigmas/Reajuste.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Menu/Window.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Menu/Menu.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Menu/Main.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula8/Au8Ex3.class",
+=======
+    "Faculdade Eng. Software/template/Template.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-09.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
+>>>>>>> 1ca414cebc5a17243430308f8f330082880eb8b0
     "Códigos/AtividadeJava/target/classes/atividade2/Aula8/Au8Ex2.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula8/Au8Ex1.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula7/Au7Ex1.class",
@@ -255,6 +277,18 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-03.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-07.md",
     "Excalidraw/Drawing 2024-03-03 20.19.49.excalidraw.md",
+<<<<<<< HEAD
+=======
+    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex2.class",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula6/Au6Ex2.java",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex1.class",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula6/Au6Ex1.java",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula6",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula6",
+    "Trabalho/Redes/CFTV.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
+>>>>>>> 1ca414cebc5a17243430308f8f330082880eb8b0
     "Pasted image 20240227211225.png",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-06.png",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-05.png",
