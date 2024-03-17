@@ -5,6 +5,11 @@ data: 2024-03-10
 ---
 1) Quais são os principais conceitos-chave dos paradigmas imperativos na programação?
    
+	**Estruturas de Controle**: Instruções como loops e condicionais para controlar o fluxo de execução do programa. Elas determinam quais instruções serão executadas e em que ordem, com base em condições lógicas.
+    
+	**Procedimentos e Funções**: Permitem que o código seja organizado em blocos reutilizáveis. Procedimentos e funções encapsulam um conjunto de instruções e podem receber parâmetros e retornar valores.
+    
+	**Programação Estruturada**: O código é organizado em estruturas lógicas e hierárquicas, como sequência, seleção e repetição.
    
 2) Como os paradigmas imperativos lidam com o controle de fluxo e a execução de tarefas?
    
