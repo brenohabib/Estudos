@@ -1,92 +1,35 @@
 {
   "main": {
-    "id": "a3863e3ef4bc0504",
+    "id": "859c82c480be3eb5",
     "type": "split",
     "children": [
       {
-        "id": "c68bca8f13b6d9bc",
+        "id": "8282c33a66ec7fd4",
         "type": "tabs",
         "children": [
           {
-            "id": "07e4677fba03848b",
+            "id": "aa6d27d467ea1a15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4322ced595e60e79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3aef08c34e3035a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77690923e366a40e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3016c3ed39a488ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Trabalho/Horário.md",
-=======
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-09.md",
->>>>>>> 1ca414cebc5a17243430308f8f330082880eb8b0
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cf4647f3e297e1e6",
+    "id": "36fd2887958ebd75",
     "type": "split",
     "children": [
       {
-        "id": "a6256ee5dbfcce8c",
+        "id": "a3b8bbc5799a3cef",
         "type": "tabs",
         "children": [
           {
-            "id": "b764ee9116fea7b6",
+            "id": "885480d5f9a67715",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -96,7 +39,7 @@
             }
           },
           {
-            "id": "fd9e78369213ea37",
+            "id": "90aa591651086f4e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -111,7 +54,7 @@
             }
           },
           {
-            "id": "64d04bfd709ca79e",
+            "id": "0c1b6a092559f9a5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -122,27 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 300
   },
   "right": {
-    "id": "86ce2ce3e397db43",
+    "id": "bb72aae0155d3dec",
     "type": "split",
     "children": [
       {
-        "id": "04df13a9b49312bc",
+        "id": "13f7c1d1b4254fac",
         "type": "tabs",
         "children": [
           {
-            "id": "594042c69bfdbe70",
+            "id": "d50386e84c5c8ce1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Trabalho/Horário.md",
-=======
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-09.md",
->>>>>>> 1ca414cebc5a17243430308f8f330082880eb8b0
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,23 +92,18 @@
             }
           },
           {
-            "id": "1b8d1f90fa7f01ff",
+            "id": "707a12eb9d548f96",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Trabalho/Horário.md",
-=======
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-09.md",
->>>>>>> 1ca414cebc5a17243430308f8f330082880eb8b0
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c654a06213ab005e",
+            "id": "9814ccdd4fbc2b50",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -181,121 +114,33 @@
             }
           },
           {
-            "id": "ca91bcc6b8cc2e23",
+            "id": "92f3a21206e4c274",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Trabalho/Horário.md"
-=======
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-09.md"
->>>>>>> 1ca414cebc5a17243430308f8f330082880eb8b0
-              }
-            }
-          },
-          {
-            "id": "11c9c734cc44be74",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "945d1d1d329f4433",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3016c3ed39a488ce",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Códigos/AtividadeJava/target/classes/paradigmas/Reajuste.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Menu/Window.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Menu/Menu.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Menu/Main.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula8/Au8Ex3.class",
-=======
-    "Faculdade Eng. Software/template/Template.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-09.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
->>>>>>> 1ca414cebc5a17243430308f8f330082880eb8b0
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula8/Au8Ex2.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula8/Au8Ex1.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula7/Au7Ex1.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex3.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex2.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex1.class",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Atividade-04.md",
-    "Trabalho/Horário.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-01.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Alcance das Aplicações do Computador na Sociedade.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Pesquisa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
-    "Excalidraw/Drawing 2024-03-04 20.57.28.excalidraw.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-02.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-08.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Linguagem de Programação.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Paradigma de Programação.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Introdução.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-05.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-03.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-01.md",
-    "conflict-files-obsidian-git.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-05.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-03.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-07.md",
-    "Excalidraw/Drawing 2024-03-03 20.19.49.excalidraw.md",
-<<<<<<< HEAD
-=======
-    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Sistema Crítico.md",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex2.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula6/Au6Ex2.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex1.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula6/Au6Ex1.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula6",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula6",
-    "Trabalho/Redes/CFTV.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Ética Aplicada a Computação/Atividade-01.md",
->>>>>>> 1ca414cebc5a17243430308f8f330082880eb8b0
-    "Pasted image 20240227211225.png",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-06.png",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-05.png",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Sem título.canvas",
-    "Sem título.canvas",
-    "Imagem do WhatsApp de 2024-02-02 à(s) 20.12.41_93a3aad1.jpg",
-    "Imagens/TCP IP.png",
-    "Imagens/OSI.png"
-  ]
+  "active": "aa6d27d467ea1a15",
+  "lastOpenFiles": []
 }
