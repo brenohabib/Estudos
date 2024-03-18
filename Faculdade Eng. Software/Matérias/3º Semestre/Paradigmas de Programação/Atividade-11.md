@@ -10,3 +10,4 @@ Assembler é um montador que transforma um código de programação em binário.
 
 ## Compilador
 
+Compilador é principalmente usado para traduzir código fonte de alto nível para uma linguagem de baixo nível, como por exemplo, a linguagem C que traduz para Assembly e logo após binário.
