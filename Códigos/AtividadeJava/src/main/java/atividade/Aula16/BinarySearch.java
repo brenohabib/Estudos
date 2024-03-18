@@ -24,7 +24,7 @@ public class BinarySearch {
     public static int binarySearch(int arr[], int start, int end, int toFind) {
         if (end >= start) {
             int mid = start + (end - start) / 2;
-
+            
             if (arr[mid] == toFind)
                 return mid;
 
