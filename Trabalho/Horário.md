@@ -34,3 +34,7 @@
 		- Ida para fazenda Sérgio; Almoço de 1 Hora
 	- Tarde
 		- Chegada em Rio Verde às 18:00
+
+- Dia 26
+	- Tarde
+		- Fazenda Sérgio -> Casa
