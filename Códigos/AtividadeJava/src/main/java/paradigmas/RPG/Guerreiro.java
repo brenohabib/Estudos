@@ -1,0 +1,38 @@
+package paradigmas.RPG;
+
+public class Guerreiro extends Personagem{
+
+    private int armadura;
+    private boolean inFuria = false;
+
+    public Guerreiro(String nome, int vida, int dano, int armadura) {
+        super(nome, vida, dano);
+        this.armadura = armadura;
+
+    }
+
+    public void turnFuria() {
+        if (!inFuria) {
+            inFuria = true;
+            this.setDano(getDano() * 2);
+            this.setVida(getVida() - 10);
+        } else {
+            inFuria = false;
+            this.setDano(getDano() / 2);
+            this.setVida(getVida() + 15);
+        }
+    }
+
+    public void lacerar(Personagem alvo) {
+        alvo.setVida(alvo.getVida() - this.getDano() * 5);
+    }
+
+    public int getArmadura() {
+        return armadura;
+    }
+
+    public void setArmadura(int armadura) {
+        this.armadura = armadura;
+    }
+
+}

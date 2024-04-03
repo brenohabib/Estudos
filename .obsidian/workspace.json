@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5f5d03119e157ca0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +149,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f5d03119e157ca0",
+  "active": "cc9607d9281cf021",
   "lastOpenFiles": [
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
