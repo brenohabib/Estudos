@@ -8,13 +8,7 @@ public class Guerreiro extends Personagem{
     public Guerreiro(String nome, int vida, int dano, int armadura) {
         super(nome, vida, dano);
         this.armadura = armadura;
-<<<<<<< HEAD
-
     }
-
-=======
-    }
->>>>>>> 71ec394de4f82774009413e6fbc6c13b6211ea41
     public void turnFuria() {
         if (!inFuria) {
             inFuria = true;
@@ -26,22 +20,6 @@ public class Guerreiro extends Personagem{
             this.setVida(getVida() + 15);
         }
     }
-<<<<<<< HEAD
-
-    public void lacerar(Personagem alvo) {
-        alvo.setVida(alvo.getVida() - this.getDano() * 5);
-    }
-
-    public int getArmadura() {
-        return armadura;
-    }
-
-    public void setArmadura(int armadura) {
-        this.armadura = armadura;
-    }
-
-}
-=======
     public void lacerar(Personagem alvo) {
         alvo.setVida(alvo.getVida() - this.getDano() * 5);
     }
@@ -58,4 +36,3 @@ public class Guerreiro extends Personagem{
         this.inFuria = inFuria;
     } 
 }
->>>>>>> 71ec394de4f82774009413e6fbc6c13b6211ea41
