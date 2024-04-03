@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+=======
                 "file": "Trabalho/Horário.md",
+>>>>>>> 77d87ae41c6d88caee176bb583548883113f77fe
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+=======
                 "file": "Trabalho/Horário.md",
+>>>>>>> 77d87ae41c6d88caee176bb583548883113f77fe
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+=======
                 "file": "Trabalho/Horário.md",
+>>>>>>> 77d87ae41c6d88caee176bb583548883113f77fe
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md"
+=======
                 "file": "Trabalho/Horário.md"
+>>>>>>> 77d87ae41c6d88caee176bb583548883113f77fe
               }
             }
           }
