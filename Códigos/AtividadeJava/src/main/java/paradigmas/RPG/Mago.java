@@ -23,11 +23,13 @@ public class Mago extends Personagem {
             alvo.setVida(alvo.getVida() - this.getDano() * 5);
             mana -= 30;
         }
-        System.out.println(super.getNome() + " lançou bola de fogo em " + alvo.getNome());
+
     }
+
     public int getMana() {
         return mana;
     }
+    
     public void setMana(int mana) {
         this.mana = mana;
     }

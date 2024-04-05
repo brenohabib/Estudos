@@ -149,6 +149,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
+<<<<<<< HEAD
   "active": "31a7d0d48caa80f8",
   "lastOpenFiles": []
+=======
+  "active": "cc9607d9281cf021",
+  "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-11.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-08.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-10.md",
+    "conflict-files-obsidian-git.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-04.md"
+  ]
+>>>>>>> b2f8e1321dea3a49334939d840c210058a3d4432
 }

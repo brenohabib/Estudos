@@ -23,30 +23,16 @@ print(paste("Maximo: ", max(minmax_array)))
 #Variância da Festa B:
 #5 ano – 6 anos – 7 anos – 7 anos – 8 anos e 9 anos
 x <- c(5, 6, 7, 7, 8, 9)
-n <- length(x)
-deviations <- x - mean(x)
-s <- deviations^2
-mean <- sum(s) / n
-print(paste("Variância: ", mean))
+print(paste("Variância: ", var(x)))
 
 #Desvio padrão da Festa B:
 x <- c(5, 6, 7, 7, 8, 9)
-n <- length(x)
-deviations <- x - mean(x)
-s <- deviations^2
-m <- sum(s) / n
-sd <- sqrt(m)
-print(paste("Desvio Padrão: ", sd))
+print(paste("Desvio Padrão: ", sd(x)))
 
 #Para uma distribuição normal dada por:
 #X ~ N (u = 100, a² = 25)
 x <- c(85, 90, 95, 100, 105, 110, 115)
-n <- length(x)
-deviations <- x - mean(x)
-s <- deviations^2
-m <- sum(s) / n
-sd <- sqrt(m)
-dis_norm <- pnorm(100, m, sd)
+dis_norm <- pnorm(100, mean(x), sd(x))
 print(paste("Distribuição Normal: ", dis_norm))
 
 #Funcionários de uma grande firma de contabilidade afirmam que
@@ -57,9 +43,16 @@ print(paste("Distribuição Normal: ", dis_norm))
 #funcionários ao nível de 5% de significância
 concorrente <- c(38472, 43918, 47609)
 amostral <- c(39847, 42125, 45528)
-x <- c(media_concorrente, media_amostral)
 resultado_teste <- t.test(amostral, concorrente, alternative = "less")
 print(resultado_teste)
 
-
-print("Análise de variância: ", aov(wt ~ mpg + cyl, data = Data_Cars))
+#Analisar o efeito de três tipos diferentes de fertilizantes no
+#crescimento de plantas de tomate.
+dados <- data.frame(
+  altura = c(15, 18, 20, 14, 16, 19, 17, 21, 22, 20,
+             12, 14, 16, 13, 15, 18, 20, 21, 19, 23,
+             10, 11, 14, 12, 15, 16, 18, 19, 21, 20),
+  fertilizante = factor(rep(c("orgânico", "químico", "mineral"), each = 10))
+)
+anova_fertilizante <- aov(altura ~ fertilizante, data = dados)
+print(anova_fertilizante)
