@@ -1,21 +1,19 @@
 {
   "main": {
-    "id": "6315d1442108d34e",
+    "id": "31b252890cfdf827",
     "type": "split",
     "children": [
       {
-        "id": "b4c0c3fc81bb09ec",
+        "id": "9250067d094cfe95",
         "type": "tabs",
         "children": [
           {
-            "id": "31a7d0d48caa80f8",
+            "id": "e5dc1a84b7d76ad5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Trabalho/Horário.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.12"
               }
             }
           }
@@ -25,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a139fbeecdbf7bd4",
+    "id": "a4229c8d12f7f0d0",
     "type": "split",
     "children": [
       {
-        "id": "7d12057c8e6d882e",
+        "id": "28bfcfb6d3462c2a",
         "type": "tabs",
         "children": [
           {
-            "id": "736635da2da0d698",
+            "id": "946a2e5e4cd6c0f7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +41,7 @@
             }
           },
           {
-            "id": "352f251ce9e105bd",
+            "id": "e33dfc608b80898c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +56,7 @@
             }
           },
           {
-            "id": "21db230e7417ac86",
+            "id": "3889eca687bed0ca",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +70,19 @@
     "width": 300
   },
   "right": {
-    "id": "2685d0cd3310c25f",
+    "id": "5076decbe381d96f",
     "type": "split",
     "children": [
       {
-        "id": "7c50ce58acc75cb7",
+        "id": "554116ee9de9c763",
         "type": "tabs",
         "children": [
           {
-            "id": "d56d99bf6246a0fc",
+            "id": "86c145a5121581e2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Horário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +94,18 @@
             }
           },
           {
-            "id": "857b508a8db26eec",
+            "id": "d684c4f194209f77",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Horário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "347d0bbf0ff297e3",
+            "id": "d3177dec6a657c39",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +116,11 @@
             }
           },
           {
-            "id": "ac397f03331f96ce",
+            "id": "75531506a5106263",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Trabalho/Horário.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,21 +143,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-<<<<<<< HEAD
-  "active": "31a7d0d48caa80f8",
+  "active": "e5dc1a84b7d76ad5",
   "lastOpenFiles": []
-=======
-  "active": "cc9607d9281cf021",
-  "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-11.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-08.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-10.md",
-    "conflict-files-obsidian-git.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Atividade-04.md"
-  ]
->>>>>>> b2f8e1321dea3a49334939d840c210058a3d4432
 }
