@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "889324684cfeca77",
     "type": "split",
     "children": [
@@ -13,6 +14,23 @@
             "state": {
               "type": "empty",
               "state": {}
+=======
+    "id": "31b252890cfdf827",
+    "type": "split",
+    "children": [
+      {
+        "id": "9250067d094cfe95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5dc1a84b7d76ad5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+>>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
             }
           }
         ]
@@ -21,6 +39,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "559b936b8c22bb2c",
     "type": "split",
     "children": [
@@ -30,6 +49,17 @@
         "children": [
           {
             "id": "71507d342045f60b",
+=======
+    "id": "a4229c8d12f7f0d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "28bfcfb6d3462c2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "946a2e5e4cd6c0f7",
+>>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +69,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "c7f16c07f2b906f5",
+=======
+            "id": "e33dfc608b80898c",
+>>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +88,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "d8c12131f18c8dcf",
+=======
+            "id": "3889eca687bed0ca",
+>>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,6 +106,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "296d07fd90718f9e",
     "type": "split",
     "children": [
@@ -77,6 +116,17 @@
         "children": [
           {
             "id": "7e118457677c2bbc",
+=======
+    "id": "5076decbe381d96f",
+    "type": "split",
+    "children": [
+      {
+        "id": "554116ee9de9c763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86c145a5121581e2",
+>>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +142,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "3ca9cc512bcfe475",
+=======
+            "id": "d684c4f194209f77",
+>>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +157,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "f768b6894895b8a6",
+=======
+            "id": "d3177dec6a657c39",
+>>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +172,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "8abfb1bf98a143e8",
+=======
+            "id": "75531506a5106263",
+>>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -133,6 +195,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
+<<<<<<< HEAD
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -142,5 +205,16 @@
     }
   },
   "active": "136471872e00cfb7",
+=======
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e5dc1a84b7d76ad5",
+>>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
   "lastOpenFiles": []
 }

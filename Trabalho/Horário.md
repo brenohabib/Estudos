@@ -38,3 +38,9 @@
 - Dia 26
 	- Tarde
 		- Fazenda Sérgio -> Casa
+
+## Abril
+
+- Dia 05
+	- Dia todo
+		- Trabalho com Moisés em Usina Solar
