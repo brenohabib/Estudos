@@ -1,36 +1,18 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "889324684cfeca77",
+    "id": "090d6fedc807378e",
     "type": "split",
     "children": [
       {
-        "id": "fff0384acec1a25c",
+        "id": "a88657e41247b510",
         "type": "tabs",
         "children": [
           {
-            "id": "136471872e00cfb7",
+            "id": "81b0ffc36e482b86",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-=======
-    "id": "31b252890cfdf827",
-    "type": "split",
-    "children": [
-      {
-        "id": "9250067d094cfe95",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e5dc1a84b7d76ad5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
->>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
             }
           }
         ]
@@ -39,27 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "559b936b8c22bb2c",
+    "id": "a5b0a92c5646d1a0",
     "type": "split",
     "children": [
       {
-        "id": "54b033f8ee86b090",
+        "id": "0ef5bf03f3a41c8c",
         "type": "tabs",
         "children": [
           {
-            "id": "71507d342045f60b",
-=======
-    "id": "a4229c8d12f7f0d0",
-    "type": "split",
-    "children": [
-      {
-        "id": "28bfcfb6d3462c2a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "946a2e5e4cd6c0f7",
->>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
+            "id": "261ffddf01be778f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,11 +39,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "c7f16c07f2b906f5",
-=======
-            "id": "e33dfc608b80898c",
->>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
+            "id": "917084f63d4ff061",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -88,11 +54,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "d8c12131f18c8dcf",
-=======
-            "id": "3889eca687bed0ca",
->>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
+            "id": "c52394b48c5f4702",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,27 +68,15 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "296d07fd90718f9e",
+    "id": "a5fa00908a755d2d",
     "type": "split",
     "children": [
       {
-        "id": "96ac517ab9ffa489",
+        "id": "eacc52e46ba9142e",
         "type": "tabs",
         "children": [
           {
-            "id": "7e118457677c2bbc",
-=======
-    "id": "5076decbe381d96f",
-    "type": "split",
-    "children": [
-      {
-        "id": "554116ee9de9c763",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "86c145a5121581e2",
->>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
+            "id": "40690230107576dc",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -142,11 +92,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "3ca9cc512bcfe475",
-=======
-            "id": "d684c4f194209f77",
->>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
+            "id": "3b750df42ff46aaf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -157,11 +103,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "f768b6894895b8a6",
-=======
-            "id": "d3177dec6a657c39",
->>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
+            "id": "77f12b26eec94b2a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,11 +114,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "8abfb1bf98a143e8",
-=======
-            "id": "75531506a5106263",
->>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
+            "id": "caaf967a852499cc",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -195,17 +133,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-<<<<<<< HEAD
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
-    }
-  },
-  "active": "136471872e00cfb7",
-=======
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -214,22 +141,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e5dc1a84b7d76ad5",
-<<<<<<< HEAD
-  "lastOpenFiles": [
-    "Códigos/AtividadeJava/target/classes/Menu/Sort.class",
-    "Códigos/AtividadeJava/target/classes/Menu/SegmentPosition.class",
-    "Códigos/AtividadeJava/target/classes/Menu/Menu.class",
-    "Códigos/AtividadeJava/target/classes/Menu/Main.class",
-    "Códigos/AtividadeJava/src/main/java/Menu/Main.java",
-    "Códigos/AtividadeJava/src/main/java/Menu/Menu.java",
-    "Códigos/AtividadeJava/src/main/java/Menu/SegmentPosition.java",
-    "Códigos/AtividadeJava/src/main/java/Menu/Sort.java",
-    "Códigos/AtividadeJava/target/classes/Menu",
-    "Códigos/AtividadeJava/src/main/java/Menu"
-  ]
-=======
->>>>>>> 4ade0ae9cb73b5c31176b895b9c4025144749e90
+  "active": "81b0ffc36e482b86",
   "lastOpenFiles": []
->>>>>>> fc5c627b22707b235f5e45bdfcb349c6de868019
 }
