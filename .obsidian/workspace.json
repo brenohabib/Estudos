@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Excessões.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Excessões.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Excessões.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Excessões.md"
               }
             }
           }
@@ -151,7 +151,19 @@
   },
   "active": "81b0ffc36e482b86",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md"
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/DivisaoPorZeroException.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/Calculadora.class",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula12/Calculadora.java",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula7/Au7Ex1.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex3.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex2.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula6/Au6Ex1.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula5/Au5Ex4.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula5/Au5Ex3.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula5/Au5Ex2.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula5/Au5Ex1.class",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Excessões.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md"
   ]
 }
