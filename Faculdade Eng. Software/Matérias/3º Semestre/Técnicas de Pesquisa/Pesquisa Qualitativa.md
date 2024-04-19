@@ -76,3 +76,23 @@ data: 2024-04-11
 - Codificação
 - Tratamento e inferência
 - Comunicação dos resultados
+
+### Limitações
+
+- Subjetividade na interpretação
+- Demorada e exige grande esforço
+- Complexidade da categorização
+
+## Pesquisa ação
+
+- Participação ativa
+- Integra investigação e ação
+- Transformação e melhoria aos colaboradores
+
+### Etapas
+
+- Identificação do problema
+- Planejamento da ação
+- Implementação da ação
+- Avaliação dos resultados
+
