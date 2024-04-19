@@ -48,3 +48,7 @@
 - Dia 17
 	- Almoço
 		- Ida Vapt Vupt para resolver carteira motorista
+
+- Dia 19
+	- 10:00
+		- Exame psicotécnico
