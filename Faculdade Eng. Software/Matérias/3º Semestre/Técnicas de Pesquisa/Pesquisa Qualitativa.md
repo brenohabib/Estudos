@@ -96,3 +96,27 @@ data: 2024-04-11
 - Implementação da ação
 - Avaliação dos resultados
 
+### Limitações
+
+- Envolvimento dos participantes
+- Gestão de expectativas
+- Equilíbrio entre pesquisadores e ação
+- Objetividade e rigor cientifico
+
+## Estudo de caso
+
+- Concentra em analisar fenômenos específicos
+- Perite compreender fenômenos complexos
+- Flexibilidade, contexto natural, dados descritivos
+- Fornece insights sobre um determinado tópico
+
+### Etapas
+
+- Definição do caso
+- Coleta dos dados
+- Análise dos dados
+
+### Limitações
+
+
+
