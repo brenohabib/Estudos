@@ -56,3 +56,23 @@ data: 2024-04-11
 - **Dados qualitativos ricos e detalhados**: A **indução** é útil quando você tem dados qualitativos ricos e detalhados, pois permite que você explore esses dados em profundidade e desenvolva teorias a partir deles.
 - **Dados quantitativos estruturados**: A **dedução** é útil quando você tem dados quantitativos estruturados, pois permite que você teste hipóteses de maneira rigorosa e objetiva.
 - **Dados mistos (qualitativos e quantitativos)**: A **abdução** é útil quando você tem dados mistos, pois permite que você desenvolva e refine hipóteses à medida que coleta e analisa dados.
+
+## Análise de Conteúdo
+
+- Organizar e sistematiza grandes volumes de dados
+- Identificar padrões e regularidades
+- Construir interpretações consistentes e fundamentadas
+
+### Tipos de análise
+
+- Descritivo
+- Analítico
+- Interpretativo
+
+### Etapas
+
+- Definição do Corpus
+- Pré-anpalise
+- Codificação
+- Tratamento e inferência
+- Comunicação dos resultados
