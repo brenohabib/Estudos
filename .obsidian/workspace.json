@@ -164,6 +164,7 @@
   },
   "active": "97a1fc807ccb26b5",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-13.md",
     "conflict-files-obsidian-git.md",
     "Códigos/AtividadeJava/target/classes/Menu/Menu.class",
@@ -178,5 +179,21 @@
     "Códigos/AtividadeJava/target/classes/paradigmas/C/imperativo.c",
     "Códigos/AtividadeJava/src/main/java/paradigmas/C/imperativo.c",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Drawing 2024-04-12 22.50.59.excalidraw.md"
+=======
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
+    "Trabalho/Horário.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Excessões.md",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/MainConversor.class",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula12/MainConversor.java",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/TemperaturaInvalidaException.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/ConversorDeTemperatura$TemperaturaInvalidaException.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/ConversorDeTemperatura.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/TemperaturaInvalidaExceptio.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/TemperaturaInvalida.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/TemperaturaInv.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/Temperatura.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/Tem.class"
+>>>>>>> 1edaf35e201a49df74ef2ecd9d04c896a350f754
   ]
 }
