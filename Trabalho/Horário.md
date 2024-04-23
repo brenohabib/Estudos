@@ -50,5 +50,5 @@
 		- Ida Vapt Vupt para resolver carteira motorista
 
 - Dia 19
-	- 10:00
+	- 10:00 - 12:30
 		- Exame psicotécnico
