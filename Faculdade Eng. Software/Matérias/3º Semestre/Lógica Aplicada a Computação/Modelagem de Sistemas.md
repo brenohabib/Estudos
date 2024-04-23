@@ -25,3 +25,4 @@ A comunicação entre as pessoas envolvidas.
 A redução dos custos no desenvolvimento.
 A predição do comportamento futuro do sistema.
 Entretanto, note o fator complexidade como condicionante dessas vantagens.
+
