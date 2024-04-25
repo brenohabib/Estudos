@@ -78,18 +78,30 @@ public class Arquivos {
     private static void verificarArquivo(String nome) {
         File arquivo = new File(nome);
         if (arquivo.exists()) {
-            System.out.println("O arquivo " + nome + " existe.");
+            fileMenu.text("O arquivo " + nome + " existe.", 3);
         } else {
-            System.out.println("O arquivo " + nome + " não existe.");
+            fileMenu.text("O arquivo " + nome + " não existe.", 3);
+        }
+        try {
+            TimeUnit.SECONDS.sleep(2);
+        } catch (InterruptedException e) {
+            System.out.println("Sleep não funcionou.");
+            e.printStackTrace();
         }
     }
 
     private static void removerArquivo(String nome) {
         File arquivo = new File(nome);
         if (arquivo.delete()) {
-            System.out.println("O arquivo " + nome + " foi removido.");
+            fileMenu.text("O arquivo " + nome + " foi removido.", 3);
         } else {
-            System.out.println("O arquivo " + nome + " não pôde ser removido.");
+            fileMenu.text("O arquivo " + nome + " não pôde ser removido.", 3);
+        }
+        try {
+            TimeUnit.SECONDS.sleep(2);
+        } catch (InterruptedException e) {
+            System.out.println("Sleep não funcionou.");
+            e.printStackTrace();
         }
     }
 
