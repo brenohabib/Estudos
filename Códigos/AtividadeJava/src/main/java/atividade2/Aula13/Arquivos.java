@@ -61,9 +61,9 @@ public class Arquivos {
         try {
             File arquivo = new File(nome);
             if (arquivo.createNewFile()) {
-                fileMenu.text("Arquivo criado: " + arquivo.getName(), 3);
+                fileMenu.text("Arquivo criado: " + arquivo.getName(), 4);
             } else {
-                fileMenu.text("O arquivo já existe.", 3);
+                fileMenu.text("O arquivo já existe.", 4);
             }
             TimeUnit.SECONDS.sleep(2);
         } catch (IOException e) {
@@ -78,9 +78,9 @@ public class Arquivos {
     private static void verificarArquivo(String nome) {
         File arquivo = new File(nome);
         if (arquivo.exists()) {
-            fileMenu.text("O arquivo " + nome + " existe.", 3);
+            fileMenu.text("O arquivo " + nome + " existe.", 4);
         } else {
-            fileMenu.text("O arquivo " + nome + " não existe.", 3);
+            fileMenu.text("O arquivo " + nome + " não existe.", 4);
         }
         try {
             TimeUnit.SECONDS.sleep(2);
@@ -93,9 +93,9 @@ public class Arquivos {
     private static void removerArquivo(String nome) {
         File arquivo = new File(nome);
         if (arquivo.delete()) {
-            fileMenu.text("O arquivo " + nome + " foi removido.", 3);
+            fileMenu.text("O arquivo " + nome + " foi removido.", 4);
         } else {
-            fileMenu.text("O arquivo " + nome + " não pôde ser removido.", 3);
+            fileMenu.text("O arquivo " + nome + " não pôde ser removido.", 4);
         }
         try {
             TimeUnit.SECONDS.sleep(2);
@@ -106,13 +106,19 @@ public class Arquivos {
     }
 
     private static void lerConteudoArquivo(String nome) {
+        boolean reading = true;
+        fileMenu.start();
         try {
             File arquivo = new File(nome);
             Scanner leitor = new Scanner(arquivo);
-            System.out.println("Conteúdo do arquivo " + nome + ":");
-            while (leitor.hasNextLine()) {
-                System.out.println(leitor.nextLine());
+            fileMenu.text("Conteúdo do arquivo " + nome + ":", 1);
+            int i = 2;
+            while (reading) {
+                while (leitor.hasNextLine() && i <= 5) {
+                    fileMenu.text(leitor.nextLine(), i++);
+                }
             }
+
             leitor.close();
         } catch (IOException e) {
             System.out.println("Ocorreu um erro ao ler o arquivo.");
