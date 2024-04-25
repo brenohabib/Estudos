@@ -107,16 +107,17 @@ public class Arquivos {
 
     private static void lerConteudoArquivo(String nome) {
         boolean reading = true;
-        fileMenu.start();
         try {
             File arquivo = new File(nome);
             Scanner leitor = new Scanner(arquivo);
-            fileMenu.text("Conteúdo do arquivo " + nome + ":", 1);
             int i = 2;
             while (reading) {
+                fileMenu.start();
+                fileMenu.text("Conteúdo do arquivo " + nome + ":", 1);
                 while (leitor.hasNextLine() && i <= 5) {
                     fileMenu.text(leitor.nextLine(), i++);
                 }
+                fileMenu.input();
             }
 
             leitor.close();
