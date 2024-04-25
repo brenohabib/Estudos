@@ -20,7 +20,7 @@ public class Menu {
     public void start() {
         clearScreen();
         printTitle();
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 7; i++) {
             printEmpty();
         }
         printLine();
@@ -172,7 +172,7 @@ public class Menu {
 
         System.out.print("\0338");
         String text = input.next();
-        input.close();
+
         return text;
     }
 
@@ -200,7 +200,6 @@ public class Menu {
 
         System.out.print("\0338");
         String text = input.next();
-        input.close();
         return text;
     }
 

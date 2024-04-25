@@ -1,56 +1,35 @@
 {
   "main": {
-    "id": "fb7b88ee3ae3d44f",
+    "id": "2015231efa70cbd6",
     "type": "split",
     "children": [
       {
-        "id": "548bd551c9af8f69",
+        "id": "3fbd3f37c956179b",
         "type": "tabs",
         "children": [
           {
-            "id": "6c6fc44f7461e2e6",
+            "id": "6feaadb8c35ed106",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Modelagem de Sistemas.md",
-=======
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97a1fc807ccb26b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
->>>>>>> f8cba1d6ca5f0e43a20f95fc8eac08a547169f1d
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e38d0ac0449c5152",
+    "id": "07c1a2bac9bb16fc",
     "type": "split",
     "children": [
       {
-        "id": "4211a1fd7e88d80e",
+        "id": "6c57847eecf633be",
         "type": "tabs",
         "children": [
           {
-            "id": "d1e508ce1d4c319b",
+            "id": "e9983e9890bafc89",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +39,7 @@
             }
           },
           {
-            "id": "67a63a54104fa365",
+            "id": "80ff6eea4eb8df2c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +54,7 @@
             }
           },
           {
-            "id": "d105619c9a5dcd0f",
+            "id": "68f7ab0f2f3e1e48",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,24 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "5a87896d1152106d",
+    "id": "3a421faf2002c675",
     "type": "split",
     "children": [
       {
-        "id": "b635fb6b22b903ca",
+        "id": "fc310c75b2eaf3fb",
         "type": "tabs",
         "children": [
           {
-            "id": "989fa5ecfa8c3765",
+            "id": "b70b59f2a90bd779",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Modelagem de Sistemas.md",
-=======
-                "file": "conflict-files-obsidian-git.md",
->>>>>>> f8cba1d6ca5f0e43a20f95fc8eac08a547169f1d
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,23 +92,18 @@
             }
           },
           {
-            "id": "1a895775d9737797",
+            "id": "f4a45159a99e033c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Modelagem de Sistemas.md",
-=======
-                "file": "conflict-files-obsidian-git.md",
->>>>>>> f8cba1d6ca5f0e43a20f95fc8eac08a547169f1d
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "92633a18efe6f4c4",
+            "id": "6a1c3d0ad3ce00c2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,17 +114,11 @@
             }
           },
           {
-            "id": "ceda3a2ec643238d",
+            "id": "7b642093646b3292",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Modelagem de Sistemas.md"
-=======
-                "file": "conflict-files-obsidian-git.md"
->>>>>>> f8cba1d6ca5f0e43a20f95fc8eac08a547169f1d
-              }
+              "state": {}
             }
           }
         ]
@@ -170,51 +133,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "97a1fc807ccb26b5",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-13.md",
-    "conflict-files-obsidian-git.md",
-    "Códigos/AtividadeJava/target/classes/Menu/Menu.class",
-    "Códigos/AtividadeJava/target/classes/Menu/MainMenu.class",
-    "Códigos/AtividadeJava/target/classes/Menu/Alignment.class",
-    "Códigos/AtividadeJava/target/classes/Menu",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md",
-    "Códigos/AtividadeJava/src/main/java/Menu/Menu.java",
-    "Códigos/AtividadeJava/src/main/java/Menu/MainMenu.java",
-    "Códigos/AtividadeJava/src/main/java/Menu/Alignment.java",
-    "Códigos/AtividadeJava/src/main/java/Menu",
-    "Códigos/AtividadeJava/target/classes/paradigmas/C/imperativo.c",
-    "Códigos/AtividadeJava/src/main/java/paradigmas/C/imperativo.c",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Drawing 2024-04-12 22.50.59.excalidraw.md"
-=======
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
->>>>>>> f8cba1d6ca5f0e43a20f95fc8eac08a547169f1d
-    "Trabalho/Horário.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Modelagem de Sistemas.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Quantitativa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Algoritmos Funcionais e Recursivos/Excessões.md",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/MainConversor.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula12/MainConversor.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/TemperaturaInvalidaException.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/ConversorDeTemperatura$TemperaturaInvalidaException.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/ConversorDeTemperatura.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/TemperaturaInvalidaExceptio.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/TemperaturaInvalida.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/TemperaturaInv.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/Temperatura.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula12/Tem.class"
->>>>>>> 1edaf35e201a49df74ef2ecd9d04c896a350f754
-  ]
+  "active": "6feaadb8c35ed106",
+  "lastOpenFiles": []
 }
