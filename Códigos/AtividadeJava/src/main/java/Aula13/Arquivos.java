@@ -1,4 +1,4 @@
-package atividade2.Aula13;
+package Aula13;
 
 import java.io.File;
 import java.io.IOException;
@@ -110,14 +110,20 @@ public class Arquivos {
         try {
             File arquivo = new File(nome);
             Scanner leitor = new Scanner(arquivo);
-            int i = 2;
+            String options = "";
+            int lines = 2;
             while (reading) {
                 fileMenu.start();
-                fileMenu.text("Conteúdo do arquivo " + nome + ":", 1);
-                while (leitor.hasNextLine() && i <= 5) {
-                    fileMenu.text(leitor.nextLine(), i++);
+                while (leitor.hasNextLine() && lines <= 5) {
+                    fileMenu.text(leitor.nextLine(), lines++);
                 }
-                fileMenu.input();
+                fileMenu.text("next - 1", 6, Alignment.RIGHT);
+                fileMenu.text("stop - 2", 7, Alignment.RIGHT);
+                options = fileMenu.input();
+                lines = 2;
+                if (!leitor.hasNextLine() || options.equals("2")) {
+                    break;
+                }
             }
 
             leitor.close();
