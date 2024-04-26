@@ -11,8 +11,12 @@
             "id": "6feaadb8c35ed106",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Criptografias e OSI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Criptografias e OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Criptografias e OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Criptografias e OSI.md"
+              }
             }
           }
         ]
@@ -143,15 +151,17 @@
   },
   "active": "6feaadb8c35ed106",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Criptografias e OSI.md",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Principal.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Pessoa.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Null.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Dividir.class",
+    "conflict-files-obsidian-git.md",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Principal.java",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Pessoa.java",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Null.java",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Dividir.java",
     "Códigos/AtividadeJava/123.java",
-    "Códigos/AtividadeJava/a",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Arquivos.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Arquivos.java",
-    "Códigos/AtividadeJava/target/classes/Aula13/Arquivos.class",
-    "Códigos/AtividadeJava/target/classes/Aula13",
-    "Códigos/AtividadeJava/src/main/java/Aula13/Arquivos.java",
-    "Códigos/AtividadeJava/src/main/java/Aula13",
-    "Códigos/AtividadeJava/Java",
-    "Códigos/AtividadeJava/HAHA"
+    "Códigos/AtividadeJava/a"
   ]
 }
