@@ -50,5 +50,9 @@
 		- Ida Vapt Vupt para resolver carteira motorista
 
 - Dia 19
-	- 10:00
+	- 10:00 - 12:30
 		- Exame psicotécnico
+
+- Dia 20
+	- 11:20
+		- Não bati saída - Fabiano liberou
