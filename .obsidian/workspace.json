@@ -149,8 +149,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6feaadb8c35ed106",
+  "active": "b70b59f2a90bd779",
   "lastOpenFiles": [
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula14/Arquivos.class",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula14/Arquivos.java",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula14",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula14",
     "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Criptografias e OSI.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Principal.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Pessoa.class",
@@ -159,9 +163,6 @@
     "conflict-files-obsidian-git.md",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Principal.java",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Pessoa.java",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Null.java",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Dividir.java",
-    "Códigos/AtividadeJava/123.java",
-    "Códigos/AtividadeJava/a"
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Null.java"
   ]
 }
