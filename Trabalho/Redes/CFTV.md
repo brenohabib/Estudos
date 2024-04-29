@@ -6,7 +6,7 @@
 - *Sensor de Imagem*
 	- Converte luz em sinal elétrico
 	- Principal elemento da qualidade de imagem
-	- Cada píxel acumula uma carga dependendo da luminosidade
+	- Cada pixel acumula uma carga dependendo da luminosidade
 	- Possui diferentes tamanhos, variando entre 1/4 a 2/3
 - *Padrão de Imagem*
 	- *NTSC*
