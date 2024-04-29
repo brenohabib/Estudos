@@ -52,7 +52,7 @@
 	- *Analógicas de Alta Definição*
 		Melhor qualidade de imagem, necessitam do DVR para gravação de imagem e operam os protocolos HDCVI, HDTVI e AHD
 	- *IP*
-		Transmite sinal via rede, realiza compressão e processamento da imagem, acesso remoto e necessita ser alimentada via PoE
+		Transmite sinal via rede, realiza compressão e processamento da imagem, acesso remoto e pode ser alimentada via PoE
 - *Recursos*
 	- *BLC (Back Light Compensation)*
 		Aumenta o brilho total da imagem
