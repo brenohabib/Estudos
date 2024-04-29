@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Criptografias e OSI.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Criptografias e OSI.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Criptografias e OSI.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Criptografias e OSI.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md"
               }
             }
           }
@@ -138,31 +138,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b70b59f2a90bd779",
+  "active": "6feaadb8c35ed106",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Criptografias e OSI.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula14/Arquivos.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula14/Arquivos.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula14",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula14",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Criptografias e OSI.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Principal.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Pessoa.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Null.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Dividir.class",
     "conflict-files-obsidian-git.md",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Principal.java",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Pessoa.java",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Null.java"
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Pessoa.java"
   ]
 }

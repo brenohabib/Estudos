@@ -11,12 +11,6 @@ public class Menu {
         this.title = title;
     }
     
-    /**
-     * Clear the screen and shows the menu.
-     * This must be called to initialize the menu.
-     * @param None
-     * @return void
-     */
     public void start() {
         clearScreen();
         printTitle();
