@@ -15,11 +15,11 @@ public class Arquivos {
         while (running) {
             fileMenu.start();
             fileMenu.text("Escolha uma opção:", 1);
-            fileMenu.text("1. Criar arquivo", 2);
-            fileMenu.text("2. Verificar se arquivo existe", 3);
-            fileMenu.text("3. Remover arquivo", 4);
-            fileMenu.text("4. Ler conteúdo de arquivo", 5);
-            fileMenu.text("5. Sair", 6);
+            fileMenu.text("1. Criar arquivo", 2, Alignment.LEFT);
+            fileMenu.text("2. Verificar se arquivo existe", 3, Alignment.LEFT);
+            fileMenu.text("3. Remover arquivo", 4, Alignment.LEFT);
+            fileMenu.text("4. Ler conteúdo de arquivo", 5, Alignment.LEFT);
+            fileMenu.text("5. Sair", 6, Alignment.LEFT);
 
             String opcao = fileMenu.input();
 
