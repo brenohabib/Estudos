@@ -2,6 +2,7 @@ package atividade2.Aula11;
 
 public class MainAluno {
     public static void main(String[] args) {
+        @SuppressWarnings("unused")
         Aluno breno, pedro, maria;
         double[][] notas = {{5.7, 7.8, 9.0}, {8.9, 10.0, 5.7}, {10.0, 6.5, 7.8}};
 

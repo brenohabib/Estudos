@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6feaadb8c35ed106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ac281405860d4003",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,9 +151,10 @@
   },
   "active": "ac281405860d4003",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-05.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md",
     "Excalidraw/Drawing 2024-03-04 20.57.28.excalidraw.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-02.md",

@@ -2,6 +2,8 @@ package Menu;
 
 import java.util.Scanner;
 
+@SuppressWarnings("resource")
+
 public class Menu {
     private String title;
     private int sizeX;
@@ -22,7 +24,7 @@ public class Menu {
 
     private void printTitle() {
         printLine();
-        text(this.title);
+        titleText(this.title);
         printLine();
     }
 
@@ -41,7 +43,8 @@ public class Menu {
         }
         System.out.println("|");
     }
-    private void text(String text) {
+    
+    private void titleText(String text) {
         int rightPaddle = 1;
         int leftPaddle = 1;
         int middle = (sizeX / 2) - (text.length() / 2);
@@ -141,6 +144,7 @@ public class Menu {
         }
         return Math.max(padding, 0);
     }
+
     public String input() {
         String label = "Input: ";
         int padding = calculatePadding(label.length(), Alignment.LEFT);
@@ -166,10 +170,9 @@ public class Menu {
 
         System.out.print("\0338");
         String text = input.next();
-
         return text;
     }
-
+    
     public String input(String label) {
         int padding = calculatePadding(label.length(), Alignment.LEFT);
         Scanner input = new Scanner(System.in);
@@ -202,3 +205,4 @@ public class Menu {
         System.out.print("\033[0J");
     }
 }
+//TODO Usar recursividade para saltar uma nova linha caso o texto escrito no menu seja maior que o próprio menu.
