@@ -57,7 +57,7 @@ data: 2024-04-11
 - **Dados quantitativos estruturados**: A **dedução** é útil quando você tem dados quantitativos estruturados, pois permite que você teste hipóteses de maneira rigorosa e objetiva.
 - **Dados mistos (qualitativos e quantitativos)**: A **abdução** é útil quando você tem dados mistos, pois permite que você desenvolva e refine hipóteses à medida que coleta e analisa dados.
 
-## Tipos de pesquisa
+# Tipos de pesquisa
 
 - **Etnografia**: Observa e descreve a cultura e comportamentos de um grupo em seu ambiente natural.
 - **Estudo de Caso**: Investigação aprofundada de um fenômeno específico dentro de um contexto particular.
