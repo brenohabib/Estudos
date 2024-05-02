@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md",
+                "file": "Trabalho/Diário/02-05-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3a421faf2002c675",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md",
+                "file": "Trabalho/Diário/02-05-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md",
+                "file": "Trabalho/Diário/02-05-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md"
+                "file": "Trabalho/Diário/02-05-2024.md"
               }
+            }
+          },
+          {
+            "id": "271c3800d02fbd19",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,10 +156,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ac281405860d4003",
+  "active": "b70b59f2a90bd779",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
+    "Trabalho/Diário/02-05-2024.md",
+    "Trabalho/TODO.md",
+    "Trabalho/Horário.md",
+    "Trabalho/Sem título",
+    "Faculdade Eng. Software/template/Nota diária.md",
+    "Trabalho/Diário/Modelo.md",
+    "Trabalho/Diário",
+    "2024-05-02.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-04.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-05.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md",
@@ -173,8 +188,6 @@
     "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Pessoa.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Null.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula13/Dividir.class",
-    "conflict-files-obsidian-git.md",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Principal.java",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Pessoa.java"
+    "conflict-files-obsidian-git.md"
   ]
 }
