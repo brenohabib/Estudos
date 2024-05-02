@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3fbd3f37c956179b",
+        "id": "a88970ee4e35afc8",
         "type": "tabs",
         "children": [
           {
-            "id": "ac281405860d4003",
+            "id": "c7aad907e76f4a00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/Diário/02-05-2024.md",
+                "file": "Trabalho/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Diário/02-05-2024.md",
+                "file": "Trabalho/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Diário/02-05-2024.md",
+                "file": "Trabalho/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/Diário/02-05-2024.md"
+                "file": "Trabalho/TODO.md"
               }
             }
           },
@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,11 +157,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b70b59f2a90bd779",
+  "active": "c7aad907e76f4a00",
   "lastOpenFiles": [
-    "Trabalho/Diário/02-05-2024.md",
-    "Trabalho/TODO.md",
     "Trabalho/Horário.md",
+    "Trabalho/TODO.md",
+    "Trabalho/Diário/02-05-2024.md",
     "Trabalho/Sem título",
     "Faculdade Eng. Software/template/Nota diária.md",
     "Trabalho/Diário/Modelo.md",

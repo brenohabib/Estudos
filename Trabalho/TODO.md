@@ -1,7 +1,7 @@
 ## E-PLANT
 
-- [ ] Entrega de 2 controles
-- [ ] Troca de 1 botoeira
+- [x] Entrega de 2 controles
+- [x] Troca de 1 botoeira
 
 ## SERGIO CUNHA
 
