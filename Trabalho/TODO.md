@@ -30,3 +30,8 @@
 ## CARLOS ALBERTO
 
 - [ ] Instalar interfone que removemos anteriormente e levamos para a assistência
+
+## PAULO GARCIA
+
+- [ ] Instalar 1 câmera IP
+- [ ] Instalar 1 câmera analógica
