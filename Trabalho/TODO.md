@@ -22,3 +22,7 @@
 - [ ] Configurar rádio da Granja 1
 - [ ] Configurar roteador do caseiro da Granja 1
 - [ ] Configurar roteador do Sistema Fotovoltaico da Granja 1
+
+## LAIS
+
+- [ ] Trocar interruptor quadruplo inteligente (está falhando alguns botões)
