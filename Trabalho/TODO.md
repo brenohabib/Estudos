@@ -26,3 +26,7 @@
 ## LAIS
 
 - [ ] Trocar interruptor quadruplo inteligente (está falhando alguns botões)
+
+## CARLOS ALBERTO
+
+- [ ] Instalar interfone que removemos anteriormente e levamos para a assistência
