@@ -1,6 +1,7 @@
 package atividade2.Aula13;
 
 public class Principal {
+    @SuppressWarnings("null")
     public static void main(String[] args) {
         try {
             Pessoa p1 = null;

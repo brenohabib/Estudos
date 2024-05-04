@@ -1,6 +1,7 @@
 package atividade2.Aula13;
 
 public class Null {
+    @SuppressWarnings("null")
     public static void main(String[] args) {
         Object numero = null;
         try {

@@ -57,66 +57,11 @@ data: 2024-04-11
 - **Dados quantitativos estruturados**: A **dedução** é útil quando você tem dados quantitativos estruturados, pois permite que você teste hipóteses de maneira rigorosa e objetiva.
 - **Dados mistos (qualitativos e quantitativos)**: A **abdução** é útil quando você tem dados mistos, pois permite que você desenvolva e refine hipóteses à medida que coleta e analisa dados.
 
-## Análise de Conteúdo
+# Tipos de pesquisa
 
-- Organizar e sistematiza grandes volumes de dados
-- Identificar padrões e regularidades
-- Construir interpretações consistentes e fundamentadas
-
-### Tipos de análise
-
-- Descritivo
-- Analítico
-- Interpretativo
-
-### Etapas
-
-- Definição do Corpus
-- Pré-anpalise
-- Codificação
-- Tratamento e inferência
-- Comunicação dos resultados
-
-### Limitações
-
-- Subjetividade na interpretação
-- Demorada e exige grande esforço
-- Complexidade da categorização
-
-## Pesquisa ação
-
-- Participação ativa
-- Integra investigação e ação
-- Transformação e melhoria aos colaboradores
-
-### Etapas
-
-- Identificação do problema
-- Planejamento da ação
-- Implementação da ação
-- Avaliação dos resultados
-
-### Limitações
-
-- Envolvimento dos participantes
-- Gestão de expectativas
-- Equilíbrio entre pesquisadores e ação
-- Objetividade e rigor cientifico
-
-## Estudo de caso
-
-- Concentra em analisar fenômenos específicos
-- Perite compreender fenômenos complexos
-- Flexibilidade, contexto natural, dados descritivos
-- Fornece insights sobre um determinado tópico
-
-### Etapas
-
-- Definição do caso
-- Coleta dos dados
-- Análise dos dados
-
-### Limitações
-
-
-
+- **Etnografia**: Observa e descreve a cultura e comportamentos de um grupo em seu ambiente natural.
+- **Estudo de Caso**: Investigação aprofundada de um fenômeno específico dentro de um contexto particular.
+- **Pesquisa-ação**: Colaboração entre pesquisadores e participantes para identificar problemas e avaliar resultados.
+- **DSR (Design Science Research)**: Criação de artefatos inovadores e resolução de problemas práticos.
+- **Teoria Fundamentada**: Geração de novas teorias a partir de dados coletados.
+- **Análise de Conteúdo**: Análise sistemática e objetiva de elementos em dados textuais ou visuais.
