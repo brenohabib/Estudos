@@ -1,6 +1,7 @@
 package atividade2.Aula14;
 
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
@@ -19,7 +20,8 @@ public class Arquivos {
             fileMenu.text("2. Verificar se arquivo existe", 3, Alignment.LEFT);
             fileMenu.text("3. Remover arquivo", 4, Alignment.LEFT);
             fileMenu.text("4. Ler conteúdo de arquivo", 5, Alignment.LEFT);
-            fileMenu.text("5. Sair", 6, Alignment.LEFT);
+            fileMenu.text("5. Alterar arquivo", 6, Alignment.LEFT);
+            fileMenu.text("6. Sair", 7, Alignment.LEFT);
 
             String opcao = fileMenu.input();
 
@@ -49,6 +51,16 @@ public class Arquivos {
                     lerConteudoArquivo(nomeArquivoLer);
                     break;
                 case "5":
+                    fileMenu.start();
+                    fileMenu.text("Insira o nome do arquivo a ser alterado", 3);
+                    String nomeArquivoAlterar = fileMenu.input();
+
+                    fileMenu.start();
+                    fileMenu.text("Insira o conteudo do arquivo", 3);
+                    String conteudoArquivoAlterar = fileMenu.input();
+                    alterarConteudoArquivo(nomeArquivoAlterar, conteudoArquivoAlterar);
+                    break;
+                case "6":
                     running = false;
                     break;
                 default:
@@ -65,12 +77,8 @@ public class Arquivos {
             } else {
                 fileMenu.text("O arquivo já existe.", 4);
             }
-            TimeUnit.SECONDS.sleep(2);
         } catch (IOException e) {
             System.out.println("Ocorreu um erro ao criar o arquivo.");
-            e.printStackTrace();
-        } catch (InterruptedException e) {
-            System.out.println("Sleep não funcionou.");
             e.printStackTrace();
         }
     }
@@ -96,12 +104,6 @@ public class Arquivos {
             fileMenu.text("O arquivo " + nome + " foi removido.", 4);
         } else {
             fileMenu.text("O arquivo " + nome + " não pôde ser removido.", 4);
-        }
-        try {
-            TimeUnit.SECONDS.sleep(2);
-        } catch (InterruptedException e) {
-            System.out.println("Sleep não funcionou.");
-            e.printStackTrace();
         }
     }
 
@@ -129,6 +131,17 @@ public class Arquivos {
             leitor.close();
         } catch (IOException e) {
             System.out.println("Ocorreu um erro ao ler o arquivo.");
+            e.printStackTrace();
+        }
+    }
+
+    private static void alterarConteudoArquivo(String nome, String conteudo) {
+        removerArquivo(nome);
+        File arquivo = new File(nome);
+        try (FileWriter escritor = new FileWriter(arquivo)) {
+            escritor.write(conteudo);
+        } catch (IOException e) {
+            System.out.println("Não foi possível escrever no arquivo. Verifique se digitou o nome correto.");
             e.printStackTrace();
         }
     }

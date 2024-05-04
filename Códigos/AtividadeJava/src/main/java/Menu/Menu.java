@@ -169,7 +169,7 @@ public class Menu {
         printLine();
 
         System.out.print("\0338");
-        String text = input.next();
+        String text = input.nextLine();
         return text;
     }
     
@@ -196,7 +196,7 @@ public class Menu {
         printLine();
 
         System.out.print("\0338");
-        String text = input.next();
+        String text = input.nextLine();
         return text;
     }
 
