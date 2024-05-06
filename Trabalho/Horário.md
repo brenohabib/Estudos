@@ -59,4 +59,8 @@
 
 ## Maio
 
+- Dia 04
+	- Manhã
+		- Liberado pelo Fabiano
+
 - 
