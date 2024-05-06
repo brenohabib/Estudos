@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/Diário/03-05-2024.md",
+                "file": "Trabalho/Diário/06-05-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Diário/03-05-2024.md",
+                "file": "Trabalho/Diário/06-05-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Diário/03-05-2024.md",
+                "file": "Trabalho/Diário/06-05-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/Diário/03-05-2024.md"
+                "file": "Trabalho/Diário/06-05-2024.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "c7aad907e76f4a00",
   "lastOpenFiles": [
-    "Trabalho/Diário/06-05-2024.md",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula15/ContagemLetras.class",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula15",
     "Trabalho/Diário/03-05-2024.md",
+    "Trabalho/Diário/06-05-2024.md",
     "Trabalho/Diário/02-05-2024.md",
     "Trabalho/Horário.md",
     "Trabalho/TODO.md",
@@ -173,7 +175,6 @@
     "Códigos/AtividadeJava/target/classes/atividade2/Aula15/AlterarConteudoArquivo.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula15/AlterarConteudoArquivo.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula15/LerArquivo.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula15/LerArquivo.java",
     "Faculdade Eng. Software/template/Nota diária.md",
     "Trabalho/Diário/Modelo.md",
     "2024-05-02.md",
