@@ -10,3 +10,5 @@ data: 2024-05-06
 4) A principal vantagem de um paradigma concorrente seria a possibilidade de, por exemplo, várias pessoas administrar a mesma pasta de arquivos de um servidor simultaneamente.
 5) Deadlocks são erros que ocorrem quando os clientes solicitam algum tipo de serviço ao servidor e algum outro cliente já está utilizando o recurso solicitado.
 6) 
+7) A nível de hardware, possuímos os processos e threads que separam os recursos individualmente para que não possam tentar acessar uma mesma memória; A nível de software, temos os métodos assíncrono e síncrono, que como o próprio nome diz, define se a tarefa irá ser executada simultaneamente ou após alguma outra tarefa ser finalizada.
+8) 
