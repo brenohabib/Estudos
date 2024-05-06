@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Diário/06-05-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Diário/06-05-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Diário/06-05-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/TODO.md"
+                "file": "Trabalho/Diário/06-05-2024.md"
               }
             }
           },
@@ -159,6 +159,10 @@
   },
   "active": "c7aad907e76f4a00",
   "lastOpenFiles": [
+    "Trabalho/TODO.md",
+    "Trabalho/Diário/06-05-2024.md",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula15/ContagemLetras.java",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula15",
     "Códigos/AtividadeJava/123",
     "Códigos/AtividadeJava/123.txt",
     "Códigos/AtividadeJava/1",
@@ -167,11 +171,7 @@
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula15/AlterarConteudoArquivo.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula15/LerArquivo.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula15/LerArquivo.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula15/ExcluirArquivo.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula15/ExcluirArquivo.java",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula15/VerificarArquivo.class",
     "Trabalho/Horário.md",
-    "Trabalho/TODO.md",
     "Trabalho/Diário/03-05-2024.md",
     "Trabalho/Diário/02-05-2024.md",
     "Faculdade Eng. Software/template/Nota diária.md",
