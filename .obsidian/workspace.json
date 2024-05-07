@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-14.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,10 +149,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e9983e9890bafc89",
+  "active": "8493cd7a343247f7",
   "lastOpenFiles": [
-    "Trabalho/TODO.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-14.md",
+    "Trabalho/TODO.md",
     "Trabalho/Diário/06-05-2024.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula15/ContagemLetras.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula15",
