@@ -1,6 +1,7 @@
 package paradigmas.Threads;
 
 import java.util.concurrent.*;
+import Menu.*;
 
 class Cliente implements Runnable {
     private final int id;
@@ -39,12 +40,18 @@ class Servidor {
 
 public class FilaDeEspera {
     public static void main(String[] args) {
-        final int NUMERO_DE_CLIENTES = 10;
-        final int NUMERO_DE_SERVIDORES = 3;
+        Menu menu = new Menu("Ordem e Progresso", 100);
+        menu.start();
+        menu.text("Digite o número de clientes", 3);
+        String numeroClientes = menu.input();
+        menu.text("Digite o número de servidores", 3);
+        String numeroServidores = menu.input();
 
-        Servidor servidor = new Servidor(NUMERO_DE_SERVIDORES);
+        Servidor servidor = new Servidor(Integer.parseInt(numeroServidores));
 
-        for (int i = 0; i < NUMERO_DE_CLIENTES; i++) {
+        System.out.print("\033[H");
+        System.out.print("\033[0J");
+        for (int i = 0; i < Integer.parseInt(numeroClientes); i++) {
             Thread cliente = new Thread(new Cliente(i + 1, servidor));
             cliente.start();
         }
