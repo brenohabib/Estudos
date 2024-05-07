@@ -1,7 +1,6 @@
 package paradigmas.Threads;
 
 import java.util.concurrent.*;
-import Menu.*;
 
 class Cliente implements Runnable {
     private final int id;
