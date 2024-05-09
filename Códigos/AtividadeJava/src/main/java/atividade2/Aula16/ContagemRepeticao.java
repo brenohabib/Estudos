@@ -28,8 +28,8 @@ public class ContagemRepeticao {
             String linha;
 
             while ((linha = texto.readLine()) != null) {
-                for (String encontrado : linha.split(text)) {
-                    if (encontrado.equals(text)) {
+                for (String encontrado : linha.split(" ")) {
+                    if (encontrado.contains(text)) {
                         contagem++;
                     }
                 }
