@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Diário/09-05-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Diário/09-05-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Diário/09-05-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/TODO.md"
+                "file": "Trabalho/Diário/09-05-2024.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Trabalho/TODO.md",
+    "Trabalho/Diário/09-05-2024.md",
+    "Trabalho/Horário.md",
     "Códigos/AtividadeJava/index.html",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula16/ConverterHtmlEmTxt.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula16/ConverterHtmlEmTxt.java",
@@ -169,12 +172,9 @@
     "Códigos/AtividadeJava/target/classes/atividade2/Aula16/ContagemRepeicao.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula16/ContagemRepeicaoo.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula16/ContagemRepeição.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula16/ContagemRepeição.java",
     "Trabalho/Diário/08-05-2024.md",
     "Trabalho/Diário/07-05-2024.md",
-    "Trabalho/Horário.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-14.md",
-    "Trabalho/TODO.md",
     "Trabalho/Diário/06-05-2024.md",
     "Trabalho/Diário/03-05-2024.md",
     "Trabalho/Diário/02-05-2024.md",
