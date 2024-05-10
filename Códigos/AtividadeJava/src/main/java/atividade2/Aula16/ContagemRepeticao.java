@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-import Menu.*;
+import atividade2.Menu;
 
 public class ContagemRepeticao {
     public static void main(String[] args) {
