@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Revisão Sistemática.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Revisão Sistemática.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Revisão Sistemática.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Revisão Sistemática.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
-    "Trabalho/TODO.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Revisão Sistemática.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md",
+    "Trabalho/TODO.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Sem título",
     "Trabalho/Diário/09-05-2024.md",
     "Trabalho/Horário.md",
@@ -194,7 +195,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Segurança de Software/Criptografias e OSI.md"
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]
 }
