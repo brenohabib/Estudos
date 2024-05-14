@@ -1,4 +1,4 @@
-package Menu;
+package atividade2;
 
 import java.util.Scanner;
 
@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class Menu {
     private String title;
     private int sizeX;
+    private int sizeY = 10;
 
     public Menu(String title, int sizeX) {
         this.sizeX = sizeX;
@@ -16,7 +17,7 @@ public class Menu {
     public void start() {
         clearScreen();
         printTitle();
-        for (int i = 0; i < 7; i++) {
+        for (int i = 0; i < sizeY; i++) {
             printEmpty();
         }
         printLine();
@@ -203,6 +204,17 @@ public class Menu {
     private void clearScreen() {
         System.out.print("\033[H");
         System.out.print("\033[0J");
+    }
+
+    public void setSize(int x, int y) {
+        this.sizeX = x;
+        this.sizeY = y;
+    }
+
+    public enum Alignment {
+        LEFT,
+        RIGHT,
+        CENTER
     }
 }
 //TODO Usar recursividade para saltar uma nova linha caso o texto escrito no menu seja maior que o próprio menu.
