@@ -63,4 +63,6 @@
 	- Manhã
 		- Liberado pelo Fabiano
 
-- 
+- Dia 16
+	- Manha
+		- Esqueci de bater o ponto

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md",
+                "file": "Trabalho/Diário/16-05-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md",
+                "file": "Trabalho/Diário/16-05-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md",
+                "file": "Trabalho/Diário/16-05-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md"
+                "file": "Trabalho/Diário/16-05-2024.md"
               }
             }
           },
@@ -157,14 +157,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8493cd7a343247f7",
+  "active": "e9983e9890bafc89",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Revisão Sistemática.md",
+    "Códigos/AtividadeJava/target/classes/atividade2/Aula17",
+    "Códigos/AtividadeJava/src/main/java/atividade2/Aula17",
+    "Trabalho/Diário/10-05-2024.md",
+    "Trabalho/Diário/16-05-2024.md",
+    "Trabalho/Horário.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Revisão Sistemática.md",
     "Trabalho/TODO.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Sem título",
     "Trabalho/Diário/09-05-2024.md",
-    "Trabalho/Horário.md",
     "Códigos/AtividadeJava/index.html",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula16/ConverterHtmlEmTxt.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula16/ConverterHtmlEmTxt.java",
@@ -173,7 +177,6 @@
     "Códigos/AtividadeJava/target/classes/atividade2/Aula16/ContagemRepeticao.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula16/ContagemRepeticao.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula16/ContagemRepeicao.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula16/ContagemRepeicaoo.class",
     "Trabalho/Diário/08-05-2024.md",
     "Trabalho/Diário/07-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-14.md",
@@ -192,9 +195,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-02.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-01.md",
     "Trabalho/Estudos/Redes/CFTV.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]
 }
