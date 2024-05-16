@@ -36,7 +36,8 @@ public class ContagemLetras {
             while ((linha = br.readLine()) != null) {
                 for (int i = 0; i < linha.length(); i++) {
                     char caractere = Character.toLowerCase(linha.charAt(i));
-                    if (caractere >= 'a' && caractere <= 'z' && caractere != 'a' && caractere != 'e' && caractere != 'i' && caractere != 'o' && caractere != 'u') {
+                    if (caractere >= 'a' && caractere <= 'z' && caractere != 'a' && caractere != 'e'
+                         && caractere != 'i' && caractere != 'o' && caractere != 'u') {
                         consoantes++;
                     }
                 }
