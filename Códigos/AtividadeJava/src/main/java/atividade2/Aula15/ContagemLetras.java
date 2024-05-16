@@ -3,16 +3,17 @@ package atividade2.Aula15;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import Menu.*;
 
 public class ContagemLetras {
 
     public static int contarVogais() {
         int vogais = 0;
         try {
-            FileReader fr = new FileReader("mensagem.txt");
-            BufferedReader br = new BufferedReader(fr);
+            FileReader leitorArquivo = new FileReader("mensagem.txt");
+            BufferedReader leitorCaractere = new BufferedReader(leitorArquivo);
             String linha;
-            while ((linha = br.readLine()) != null) {
+            while ((linha = leitorCaractere.readLine()) != null) {
                 for (int i = 0; i < linha.length(); i++) {
                     char caractere = Character.toLowerCase(linha.charAt(i));
                     if (caractere == 'a' || caractere == 'e' || caractere == 'i' || caractere == 'o' || caractere == 'u') {
@@ -20,7 +21,7 @@ public class ContagemLetras {
                     }
                 }
             }
-            br.close();
+            leitorCaractere.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -30,10 +31,10 @@ public class ContagemLetras {
     public static int contarConsoantes() {
         int consoantes = 0;
         try {
-            FileReader fr = new FileReader("mensagem.txt");
-            BufferedReader br = new BufferedReader(fr);
+            FileReader leitorArquivo = new FileReader("mensagem.txt");
+            BufferedReader leitorCaractere = new BufferedReader(leitorArquivo);
             String linha;
-            while ((linha = br.readLine()) != null) {
+            while ((linha = leitorCaractere.readLine()) != null) {
                 for (int i = 0; i < linha.length(); i++) {
                     char caractere = Character.toLowerCase(linha.charAt(i));
                     if (caractere >= 'a' && caractere <= 'z' && caractere != 'a' && caractere != 'e'
@@ -42,17 +43,19 @@ public class ContagemLetras {
                     }
                 }
             }
-            br.close();
+            leitorCaractere.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
         return consoantes;
     }
-
+    
     public static void main(String[] args) {
         int vogais = contarVogais();
         int consoantes = contarConsoantes();
-        System.out.println("Quantidade de vogais: " + vogais);
-        System.out.println("Quantidade de consoantes: " + consoantes);
+        Menu contagemMenu = new Menu("Super contador de Letras", 100);
+        contagemMenu.start();
+        contagemMenu.text("Quantidade de vogais: " + vogais, 3);
+        contagemMenu.text("Quantidade de consoantes: " + consoantes, 4);
     }
 }
