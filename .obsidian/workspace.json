@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/Diário/16-05-2024.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Diário/16-05-2024.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Diário/16-05-2024.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/Diário/16-05-2024.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md"
               }
             }
           },
@@ -157,14 +157,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e9983e9890bafc89",
+  "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Trabalho/Diário/16-05-2024.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula17/Unificar.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula17/Unificar.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula17",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula17",
     "Trabalho/Diário/10-05-2024.md",
-    "Trabalho/Diário/16-05-2024.md",
     "Trabalho/Horário.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Revisão Sistemática.md",
@@ -176,7 +177,6 @@
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula16/ConverterHtmlEmTxt.java",
     "Códigos/AtividadeJava/contador.txt",
     "Códigos/AtividadeJava/contator.txt",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula16/ContagemRepeticao.class",
     "Trabalho/Diário/08-05-2024.md",
     "Trabalho/Diário/07-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-14.md",
