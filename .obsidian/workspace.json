@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Base de dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Base de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Base de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Base de dados.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
-    "Trabalho/Diário/16-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Base de dados.md",
+    "Trabalho/Diário/16-05-2024.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula17/Unificar.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula17/Unificar.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula17",
@@ -194,7 +195,6 @@
     "Excalidraw/Drawing 2024-03-04 20.57.28.excalidraw.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-02.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-01.md",
-    "Trabalho/Estudos/Redes/CFTV.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]
 }
