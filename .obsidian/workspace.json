@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md"
+                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md"
               }
             }
           },
@@ -159,18 +159,19 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Base de dados.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
     "Trabalho/Diário/16-05-2024.md",
+    "Trabalho/Diário/17-05-2024.md",
+    "Trabalho/Horário.md",
+    "Trabalho/TODO.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Base de dados.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula17/Unificar.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula17/Unificar.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula17",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula17",
     "Trabalho/Diário/10-05-2024.md",
-    "Trabalho/Horário.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Revisão Sistemática.md",
-    "Trabalho/TODO.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Sem título",
     "Trabalho/Diário/09-05-2024.md",
     "Códigos/AtividadeJava/index.html",
@@ -194,7 +195,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md",
     "Excalidraw/Drawing 2024-03-04 20.57.28.excalidraw.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-02.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-01.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]
 }
