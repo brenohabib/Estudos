@@ -3,7 +3,5 @@
   "cssTheme": "Obsidianite",
   "theme": "obsidian",
   "baseFontSize": 17,
-  "enabledCssSnippets": [
-    "academic-pdf-export"
-  ]
+  "enabledCssSnippets": []
 }
