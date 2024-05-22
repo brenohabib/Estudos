@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/Diário/21-05-2024.md",
+                "file": "Trabalho/Diário/22-05-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Diário/21-05-2024.md",
+                "file": "Trabalho/Diário/22-05-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Diário/21-05-2024.md",
+                "file": "Trabalho/Diário/22-05-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/Diário/21-05-2024.md"
+                "file": "Trabalho/Diário/22-05-2024.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
-    "Trabalho/TODO.md",
     "Trabalho/Diário/21-05-2024.md",
+    "Trabalho/Diário/22-05-2024.md",
+    "Trabalho/TODO.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/MCU e DRD.md",
     "Trabalho/Diário/20-05-2024.md",
@@ -194,7 +195,6 @@
     "Trabalho/Diário/Modelo.md",
     "2024-05-02.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Pesquisa Qualitativa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-06.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]
 }
