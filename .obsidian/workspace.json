@@ -11,11 +11,9 @@
             "id": "8493cd7a343247f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Trabalho/Sergio Cunha.md",
-                "mode": "source",
-                "source": false
+                "file": "Trabalho/Clientes/Sérgio Cunha/Sérgio Cunha - REDE.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Sergio Cunha.md",
+                "file": "Trabalho/Clientes/Sérgio Cunha/Sérgio Cunha - REDE.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Sergio Cunha.md",
+                "file": "Trabalho/Clientes/Sérgio Cunha/Sérgio Cunha - REDE.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/Sergio Cunha.md"
+                "file": "Trabalho/Clientes/Sérgio Cunha/Sérgio Cunha - REDE.pdf"
               }
             }
           },
@@ -157,10 +155,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8493cd7a343247f7",
+  "active": "e9983e9890bafc89",
   "lastOpenFiles": [
+    "Trabalho/Clientes/Sérgio Cunha",
     "Trabalho/TODO.md",
+    "Trabalho/Clientes/Sérgio Cunha/Sérgio Cunha - REDE.pdf",
+    "Trabalho/Clientes/Sérgio Cunha - REDE.svg",
+    "Trabalho/Clientes/Sérgio Cunha.md",
     "Trabalho/Sergio Cunha.md",
+    "Trabalho/Clientes",
     "Trabalho/Diário/22-05-2024.md",
     "Trabalho/Diário/21-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos.md",
@@ -184,8 +187,6 @@
     "Códigos/AtividadeJava/index.html",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula16/ConverterHtmlEmTxt.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula16/ConverterHtmlEmTxt.java",
-    "Códigos/AtividadeJava/contador.txt",
-    "Códigos/AtividadeJava/contator.txt",
     "Trabalho/Diário/08-05-2024.md",
     "Trabalho/Diário/07-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-14.md",
@@ -193,8 +194,6 @@
     "Trabalho/Diário/03-05-2024.md",
     "Trabalho/Diário/02-05-2024.md",
     "Faculdade Eng. Software/template/Nota diária.md",
-    "Trabalho/Diário/Modelo.md",
-    "2024-05-02.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]
 }
