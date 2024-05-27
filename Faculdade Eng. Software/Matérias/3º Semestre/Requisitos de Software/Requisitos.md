@@ -4,7 +4,6 @@ tags:
 referências: 
 data: 2024-05-20
 ---
-
 ## Requisitos
 
 O sistema precisa permitir cadastrar aluno no banco de dados
