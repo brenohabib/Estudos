@@ -42,9 +42,29 @@ c. Se o professor não aceitar, o sistema manterá a nota informada
 
 ```mermaid
 classDiagram
-    class Animal {
-        +name: string
-        +age: int
-        +makeSound(): void
+    class Aluno {
+        -nome: string
+        -idade: int
+        -CPF: string
+        -RG: string
+        -matricula: int
+        +acessarNotas()
+        +acessarEmenta()
+        +emitirBoleto()
+    }
+    class Professor {
+	    -nome: string
+	    -idade: int
+	    -CPF: string
+	    -RG: string
+		+definirNotas(Aluno)
+		+definirEmenta()
+    }
+    class Financeiro {
+	    -materias: List~string~
+	    -valorMaterias: List~float~
+		+definirValorBoleto()
+		+verificarSituacaoAluno(Aluno)
+		+gerarRelatorio()
     }
 ```
