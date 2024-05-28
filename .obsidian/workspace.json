@@ -154,14 +154,16 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/MCU e DRD.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
@@ -195,7 +197,6 @@
     "Trabalho/Diário/08-05-2024.md",
     "Trabalho/Diário/07-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-14.md",
-    "Trabalho/Diário/06-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]
 }

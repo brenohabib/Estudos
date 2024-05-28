@@ -37,3 +37,14 @@ Financeiro
 a. Caso o professor informe qualquer nota anormal, o sistema informa para o professor sobre o feito e sugere uma aproximação de uma nota aceitável
 b. Caso o professor aceite, o sistema fará um cálculo de proximidade do valor informado pelo professor
 c. Se o professor não aceitar, o sistema manterá a nota informada
+
+## Diagrama de Classe
+
+```mermaid
+classDiagram
+    class Animal {
+        +name: string
+        +age: int
+        +makeSound(): void
+    }
+```
