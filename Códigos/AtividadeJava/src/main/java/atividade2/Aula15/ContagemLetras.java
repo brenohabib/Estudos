@@ -3,7 +3,8 @@ package atividade2.Aula15;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import Menu.*;
+
+import atividade2.Menu;
 
 public class ContagemLetras {
 
