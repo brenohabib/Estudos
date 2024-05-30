@@ -29,7 +29,7 @@
 
 ## CARLOS ALBERTO
 
-- [ ] Instalar interfone que removemos anteriormente e levamos para a assistência
+- [x] Instalar interfone que removemos anteriormente e levamos para a assistência
 
 ## PAULO GARCIA
 

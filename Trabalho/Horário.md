@@ -63,4 +63,11 @@
 	- Manhã
 		- Liberado pelo Fabiano
 
-- 
+- Dia 16
+	- Manhã
+		- Esqueci de bater o ponto
+
+- Dia 18
+	- Manhã
+		- Aula da auto escola
+

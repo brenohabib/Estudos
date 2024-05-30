@@ -3,7 +3,10 @@ package atividade2.Aula15;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+<<<<<<< HEAD
 
+=======
+>>>>>>> c43244c3a6307d87112c96536759010d9b951aac
 import atividade2.Menu;
 
 public class ContagemLetras {
@@ -38,7 +41,8 @@ public class ContagemLetras {
             while ((linha = leitorCaractere.readLine()) != null) {
                 for (int i = 0; i < linha.length(); i++) {
                     char caractere = Character.toLowerCase(linha.charAt(i));
-                    if (caractere >= 'a' && caractere <= 'z' && caractere != 'a' && caractere != 'e' && caractere != 'i' && caractere != 'o' && caractere != 'u') {
+                    if (caractere >= 'a' && caractere <= 'z' && caractere != 'a' && caractere != 'e'
+                         && caractere != 'i' && caractere != 'o' && caractere != 'u') {
                         consoantes++;
                     }
                 }
