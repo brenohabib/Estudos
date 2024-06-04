@@ -9,8 +9,8 @@
 
 - Granjas
 - [ ] Passar cabos de rede da Granja 1 para o caseiro
-- [ ] Passar cabos de rede para o Sistema Fotovoltaico
-- [ ] Colocar 1 câmera próxima do Sistema Fotovoltaico
+- [ ] Colocar Ponto a Ponto para o Sistema Fotovoltaico
+- [ ] Colocar 1 câmera próximo do Sistema Fotovoltaico
 
 - Sede
 - [ ] Passar cabos de rede para o poste do curral

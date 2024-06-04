@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-15.md",
+                "file": "Trabalho/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-15.md",
+                "file": "Trabalho/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-15.md",
+                "file": "Trabalho/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-15.md"
+                "file": "Trabalho/TODO.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos.md",
+    "Trabalho/Clientes/Sérgio Cunha/Sérgio Cunha - REDE.pdf",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-15.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/MCU e DRD.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
-    "Trabalho/Clientes/Sérgio Cunha/Sérgio Cunha - REDE.pdf",
     "Trabalho/Clientes/Sérgio Cunha",
     "Trabalho/TODO.md",
     "Trabalho/Clientes/Sérgio Cunha - REDE.svg",
@@ -196,7 +196,6 @@
     "Códigos/AtividadeJava/index.html",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula16/ConverterHtmlEmTxt.class",
     "Trabalho/Diário/08-05-2024.md",
-    "Trabalho/Diário/07-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]
 }
