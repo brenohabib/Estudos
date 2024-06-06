@@ -8,7 +8,6 @@
 ### Sistema CFTV/IP
 
 - Granjas
-- [x] Passar cabos de rede da Granja 1 para o caseiro
 - [ ] Colocar Ponto a Ponto para o Sistema Fotovoltaico
 - [ ] Colocar 1 câmera próximo do Sistema Fotovoltaico
 
@@ -18,6 +17,7 @@
 
 ### STARLINK (Granjas)
 
+- [x] Passar cabos de rede da Granja 1 para o caseiro
 - [ ] Configurar roteadores da Granja 2
 - [x] Configurar rádio da Granja 1
 - [x] Configurar roteador do caseiro da Granja 1
