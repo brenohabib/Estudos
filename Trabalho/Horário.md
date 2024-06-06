@@ -71,3 +71,11 @@
 	- Manhã
 		- Aula da auto escola
 
+## Junho
+
+- Dia 05
+	- Manhã
+		- Fui para o Sérgio; Não bati hora almoço
+	- Tarde
+		- Cheguei 18:10 do Sérgio
+
