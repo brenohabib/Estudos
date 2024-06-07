@@ -35,3 +35,9 @@
 
 - [ ] Instalar 1 câmera IP
 - [ ] Instalar 1 câmera analógica
+
+## OBJETIVA
+
+- [x] Instalar 1 câmera de segurança IP
+- [x] Passar cabo de 1 câmera IP
+- [ ] conectar 1 câmera na rede
