@@ -25,7 +25,8 @@
 
 ## LAIS
 
-- [ ] Trocar interruptor quadruplo inteligente (está falhando alguns botões)
+- [x] Trocar interruptor quadruplo inteligente (está falhando alguns botões)
+- [ ] Configurar interruptor na rede
 
 ## CARLOS ALBERTO
 
