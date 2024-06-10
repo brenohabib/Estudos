@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c60727e22c40b3e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8493cd7a343247f7",
+  "active": "0c60727e22c40b3e",
   "lastOpenFiles": [
     "Códigos/AtividadesC/atividade04/a.exe",
     "Códigos/AtividadesC/atividade04/fibonacci.c",
