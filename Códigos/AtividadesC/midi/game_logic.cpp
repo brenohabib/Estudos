@@ -5,7 +5,7 @@ Crossword createCrossword(int rows, int cols) {
     Crossword crossword;
     crossword.rows = rows;
     crossword.cols = cols;
-    crossword.board.resize(rows, std::vector<char>(cols, ' '));
+    crossword.board.resize(rows, std::vector<char>(cols, '.'));
     return crossword;
 }
 
