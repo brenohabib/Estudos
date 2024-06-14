@@ -53,7 +53,7 @@ public class ContagemLetras {
     public static void main(String[] args) {
         int vogais = contarVogais();
         int consoantes = contarConsoantes();
-        Menu contagemMenu = new Menu("Super contador de Letras", 100);
+        Menu contagemMenu = new Menu("Super contador de Letras", 100, 10);
         contagemMenu.start();
         contagemMenu.text("Quantidade de vogais: " + vogais, 3);
         contagemMenu.text("Quantidade de consoantes: " + consoantes, 4);
