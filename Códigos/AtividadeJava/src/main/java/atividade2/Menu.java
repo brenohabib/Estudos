@@ -37,8 +37,7 @@ public class Menu {
     }
 
     private void printCenteredText(String text) {
-        int padding = (sizeX - text.length()) / 2;
-        System.out.println("|" + " ".repeat(padding) + text + " ".repeat(sizeX - text.length() - padding - 2) + "|");
+        printAlignedText(text, Alignment.CENTER);
     }
 
     public void text(String text, int line) {
@@ -54,9 +53,29 @@ public class Menu {
     }
 
     private void printAlignedText(String text, Alignment position) {
-        int padding = calculatePadding(text.length(), position);
-        System.out.print("|" + " ".repeat(padding) + text);
-        System.out.println(" ".repeat(sizeX - text.length() - padding - 2) + "|");
+        if (text.length() > sizeX - 2) {
+            for (String part : splitText(text)) {
+                printAlignedText(part, position);
+            }
+        } else {
+            int padding = calculatePadding(text.length(), position);
+            System.out.print("|" + " ".repeat(padding) + text);
+            System.out.println(" ".repeat(sizeX - text.length() - padding - 2) + "|");
+        }
+    }
+
+    private String[] splitText(String text) {
+        int maxLen = sizeX - 2;
+        int parts = (text.length() + maxLen - 1) / maxLen;  // Calculate number of parts
+        String[] result = new String[parts];
+
+        for (int i = 0; i < parts; i++) {
+            int start = i * maxLen;
+            int end = Math.min(start + maxLen, text.length());
+            result[i] = text.substring(start, end);
+        }
+
+        return result;
     }
 
     private int calculatePadding(int textLength, Alignment position) {
