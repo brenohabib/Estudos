@@ -26,7 +26,9 @@
 ## LAIS
 
 - [x] Trocar interruptor quadruplo inteligente (está falhando alguns botões)
-- [ ] Configurar interruptor na rede
+- [x] Configurar interruptor na rede
+- [ ] Colocar roteador no teto do corredor
+- [ ] configurar roteador do teto do corredor
 
 ## CARLOS ALBERTO
 
@@ -42,3 +44,8 @@
 - [x] Instalar 1 câmera de segurança IP
 - [x] Passar cabo de 1 câmera IP
 - [x] conectar 1 câmera na rede
+
+## VALTER
+
+- [x] Verificar funcionamento das câmeras
+- [ ] Trocar rádio PTP do fundo (Levar testador de cabo de rede)
