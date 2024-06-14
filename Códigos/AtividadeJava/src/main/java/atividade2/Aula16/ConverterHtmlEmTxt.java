@@ -11,7 +11,7 @@ import atividade2.Menu;
 
 public class ConverterHtmlEmTxt {
     public static void main(String[] args) {
-        Menu mainMenu = new Menu("Conversor de HTML 2000", 80);
+        Menu mainMenu = new Menu("Conversor de HTML 2000", 80, 10);
         removeTags();
         try {
             FileReader arquivoTexto = new FileReader("index.txt");

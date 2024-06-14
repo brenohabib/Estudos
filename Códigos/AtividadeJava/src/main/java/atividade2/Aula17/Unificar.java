@@ -12,7 +12,7 @@ import java.io.FileNotFoundException;
 import atividade2.Menu;
 
 public class Unificar {
-    static Menu fileMenu = new Menu("Unificador", 80);
+    static Menu fileMenu = new Menu("Unificador", 80, 10);
 
     public static void main(String[] args) {
 

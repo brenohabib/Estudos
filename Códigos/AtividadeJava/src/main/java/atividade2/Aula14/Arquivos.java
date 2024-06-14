@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 import atividade2.Menu;
 
 public class Arquivos {
-    static Menu fileMenu = new Menu("Super arquivo 3000", 100);
+    static Menu fileMenu = new Menu("Super arquivo 3000", 100, 10);
     public static void main(String[] args) {
         boolean running = true;
         
