@@ -37,7 +37,7 @@
 ## CARLOS ALBERTO
 
 - [x] Instalar interfone que removemos anteriormente e levamos para a assistência
-
+- Data: 21/05/2024
 ## PAULO GARCIA
 
 - [ ] Instalar 1 câmera IP

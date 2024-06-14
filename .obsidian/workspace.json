@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/Diário/03-05-2024.md",
+                "file": "Trabalho/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Diário/03-05-2024.md",
+                "file": "Trabalho/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Diário/03-05-2024.md",
+                "file": "Trabalho/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/Diário/03-05-2024.md"
+                "file": "Trabalho/TODO.md"
               }
             }
           },
@@ -173,10 +173,17 @@
   },
   "active": "0c60727e22c40b3e",
   "lastOpenFiles": [
+    "Trabalho/Diário/21-05-2024.md",
+    "Trabalho/TODO.md",
+    "Trabalho/Diário/20-05-2024.md",
+    "Trabalho/Diário/16-05-2024.md",
+    "Trabalho/Diário/10-05-2024.md",
+    "Trabalho/Diário/09-05-2024.md",
+    "Trabalho/Diário/08-05-2024.md",
+    "Trabalho/Diário/07-05-2024.md",
     "Trabalho/Diário/06-05-2024.md",
     "Trabalho/Diário/03-05-2024.md",
     "Trabalho/Diário/02-05-2024.md",
-    "Trabalho/TODO.md",
     "Trabalho/Horário.md",
     "Códigos/AtividadesC/atividade04/a.exe",
     "Códigos/AtividadesC/atividade04/fibonacci.c",
@@ -198,18 +205,11 @@
     "Trabalho/Sergio Cunha.md",
     "Trabalho/Clientes",
     "Trabalho/Diário/22-05-2024.md",
-    "Trabalho/Diário/21-05-2024.md",
-    "Trabalho/Diário/20-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
-    "Trabalho/Diário/16-05-2024.md",
     "Trabalho/Diário/17-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Perguntas da Pesquisa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Base de dados.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula17/Unificar.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula17/Unificar.java",
-    "Trabalho/Diário/10-05-2024.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Revisão Sistemática.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]
 }
