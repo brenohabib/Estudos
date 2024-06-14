@@ -49,3 +49,7 @@
 
 - [x] Verificar funcionamento das câmeras
 - [ ] Trocar rádio PTP do fundo (Levar testador de cabo de rede)
+
+## TOYORIVER
+
+ - [ ] Colocar 2 câmeras 
