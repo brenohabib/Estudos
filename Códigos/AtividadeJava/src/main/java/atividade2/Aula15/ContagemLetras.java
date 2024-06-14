@@ -3,10 +3,6 @@ package atividade2.Aula15;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-<<<<<<< HEAD
-
-=======
->>>>>>> c43244c3a6307d87112c96536759010d9b951aac
 import atividade2.Menu;
 
 public class ContagemLetras {
