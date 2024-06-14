@@ -2,6 +2,8 @@
 
 - [x] Entrega de 2 controles
 - [x] Troca de 1 botoeira
+- Data: 02/05/2024
+---
 
 ## SERGIO CUNHA
 
@@ -22,6 +24,8 @@
 - [x] Configurar rádio da Granja 1
 - [x] Configurar roteador do caseiro da Granja 1
 - [ ] Configurar roteador do Sistema Fotovoltaico da Granja 1
+
+---
 
 ## LAIS
 
@@ -44,6 +48,8 @@
 - [x] Instalar 1 câmera de segurança IP
 - [x] Passar cabo de 1 câmera IP
 - [x] conectar 1 câmera na rede
+- Data: 12/06/2024
+---
 
 ## VALTER
 
@@ -52,4 +58,10 @@
 
 ## TOYORIVER
 
- - [ ] Colocar 2 câmeras 
+ - [x] Colocar 2 câmeras na rede
+ - [x] Manutenção em câmera analógica (conectores)
+ - [ ] (opcional) Colocar V-Box na câmera analógica
+ - [ ] (opcional) Organizar caixa DVR
+- Data: 14/06/2024
+---
+

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Diário/03-05-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Diário/03-05-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Diário/03-05-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/TODO.md"
+                "file": "Trabalho/Diário/03-05-2024.md"
               }
             }
           },
@@ -173,8 +173,11 @@
   },
   "active": "0c60727e22c40b3e",
   "lastOpenFiles": [
-    "Trabalho/Horário.md",
+    "Trabalho/Diário/06-05-2024.md",
+    "Trabalho/Diário/03-05-2024.md",
+    "Trabalho/Diário/02-05-2024.md",
     "Trabalho/TODO.md",
+    "Trabalho/Horário.md",
     "Códigos/AtividadesC/atividade04/a.exe",
     "Códigos/AtividadesC/atividade04/fibonacci.c",
     "Códigos/AtividadesC/atividade04/fibonacci",
@@ -207,8 +210,6 @@
     "Trabalho/Diário/10-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Elaboração de um Projeto de Pesquisa.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/Revisão Sistemática.md",
-    "Trabalho/Diário/09-05-2024.md",
-    "Trabalho/Diário/08-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]
 }
