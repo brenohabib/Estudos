@@ -60,13 +60,13 @@ public class Menu {
         } else {
             int padding = calculatePadding(text.length(), position);
             System.out.print("|" + " ".repeat(padding) + text);
-            System.out.println(" ".repeat(sizeX - text.length() - padding - 2) + "|");
+            System.out.println(" ".repeat(Math.max(sizeX - text.length() - padding - 2, 0)) + "|");
         }
     }
 
     private String[] splitText(String text) {
-        int maxLen = sizeX - 2;
-        int parts = (text.length() + maxLen - 1) / maxLen;  // Calculate number of parts
+        int maxLen = sizeX - 6;
+        int parts = (text.length() + maxLen - 1) / maxLen;
         String[] result = new String[parts];
 
         for (int i = 0; i < parts; i++) {
@@ -79,11 +79,12 @@ public class Menu {
     }
 
     private int calculatePadding(int textLength, Alignment position) {
-        return switch (position) {
+        int padding = switch (position) {
             case LEFT -> 1;
             case CENTER -> (sizeX - textLength) / 2;
             case RIGHT -> sizeX - textLength - 3;
         };
+        return Math.max(padding, 0);
     }
 
     public String input() {
@@ -94,7 +95,7 @@ public class Menu {
         int padding = calculatePadding(label.length(), Alignment.LEFT);
         Scanner scanner = new Scanner(System.in);
         System.out.print("|" + " ".repeat(padding) + label + "\0337");
-        System.out.println(" ".repeat(sizeX - label.length() - padding - 2) + "|");
+        System.out.println(" ".repeat(Math.max(sizeX - label.length() - padding - 2, 0)) + "|");
         printLine();
         System.out.print("\0338");
         return scanner.nextLine();
