@@ -5,4 +5,4 @@
 
 void runGame();
 
-#endif // GAME_INTERFACE_H
+#endif

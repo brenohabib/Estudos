@@ -16,7 +16,7 @@ void runGame() {
         std::cin >> word;
         if (word == "exit") break;
         
-        std::cout << "Posição inicial (linha coluna): ";
+        std::cout << "Posição inicial (linha, coluna): ";
         std::cin >> row >> col;
         
         std::cout << "Direção (h para horizontal, v para vertical): ";

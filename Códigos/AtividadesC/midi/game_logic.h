@@ -14,4 +14,4 @@ Crossword createCrossword(int rows, int cols);
 bool placeWord(Crossword &crossword, const std::string &word, int row, int col, bool horizontal);
 void displayCrossword(const Crossword &crossword);
 
-#endif // GAME_LOGIC_H
+#endif
