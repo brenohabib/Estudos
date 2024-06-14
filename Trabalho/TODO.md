@@ -31,12 +31,13 @@
 
 - [x] Trocar interruptor quadruplo inteligente (está falhando alguns botões)
 - [x] Configurar interruptor na rede
+- [x] Configurar Alexa
 - [ ] Colocar roteador no teto do corredor
 - [ ] configurar roteador do teto do corredor
 
 ## CARLOS ALBERTO
 
-- [x] Instalar interfone que removemos anteriormente e levamos para a assistência
+ - [x] Instalar interfone que removemos anteriormente e levamos para a assistência
 - Data: 21/05/2024
 ## PAULO GARCIA
 
