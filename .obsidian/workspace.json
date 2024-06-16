@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4bd7b343c6b41a1a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,19 +157,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8493cd7a343247f7",
+  "active": "4bd7b343c6b41a1a",
   "lastOpenFiles": [
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-15.md",
