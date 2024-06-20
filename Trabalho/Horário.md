@@ -90,3 +90,7 @@
 		- Fui com Fabiano colocar Starlink no Donizete
 	- Tarde
 		- Fui resolver problema de câmera no Valter / Alexandre Rizzi
+
+- Dia 19
+        - Manhã
+                - Fui no armazém do Valter, almocei lá 
