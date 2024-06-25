@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c60727e22c40b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trabalho/TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,8 +159,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0c60727e22c40b3e",
+  "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Trabalho/Diário/22-05-2024.md",
+    "Trabalho/Diário/21-05-2024.md",
+    "Trabalho/Diário/20-05-2024.md",
+    "Trabalho/Diário/16-05-2024.md",
+    "Trabalho/Diário/10-05-2024.md",
+    "Trabalho/Diário/09-05-2024.md",
+    "Trabalho/Diário/08-05-2024.md",
+    "Trabalho/Diário/07-05-2024.md",
+    "Trabalho/Diário/06-05-2024.md",
+    "Trabalho/Diário/03-05-2024.md",
+    "Trabalho/Diário/02-05-2024.md",
+    "Trabalho/TODO.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula14/Arquivos.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula14/Arquivos.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula14/Menu.class",
@@ -183,18 +183,6 @@
     "Códigos/AtividadeJava/gremio",
     "Códigos/AtividadeJava/germio",
     "Códigos/AtividadeJava/germio.txt",
-    "Códigos/AtividadeJava/teste",
-    "Trabalho/Diário/21-05-2024.md",
-    "Trabalho/TODO.md",
-    "Trabalho/Diário/20-05-2024.md",
-    "Trabalho/Diário/16-05-2024.md",
-    "Trabalho/Diário/10-05-2024.md",
-    "Trabalho/Diário/09-05-2024.md",
-    "Trabalho/Diário/08-05-2024.md",
-    "Trabalho/Diário/07-05-2024.md",
-    "Trabalho/Diário/06-05-2024.md",
-    "Trabalho/Diário/03-05-2024.md",
-    "Trabalho/Diário/02-05-2024.md",
     "Trabalho/Horário.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-15.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos.md",
@@ -207,7 +195,6 @@
     "Trabalho/Clientes/Sérgio Cunha - REDE.svg",
     "Trabalho/Clientes/Sérgio Cunha.md",
     "Trabalho/Sergio Cunha.md",
-    "Trabalho/Diário/22-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
     "Trabalho/Diário/17-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"

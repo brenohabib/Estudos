@@ -20,7 +20,7 @@
 ### STARLINK (Granjas)
 
 - [x] Passar cabos de rede da Granja 1 para o caseiro
-- [ ] Configurar roteadores da Granja 2
+- [x] Configurar roteadores da Granja 2
 - [x] Configurar rádio da Granja 1
 - [x] Configurar roteador do caseiro da Granja 1
 - [ ] Configurar roteador do Sistema Fotovoltaico da Granja 1
@@ -34,11 +34,11 @@
 - [x] Configurar Alexa
 - [ ] Colocar roteador no teto do corredor
 - [ ] configurar roteador do teto do corredor
-
 ## CARLOS ALBERTO
 
  - [x] Instalar interfone que removemos anteriormente e levamos para a assistência
 - Data: 21/05/2024
+---
 ## PAULO GARCIA
 
 - [ ] Instalar 1 câmera IP
@@ -55,14 +55,14 @@
 ## VALTER
 
 - [x] Verificar funcionamento das câmeras
-- [ ] Trocar rádio PTP do fundo (Levar testador de cabo de rede)
+- [x] Passar cabo rádio PTP fundo
+- Data: 19/06/2024
+---
 
 ## TOYORIVER
 
  - [x] Colocar 2 câmeras na rede
  - [x] Manutenção em câmera analógica (conectores)
- - [ ] (opcional) Colocar V-Box na câmera analógica
- - [ ] (opcional) Organizar caixa DVR
 - Data: 14/06/2024
 ---
 
