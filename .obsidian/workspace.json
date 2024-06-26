@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd6a2febb9976abb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,8 +169,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8493cd7a343247f7",
+  "active": "dd6a2febb9976abb",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/4º Semestre",
     "Trabalho/Diário/22-05-2024.md",
     "Trabalho/Diário/21-05-2024.md",
     "Trabalho/Diário/20-05-2024.md",
