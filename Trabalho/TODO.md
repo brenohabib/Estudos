@@ -66,3 +66,6 @@
 - Data: 14/06/2024
 ---
 
+## CLARINDO
+
+- [ ] Trocar rack do DVR e colocá-la embaixo (tirar da laje)
