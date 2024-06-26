@@ -69,3 +69,8 @@
 ## CLARINDO
 
 - [ ] Trocar rack do DVR e colocá-la embaixo (tirar da laje)
+
+## SHIRLEY
+
+- [x] Trocar conector P4 câmera IP do muro
+- [x] Verificar acionamento em falso central de alarme
