@@ -74,3 +74,4 @@
 
 - [x] Trocar conector P4 câmera IP do muro
 - [x] Verificar acionamento em falso central de alarme
+- Data: 26/06/2024
