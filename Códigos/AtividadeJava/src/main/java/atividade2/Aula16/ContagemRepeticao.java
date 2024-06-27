@@ -11,7 +11,7 @@ public class ContagemRepeticao {
     public static void main(String[] args) {
         int quantidade;
         String texto;
-        Menu mainMenu = new Menu("Contador de palavras 5000", 90);
+        Menu mainMenu = new Menu("Contador de palavras 5000", 90, 10);
         mainMenu.start();
         mainMenu.text("Escreva um texto para ser achado!", 3);
         quantidade = leitor(texto = mainMenu.input());

@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 import atividade2.Menu;
 
 public class Arquivos {
-    static Menu fileMenu = new Menu("Super arquivo 3000", 100);
+    static Menu fileMenu = new Menu("Super arquivo 3000", 100, 10);
     public static void main(String[] args) {
         boolean running = true;
         
@@ -119,8 +119,8 @@ public class Arquivos {
                 while (leitor.hasNextLine() && lines <= 5) {
                     fileMenu.text(leitor.nextLine(), lines++);
                 }
-                fileMenu.text("next - 1", 6, Menu.Alignment.RIGHT);
-                fileMenu.text("stop - 2", 7, Menu.Alignment.RIGHT);
+                fileMenu.text("next - 1", 10, Menu.Alignment.RIGHT);
+                fileMenu.text("stop - 2", 11, Menu.Alignment.RIGHT);
                 options = fileMenu.input();
                 lines = 2;
                 if (!leitor.hasNextLine() || options.equals("2")) {

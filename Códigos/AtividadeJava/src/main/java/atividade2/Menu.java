@@ -2,16 +2,15 @@ package atividade2;
 
 import java.util.Scanner;
 
-@SuppressWarnings("resource")
-
 public class Menu {
     private String title;
     private int sizeX;
-    private int sizeY = 10;
+    private int sizeY;
 
-    public Menu(String title, int sizeX) {
-        this.sizeX = sizeX;
+    public Menu(String title, int sizeX, int sizeY) {
         this.title = title;
+        this.sizeX = sizeX;
+        this.sizeY = sizeY;
     }
     
     public void start() {
@@ -25,185 +24,96 @@ public class Menu {
 
     private void printTitle() {
         printLine();
-        titleText(this.title);
+        printCenteredText(title);
         printLine();
     }
 
     private void printLine() {
-        for (int i = 0; i < sizeX; i++) {
-            System.out.print("-");
-        }
-        System.out.println();
+        System.out.println("-".repeat(sizeX));
     }
 
     private void printEmpty() {
-        int paddle = 2;
-        System.out.print("|");
-        for (int i = 0; i < sizeX - paddle; i++) {
-            System.out.print(" ");
-        }
-        System.out.println("|");
+        System.out.println("|" + " ".repeat(sizeX - 2) + "|");
     }
-    
-    private void titleText(String text) {
-        int rightPaddle = 1;
-        int leftPaddle = 1;
-        int middle = (sizeX / 2) - (text.length() / 2);
-        if (text.length() % 2 != 0) {
-            leftPaddle++;
-        }
 
-        if (sizeX % 2 != 0) {
-            leftPaddle--;
-        }
-
-        System.out.print("|");
-        for (int i = 0; i < middle - rightPaddle; i++) {
-            System.out.print(" ");
-        }
-        System.out.print(text);
-
-        for (int i = 0; i < middle - leftPaddle; i++) {
-            System.out.print(" ");
-        }
-        System.out.println("|");
+    private void printCenteredText(String text) {
+        printAlignedText(text, Alignment.CENTER);
     }
 
     public void text(String text, int line) {
-        int rightPaddle = 1;
-        int leftPaddle = 1;
-        line += 2;
-        int middle = (sizeX / 2) - (text.length() / 2);
-        System.out.print("\0337");
-        System.out.print("\033[H");
-        for (int i = 0; i < line; i++) {
-            System.out.print("\033[1B");
-        }
-        if (text.length() % 2 != 0) {
-            leftPaddle++;
-        }
-
-        if (sizeX % 2 != 0) {
-            leftPaddle--;
-        }
-
-        System.out.print("|");
-        for (int i = 0; i < middle - rightPaddle; i++) {
-            System.out.print(" ");
-        }
-        System.out.print(text);
-
-        for (int i = 0; i < middle - leftPaddle; i++) {
-            System.out.print(" ");
-        }
-        System.out.println("|");
-        System.out.print("\0338");
-        
+        setCursorToLine(line + 2);
+        printCenteredText(text);
+        resetCursor();
     }
 
     public void text(String text, int line, Alignment position) {
-        int padding = calculatePadding(text.length(), position);
-        line += 2;
+        setCursorToLine(line + 2);
+        printAlignedText(text, position);
+        resetCursor();
+    }
 
-        System.out.print("\0337");
-        System.out.print("\033[H");
-        for (int i = 0; i < line; i++) {
-            System.out.print("\033[1B");
-        }
-        System.out.print("|");
-        for (int i = 0; i < padding; i++) {
-            System.out.print(" ");
-        }
-        System.out.print(text);
-    
-        if (text.isEmpty()) {
-            for (int i = 0; i < sizeX - padding - 2; i++) {
-                System.out.print(" ");
+    private void printAlignedText(String text, Alignment position) {
+        if (text.length() > sizeX - 2) {
+            for (String part : splitText(text)) {
+                printAlignedText(part, position);
             }
+        } else {
+            int padding = calculatePadding(text.length(), position);
+            System.out.print("|" + " ".repeat(padding) + text);
+            System.out.println(" ".repeat(Math.max(sizeX - text.length() - padding - 2, 0)) + "|");
         }
-        else {
-            for (int i = 0; i < sizeX - text.length() - padding - 2; i++) {
-                System.out.print(" ");
-            }
+    }
+
+    private String[] splitText(String text) {
+        int maxLen = sizeX - 6;
+        int parts = (text.length() + maxLen - 1) / maxLen;
+        String[] result = new String[parts];
+
+        for (int i = 0; i < parts; i++) {
+            int start = i * maxLen;
+            int end = Math.min(start + maxLen, text.length());
+            result[i] = text.substring(start, end);
         }
-        System.out.println("|");
-        System.out.print("\0338");
+
+        return result;
     }
 
     private int calculatePadding(int textLength, Alignment position) {
-        int padding = 0;
-        switch (position) {
-            case LEFT:
-                padding = 1;
-                break;
-            case CENTER:
-                padding = (sizeX - textLength) / 2;
-                break;
-            case RIGHT:
-                padding = sizeX - textLength - 3;
-                break;
-        }
+        int padding = switch (position) {
+            case LEFT -> 1;
+            case CENTER -> (sizeX - textLength) / 2;
+            case RIGHT -> sizeX - textLength - 3;
+        };
         return Math.max(padding, 0);
     }
 
     public String input() {
-        String label = "Input: ";
-        int padding = calculatePadding(label.length(), Alignment.LEFT);
-        Scanner input = new Scanner(System.in);
-        System.out.print("|");
-        for (int i = 0; i < padding; i++) {
-            System.out.print(" ");
-        }
-        System.out.print(label + "\0337");
-    
-        if (label.isEmpty()) {
-            for (int i = 0; i < sizeX - padding - 2; i++) {
-                System.out.print(" ");
-            }
-        }
-        else {
-            for (int i = 0; i < sizeX - label.length() - padding - 2; i++) {
-                System.out.print(" ");
-            }
-        }
-        System.out.println("|");
-        printLine();
-
-        System.out.print("\0338");
-        String text = input.nextLine();
-        return text;
+        return input("Input: ");
     }
-    
+
     public String input(String label) {
         int padding = calculatePadding(label.length(), Alignment.LEFT);
-        Scanner input = new Scanner(System.in);
-        System.out.print("|");
-        for (int i = 0; i < padding; i++) {
-            System.out.print(" ");
-        }
-        System.out.print(label + "\0337");
-    
-        if (label.isEmpty()) {
-            for (int i = 0; i < sizeX - padding - 2; i++) {
-                System.out.print(" ");
-            }
-        }
-        else {
-            for (int i = 0; i < sizeX - label.length() - padding - 2; i++) {
-                System.out.print(" ");
-            }
-        }
-        System.out.println("|");
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("|" + " ".repeat(padding) + label + "\0337");
+        System.out.println(" ".repeat(Math.max(sizeX - label.length() - padding - 2, 0)) + "|");
         printLine();
-
         System.out.print("\0338");
-        String text = input.nextLine();
-        return text;
+        return scanner.nextLine();
     }
 
     private void clearScreen() {
-        System.out.print("\033[H");
-        System.out.print("\033[0J");
+        System.out.print("\033[H\033[0J");
+    }
+
+    private void setCursorToLine(int line) {
+        System.out.print("\0337\033[H");
+        for (int i = 0; i < line; i++) {
+            System.out.print("\033[1B");
+        }
+    }
+
+    private void resetCursor() {
+        System.out.print("\0338");
     }
 
     public void setSize(int x, int y) {
@@ -212,9 +122,6 @@ public class Menu {
     }
 
     public enum Alignment {
-        LEFT,
-        RIGHT,
-        CENTER
+        LEFT, RIGHT, CENTER
     }
 }
-//TODO Usar recursividade para saltar uma nova linha caso o texto escrito no menu seja maior que o próprio menu.

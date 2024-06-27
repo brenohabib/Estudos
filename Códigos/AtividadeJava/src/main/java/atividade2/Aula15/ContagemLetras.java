@@ -3,10 +3,6 @@ package atividade2.Aula15;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-<<<<<<< HEAD
-
-=======
->>>>>>> c43244c3a6307d87112c96536759010d9b951aac
 import atividade2.Menu;
 
 public class ContagemLetras {
@@ -57,7 +53,7 @@ public class ContagemLetras {
     public static void main(String[] args) {
         int vogais = contarVogais();
         int consoantes = contarConsoantes();
-        Menu contagemMenu = new Menu("Super contador de Letras", 100);
+        Menu contagemMenu = new Menu("Super contador de Letras", 100, 10);
         contagemMenu.start();
         contagemMenu.text("Quantidade de vogais: " + vogais, 3);
         contagemMenu.text("Quantidade de consoantes: " + consoantes, 4);
