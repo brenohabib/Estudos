@@ -92,9 +92,9 @@
 		- Fui resolver problema de câmera no Valter / Alexandre Rizzi
 
 - Dia 19
-        - Manhã
-                - Fui no armazém do Valter, almocei lá
+    - Manhã
+		- Fui no armazém do Valter, almocei lá
 
 - Dia 21
 	-  Tarde
- 		- Fui arrumar internet granjas do Sérgio; Voltei 18:20
+		- Fui arrumar internet granjas do Sérgio; Voltei 18:20
