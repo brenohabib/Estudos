@@ -34,6 +34,7 @@
 - [x] Configurar Alexa
 - [ ] Colocar roteador no teto do corredor
 - [ ] configurar roteador do teto do corredor
+
 ## CARLOS ALBERTO
 
  - [x] Instalar interfone que removemos anteriormente e levamos para a assistência
@@ -70,7 +71,7 @@
 
 ## CLARINDO
 
-- [ ] Trocar rack do DVR e colocá-la embaixo (tirar da laje)
+- [ ] Realocar rack do DVR e colocá-la embaixo (tirar da laje)
 
 ## SHIRLEY
 
