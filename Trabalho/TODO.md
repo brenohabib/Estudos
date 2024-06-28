@@ -43,6 +43,8 @@
 
 - [ ] Instalar 1 câmera IP
 - [ ] Instalar 1 câmera analógica
+- [ ] Levar 2 nobreak que arrumamos
+- [ ] Levar 1 nobreak novo
 
 ## OBJETIVA
 
@@ -76,3 +78,28 @@
 - [x] Verificar acionamento em falso central de alarme
 - Data: 26/06/2024
 
+---
+
+## REINALDO
+
+- [ ] Trocar fonte speed dome
+- [ ] Verificar câmeras IP e Analógicas
+- [ ] Verificar fonte das câmeras
+- [ ] Verificar wifi outdoor
+- [ ] Fazer link entre casa e ponto com acesso a internet
+- Notas: Levar 2 câmeras IP, 2 câmeras analógicas, par de rádio, mastro com suporte, fonte de 5A e 10A
+
+## MARIA
+
+- [ ] Colocar e configurar interfone sem fio
+
+## PAULA
+
+- [ ] Trocar 9 pilhas de sensores sem fio
+- [ ] passar ~10 metros de cabo para câmera do lado de fora
+
+## SHIRLEY
+
+- [x] Trocar 1 conector oxidado de câmera do poste
+- [x] Verificar acionamento de sensor de alarme
+- Data: 26/06/2024
