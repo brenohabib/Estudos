@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/TODO.md"
+                "file": "Trabalho/Horário.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Trabalho/TODO.md",
     "Códigos/AtividadesC/calc.c",
     "Códigos/AtividadesC/a.exe",
     "Faculdade Eng. Software/Matérias/4º Semestre",
@@ -174,7 +175,6 @@
     "Trabalho/Diário/06-05-2024.md",
     "Trabalho/Diário/03-05-2024.md",
     "Trabalho/Diário/02-05-2024.md",
-    "Trabalho/TODO.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula14/Arquivos.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula14/Arquivos.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula14/Menu.class",
@@ -182,7 +182,6 @@
     "Códigos/AtividadeJava/target/classes/atividade/Aula15/Au15Ex1.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula14/Menu.java",
     "Códigos/AtividadeJava/abca",
-    "Códigos/AtividadeJava/gremio",
     "Trabalho/Horário.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-15.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos.md",
