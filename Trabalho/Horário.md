@@ -102,3 +102,9 @@
 - Dia 28
 	- Manhã
 		- Fui arrumar cerca elétrica do Matheus; 1 Hora de almoço
+
+## Julho
+
+- Dia 01
+	- Manhã
+		- Fui na fazenda do Reinaldo, almocei lá (1 Hora)
