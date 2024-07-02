@@ -1,11 +1,31 @@
-## REINALDO
+## Junho
 
-- [x] Trocar fonte speed dome
-- [x] Verificar câmeras IP e Analógicas
-- [x] Verificar fonte das câmeras
-- [x] Verificar wifi outdoor
-- [ ] Fazer link entre casa e ponto com acesso a internet
-- [ ] Colocar 2 câmeras na casa
+- Dia 05
+	- Manhã
+		- Fui para o Sérgio; Não bati hora almoço (1 Hora)
+	- Tarde
+		- Cheguei 18:10 do Sérgio
 
-- Pré-Notas: Levar 2 câmeras IP, 2 câmeras analógicas, par de rádio, mastro com suporte, fonte de 5A e 10A
-- Pós-Notas: Passei 10 metros de cabo de internet, troquei 1 fonte 12v 1A de uma câmera, troquei 1 fonte 48v 0.32A da speed; Acabei trazendo um nobreak que não estava funcionando
+- Dia 11
+	- Manhã
+		- Fui para o Sérgio; Não bati hora almoço (1 Hora)
+	- Tarde
+		- Fui direto para casa (18:10)
+
+- Dia 13
+	- Manhã 
+		- Fui com Fabiano colocar Starlink no Donizete
+	- Tarde
+		- Fui resolver problema de câmera no Valter / Alexandre Rizzi
+
+- Dia 19
+    - Manhã
+		- Fui no armazém do Valter, almocei lá (1 Hora)
+
+- Dia 21
+	-  Tarde
+		- Fui arrumar internet granjas do Sérgio; Voltei 18:20
+
+- Dia 28
+	- Manhã
+		- Fui arrumar cerca elétrica do Matheus; 1 Hora de almoço
