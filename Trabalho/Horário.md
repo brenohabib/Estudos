@@ -108,3 +108,15 @@
 - Dia 01
 	- Manhã
 		- Fui na fazenda do Reinaldo, almocei lá (1 Hora)
+
+- Dia 02
+	- Manhã/Tarde
+		- Fui para o Sérgio Cunha, voltei 18:00
+
+- Dia 03
+	- Manhã/Tarde
+		- Fui para o Sérgio Cunha, voltei 18:00
+
+- Dia 04
+	- Manhã
+		- Fiz prova teórica auto escola
