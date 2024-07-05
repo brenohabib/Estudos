@@ -14,8 +14,8 @@
 - [ ] Colocar 1 câmera próximo do Sistema Fotovoltaico
 
 - Sede
-- [ ] Passar cabos de rede para o poste do curral
-- [ ] Colocar 2 câmeras no poste do curral
+- [x] Passar cabos de rede para o poste do curral
+- [x] Colocar 2 câmeras no poste do curral
 
 ### STARLINK (Granjas)
 
@@ -33,7 +33,7 @@
 - [x] Configurar interruptor na rede
 - [x] Configurar Alexa
 - [ ] Colocar roteador no teto do corredor
-- [ ] configurar roteador do teto do corredor
+- [ ] Configurar roteador do teto do corredor
 
 ## CARLOS ALBERTO
 
