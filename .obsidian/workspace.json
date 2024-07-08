@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/TODO.md"
+                "file": "Trabalho/Horário.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Trabalho/TODO.md",
     "Códigos/AtividadesC/AU1EX1/ponteiro.exe",
     "Códigos/AtividadesC/AU1EX1/ponteiro.c",
     "Códigos/AtividadesC/AU1EX1/objetos.exe",
@@ -171,9 +172,7 @@
     "Códigos/AtividadesC/testes",
     "Trabalho/Horário.md",
     "Trabalho/Impressão.md",
-    "Trabalho/TODO.md",
     "Códigos/AtividadesC/calc.c",
-    "Códigos/AtividadesC/a.exe",
     "Trabalho/Diário/22-05-2024.md",
     "Trabalho/Diário/21-05-2024.md",
     "Trabalho/Diário/20-05-2024.md",

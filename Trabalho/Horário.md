@@ -120,3 +120,7 @@
 - Dia 04
 	- Manhã
 		- Fiz prova teórica auto escola
+
+- Dia 05
+	- Manhã/Tarde
+		- Fui para o Sérgio Cunha, voltei 17:50
