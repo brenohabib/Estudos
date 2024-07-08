@@ -160,6 +160,10 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Códigos/AtividadesC/testes/test.exe",
+    "Códigos/AtividadesC/testes/test.c",
+    "Códigos/AtividadesC.code-workspace",
+    "Códigos/AtividadesC/testes",
     "Trabalho/Horário.md",
     "Trabalho/Impressão.md",
     "Trabalho/TODO.md",
@@ -181,9 +185,6 @@
     "Códigos/AtividadeJava/src/main/java/atividade2/Aula14/Arquivos.java",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula14/Menu.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula14/Menu$Alignment.class",
-    "Códigos/AtividadeJava/target/classes/atividade/Aula15/Au15Ex1.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Aula14/Menu.java",
-    "Códigos/AtividadeJava/abca",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-15.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
@@ -196,7 +197,6 @@
     "Trabalho/Clientes/Sérgio Cunha.md",
     "Trabalho/Sergio Cunha.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Técnicas de Pesquisa/introdução.md",
-    "Trabalho/Diário/17-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]
 }
