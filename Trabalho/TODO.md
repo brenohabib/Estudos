@@ -101,7 +101,7 @@
 
 - [x] Trocar 9 pilhas de sensores sem fio
 - [x] passar ~10 metros de cabo para câmera do lado de fora
-- 
+- Data: 28/05/2024
 
 ## SHIRLEY
 
