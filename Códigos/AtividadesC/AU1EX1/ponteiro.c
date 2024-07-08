@@ -12,7 +12,7 @@ int main()
    //           * = indirection operator (value at address)
 
    int age = 21;
-   int *pAge = NULL;
+   int * pAge = NULL;
    pAge = &age;
 
    printAge(pAge);
