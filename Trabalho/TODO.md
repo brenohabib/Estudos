@@ -10,8 +10,8 @@
 ### Sistema CFTV/IP
 
 - Granjas
-- [ ] Colocar Ponto a Ponto para o Sistema Fotovoltaico
-- [ ] Colocar 1 câmera próximo do Sistema Fotovoltaico
+- [x] Colocar Ponto a Ponto para o Sistema Fotovoltaico
+- [x] Colocar 1 câmera próximo do Sistema Fotovoltaico
 
 - Sede
 - [x] Passar cabos de rede para o poste do curral
@@ -93,12 +93,15 @@
 
 ## MARIA
 
-- [ ] Colocar e configurar interfone sem fio
+- [x] Colocar e configurar interfone sem fio
+- [x] Explicar funcionamento do interfone
+- Data: 03/06/2024
 
 ## PAULA
 
-- [ ] Trocar 9 pilhas de sensores sem fio
-- [ ] passar ~10 metros de cabo para câmera do lado de fora
+- [x] Trocar 9 pilhas de sensores sem fio
+- [x] passar ~10 metros de cabo para câmera do lado de fora
+- 
 
 ## SHIRLEY
 
