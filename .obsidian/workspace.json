@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/Horário.md",
+                "file": "Trabalho/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Horário.md",
+                "file": "Trabalho/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Horário.md",
+                "file": "Trabalho/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/Horário.md"
+                "file": "Trabalho/TODO.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Trabalho/Horário.md",
     "Trabalho/TODO.md",
     "Códigos/AtividadesC/AU1EX1/ponteiro.exe",
     "Códigos/AtividadesC/AU1EX1/ponteiro.c",
@@ -170,7 +171,6 @@
     "Códigos/AtividadesC/testes/test.c",
     "Códigos/AtividadesC.code-workspace",
     "Códigos/AtividadesC/testes",
-    "Trabalho/Horário.md",
     "Trabalho/Impressão.md",
     "Códigos/AtividadesC/calc.c",
     "Trabalho/Diário/22-05-2024.md",
