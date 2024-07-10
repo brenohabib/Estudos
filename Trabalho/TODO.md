@@ -110,3 +110,11 @@
 - [x] Trocar 1 conector oxidado de câmera do poste
 - [x] Verificar acionamento de sensor de alarme
 - Data: 26/06/2024
+
+## GALGANE
+
+- [ ] Retirar fios de câmeras rompidos
+- [ ] Retirar fios de alarme rompidos
+- [ ] Passar fios de câmeras
+- [ ] Passar fios de alarme
+- [ ] Retirar fio de cerca elétrica
