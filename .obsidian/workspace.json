@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/TODO.md"
+                "file": "Trabalho/Horário.md"
               }
             }
           },
@@ -160,11 +160,12 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Trabalho/Impressão.md",
+    "Trabalho/TODO.md",
     "Códigos/AtividadeJava/target/classes/xadras/Board.class",
     "Códigos/AtividadeJava/src/main/java/xadras/Board.java",
     "Códigos/AtividadesC/testes/test.exe",
     "Trabalho/Horário.md",
-    "Trabalho/TODO.md",
     "Códigos/AtividadesC/AU1EX1/ponteiro.exe",
     "Códigos/AtividadesC/AU1EX1/ponteiro.c",
     "Códigos/AtividadesC/AU1EX1/objetos.exe",
@@ -172,8 +173,6 @@
     "Códigos/AtividadesC/AU1EX1",
     "Códigos/AtividadesC/testes/test.c",
     "Códigos/AtividadesC.code-workspace",
-    "Códigos/AtividadesC/testes",
-    "Trabalho/Impressão.md",
     "Trabalho/Diário/22-05-2024.md",
     "Trabalho/Diário/21-05-2024.md",
     "Trabalho/Diário/20-05-2024.md",

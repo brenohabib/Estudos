@@ -14,10 +14,14 @@ public abstract class Piece {
     public abstract boolean canMoveTo(int newXPos, int newYPos);
 
     public void move(int newXPos, int newYPos) {
-        if (canMoveTo(newXPos, newYPos)) {
+        if (canMoveTo(newXPos, newYPos) && isValidPosition(newXPos, newYPos)) {
             this.xPos = newXPos;
             this.yPos = newYPos;
         }
+    }
+
+    private boolean isValidPosition(int x, int y) {
+        return x >= 0 && x < 8 && y >= 0 && y < 8;
     }
 
     public int getXPos() {
@@ -34,6 +38,11 @@ public abstract class Piece {
 
     public Color getColor() {
         return color;
+    }
+
+    @Override
+    public String toString() {
+        return this.getClass().getSimpleName() + " [xPos=" + xPos + ", yPos=" + yPos + ", color=" + color + "]";
     }
 
 }

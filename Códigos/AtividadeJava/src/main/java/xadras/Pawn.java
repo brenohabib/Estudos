@@ -1,7 +1,6 @@
 package xadras;
 
-public class Pawn extends Piece{
-
+public class Pawn extends Piece {
     private boolean firstMove = true;
 
     public Pawn(int xPos, int yPos, Color color) {
@@ -10,19 +9,26 @@ public class Pawn extends Piece{
 
     @Override
     public boolean canMoveTo(int newXPos, int newYPos) {
-
-        //When he didn't moved, can move either 1 or 2 foward
-        if(firstMove && (newYPos - this.yPos == 1 || newYPos - this.yPos == 2)) {
+        int direction = (getColor() == Color.WHITE) ? 1 : -1;
+        
+        // Movimento inicial: pode mover 2 casas para frente
+        if (firstMove && newXPos == getXPos() && newYPos - getYPos() == 2 * direction) {
             firstMove = false;
             return true;
         }
 
-        //It can move 1 foward when firstMove is false
-        if(newYPos - this.yPos == 1) {
+        // Movimento padrão: pode mover 1 casa para frente
+        if (newXPos == getXPos() && newYPos - getYPos() == direction) {
+            firstMove = false;
             return true;
         }
-        
+
+        // Captura: pode mover 1 casa na diagonal
+        if (Math.abs(newXPos - getXPos()) == 1 && newYPos - getYPos() == direction) {
+            firstMove = false;
+            return true;
+        }
+
         return false;
     }
-    
 }
