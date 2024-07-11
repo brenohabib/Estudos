@@ -31,4 +31,5 @@ public class Pawn extends Piece {
 
         return false;
     }
+
 }
