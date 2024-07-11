@@ -10,11 +10,19 @@ public class Pawn extends Piece{
 
     @Override
     public boolean canMoveTo(int newXPos, int newYPos) {
-        
-        if (firstMove && ((newYPos - yPos == 1) || (newYPos - yPos == 2)))  {
+
+        //When he didn't moved, can move either 1 or 2 foward
+        if(firstMove && (newYPos - this.yPos == 1 || newYPos - this.yPos == 2)) {
             firstMove = false;
             return true;
         }
+
+        if(newYPos - this.yPos == 1) {
+            return true;
+        }
+
+        
+
 
         return false;
     }
