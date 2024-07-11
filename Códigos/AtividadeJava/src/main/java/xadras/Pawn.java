@@ -17,13 +17,11 @@ public class Pawn extends Piece{
             return true;
         }
 
+        //It can move 1 foward when firstMove is false
         if(newYPos - this.yPos == 1) {
             return true;
         }
-
         
-
-
         return false;
     }
     
