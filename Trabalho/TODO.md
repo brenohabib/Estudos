@@ -113,8 +113,10 @@
 
 ## GALGANE
 
-- [ ] Retirar fios de câmeras rompidos
-- [ ] Retirar fios de alarme rompidos
-- [ ] Passar fios de câmeras
-- [ ] Passar fios de alarme
-- [ ] Retirar fio de cerca elétrica
+- [x] Retirar fios de câmeras rompidos
+- [x] Retirar fios de alarme rompidos
+- [x] Passar fios de câmeras
+- [x] Passar fios de alarme
+- [x] Retirar fio de cerca elétrica
+- [ ] Realocar câmera sala Manipulação
+- [ ] Reinstalar câmera cozinha
