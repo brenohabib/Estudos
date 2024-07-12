@@ -14,13 +14,11 @@ public class Board {
             board[1][i] = new Pawn(1, i, Color.WHITE);
             board[6][i] = new Pawn(6, i, Color.BLACK);
         }
-        
-        // Inicializa outras peças...
-        // Por exemplo, torres
-        //board[0][0] = new Rook(0, 0, Color.WHITE);
-        //board[0][7] = new Rook(0, 7, Color.WHITE);
-        //board[7][0] = new Rook(7, 0, Color.BLACK);
-        //board[7][7] = new Rook(7, 7, Color.BLACK);
+
+        board[0][0] = new Rook(0, 0, Color.WHITE);
+        board[0][7] = new Rook(0, 7, Color.WHITE);
+        board[7][0] = new Rook(7, 0, Color.BLACK);
+        board[7][7] = new Rook(7, 7, Color.BLACK);
 
         // Inicialize outras peças (cavalos, bispos, rainhas, reis) aqui
         // ...

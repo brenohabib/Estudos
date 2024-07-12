@@ -1,24 +1,17 @@
 package xadras;
 
-public class Rook extends Piece{
-    private char icon = 'R';
+public class Rook extends Piece {
 
-    public Rook(int xPos, int yPos, Color color, char icon) {
-        super(xPos, yPos, color, icon);
+    public Rook(int xPos, int yPos, Color color) {
+        super(xPos, yPos, color, color == Color.WHITE ? 'R' : 'r');
     }
 
     @Override
     public boolean canMoveTo(int newXPos, int newYPos) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'canMoveTo'");
+        // A torre se move horizontalmente ou verticalmente
+        if (newXPos == getXPos() || newYPos == getYPos()) {
+            return true;
+        }
+        return false;
     }
-
-    public char getIcon() {
-        return icon;
-    }
-
-    public void setIcon(char icon) {
-        this.icon = icon;
-    }
-
 }

@@ -4,7 +4,7 @@ public class Pawn extends Piece {
     private boolean firstMove = true;
 
     public Pawn(int xPos, int yPos, Color color) {
-        super(xPos, yPos, color, color == Color.WHITE ? '♙' : '♟');
+        super(xPos, yPos, color, color == Color.WHITE ? 'P' : 'p');
     }
 
     @Override
