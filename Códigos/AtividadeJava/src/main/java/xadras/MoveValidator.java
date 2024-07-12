@@ -14,9 +14,15 @@ public class MoveValidator {
         int currentX = startX + xDirection;
         int currentY = startY + yDirection;
 
+
+
         while (currentX != endX || currentY != endY) {
             if (board.getPiece(currentX, currentY) != null) {
                 return false;
+            }
+            if (board.getPiece(currentX, currentY).getColor() == board.getPiece(endX, endY).getColor()) {
+                currentX++;
+                currentY++;
             }
             currentX += xDirection;
             currentY += yDirection;
