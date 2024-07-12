@@ -3,8 +3,8 @@ package xadras;
 public class Rook extends Piece{
     private char icon = 'R';
 
-    public Rook(int xPos, int yPos, Color color) {
-        super(xPos, yPos, color);
+    public Rook(int xPos, int yPos, Color color, char icon) {
+        super(xPos, yPos, color, icon);
     }
 
     @Override

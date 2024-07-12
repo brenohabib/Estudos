@@ -47,12 +47,9 @@ public class Board {
     }
 
     public boolean movePiece(int startX, int startY, int endX, int endY) {
-
         if (isValidPosition(startX, startY) && isValidPosition(endX, endY)) {
-
             Piece piece = board[startX][startY];
             if (piece != null && piece.canMoveTo(endX, endY)) {
-
                 board[endX][endY] = piece;
                 board[startX][startY] = null;
                 piece.move(endX, endY);
@@ -72,9 +69,9 @@ public class Board {
         for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 8; j++) {
                 if (board[i][j] == null) {
-                    sb.append("- ");
+                    sb.append(". ");
                 } else {
-                    sb.append(board[i][j].getIcon() + " ");
+                    sb.append(board[i][j].getIcon()).append(" ");
                 }
             }
             sb.append("\n");

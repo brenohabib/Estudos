@@ -6,10 +6,11 @@ public abstract class Piece {
     protected int yPos;
     private Color color;
 
-    public Piece( int xPos, int yPos, Color color) {
+    public Piece(int xPos, int yPos, Color color, char icon) {
         this.xPos = xPos;
         this.yPos = yPos;
         this.color = color;
+        this.icon = icon;
     }
 
     public abstract boolean canMoveTo(int newXPos, int newYPos);
@@ -41,11 +42,6 @@ public abstract class Piece {
         return color;
     }
 
-    @Override
-    public String toString() {
-        return this.getClass().getSimpleName() + " [xPos=" + xPos + ", yPos=" + yPos + ", color=" + color + "]";
-    }
-
     public char getIcon() {
         return icon;
     }
@@ -54,4 +50,8 @@ public abstract class Piece {
         this.icon = icon;
     }
 
+    @Override
+    public String toString() {
+        return this.getClass().getSimpleName() + " [xPos=" + xPos + ", yPos=" + yPos + ", color=" + color + "]";
+    }
 }
