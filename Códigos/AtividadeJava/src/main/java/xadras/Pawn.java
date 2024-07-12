@@ -12,19 +12,19 @@ public class Pawn extends Piece {
         int direction = (getColor() == Color.WHITE) ? 1 : -1;
         
         // Movimento inicial: pode mover 2 casas para frente
-        if (firstMove && newXPos == getXPos() && newYPos - getYPos() == 2 * direction) {
+        if (firstMove && newYPos == getYPos() && newXPos - getXPos() == 2 * direction) {
             firstMove = false;
             return true;
         }
 
         // Movimento padrão: pode mover 1 casa para frente
-        if (newXPos == getXPos() && newYPos - getYPos() == direction) {
+        if (newYPos == getYPos() && newXPos - getXPos() == direction) {
             firstMove = false;
             return true;
         }
 
         // Captura: pode mover 1 casa na diagonal
-        if (Math.abs(newXPos - getXPos()) == 1 && newYPos - getYPos() == direction) {
+        if (Math.abs(newYPos - getYPos()) == 1 && newXPos - getXPos() == direction) {
             firstMove = false;
             return true;
         }
