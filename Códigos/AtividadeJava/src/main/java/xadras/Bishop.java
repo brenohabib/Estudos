@@ -11,7 +11,7 @@ public class Bishop extends Piece {
     @Override
     public boolean canMoveTo(int newXPos, int newYPos) {
         if (Math.abs(newXPos - getXPos()) == Math.abs(newYPos - getYPos())) {
-            return moveValidator.isPathClear(getXPos(), getYPos(), newXPos, newYPos);
+            return moveValidator.isPathClear(getXPos(), getYPos(), newXPos, newYPos, getColor());
         }
         return false;
     }

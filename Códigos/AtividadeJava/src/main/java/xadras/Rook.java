@@ -11,7 +11,7 @@ public class Rook extends Piece {
     @Override
     public boolean canMoveTo(int newXPos, int newYPos) {
         if (getXPos() == newXPos || getYPos() == newYPos) {
-            return moveValidator.isPathClear(getXPos(), getYPos(), newXPos, newYPos);
+            return moveValidator.isPathClear(getXPos(), getYPos(), newXPos, newYPos, getColor());
         }
         return false;
     }

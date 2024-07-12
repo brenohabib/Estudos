@@ -1,18 +1,20 @@
 package xadras;
 
 public class King extends Piece{
+    private MoveValidator moveValidator;
 
-    public King(int xPos, int yPos, Color color) {
+    public King(int xPos, int yPos, Color color, Board board) {
         super(xPos, yPos, color, color == Color.WHITE ? 'K' : 'k');
+        this.moveValidator = new MoveValidator(board);
+
     }
 
     @Override
     public boolean canMoveTo(int newXPos, int newYPos) {
-        int xDiff = Math.abs(newXPos - getXPos());
-        int yDiff = Math.abs(newYPos - getYPos());
-
-        // o rei se move 1 casa em qualquer direção
-        return xDiff <= 1 && yDiff <= 1;
-    }
-    
+        if (Math.abs(newXPos - getXPos()) <= 1 && Math.abs(newYPos - getYPos()) <= 1) {
+            // o rei se move 1 casa em qualquer direção
+            return moveValidator.isPathClear(getXPos(), getYPos(), newXPos, newYPos, getColor());
+        }
+        return false;
+    }   
 }

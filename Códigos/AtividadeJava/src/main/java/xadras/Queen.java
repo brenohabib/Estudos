@@ -14,7 +14,7 @@ public class Queen extends Piece {
         int yDiff = Math.abs(newYPos - getYPos());
 
         if (xDiff == yDiff || newXPos == getXPos() || newYPos == getYPos()) {
-            return moveValidator.isPathClear(getXPos(), getYPos(), newXPos, newYPos);
+            return moveValidator.isPathClear(getXPos(), getYPos(), newXPos, newYPos, getColor());
         }
         return false;
     }

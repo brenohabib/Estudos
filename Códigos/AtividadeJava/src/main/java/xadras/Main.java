@@ -13,7 +13,7 @@ public class Main {
     private static void testMovements(Board board) {
         // Movendo um peão branco para frente
         System.out.println("Movendo um peão branco para frente:");
-        boolean move1 = board.movePiece(1, 0, 3, 0);  // movimento válido
+        boolean move1 = board.movePiece(1, 2, 3, 2);  // movimento válido
         System.out.println("Move 1 (1,0) -> (3,0): " + move1);
         System.out.println(board.toString());
 

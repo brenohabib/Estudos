@@ -160,6 +160,7 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Códigos/AtividadeJava/target/classes/xadras/Main.class",
     "Códigos/AtividadeJava/target/classes/xadras/MoveValidator.class",
     "Códigos/AtividadeJava/src/main/java/xadras/MoveValidator.java",
     "Códigos/AtividadeJava/target/classes/xadras/peças",
@@ -170,7 +171,6 @@
     "Códigos/AtividadeJava/src/main/java/xadras/Queen.java",
     "Códigos/AtividadeJava/target/classes/xadras/Bishop.class",
     "Códigos/AtividadeJava/src/main/java/xadras/Bishop.java",
-    "Códigos/AtividadeJava/target/classes/xadras/Knight.class",
     "Trabalho/Horário.md",
     "Trabalho/Impressão.md",
     "Trabalho/TODO.md",

@@ -38,8 +38,8 @@ public class Board {
         board[7][4] = new Queen(7, 4, Color.BLACK, this);
 
         //inicializa reis
-        board[0][4] = new King(0, 4, Color.WHITE);
-        board[7][3] = new King(7, 3, Color.BLACK);
+        board[0][4] = new King(0, 4, Color.WHITE, this);
+        board[7][3] = new King(7, 3, Color.BLACK, this);
         
         // Preenche o resto do tabuleiro com null
         for (int i = 2; i < 6; i++) {
