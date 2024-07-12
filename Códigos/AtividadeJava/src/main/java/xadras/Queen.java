@@ -1,9 +1,11 @@
 package xadras;
 
 public class Queen extends Piece {
+    private MoveValidator moveValidator;
 
-    public Queen(int xPos, int yPos, Color color) {
+    public Queen(int xPos, int yPos, Color color, Board board) {
         super(xPos, yPos, color, color == Color.WHITE ? 'Q' : 'q');
+        this.moveValidator = new MoveValidator(board);
     }
 
     @Override
@@ -11,17 +13,9 @@ public class Queen extends Piece {
         int xDiff = Math.abs(newXPos - getXPos());
         int yDiff = Math.abs(newYPos - getYPos());
 
-        // a rainha se move horizontalmente ou verticalmente
-        if (newXPos == getXPos() || newYPos == getYPos()) {
-            return true;
+        if (xDiff == yDiff || newXPos == getXPos() || newYPos == getYPos()) {
+            return moveValidator.isPathClear(getXPos(), getYPos(), newXPos, newYPos);
         }
-        // a rainha também se move em diagonais
-        if (xDiff == yDiff) {
-            return true;
-        }
-
         return false;
     }
-    
-    
 }

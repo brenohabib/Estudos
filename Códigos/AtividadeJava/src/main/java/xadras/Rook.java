@@ -1,16 +1,17 @@
 package xadras;
 
 public class Rook extends Piece {
+    private MoveValidator moveValidator;
 
-    public Rook(int xPos, int yPos, Color color) {
+    public Rook(int xPos, int yPos, Color color, Board board) {
         super(xPos, yPos, color, color == Color.WHITE ? 'R' : 'r');
+        this.moveValidator = new MoveValidator(board);
     }
 
     @Override
     public boolean canMoveTo(int newXPos, int newYPos) {
-        // A torre se move horizontalmente ou verticalmente
-        if (newXPos == getXPos() || newYPos == getYPos()) {
-            return true;
+        if (getXPos() == newXPos || getYPos() == newYPos) {
+            return moveValidator.isPathClear(getXPos(), getYPos(), newXPos, newYPos);
         }
         return false;
     }
