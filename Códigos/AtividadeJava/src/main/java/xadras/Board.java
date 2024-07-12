@@ -74,7 +74,7 @@ public class Board {
                 if (board[i][j] == null) {
                     sb.append("- ");
                 } else {
-                    sb.append(board[i][j].getClass().getSimpleName().charAt(0)).append(" ");
+                    sb.append(board[i][j].getIcon() + " ");
                 }
             }
             sb.append("\n");

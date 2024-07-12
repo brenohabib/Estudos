@@ -2,6 +2,7 @@ package xadras;
 
 public class Pawn extends Piece {
     private boolean firstMove = true;
+    private char icon = 'P';
 
     public Pawn(int xPos, int yPos, Color color) {
         super(xPos, yPos, color);
@@ -30,6 +31,22 @@ public class Pawn extends Piece {
         }
 
         return false;
+    }
+
+    public boolean isFirstMove() {
+        return firstMove;
+    }
+
+    public void setFirstMove(boolean firstMove) {
+        this.firstMove = firstMove;
+    }
+
+    public char getIcon() {
+        return icon;
+    }
+
+    public void setIcon(char icon) {
+        this.icon = icon;
     }
 
 }

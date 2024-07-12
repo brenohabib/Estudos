@@ -1,11 +1,12 @@
 package xadras;
 
 public abstract class Piece {
+    private char icon;
     protected int xPos;
     protected int yPos;
     private Color color;
 
-    public Piece(int xPos, int yPos, Color color) {
+    public Piece( int xPos, int yPos, Color color) {
         this.xPos = xPos;
         this.yPos = yPos;
         this.color = color;
@@ -43,6 +44,14 @@ public abstract class Piece {
     @Override
     public String toString() {
         return this.getClass().getSimpleName() + " [xPos=" + xPos + ", yPos=" + yPos + ", color=" + color + "]";
+    }
+
+    public char getIcon() {
+        return icon;
+    }
+
+    public void setIcon(char icon) {
+        this.icon = icon;
     }
 
 }
