@@ -1,9 +1,11 @@
 package xadras;
 
 public class Bishop extends Piece {
+    private MoveValidator moveValidator;
 
     public Bishop(int xPos, int yPos, Color color) {
         super(xPos, yPos, color, color == Color.WHITE ? 'B' : 'b');
+        this.moveValidator = new MoveValidator(board);
     }
 
     @Override
