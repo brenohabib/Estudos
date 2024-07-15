@@ -6,7 +6,6 @@ public class King extends Piece{
     public King(int xPos, int yPos, Color color, Board board) {
         super(xPos, yPos, color, color == Color.WHITE ? 'K' : 'k');
         this.moveValidator = new MoveValidator(board);
-
     }
 
     @Override
