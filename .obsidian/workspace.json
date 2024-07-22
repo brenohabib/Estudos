@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/TODO.md"
+                "file": "Trabalho/Horário.md"
               }
             }
           },
@@ -160,10 +160,10 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Trabalho/TODO.md",
     "Códigos/AtividadeJava/target/classes/Teste.class",
     "Códigos/AtividadeJava/src/main/java/Teste.java",
     "Trabalho/Impressão.md",
-    "Trabalho/TODO.md",
     "Trabalho/Diário/02-05-2024.md",
     "Códigos/AtividadeJava/target/classes/xadras/Main.class",
     "Códigos/AtividadeJava/target/classes/xadras/MoveValidator.class",
@@ -173,7 +173,6 @@
     "Códigos/AtividadeJava/target/classes/xadras/King.class",
     "Códigos/AtividadeJava/src/main/java/xadras/King.java",
     "Códigos/AtividadeJava/target/classes/xadras/Queen.class",
-    "Códigos/AtividadeJava/src/main/java/xadras/Queen.java",
     "Trabalho/Horário.md",
     "Trabalho/Diário/22-05-2024.md",
     "Trabalho/Diário/21-05-2024.md",

@@ -124,3 +124,7 @@
 - Dia 05
 	- Manhã/Tarde
 		- Fui para o Sérgio Cunha, voltei 17:50
+
+- Dia 22
+	- Manhã/Tarde
+		- Fui no Reinaldo
