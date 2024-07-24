@@ -3,7 +3,7 @@ package atividade2;
 import java.util.Scanner;
 
 public class Menu {
-    private String title;
+    private final String title;
     private int sizeX;
     private int sizeY;
 
