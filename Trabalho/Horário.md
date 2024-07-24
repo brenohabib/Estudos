@@ -128,3 +128,7 @@
 - Dia 22
 	- Manhã/Tarde
 		- Fui no Reinaldo
+
+- Dia 23
+	- Manhã/Tarde
+		- Fui no Sérgio Nogueira, voltei 21:00
