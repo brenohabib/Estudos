@@ -16,3 +16,4 @@ existem 6 tipos de atributos, sendo simples e monovalorado, atributo chave, atri
 
 chave primária
 
+entidade fraca não possui atributo chave primária por si só, não é possível definir uma chave primária, nem simples, nem composta e depende de outra entidade
