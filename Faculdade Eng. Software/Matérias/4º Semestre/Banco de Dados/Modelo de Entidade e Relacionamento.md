@@ -13,3 +13,6 @@ cardinalidade nos modelos
 entidades são representadas por retângulos, as entidades possuem atributos
 
 existem 6 tipos de atributos, sendo simples e monovalorado, atributo chave, atributo composto, multivalorado e atributo derivado
+
+chave primária
+
