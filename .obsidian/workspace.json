@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/Horário.md",
+                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Introdução.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Horário.md",
+                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Horário.md",
+                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/Horário.md"
+                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Introdução.md"
               }
             }
           },
@@ -160,6 +160,9 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Trabalho/Horário.md",
+    "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Introdução.md",
+    "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados",
     "Códigos/AtividadeJava/target/classes/xadras/Rook.class",
     "Códigos/AtividadeJava/target/classes/xadras/Queen.class",
     "Códigos/AtividadeJava/target/classes/xadras/Piece.class",
@@ -169,11 +172,8 @@
     "Códigos/AtividadeJava/target/classes/xadras/Knight.class",
     "Códigos/AtividadeJava/target/classes/xadras/King.class",
     "Códigos/AtividadeJava/target/classes/xadras/Color.class",
-    "Códigos/AtividadeJava/target/classes/xadras/Board.class",
-    "Códigos/AtividadeJava/target/classes/xadras/Bishop.class",
     "Trabalho/TODO.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Orientação a Objeto/Atributos e Métodos de Automóvel.md",
-    "Trabalho/Horário.md",
     "Trabalho/Impressão.md",
     "Trabalho/Diário/02-05-2024.md",
     "Trabalho/Diário/22-05-2024.md",
