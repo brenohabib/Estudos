@@ -8,4 +8,6 @@ data: 2024-07-25
 
 Entidades possuem propriedades e comum
 
-cardinalidade em banco de dados
+cardinalidade nos modelos
+
+entidades são representadas por retângulos, as entidades possuem atributos
