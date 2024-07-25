@@ -20,3 +20,11 @@ Administrador do banco de dados (DBA)
 
 Dados -> Informações -> Banco de Dados -> Sistema de banco de dados -> SGBD
 
+Modelagem Conceitual é um modelo inicial da base de dados
+
+Modelagem Lógica descreve como os dados são armazenados no sistema e como se relacionam
+
+Implementação do Modelo Lógico é implementar ou criar a base de dados do modelo escolhido
+
+Modelos de Dados, também conhecido como Esquema da Base de Dados
+
