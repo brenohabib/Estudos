@@ -4,27 +4,34 @@ tags:
 referências: 
 data: 2024-07-24
 ---
-Dados são brutos, informações são processamentos desses dados tornando-os úteis.
+**Resumo de Conceitos de Banco de Dados**
 
-Base de dados é uma coleção.
+1. **Dados e Informações**
+   - **Dados**: Valores brutos.
+   - **Informações**: Processamento de dados, tornando-os úteis.
 
-Banco de dados são múltiplas bases de dados.
+2. **Estrutura de Banco de Dados**
+   - **Base de Dados**: Coleção de dados relacionados.
+   - **Banco de Dados**: Conjunto de múltiplas bases de dados.
+   - **Sistema de Banco de Dados (SBD)**: Gerencia os bancos de dados.
+   - **Sistema Gerenciador de Banco de Dados (SGBD)**: Ferramenta completa para gerenciar bancos de dados, com funcionalidades avançadas.
 
-Sistema de banco de dados (SBD) gerencia os bancos de dados.
+3. **Funcionalidades do SGBD**
+   - Acesso concorrente
+   - Gerenciamento de transações
+   - Aplicação de regras de segurança
+   - Criação de regras para garantir a integridade dos dados
 
-Sistema Gerenciador de Banco de Dados (SGBD) é uma ferramenta muito mais completa que um Sistema de Banco de Dados.
+4. **Administrador do Banco de Dados (DBA)**
+   - Responsável pela administração e manutenção do banco de dados.
 
-SGBD devem permitir o acesso concorrente, gerenciar transações, aplicar regras de segurança e permitirem criar regras que garantam a integridade na base de dados.
+5. **Processo de Modelagem**
+   - **Modelagem Conceitual**: Modelo inicial da base de dados.
+   - **Modelagem Lógica**: Descrição de como os dados são armazenados e se relacionam.
+   - **Implementação do Modelo Lógico**: Criação da base de dados baseada no modelo escolhido.
 
-Administrador do banco de dados (DBA)
+6. **Modelos de Dados**
+   - Também conhecido como Esquema da Base de Dados, define a estrutura e organização dos dados.
 
-Dados -> Informações -> Banco de Dados -> Sistema de banco de dados -> SGBD
-
-Modelagem Conceitual é um modelo inicial da base de dados
-
-Modelagem Lógica descreve como os dados são armazenados no sistema e como se relacionam
-
-Implementação do Modelo Lógico é implementar ou criar a base de dados do modelo escolhido
-
-Modelos de Dados, também conhecido como Esquema da Base de Dados
-
+**Fluxo de Dados**
+   - Dados → Informações → Banco de Dados → Sistema de Banco de Dados → SGBD
