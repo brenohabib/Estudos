@@ -132,3 +132,7 @@
 - Dia 23
 	- Manhã/Tarde
 		- Fui no Sérgio Nogueira, voltei 21:00
+
+- Dia 25
+	- Manhã/Tarde
+		- Fui com o Moisés para Santa Helena
