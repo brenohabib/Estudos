@@ -11,11 +11,9 @@
             "id": "8493cd7a343247f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Trabalho/TODO.md",
-                "mode": "source",
-                "source": false
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/TODO.md"
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md"
               }
             }
           },
@@ -160,9 +158,16 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
-    "Trabalho/Horário.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Modelo de Entidade e Relacionamento.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Introdução.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Equivalência.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
+    "Trabalho/TODO.md",
+    "Trabalho/Horário.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados",
     "Códigos/AtividadeJava/target/classes/xadras/Rook.class",
     "Códigos/AtividadeJava/target/classes/xadras/Queen.class",
@@ -173,7 +178,6 @@
     "Códigos/AtividadeJava/target/classes/xadras/Knight.class",
     "Códigos/AtividadeJava/target/classes/xadras/King.class",
     "Códigos/AtividadeJava/target/classes/xadras/Color.class",
-    "Trabalho/TODO.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Orientação a Objeto/Atributos e Métodos de Automóvel.md",
     "Trabalho/Impressão.md",
     "Trabalho/Diário/02-05-2024.md",
@@ -189,14 +193,8 @@
     "Trabalho/Diário/03-05-2024.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-15.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Produto, Projeto e Processo.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/MCU e DRD.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Atividade-07.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Engenharia de Requisitos.md",
     "Trabalho/Clientes/Sérgio Cunha - REDE.svg",
-    "Trabalho/Clientes/Sérgio Cunha.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]
 }
