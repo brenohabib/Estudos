@@ -120,7 +120,3 @@
 - [x] Retirar fio de cerca elétrica
 - [ ] Realocar câmera sala Manipulação
 - [ ] Reinstalar câmera cozinha
-
-## SERGIO NOGUEIRA
-
-- Levar: 
