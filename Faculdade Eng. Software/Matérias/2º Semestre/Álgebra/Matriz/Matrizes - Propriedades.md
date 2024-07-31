@@ -75,12 +75,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.12",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
 	"elements": [
 		{
 			"type": "text",
-			"version": 653,
-			"versionNonce": 105748699,
+			"version": 654,
+			"versionNonce": 1942762280,
 			"isDeleted": false,
 			"id": "UDaACf2K",
 			"fillStyle": "hachure",
@@ -93,14 +93,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": -202.01851012896248,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1640.6223580219357,
-			"height": 195.10892810963395,
+			"width": 1640.337158203125,
+			"height": 195.1089281096339,
 			"seed": 371124059,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803027622,
+			"updated": 1722464177361,
 			"link": null,
 			"locked": false,
 			"fontSize": 52.029047495902375,
@@ -112,12 +112,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "Verifique que o conjunto 𝑀(3,1) com as operações\nde adição e multiplicação por escalar definidas por:\nADIÇÃO: [𝒂𝟏 𝒂𝟐 𝒂𝟑] + [𝒃𝟏 𝒃𝟐 𝒃𝟑] = [𝒂𝟏+𝒃𝟏  𝒂𝟐+b𝟐  𝒂𝟑+𝒃3]",
 			"lineHeight": 1.25,
-			"baseline": 176.00000000000006
+			"baseline": 176
 		},
 		{
 			"type": "text",
-			"version": 413,
-			"versionNonce": 1706065877,
+			"version": 414,
+			"versionNonce": 614593368,
 			"isDeleted": false,
 			"id": "82hipC3f",
 			"fillStyle": "hachure",
@@ -130,14 +130,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 73.42027103808755,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 35.901674562164025,
+			"width": 35.89723205566406,
 			"height": 66.58324543979346,
 			"seed": 24918811,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691802964270,
+			"updated": 1722464177364,
 			"link": null,
 			"locked": false,
 			"fontSize": 53.26659635183477,
@@ -153,8 +153,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 856,
-			"versionNonce": 2065755637,
+			"version": 857,
+			"versionNonce": 1697353256,
 			"isDeleted": false,
 			"id": "HEfEDIiG",
 			"fillStyle": "hachure",
@@ -167,14 +167,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 167.88640195751208,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 2186.148176200471,
-			"height": 71.2439585574548,
+			"width": 2185.950439453125,
+			"height": 71.24395855745468,
 			"seed": 1992742651,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803040314,
+			"updated": 1722464177366,
 			"link": null,
 			"locked": false,
 			"fontSize": 56.99516684596374,
@@ -186,12 +186,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "MULTIPLICAÇÃO POR ESCALAR: 𝒌 ∙ [𝒂𝟏 𝒂𝟐 𝒂𝟑] = [𝒌 ∙ 𝒂𝟏  𝒌 ∙ 𝒂𝟐  𝒌 ∙ 𝒂3]",
 			"lineHeight": 1.25,
-			"baseline": 50.00000000000013
+			"baseline": 50
 		},
 		{
 			"type": "text",
-			"version": 523,
-			"versionNonce": 1741689653,
+			"version": 524,
+			"versionNonce": 2142881880,
 			"isDeleted": false,
 			"id": "adlUJSzE",
 			"fillStyle": "hachure",
@@ -204,14 +204,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 341.5173442491211,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1213.0888882143092,
+			"width": 1213.004150390625,
 			"height": 76.63036539751768,
 			"seed": 1188861563,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803048432,
+			"updated": 1722464177368,
 			"link": null,
 			"locked": false,
 			"fontSize": 61.30429231801414,
@@ -223,7 +223,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "Verifique M(1,3) se é um espaço vetorial",
 			"lineHeight": 1.25,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "line",
@@ -315,8 +315,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 659,
-			"versionNonce": 1263904411,
+			"version": 660,
+			"versionNonce": 1206356264,
 			"isDeleted": false,
 			"id": "BGu3qmU9",
 			"fillStyle": "hachure",
@@ -329,14 +329,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 548.179178680147,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 2440.3391361364797,
-			"height": 76.63036539751768,
+			"width": 2440.168701171875,
+			"height": 76.63036539751769,
 			"seed": 1057762517,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803048432,
+			"updated": 1722464177370,
 			"link": null,
 			"locked": false,
 			"fontSize": 61.30429231801415,
@@ -348,12 +348,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "A1 = Associativa; A2 = Comutativa; A3 = Elemento neutro A4 = Oposto aditivo",
 			"lineHeight": 1.25,
-			"baseline": 52.999999999999986
+			"baseline": 54
 		},
 		{
 			"type": "text",
-			"version": 981,
-			"versionNonce": 780193781,
+			"version": 982,
+			"versionNonce": 856620376,
 			"isDeleted": false,
 			"id": "dNEzGYVz",
 			"fillStyle": "hachure",
@@ -366,14 +366,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 2593.735462384652,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1408.7625055453054,
+			"width": 1408.5880126953125,
 			"height": 133.16649087958692,
 			"seed": 1633502427,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803006260,
+			"updated": 1722464177373,
 			"link": null,
 			"locked": false,
 			"fontSize": 53.266596351834764,
@@ -88773,8 +88773,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 635,
-			"versionNonce": 340505397,
+			"version": 636,
+			"versionNonce": 124527656,
 			"isDeleted": false,
 			"id": "3LW383di",
 			"fillStyle": "hachure",
@@ -88787,14 +88787,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 1543.1679677746486,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 49.54321137998065,
+			"width": 49.53392028808594,
 			"height": 27.318050014074164,
 			"seed": 376828597,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691802993511,
+			"updated": 1722464177375,
 			"link": null,
 			"locked": false,
 			"fontSize": 21.85444001125933,
@@ -88810,8 +88810,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 627,
-			"versionNonce": 1843660443,
+			"version": 628,
+			"versionNonce": 267752024,
 			"isDeleted": false,
 			"id": "Oz30NpLx",
 			"fillStyle": "hachure",
@@ -88824,14 +88824,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 1545.2076850325918,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 48.134386199776685,
-			"height": 26.54965594989929,
+			"width": 48.140644768600936,
+			"height": 26.549655949899293,
 			"seed": 1326003387,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691802993511,
+			"updated": 1722464177375,
 			"link": null,
 			"locked": false,
 			"fontSize": 21.239724759919433,
@@ -88847,8 +88847,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 691,
-			"versionNonce": 1463387285,
+			"version": 692,
+			"versionNonce": 1101356840,
 			"isDeleted": false,
 			"id": "Kv6maspO",
 			"fillStyle": "hachure",
@@ -88861,14 +88861,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 1453.0695114453094,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 46.960387793599985,
-			"height": 25.89566853469999,
+			"width": 46.95481486942423,
+			"height": 25.895668534699986,
 			"seed": 930632763,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691802993511,
+			"updated": 1722464177375,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.71653482775999,
@@ -88880,12 +88880,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 17.000000000000004
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 612,
-			"versionNonce": 1988000571,
+			"version": 613,
+			"versionNonce": 490833752,
 			"isDeleted": false,
 			"id": "QP0H4IVx",
 			"fillStyle": "hachure",
@@ -88898,14 +88898,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 1457.97139278898,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 47.195146835647435,
-			"height": 26.037393240449443,
+			"width": 47.21179442227771,
+			"height": 26.03739324044944,
 			"seed": 1349963547,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691802993511,
+			"updated": 1722464177376,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.829914592359554,
@@ -88921,8 +88921,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 654,
-			"versionNonce": 321268213,
+			"version": 655,
+			"versionNonce": 1996438056,
 			"isDeleted": false,
 			"id": "RhE9Nxj5",
 			"fillStyle": "hachure",
@@ -88935,14 +88935,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 998.7867254906741,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 46.3565797708536,
+			"width": 46.34949734862215,
 			"height": 25.561834785796332,
 			"seed": 1572374715,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691802993511,
+			"updated": 1722464177376,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.449467828637065,
@@ -88954,12 +88954,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 712,
-			"versionNonce": 958487515,
+			"version": 713,
+			"versionNonce": 1732697176,
 			"isDeleted": false,
 			"id": "HlM3FzgB",
 			"fillStyle": "hachure",
@@ -88972,54 +88972,17 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 996.9609501449904,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 44.94777716797624,
-			"height": 24.789770296141754,
+			"width": 44.94956650187032,
+			"height": 24.78977029614175,
 			"seed": 2077896565,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691802993511,
+			"updated": 1722464177376,
 			"link": null,
 			"locked": false,
 			"fontSize": 19.8318162369134,
-			"fontFamily": 1,
-			"text": "(1x3)",
-			"rawText": "(1x3)",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "(1x3)",
-			"lineHeight": 1.25,
-			"baseline": 17.000000000000004
-		},
-		{
-			"type": "text",
-			"version": 808,
-			"versionNonce": 1763124053,
-			"isDeleted": false,
-			"id": "QQFkCgJP",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -408.0320158309196,
-			"y": 995.5560023369512,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 45.752816902760415,
-			"height": 25.24249626421493,
-			"seed": 1034560245,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1691802993511,
-			"link": null,
-			"locked": false,
-			"fontSize": 20.193997011371945,
 			"fontFamily": 1,
 			"text": "(1x3)",
 			"rawText": "(1x3)",
@@ -89032,8 +88995,45 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 759,
-			"versionNonce": 836708475,
+			"version": 809,
+			"versionNonce": 979744040,
+			"isDeleted": false,
+			"id": "QQFkCgJP",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -408.0320158309196,
+			"y": 995.5560023369512,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 45.770463015469566,
+			"height": 25.242496264214928,
+			"seed": 1034560245,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1722464177376,
+			"link": null,
+			"locked": false,
+			"fontSize": 20.193997011371945,
+			"fontFamily": 1,
+			"text": "(1x3)",
+			"rawText": "(1x3)",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "(1x3)",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"type": "text",
+			"version": 760,
+			"versionNonce": 1339658584,
 			"isDeleted": false,
 			"id": "RwtSbZpi",
 			"fillStyle": "hachure",
@@ -89046,14 +89046,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 1014.124208326104,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 59.67322885881229,
+			"width": 59.68429946607427,
 			"height": 32.916003183001855,
 			"seed": 1034787893,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691802993511,
+			"updated": 1722464177376,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.332802546401485,
@@ -89065,12 +89065,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 22
+			"baseline": 23
 		},
 		{
 			"type": "text",
-			"version": 761,
-			"versionNonce": 1029828789,
+			"version": 762,
+			"versionNonce": 1631899688,
 			"isDeleted": false,
 			"id": "sQckjdUZ",
 			"fillStyle": "hachure",
@@ -89083,14 +89083,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 1009.8082732062662,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 56.08411124828306,
-			"height": 30.930507500046502,
+			"width": 56.084138223189804,
+			"height": 30.9305075000465,
 			"seed": 1708431867,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691802993511,
+			"updated": 1722464177376,
 			"link": null,
 			"locked": false,
 			"fontSize": 24.744406000037202,
@@ -89102,12 +89102,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 22
 		},
 		{
 			"type": "text",
-			"version": 675,
-			"versionNonce": 913989915,
+			"version": 676,
+			"versionNonce": 1582147160,
 			"isDeleted": false,
 			"id": "cnYjekf0",
 			"fillStyle": "hachure",
@@ -89120,14 +89120,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 1000.1673541093139,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 56.08411124828306,
-			"height": 30.930507500046527,
+			"width": 56.08413822318986,
+			"height": 30.93050750004653,
 			"seed": 801092187,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691802993511,
+			"updated": 1722464177377,
 			"link": null,
 			"locked": false,
 			"fontSize": 24.744406000037223,
@@ -89139,12 +89139,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 20.999999999999996
+			"baseline": 22
 		},
 		{
 			"type": "text",
-			"version": 670,
-			"versionNonce": 1303122453,
+			"version": 671,
+			"versionNonce": 864586536,
 			"isDeleted": false,
 			"id": "nA2IoqPj",
 			"fillStyle": "hachure",
@@ -89157,14 +89157,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 1950.8933288596113,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 67.65650381465493,
-			"height": 37.309462587470094,
+			"width": 67.6506538661047,
+			"height": 37.30946258747009,
 			"seed": 1279662075,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691802993511,
+			"updated": 1722464177377,
 			"link": null,
 			"locked": false,
 			"fontSize": 29.847570069976072,
@@ -89180,8 +89180,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 632,
-			"versionNonce": 1080395195,
+			"version": 633,
+			"versionNonce": 259464024,
 			"isDeleted": false,
 			"id": "tDtV8LeM",
 			"fillStyle": "hachure",
@@ -89194,14 +89194,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 1937.7656956400565,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 73.19110965880877,
-			"height": 40.366620954671774,
+			"width": 73.19398652678161,
+			"height": 40.36662095467177,
 			"seed": 417594773,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691802993511,
+			"updated": 1722464177377,
 			"link": null,
 			"locked": false,
 			"fontSize": 32.293296763737416,
@@ -100373,8 +100373,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 604,
-			"versionNonce": 1127452501,
+			"version": 605,
+			"versionNonce": 463267368,
 			"isDeleted": false,
 			"id": "Caf2PW8F",
 			"fillStyle": "hachure",
@@ -100387,14 +100387,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 2245.1287928600495,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 97.84534711643867,
-			"height": 53.9670923866485,
+			"width": 97.85477554520885,
+			"height": 53.96709238664851,
 			"seed": 1367305365,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691802993512,
+			"updated": 1722464177377,
 			"link": null,
 			"locked": false,
 			"fontSize": 43.17367390931881,
@@ -100406,7 +100406,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 36.99999999999999
+			"baseline": 38
 		},
 		{
 			"type": "freedraw",
@@ -179758,8 +179758,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 812,
-			"versionNonce": 1640543003,
+			"version": 813,
+			"versionNonce": 631894104,
 			"isDeleted": false,
 			"id": "grkwECVV",
 			"fillStyle": "hachure",
@@ -179772,14 +179772,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 3175.196410385339,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 65.17430737295646,
+			"width": 65.16255149109587,
 			"height": 35.93726945748324,
 			"seed": 677073915,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803010557,
+			"updated": 1722464177377,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -179791,12 +179791,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 825,
-			"versionNonce": 44294165,
+			"version": 826,
+			"versionNonce": 1450041640,
 			"isDeleted": false,
 			"id": "10qKR4Ay",
 			"fillStyle": "hachure",
@@ -179809,14 +179809,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 3285.860908490363,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 65.17430737295646,
+			"width": 65.16255149109587,
 			"height": 35.93726945748324,
 			"seed": 287747445,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803010557,
+			"updated": 1722464177377,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -179828,12 +179828,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 889,
-			"versionNonce": 1377408955,
+			"version": 890,
+			"versionNonce": 2025465176,
 			"isDeleted": false,
 			"id": "lZVS44iE",
 			"fillStyle": "hachure",
@@ -179846,14 +179846,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 3706.259201366094,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 65.17430737295646,
+			"width": 65.16255149109587,
 			"height": 35.93726945748324,
 			"seed": 725231733,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803010557,
+			"updated": 1722464177377,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -179865,12 +179865,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 933,
-			"versionNonce": 666441077,
+			"version": 934,
+			"versionNonce": 593984552,
 			"isDeleted": false,
 			"id": "Lvd50Aqf",
 			"fillStyle": "hachure",
@@ -179883,14 +179883,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 3700.6343268137443,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 75.60625144048791,
-			"height": 41.701326263917394,
+			"width": 75.61411484348787,
+			"height": 41.7013262639174,
 			"seed": 1381010613,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803010557,
+			"updated": 1722464177377,
 			"link": null,
 			"locked": false,
 			"fontSize": 33.36106101113392,
@@ -179902,12 +179902,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 28.999999999999993
+			"baseline": 29
 		},
 		{
 			"type": "text",
-			"version": 883,
-			"versionNonce": 472180827,
+			"version": 884,
+			"versionNonce": 1174125144,
 			"isDeleted": false,
 			"id": "L7CoBIND",
 			"fillStyle": "hachure",
@@ -179920,14 +179920,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 3678.426894609678,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 65.17430737295646,
+			"width": 65.16255149109587,
 			"height": 35.93726945748324,
 			"seed": 811651515,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803010557,
+			"updated": 1722464177377,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -179939,12 +179939,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 883,
-			"versionNonce": 1396743893,
+			"version": 884,
+			"versionNonce": 1953871656,
 			"isDeleted": false,
 			"id": "jD4sVWEZ",
 			"fillStyle": "hachure",
@@ -179957,14 +179957,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 4376.903083988471,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 65.17430737295646,
+			"width": 65.16255149109587,
 			"height": 35.93726945748324,
 			"seed": 435722075,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803010557,
+			"updated": 1722464177377,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -179976,12 +179976,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 871,
-			"versionNonce": 1975330043,
+			"version": 872,
+			"versionNonce": 4370264,
 			"isDeleted": false,
 			"id": "fn2izYDc",
 			"fillStyle": "hachure",
@@ -179994,14 +179994,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 4375.271894488933,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 65.17430737295646,
+			"width": 65.16255149109587,
 			"height": 35.93726945748324,
 			"seed": 705132987,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803010557,
+			"updated": 1722464177377,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -180013,12 +180013,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 905,
-			"versionNonce": 735050805,
+			"version": 906,
+			"versionNonce": 503616040,
 			"isDeleted": false,
 			"id": "purN0LuE",
 			"fillStyle": "hachure",
@@ -180031,14 +180031,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 4834.896756678129,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 65.17430737295646,
+			"width": 65.16255149109587,
 			"height": 35.93726945748324,
 			"seed": 917354773,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803010557,
+			"updated": 1722464177378,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -180050,12 +180050,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 906,
-			"versionNonce": 912575899,
+			"version": 907,
+			"versionNonce": 534971480,
 			"isDeleted": false,
 			"id": "fQnpb8CU",
 			"fillStyle": "hachure",
@@ -180068,14 +180068,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 4828.4094579122,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 65.17430737295646,
+			"width": 65.16255149109587,
 			"height": 35.93726945748324,
 			"seed": 832337205,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803010557,
+			"updated": 1722464177378,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -180087,7 +180087,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "freedraw",
@@ -193531,8 +193531,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 215,
-			"versionNonce": 819674005,
+			"version": 216,
+			"versionNonce": 117443880,
 			"isDeleted": false,
 			"id": "nZhDgiWh",
 			"fillStyle": "hachure",
@@ -193545,14 +193545,14 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"y": 5088.580529618532,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 2445.1968994754375,
-			"height": 148.72769847396737,
+			"width": 2445.261474609375,
+			"height": 148.72769847396734,
 			"seed": 763788347,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691803014945,
+			"updated": 1722464177380,
 			"link": null,
 			"locked": false,
 			"fontSize": 118.98215877917387,
@@ -193564,7 +193564,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "Logo, (𝑀(3,1), + , ∙) é um espaço vetorial.",
 			"lineHeight": 1.25,
-			"baseline": 104.00000000000003
+			"baseline": 104
 		},
 		{
 			"type": "line",
@@ -193631,33 +193631,38 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			]
 		},
 		{
-			"id": "yGykWQoom-j3O5ltyFvkf",
 			"type": "line",
-			"x": -681.1211096193169,
-			"y": 2400.9046844448335,
-			"width": 2539.9999999999995,
-			"height": 60,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 141,
+			"versionNonce": 932707419,
+			"isDeleted": false,
+			"id": "yGykWQoom-j3O5ltyFvkf",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -681.1211096193169,
+			"y": 2400.9046844448335,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 2539.9999999999995,
+			"height": 60,
+			"seed": 1134412955,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1134412955,
-			"version": 141,
-			"versionNonce": 932707419,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691803002718,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -193671,3059 +193676,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 					0,
 					0
 				]
-			],
-			"lastCommittedPoint": [
-				10,
-				50
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
-		},
-		{
-			"type": "freedraw",
-			"version": 676,
-			"versionNonce": 283697589,
-			"isDeleted": true,
-			"id": "Lr8mc8OZHE2wYSbPx-Nm7",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2315.643248375889,
-			"y": -257.2664367104589,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 601.8899475708539,
-			"height": 1654.6163809669808,
-			"seed": 1974079035,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1691802977696,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-2.323899411470415
-				],
-				[
-					-11.619497057352412,
-					-9.295597645881912
-				],
-				[
-					-20.91509470323407,
-					-18.591195291763825
-				],
-				[
-					-25.562893526175237,
-					-20.91509470323424
-				],
-				[
-					-30.210692349116066,
-					-25.562893526175237
-				],
-				[
-					-32.53459176058648,
-					-27.886792937645737
-				],
-				[
-					-39.50628999499806,
-					-32.53459176058665
-				],
-				[
-					-44.15408881793889,
-					-37.18239058352765
-				],
-				[
-					-48.80188764088006,
-					-41.83018940646856
-				],
-				[
-					-55.7735858752913,
-					-46.47798822940956
-				],
-				[
-					-62.74528410970289,
-					-51.125787052350475
-				],
-				[
-					-67.39308293264371,
-					-55.773585875291474
-				],
-				[
-					-74.3647811670553,
-					-60.42138469823239
-				],
-				[
-					-79.01257998999613,
-					-65.06918352117339
-				],
-				[
-					-85.9842782244077,
-					-69.7169823441143
-				],
-				[
-					-92.95597645881895,
-					-72.04088175558479
-				],
-				[
-					-97.60377528176012,
-					-76.68868057852579
-				],
-				[
-					-104.57547351617136,
-					-81.3364794014667
-				],
-				[
-					-109.22327233911219,
-					-83.66037881293721
-				],
-				[
-					-113.87107116205335,
-					-85.9842782244077
-				],
-				[
-					-118.51886998499418,
-					-88.30817763587812
-				],
-				[
-					-120.8427693964646,
-					-88.30817763587812
-				],
-				[
-					-125.49056821940577,
-					-90.63207704734862
-				],
-				[
-					-127.81446763087618,
-					-92.95597645881912
-				],
-				[
-					-132.46226645381702,
-					-92.95597645881912
-				],
-				[
-					-137.11006527675818,
-					-95.27987587028962
-				],
-				[
-					-139.4339646882286,
-					-97.60377528176012
-				],
-				[
-					-141.75786409969902,
-					-97.60377528176012
-				],
-				[
-					-144.0817635111694,
-					-97.60377528176012
-				],
-				[
-					-148.7295623341106,
-					-97.60377528176012
-				],
-				[
-					-151.05346174558102,
-					-99.92767469323053
-				],
-				[
-					-153.3773611570514,
-					-99.92767469323053
-				],
-				[
-					-158.02515997999225,
-					-102.25157410470104
-				],
-				[
-					-160.34905939146302,
-					-102.25157410470104
-				],
-				[
-					-164.99685821440383,
-					-104.57547351617153
-				],
-				[
-					-169.64465703734467,
-					-104.57547351617153
-				],
-				[
-					-171.9685564488154,
-					-104.57547351617153
-				],
-				[
-					-176.61635527175625,
-					-106.89937292764203
-				],
-				[
-					-181.26415409469706,
-					-106.89937292764203
-				],
-				[
-					-183.58805350616748,
-					-106.89937292764203
-				],
-				[
-					-188.23585232910867,
-					-109.22327233911244
-				],
-				[
-					-190.55975174057906,
-					-109.22327233911244
-				],
-				[
-					-195.2075505635199,
-					-109.22327233911244
-				],
-				[
-					-197.53144997499064,
-					-111.54717175058295
-				],
-				[
-					-202.17924879793148,
-					-111.54717175058295
-				],
-				[
-					-206.82704762087232,
-					-111.54717175058295
-				],
-				[
-					-209.15094703234305,
-					-111.54717175058295
-				],
-				[
-					-216.12264526675432,
-					-111.54717175058295
-				],
-				[
-					-223.0943435011659,
-					-111.54717175058295
-				],
-				[
-					-225.4182429126363,
-					-111.54717175058295
-				],
-				[
-					-232.38994114704755,
-					-111.54717175058295
-				],
-				[
-					-234.71384055851829,
-					-111.54717175058295
-				],
-				[
-					-239.36163938145913,
-					-111.54717175058295
-				],
-				[
-					-241.68553879292955,
-					-111.54717175058295
-				],
-				[
-					-246.3333376158707,
-					-111.54717175058295
-				],
-				[
-					-250.98113643881155,
-					-111.54717175058295
-				],
-				[
-					-255.62893526175236,
-					-109.22327233911244
-				],
-				[
-					-257.9528346732231,
-					-109.22327233911244
-				],
-				[
-					-262.60063349616394,
-					-106.89937292764203
-				],
-				[
-					-264.9245329076344,
-					-106.89937292764203
-				],
-				[
-					-267.2484323191048,
-					-104.57547351617153
-				],
-				[
-					-271.89623114204596,
-					-104.57547351617153
-				],
-				[
-					-274.22013055351636,
-					-102.25157410470104
-				],
-				[
-					-278.8679293764572,
-					-102.25157410470104
-				],
-				[
-					-281.1918287879276,
-					-99.92767469323053
-				],
-				[
-					-283.5157281993984,
-					-99.92767469323053
-				],
-				[
-					-285.8396276108688,
-					-97.60377528176012
-				],
-				[
-					-288.16352702233917,
-					-97.60377528176012
-				],
-				[
-					-290.4874264338096,
-					-95.27987587028962
-				],
-				[
-					-292.81132584528,
-					-92.95597645881912
-				],
-				[
-					-295.13522525675074,
-					-92.95597645881912
-				],
-				[
-					-297.4591246682212,
-					-90.63207704734862
-				],
-				[
-					-299.7830240796916,
-					-88.30817763587812
-				],
-				[
-					-304.4308229026324,
-					-85.9842782244077
-				],
-				[
-					-306.75472231410316,
-					-83.66037881293721
-				],
-				[
-					-309.0786217255736,
-					-81.3364794014667
-				],
-				[
-					-313.7264205485144,
-					-76.68868057852579
-				],
-				[
-					-316.05031995998485,
-					-74.3647811670553
-				],
-				[
-					-320.69811878292603,
-					-72.04088175558479
-				],
-				[
-					-323.0220181943964,
-					-67.39308293264388
-				],
-				[
-					-325.3459176058668,
-					-65.06918352117339
-				],
-				[
-					-329.99371642880766,
-					-60.42138469823239
-				],
-				[
-					-332.3176158402784,
-					-58.09748528676197
-				],
-				[
-					-336.96541466321924,
-					-53.449686463820974
-				],
-				[
-					-339.2893140746897,
-					-51.125787052350475
-				],
-				[
-					-341.6132134861601,
-					-46.47798822940956
-				],
-				[
-					-343.9371128976308,
-					-44.15408881793906
-				],
-				[
-					-346.26101230910126,
-					-39.50628999499815
-				],
-				[
-					-348.58491172057165,
-					-37.18239058352765
-				],
-				[
-					-350.90881113204205,
-					-32.53459176058665
-				],
-				[
-					-353.2327105435125,
-					-30.210692349116236
-				],
-				[
-					-355.55660995498323,
-					-25.562893526175237
-				],
-				[
-					-357.8805093664536,
-					-23.238994114704738
-				],
-				[
-					-360.2044087779241,
-					-18.591195291763825
-				],
-				[
-					-362.52830818939447,
-					-16.267295880293325
-				],
-				[
-					-364.8522076008649,
-					-11.619497057352326
-				],
-				[
-					-367.1761070123353,
-					-6.971698234411413
-				],
-				[
-					-369.50000642380604,
-					-4.6477988229409135
-				],
-				[
-					-371.8239058352765,
-					2.323899411470499
-				],
-				[
-					-374.1478052467469,
-					4.647798822940998
-				],
-				[
-					-376.47170465821733,
-					9.295597645881912
-				],
-				[
-					-378.7956040696877,
-					16.26729588029341
-				],
-				[
-					-381.11950348115846,
-					18.591195291763825
-				],
-				[
-					-383.4434028926289,
-					23.238994114704823
-				],
-				[
-					-383.4434028926289,
-					25.56289352617532
-				],
-				[
-					-385.7673023040993,
-					27.886792937645737
-				],
-				[
-					-385.7673023040993,
-					32.534591760586736
-				],
-				[
-					-388.0912017155697,
-					37.18239058352765
-				],
-				[
-					-390.41510112704015,
-					41.83018940646865
-				],
-				[
-					-390.41510112704015,
-					46.47798822940965
-				],
-				[
-					-392.7390005385109,
-					51.12578705235056
-				],
-				[
-					-395.0628999499813,
-					55.77358587529156
-				],
-				[
-					-397.3867993614517,
-					60.42138469823247
-				],
-				[
-					-397.3867993614517,
-					65.06918352117347
-				],
-				[
-					-402.03459818439256,
-					67.39308293264388
-				],
-				[
-					-402.03459818439256,
-					74.36478116705538
-				],
-				[
-					-404.35849759586296,
-					79.0125799899963
-				],
-				[
-					-406.6823970073337,
-					83.6603788129373
-				],
-				[
-					-406.6823970073337,
-					85.9842782244077
-				],
-				[
-					-409.00629641880414,
-					88.30817763587821
-				],
-				[
-					-411.33019583027453,
-					95.27987587028962
-				],
-				[
-					-411.33019583027453,
-					99.92767469323061
-				],
-				[
-					-413.6540952417449,
-					104.57547351617153
-				],
-				[
-					-413.6540952417449,
-					109.22327233911253
-				],
-				[
-					-415.9779946532154,
-					113.87107116205352
-				],
-				[
-					-415.9779946532154,
-					120.84276939646494
-				],
-				[
-					-418.3018940646861,
-					125.49056821940586
-				],
-				[
-					-418.3018940646861,
-					132.46226645381736
-				],
-				[
-					-420.62579347615656,
-					137.11006527675826
-				],
-				[
-					-420.62579347615656,
-					144.08176351116967
-				],
-				[
-					-422.94969288762695,
-					148.72956233411068
-				],
-				[
-					-422.94969288762695,
-					155.7012605685221
-				],
-				[
-					-425.27359229909734,
-					160.34905939146307
-				],
-				[
-					-425.27359229909734,
-					167.3207576258745
-				],
-				[
-					-425.27359229909734,
-					171.9685564488154
-				],
-				[
-					-427.5974917105678,
-					178.9402546832269
-				],
-				[
-					-427.5974917105678,
-					183.58805350616782
-				],
-				[
-					-427.5974917105678,
-					185.91195291763833
-				],
-				[
-					-427.5974917105678,
-					190.55975174057932
-				],
-				[
-					-427.5974917105678,
-					197.53144997499072
-				],
-				[
-					-427.5974917105678,
-					202.17924879793165
-				],
-				[
-					-429.92139112203853,
-					209.15094703234314
-				],
-				[
-					-429.92139112203853,
-					213.79874585528407
-				],
-				[
-					-429.92139112203853,
-					220.77044408969547
-				],
-				[
-					-429.92139112203853,
-					225.41824291263646
-				],
-				[
-					-429.92139112203853,
-					230.0660417355774
-				],
-				[
-					-429.92139112203853,
-					234.71384055851837
-				],
-				[
-					-432.2452905335089,
-					239.3616393814593
-				],
-				[
-					-432.2452905335089,
-					246.3333376158708
-				],
-				[
-					-432.2452905335089,
-					250.98113643881172
-				],
-				[
-					-432.2452905335089,
-					255.62893526175262
-				],
-				[
-					-432.2452905335089,
-					262.6006334961642
-				],
-				[
-					-432.2452905335089,
-					267.248432319105
-				],
-				[
-					-432.2452905335089,
-					269.5723317305756
-				],
-				[
-					-432.2452905335089,
-					276.54402996498703
-				],
-				[
-					-432.2452905335089,
-					281.19182878792805
-				],
-				[
-					-432.2452905335089,
-					288.16352702233945
-				],
-				[
-					-432.2452905335089,
-					295.13522525675086
-				],
-				[
-					-429.92139112203853,
-					299.78302407969187
-				],
-				[
-					-429.92139112203853,
-					306.7547223141033
-				],
-				[
-					-429.92139112203853,
-					313.7264205485147
-				],
-				[
-					-429.92139112203853,
-					320.6981187829261
-				],
-				[
-					-427.5974917105678,
-					327.6698170173375
-				],
-				[
-					-427.5974917105678,
-					332.3176158402785
-				],
-				[
-					-425.27359229909734,
-					339.2893140746899
-				],
-				[
-					-425.27359229909734,
-					346.2610123091013
-				],
-				[
-					-422.94969288762695,
-					353.2327105435127
-				],
-				[
-					-422.94969288762695,
-					360.20440877792413
-				],
-				[
-					-420.62579347615656,
-					367.1761070123357
-				],
-				[
-					-420.62579347615656,
-					371.82390583527655
-				],
-				[
-					-418.3018940646861,
-					376.47170465821756
-				],
-				[
-					-418.3018940646861,
-					383.44340289262897
-				],
-				[
-					-415.9779946532154,
-					388.09120171557
-				],
-				[
-					-413.6540952417449,
-					395.0628999499814
-				],
-				[
-					-413.6540952417449,
-					397.38679936145195
-				],
-				[
-					-413.6540952417449,
-					402.0345981843928
-				],
-				[
-					-411.33019583027453,
-					406.6823970073338
-				],
-				[
-					-409.00629641880414,
-					413.6540952417452
-				],
-				[
-					-409.00629641880414,
-					420.6257934761566
-				],
-				[
-					-406.6823970073337,
-					427.597491710568
-				],
-				[
-					-404.35849759586296,
-					432.24529053350903
-				],
-				[
-					-402.03459818439256,
-					439.21698876792044
-				],
-				[
-					-402.03459818439256,
-					446.18868700233185
-				],
-				[
-					-399.7106987729221,
-					453.1603852367434
-				],
-				[
-					-397.3867993614517,
-					460.13208347115483
-				],
-				[
-					-397.3867993614517,
-					464.77988229409584
-				],
-				[
-					-397.3867993614517,
-					467.10378170556623
-				],
-				[
-					-395.0628999499813,
-					471.75158052850725
-				],
-				[
-					-392.7390005385109,
-					478.72327876291865
-				],
-				[
-					-392.7390005385109,
-					483.37107758585967
-				],
-				[
-					-390.41510112704015,
-					488.0188764088005
-				],
-				[
-					-390.41510112704015,
-					492.6666752317415
-				],
-				[
-					-388.0912017155697,
-					497.3144740546825
-				],
-				[
-					-388.0912017155697,
-					499.6383734661529
-				],
-				[
-					-385.7673023040993,
-					504.2861722890939
-				],
-				[
-					-385.7673023040993,
-					508.9339711120349
-				],
-				[
-					-383.4434028926289,
-					513.5817699349757
-				],
-				[
-					-383.4434028926289,
-					518.2295687579167
-				],
-				[
-					-381.11950348115846,
-					525.2012669923281
-				],
-				[
-					-381.11950348115846,
-					529.8490658152691
-				],
-				[
-					-381.11950348115846,
-					534.4968646382101
-				],
-				[
-					-378.7956040696877,
-					541.4685628726215
-				],
-				[
-					-378.7956040696877,
-					550.7641605185036
-				],
-				[
-					-378.7956040696877,
-					557.735858752915
-				],
-				[
-					-376.47170465821733,
-					562.3836575758558
-				],
-				[
-					-376.47170465821733,
-					564.7075569873264
-				],
-				[
-					-376.47170465821733,
-					569.3553558102674
-				],
-				[
-					-376.47170465821733,
-					576.3270540446788
-				],
-				[
-					-376.47170465821733,
-					580.9748528676196
-				],
-				[
-					-376.47170465821733,
-					587.9465511020312
-				],
-				[
-					-376.47170465821733,
-					592.594349924972
-				],
-				[
-					-376.47170465821733,
-					599.5660481593836
-				],
-				[
-					-376.47170465821733,
-					604.2138469823244
-				],
-				[
-					-376.47170465821733,
-					613.5094446282064
-				],
-				[
-					-376.47170465821733,
-					627.4528410970292
-				],
-				[
-					-376.47170465821733,
-					629.7767405084996
-				],
-				[
-					-378.7956040696877,
-					641.3962375658521
-				],
-				[
-					-378.7956040696877,
-					643.7201369773227
-				],
-				[
-					-381.11950348115846,
-					653.0157346232045
-				],
-				[
-					-381.11950348115846,
-					655.3396340346751
-				],
-				[
-					-383.4434028926289,
-					669.2830305034979
-				],
-				[
-					-385.7673023040993,
-					671.6069299149683
-				],
-				[
-					-388.0912017155697,
-					680.9025275608503
-				],
-				[
-					-397.3867993614517,
-					708.789320498496
-				],
-				[
-					-397.3867993614517,
-					711.1132199099666
-				],
-				[
-					-402.03459818439256,
-					718.084918144378
-				],
-				[
-					-404.35849759586296,
-					722.732716967319
-				],
-				[
-					-411.33019583027453,
-					736.6761134361418
-				],
-				[
-					-413.6540952417449,
-					739.0000128476122
-				],
-				[
-					-415.9779946532154,
-					745.9717110820236
-				],
-				[
-					-420.62579347615656,
-					750.6195099049646
-				],
-				[
-					-422.94969288762695,
-					755.2673087279056
-				],
-				[
-					-425.27359229909734,
-					759.9151075508465
-				],
-				[
-					-429.92139112203853,
-					764.5629063737873
-				],
-				[
-					-432.2452905335089,
-					766.8868057852582
-				],
-				[
-					-434.56918994497937,
-					769.2107051967286
-				],
-				[
-					-436.89308935644976,
-					771.534604608199
-				],
-				[
-					-439.2169887679202,
-					773.8585040196693
-				],
-				[
-					-441.54088817939095,
-					773.8585040196693
-				],
-				[
-					-443.86478759086134,
-					776.1824034311397
-				],
-				[
-					-446.1886870023318,
-					776.1824034311397
-				],
-				[
-					-446.1886870023318,
-					778.5063028426105
-				],
-				[
-					-450.8364858252726,
-					778.5063028426105
-				],
-				[
-					-453.160385236743,
-					780.830202254081
-				],
-				[
-					-455.48428464821376,
-					780.830202254081
-				],
-				[
-					-457.8081840596842,
-					783.1541016655514
-				],
-				[
-					-460.1320834711546,
-					785.4780010770218
-				],
-				[
-					-462.455982882625,
-					787.8019004884922
-				],
-				[
-					-464.77988229409544,
-					787.8019004884922
-				],
-				[
-					-469.42768111703657,
-					790.1257998999629
-				],
-				[
-					-471.751580528507,
-					792.4496993114334
-				],
-				[
-					-474.0754799399774,
-					794.7735987229038
-				],
-				[
-					-476.39937935144786,
-					794.7735987229038
-				],
-				[
-					-481.047178174389,
-					797.0974981343742
-				],
-				[
-					-483.37107758585944,
-					797.0974981343742
-				],
-				[
-					-485.69497699732983,
-					799.4213975458446
-				],
-				[
-					-488.0188764088002,
-					799.4213975458446
-				],
-				[
-					-492.6666752317414,
-					799.4213975458446
-				],
-				[
-					-494.99057464321186,
-					801.7452969573153
-				],
-				[
-					-497.31447405468225,
-					801.7452969573153
-				],
-				[
-					-499.63837346615264,
-					804.0691963687858
-				],
-				[
-					-504.2861722890938,
-					804.0691963687858
-				],
-				[
-					-508.93397111203467,
-					806.3930957802562
-				],
-				[
-					-511.25787052350506,
-					806.3930957802562
-				],
-				[
-					-515.9056693464462,
-					808.7169951917266
-				],
-				[
-					-518.2295687579167,
-					808.7169951917266
-				],
-				[
-					-525.2012669923279,
-					808.7169951917266
-				],
-				[
-					-527.5251664037986,
-					808.7169951917266
-				],
-				[
-					-534.4968646382099,
-					808.7169951917266
-				],
-				[
-					-539.1446634611507,
-					811.040894603197
-				],
-				[
-					-541.4685628726214,
-					811.040894603197
-				],
-				[
-					-546.1163616955623,
-					811.040894603197
-				],
-				[
-					-548.4402611070327,
-					811.040894603197
-				],
-				[
-					-553.0880599299738,
-					813.3647940146674
-				],
-				[
-					-555.4119593414443,
-					813.3647940146674
-				],
-				[
-					-557.7358587529147,
-					813.3647940146674
-				],
-				[
-					-560.0597581643851,
-					813.3647940146674
-				],
-				[
-					-562.3836575758555,
-					813.3647940146674
-				],
-				[
-					-564.7075569873263,
-					813.3647940146674
-				],
-				[
-					-567.0314563987968,
-					815.6886934261381
-				],
-				[
-					-569.3553558102672,
-					815.6886934261381
-				],
-				[
-					-571.6792552217375,
-					815.6886934261381
-				],
-				[
-					-574.0031546332079,
-					815.6886934261381
-				],
-				[
-					-576.3270540446787,
-					815.6886934261381
-				],
-				[
-					-578.6509534561491,
-					818.0125928376086
-				],
-				[
-					-580.9748528676196,
-					818.0125928376086
-				],
-				[
-					-583.29875227909,
-					818.0125928376086
-				],
-				[
-					-585.6226516905604,
-					818.0125928376086
-				],
-				[
-					-587.9465511020308,
-					818.0125928376086
-				],
-				[
-					-590.2704505135015,
-					820.336492249079
-				],
-				[
-					-592.594349924972,
-					820.336492249079
-				],
-				[
-					-594.9182493364424,
-					820.336492249079
-				],
-				[
-					-597.2421487479128,
-					820.336492249079
-				],
-				[
-					-599.5660481593832,
-					820.336492249079
-				],
-				[
-					-599.5660481593832,
-					822.6603916605494
-				],
-				[
-					-601.8899475708539,
-					822.6603916605494
-				],
-				[
-					-599.5660481593832,
-					822.6603916605494
-				],
-				[
-					-597.2421487479128,
-					822.6603916605494
-				],
-				[
-					-594.9182493364424,
-					824.9842910720198
-				],
-				[
-					-590.2704505135015,
-					824.9842910720198
-				],
-				[
-					-587.9465511020308,
-					824.9842910720198
-				],
-				[
-					-585.6226516905604,
-					827.3081904834905
-				],
-				[
-					-580.9748528676196,
-					827.3081904834905
-				],
-				[
-					-578.6509534561491,
-					829.632089894961
-				],
-				[
-					-574.0031546332079,
-					829.632089894961
-				],
-				[
-					-571.6792552217375,
-					829.632089894961
-				],
-				[
-					-569.3553558102672,
-					831.9559893064314
-				],
-				[
-					-567.0314563987968,
-					831.9559893064314
-				],
-				[
-					-564.7075569873263,
-					831.9559893064314
-				],
-				[
-					-562.3836575758555,
-					834.2798887179018
-				],
-				[
-					-560.0597581643851,
-					834.2798887179018
-				],
-				[
-					-557.7358587529147,
-					834.2798887179018
-				],
-				[
-					-553.0880599299738,
-					836.6037881293722
-				],
-				[
-					-550.7641605185031,
-					838.927687540843
-				],
-				[
-					-548.4402611070327,
-					838.927687540843
-				],
-				[
-					-548.4402611070327,
-					841.2515869523135
-				],
-				[
-					-543.7924622840919,
-					843.5754863637839
-				],
-				[
-					-541.4685628726214,
-					843.5754863637839
-				],
-				[
-					-536.8207640496803,
-					845.8993857752542
-				],
-				[
-					-534.4968646382099,
-					848.2232851867246
-				],
-				[
-					-529.8490658152691,
-					850.547184598195
-				],
-				[
-					-527.5251664037986,
-					852.8710840096658
-				],
-				[
-					-525.2012669923279,
-					852.8710840096658
-				],
-				[
-					-522.8773675808575,
-					855.1949834211363
-				],
-				[
-					-520.5534681693871,
-					855.1949834211363
-				],
-				[
-					-515.9056693464462,
-					859.8427822440771
-				],
-				[
-					-515.9056693464462,
-					862.1666816555474
-				],
-				[
-					-511.25787052350506,
-					866.8144804784887
-				],
-				[
-					-508.93397111203467,
-					871.4622793014295
-				],
-				[
-					-506.6100717005642,
-					878.4339775358411
-				],
-				[
-					-506.6100717005642,
-					883.0817763587819
-				],
-				[
-					-504.2861722890938,
-					885.4056757702523
-				],
-				[
-					-504.2861722890938,
-					890.0534745931934
-				],
-				[
-					-504.2861722890938,
-					894.7012734161343
-				],
-				[
-					-501.9622728776231,
-					897.0251728276047
-				],
-				[
-					-501.9622728776231,
-					901.6729716505458
-				],
-				[
-					-501.9622728776231,
-					903.9968710620163
-				],
-				[
-					-501.9622728776231,
-					908.6446698849571
-				],
-				[
-					-501.9622728776231,
-					910.9685692964275
-				],
-				[
-					-501.9622728776231,
-					917.9402675308392
-				],
-				[
-					-501.9622728776231,
-					922.5880663537799
-				],
-				[
-					-501.9622728776231,
-					927.2358651767211
-				],
-				[
-					-501.9622728776231,
-					929.5597645881916
-				],
-				[
-					-501.9622728776231,
-					934.2075634111324
-				],
-				[
-					-501.9622728776231,
-					936.5314628226031
-				],
-				[
-					-501.9622728776231,
-					938.8553622340735
-				],
-				[
-					-499.63837346615264,
-					943.5031610570144
-				],
-				[
-					-499.63837346615264,
-					945.8270604684848
-				],
-				[
-					-499.63837346615264,
-					948.1509598799552
-				],
-				[
-					-499.63837346615264,
-					952.7987587028963
-				],
-				[
-					-497.31447405468225,
-					957.4465575258372
-				],
-				[
-					-497.31447405468225,
-					962.0943563487783
-				],
-				[
-					-497.31447405468225,
-					966.7421551717192
-				],
-				[
-					-497.31447405468225,
-					971.38995399466
-				],
-				[
-					-497.31447405468225,
-					976.0377528176011
-				],
-				[
-					-494.99057464321186,
-					983.0094510520124
-				],
-				[
-					-494.99057464321186,
-					989.9811492864239
-				],
-				[
-					-492.6666752317414,
-					996.9528475208352
-				],
-				[
-					-492.6666752317414,
-					1003.9245457552469
-				],
-				[
-					-490.3427758202707,
-					1013.2201434011288
-				],
-				[
-					-490.3427758202707,
-					1017.8679422240697
-				],
-				[
-					-488.0188764088002,
-					1027.1635398699516
-				],
-				[
-					-485.69497699732983,
-					1031.8113386928924
-				],
-				[
-					-485.69497699732983,
-					1038.783036927304
-				],
-				[
-					-485.69497699732983,
-					1043.4308357502448
-				],
-				[
-					-483.37107758585944,
-					1048.0786345731858
-				],
-				[
-					-483.37107758585944,
-					1055.0503328075972
-				],
-				[
-					-483.37107758585944,
-					1059.6981316305382
-				],
-				[
-					-481.047178174389,
-					1064.3459304534792
-				],
-				[
-					-481.047178174389,
-					1071.3176286878906
-				],
-				[
-					-481.047178174389,
-					1075.9654275108317
-				],
-				[
-					-481.047178174389,
-					1080.6132263337724
-				],
-				[
-					-478.7232787629186,
-					1087.584924568184
-				],
-				[
-					-478.7232787629186,
-					1092.2327233911249
-				],
-				[
-					-478.7232787629186,
-					1099.2044216255365
-				],
-				[
-					-478.7232787629186,
-					1103.8522204484773
-				],
-				[
-					-478.7232787629186,
-					1110.8239186828887
-				],
-				[
-					-476.39937935144786,
-					1120.1195163287705
-				],
-				[
-					-476.39937935144786,
-					1129.4151139746525
-				],
-				[
-					-476.39937935144786,
-					1136.3868122090641
-				],
-				[
-					-476.39937935144786,
-					1138.7107116205345
-				],
-				[
-					-474.0754799399774,
-					1150.330208677887
-				],
-				[
-					-474.0754799399774,
-					1152.6541080893574
-				],
-				[
-					-474.0754799399774,
-					1175.8931022040622
-				],
-				[
-					-474.0754799399774,
-					1178.2170016155326
-				],
-				[
-					-471.751580528507,
-					1199.132096318767
-				],
-				[
-					-471.751580528507,
-					1201.4559957302374
-				],
-				[
-					-469.42768111703657,
-					1224.6949898449423
-				],
-				[
-					-464.77988229409544,
-					1243.2861851367059
-				],
-				[
-					-464.77988229409544,
-					1245.6100845481765
-				],
-				[
-					-462.455982882625,
-					1257.2295816055287
-				],
-				[
-					-457.8081840596842,
-					1282.7924751317044
-				],
-				[
-					-455.48428464821376,
-					1285.1163745431747
-				],
-				[
-					-455.48428464821376,
-					1292.088072777586
-				],
-				[
-					-453.160385236743,
-					1299.0597710119976
-				],
-				[
-					-453.160385236743,
-					1306.0314692464087
-				],
-				[
-					-453.160385236743,
-					1313.0031674808204
-				],
-				[
-					-453.160385236743,
-					1315.3270668922908
-				],
-				[
-					-450.8364858252726,
-					1324.6226645381728
-				],
-				[
-					-450.8364858252726,
-					1331.594362772584
-				],
-				[
-					-448.5125864138022,
-					1338.5660610069956
-				],
-				[
-					-448.5125864138022,
-					1340.889960418466
-				],
-				[
-					-446.1886870023318,
-					1345.5377592414072
-				],
-				[
-					-443.86478759086134,
-					1354.8333568872888
-				],
-				[
-					-441.54088817939095,
-					1361.8050551217004
-				],
-				[
-					-439.2169887679202,
-					1368.776753356112
-				],
-				[
-					-436.89308935644976,
-					1378.0723510019936
-				],
-				[
-					-434.56918994497937,
-					1385.0440492364053
-				],
-				[
-					-432.2452905335089,
-					1392.0157474708165
-				],
-				[
-					-429.92139112203853,
-					1398.987445705228
-				],
-				[
-					-425.27359229909734,
-					1403.6352445281689
-				],
-				[
-					-422.94969288762695,
-					1408.28304335111
-				],
-				[
-					-420.62579347615656,
-					1412.930842174051
-				],
-				[
-					-420.62579347615656,
-					1415.2547415855213
-				],
-				[
-					-415.9779946532154,
-					1419.9025404084625
-				],
-				[
-					-413.6540952417449,
-					1426.8742386428737
-				],
-				[
-					-409.00629641880414,
-					1431.522037465815
-				],
-				[
-					-404.35849759586296,
-					1438.4937357002261
-				],
-				[
-					-399.7106987729221,
-					1443.1415345231674
-				],
-				[
-					-399.7106987729221,
-					1445.4654339346378
-				],
-				[
-					-395.0628999499813,
-					1450.1132327575785
-				],
-				[
-					-390.41510112704015,
-					1454.7610315805198
-				],
-				[
-					-385.7673023040993,
-					1459.4088304034606
-				],
-				[
-					-381.11950348115846,
-					1464.0566292264014
-				],
-				[
-					-374.1478052467469,
-					1468.7044280493426
-				],
-				[
-					-369.50000642380604,
-					1471.028327460813
-				],
-				[
-					-364.8522076008649,
-					1475.6761262837538
-				],
-				[
-					-360.2044087779241,
-					1480.323925106695
-				],
-				[
-					-350.90881113204205,
-					1484.9717239296358
-				],
-				[
-					-350.90881113204205,
-					1487.2956233411062
-				],
-				[
-					-327.66981701733727,
-					1498.9151203984586
-				],
-				[
-					-304.4308229026324,
-					1510.534617455811
-				],
-				[
-					-281.1918287879276,
-					1519.830215101693
-				],
-				[
-					-278.8679293764572,
-					1519.830215101693
-				],
-				[
-					-253.30503585028194,
-					1526.8019133361042
-				],
-				[
-					-241.68553879292955,
-					1529.125812747575
-				],
-				[
-					-239.36163938145913,
-					1529.125812747575
-				],
-				[
-					-230.06604173557713,
-					1533.7736115705159
-				],
-				[
-					-220.77044408969547,
-					1536.0975109819863
-				],
-				[
-					-218.4465446782247,
-					1536.0975109819863
-				],
-				[
-					-209.15094703234305,
-					1538.4214103934567
-				],
-				[
-					-204.5031482094019,
-					1538.4214103934567
-				],
-				[
-					-204.5031482094019,
-					1540.7453098049275
-				],
-				[
-					-199.85534938646106,
-					1540.7453098049275
-				],
-				[
-					-195.2075505635199,
-					1540.7453098049275
-				],
-				[
-					-190.55975174057906,
-					1540.7453098049275
-				],
-				[
-					-188.23585232910867,
-					1540.7453098049275
-				],
-				[
-					-185.91195291763825,
-					1543.069209216398
-				],
-				[
-					-183.58805350616748,
-					1543.069209216398
-				],
-				[
-					-181.26415409469706,
-					1543.069209216398
-				],
-				[
-					-178.94025468322667,
-					1543.069209216398
-				],
-				[
-					-176.61635527175625,
-					1543.069209216398
-				],
-				[
-					-174.29245586028583,
-					1543.069209216398
-				],
-				[
-					-171.9685564488154,
-					1543.069209216398
-				],
-				[
-					-171.9685564488154,
-					1543.069209216398
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 308,
-			"versionNonce": 1429005077,
-			"isDeleted": true,
-			"id": "zJtGvcF_7R84GYrXrstB8",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2097.0194374328876,
-			"y": 1463.5449018189242,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 997.5224702628714,
-			"height": 2267.0965233247075,
-			"seed": 831881435,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1691802979497,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-4.1219936787721645,
-					0
-				],
-				[
-					-8.243987357544329,
-					-4.121993678772164
-				],
-				[
-					-12.365981036316494,
-					-8.243987357544327
-				],
-				[
-					-16.487974715088658,
-					-12.36598103631666
-				],
-				[
-					-24.73196207263366,
-					-12.36598103631666
-				],
-				[
-					-28.853955751405824,
-					-16.487974715088825
-				],
-				[
-					-32.97594943017799,
-					-20.60996839386099
-				],
-				[
-					-37.097943108950155,
-					-20.60996839386099
-				],
-				[
-					-41.21993678772232,
-					-20.60996839386099
-				],
-				[
-					-45.34193046649448,
-					-20.60996839386099
-				],
-				[
-					-53.58591782403881,
-					-24.731962072633152
-				],
-				[
-					-57.70791150281098,
-					-24.731962072633152
-				],
-				[
-					-65.9518988603553,
-					-28.853955751405316
-				],
-				[
-					-70.07389253912747,
-					-28.853955751405316
-				],
-				[
-					-78.3178798966718,
-					-28.853955751405316
-				],
-				[
-					-82.43987357544397,
-					-28.853955751405316
-				],
-				[
-					-90.6838609329883,
-					-28.853955751405316
-				],
-				[
-					-94.80585461176045,
-					-28.853955751405316
-				],
-				[
-					-103.0498419693048,
-					-32.97594943017765
-				],
-				[
-					-111.29382932684979,
-					-32.97594943017765
-				],
-				[
-					-119.53781668439412,
-					-32.97594943017765
-				],
-				[
-					-127.78180404193844,
-					-32.97594943017765
-				],
-				[
-					-136.02579139948278,
-					-32.97594943017765
-				],
-				[
-					-144.2697787570271,
-					-32.97594943017765
-				],
-				[
-					-148.39177243579928,
-					-32.97594943017765
-				],
-				[
-					-156.6357597933436,
-					-32.97594943017765
-				],
-				[
-					-164.87974715088794,
-					-32.97594943017765
-				],
-				[
-					-177.24572818720443,
-					-32.97594943017765
-				],
-				[
-					-185.48971554474875,
-					-28.853955751405316
-				],
-				[
-					-197.85569658106593,
-					-28.853955751405316
-				],
-				[
-					-210.22167761738243,
-					-24.731962072633152
-				],
-				[
-					-226.70965233247108,
-					-20.60996839386099
-				],
-				[
-					-239.07563336878758,
-					-20.60996839386099
-				],
-				[
-					-255.56360808387623,
-					-12.36598103631666
-				],
-				[
-					-272.0515827989649,
-					-8.243987357544327
-				],
-				[
-					-284.41756383528156,
-					-4.121993678772164
-				],
-				[
-					-300.9055385503705,
-					4.121993678772164
-				],
-				[
-					-313.271519586687,
-					8.243987357544327
-				],
-				[
-					-325.6375006230035,
-					16.487974715088825
-				],
-				[
-					-333.8814879805482,
-					16.487974715088825
-				],
-				[
-					-342.12547533809254,
-					20.60996839386099
-				],
-				[
-					-346.24746901686467,
-					24.731962072633152
-				],
-				[
-					-346.24746901686467,
-					28.853955751405316
-				],
-				[
-					-350.36946269563686,
-					28.853955751405316
-				],
-				[
-					-350.36946269563686,
-					32.97594943017748
-				],
-				[
-					-354.49145637440904,
-					32.97594943017748
-				],
-				[
-					-358.61345005318117,
-					37.09794310894981
-				],
-				[
-					-362.73544373195335,
-					45.34193046649414
-				],
-				[
-					-366.8574374107255,
-					49.463924145266304
-				],
-				[
-					-375.10142476826985,
-					57.70791150281063
-				],
-				[
-					-383.3454121258145,
-					70.07389253912729
-				],
-				[
-					-387.4674058045867,
-					78.31787989667161
-				],
-				[
-					-395.711393162131,
-					82.43987357544395
-				],
-				[
-					-399.8333868409032,
-					90.68386093298828
-				],
-				[
-					-408.0773741984475,
-					103.04984196930477
-				],
-				[
-					-412.19936787721963,
-					111.29382932684926
-				],
-				[
-					-412.19936787721963,
-					115.41582300562143
-				],
-				[
-					-416.3213615559918,
-					123.65981036316576
-				],
-				[
-					-420.443355234764,
-					131.90379772071026
-				],
-				[
-					-424.56534891353647,
-					140.14778507825457
-				],
-				[
-					-424.56534891353647,
-					144.26977875702676
-				],
-				[
-					-432.80933627108084,
-					152.51376611457124
-				],
-				[
-					-436.93132994985297,
-					160.75775347211558
-				],
-				[
-					-441.05332362862515,
-					169.0017408296599
-				],
-				[
-					-441.05332362862515,
-					173.12373450843222
-				],
-				[
-					-449.29731098616946,
-					181.36772186597656
-				],
-				[
-					-453.41930466494165,
-					189.61170922352088
-				],
-				[
-					-453.41930466494165,
-					193.73370290229323
-				],
-				[
-					-457.5412983437138,
-					201.97769025983754
-				],
-				[
-					-461.66329202248596,
-					214.34367129615404
-				],
-				[
-					-465.78528570125815,
-					230.83164601124304
-				],
-				[
-					-469.9072793800306,
-					243.19762704755954
-				],
-				[
-					-474.0292730588028,
-					255.563608083876
-				],
-				[
-					-478.151266737575,
-					267.92958912019253
-				],
-				[
-					-482.2732604163471,
-					276.17357647773684
-				],
-				[
-					-486.3952540951193,
-					288.5395575140537
-				],
-				[
-					-490.5172477738914,
-					300.9055385503702
-				],
-				[
-					-490.5172477738914,
-					309.14952590791484
-				],
-				[
-					-494.6392414526636,
-					321.51550694423133
-				],
-				[
-					-494.6392414526636,
-					325.63750062300346
-				],
-				[
-					-494.6392414526636,
-					333.88148798054783
-				],
-				[
-					-494.6392414526636,
-					342.12547533809214
-				],
-				[
-					-494.6392414526636,
-					346.2474690168643
-				],
-				[
-					-494.6392414526636,
-					354.49145637440864
-				],
-				[
-					-494.6392414526636,
-					362.73544373195296
-				],
-				[
-					-494.6392414526636,
-					370.97943108949727
-				],
-				[
-					-494.6392414526636,
-					379.2234184470419
-				],
-				[
-					-494.6392414526636,
-					383.3454121258141
-				],
-				[
-					-494.6392414526636,
-					391.5893994833584
-				],
-				[
-					-494.6392414526636,
-					399.8333868409031
-				],
-				[
-					-494.6392414526636,
-					412.1993678772196
-				],
-				[
-					-494.6392414526636,
-					420.44335523476394
-				],
-				[
-					-494.6392414526636,
-					428.68734259230826
-				],
-				[
-					-494.6392414526636,
-					436.93132994985257
-				],
-				[
-					-494.6392414526636,
-					449.29731098616907
-				],
-				[
-					-494.6392414526636,
-					457.5412983437134
-				],
-				[
-					-490.5172477738914,
-					469.9072793800302
-				],
-				[
-					-490.5172477738914,
-					478.15126673757453
-				],
-				[
-					-490.5172477738914,
-					490.51724777389137
-				],
-				[
-					-490.5172477738914,
-					502.88322881020787
-				],
-				[
-					-490.5172477738914,
-					515.2492098465243
-				],
-				[
-					-490.5172477738914,
-					523.4931972040687
-				],
-				[
-					-490.5172477738914,
-					535.8591782403852
-				],
-				[
-					-490.5172477738914,
-					548.2251592767017
-				],
-				[
-					-494.6392414526636,
-					560.5911403130185
-				],
-				[
-					-494.6392414526636,
-					572.957121349335
-				],
-				[
-					-498.7612351314358,
-					589.445096064424
-				],
-				[
-					-502.8832288102079,
-					601.8110771007405
-				],
-				[
-					-502.8832288102079,
-					614.177058137057
-				],
-				[
-					-507.0052224889801,
-					622.4210454946013
-				],
-				[
-					-511.12721616775264,
-					638.90902020969
-				],
-				[
-					-519.3712035252969,
-					655.3969949247793
-				],
-				[
-					-523.4931972040691,
-					671.8849696398679
-				],
-				[
-					-531.7371845616134,
-					684.2509506761844
-				],
-				[
-					-531.7371845616134,
-					688.3729443549566
-				],
-				[
-					-539.9811719191578,
-					704.8609190700453
-				],
-				[
-					-548.2251592767021,
-					721.3488937851339
-				],
-				[
-					-556.4691466342467,
-					733.7148748214504
-				],
-				[
-					-560.591140313019,
-					746.0808558577676
-				],
-				[
-					-568.8351276705632,
-					754.324843215312
-				],
-				[
-					-572.9571213493355,
-					758.4468368940841
-				],
-				[
-					-572.9571213493355,
-					762.5688305728562
-				],
-				[
-					-577.0791150281076,
-					766.6908242516283
-				],
-				[
-					-581.2011087068797,
-					770.8128179304006
-				],
-				[
-					-585.323102385652,
-					774.9348116091727
-				],
-				[
-					-589.4450960644241,
-					779.0568052879448
-				],
-				[
-					-597.6890834219685,
-					783.1787989667171
-				],
-				[
-					-605.9330707795131,
-					791.4227863242613
-				],
-				[
-					-614.1770581370574,
-					795.5447800030336
-				],
-				[
-					-622.4210454946017,
-					803.7887673605778
-				],
-				[
-					-630.665032852146,
-					812.0327547181222
-				],
-				[
-					-643.0310138884626,
-					816.1547483968943
-				],
-				[
-					-651.2750012460073,
-					824.3987357544387
-				],
-				[
-					-659.5189886035515,
-					828.5207294332108
-				],
-				[
-					-667.7629759610959,
-					836.7647167907559
-				],
-				[
-					-676.0069633186403,
-					840.886710469528
-				],
-				[
-					-680.1289569974124,
-					840.886710469528
-				],
-				[
-					-700.7389253912735,
-					853.2526915058445
-				],
-				[
-					-717.2269001063622,
-					865.618672542161
-				],
-				[
-					-729.5928811426787,
-					873.8626598997054
-				],
-				[
-					-733.7148748214508,
-					873.8626598997054
-				],
-				[
-					-741.9588621789956,
-					877.9846535784775
-				],
-				[
-					-754.3248432153121,
-					882.1066472572496
-				],
-				[
-					-766.6908242516286,
-					890.350634614794
-				],
-				[
-					-770.8128179304007,
-					890.350634614794
-				],
-				[
-					-787.3007926454897,
-					894.4726282935661
-				],
-				[
-					-787.3007926454897,
-					898.5946219723384
-				],
-				[
-					-803.7887673605783,
-					902.7166156511105
-				],
-				[
-					-807.9107610393505,
-					902.7166156511105
-				],
-				[
-					-820.276742075667,
-					906.8386093298826
-				],
-				[
-					-836.764716790756,
-					910.9606030086547
-				],
-				[
-					-853.2526915058446,
-					915.082596687427
-				],
-				[
-					-869.7406662209336,
-					919.2045903661991
-				],
-				[
-					-882.1066472572501,
-					923.3265840449719
-				],
-				[
-					-877.984653578478,
-					923.3265840449719
-				],
-				[
-					-869.7406662209336,
-					923.3265840449719
-				],
-				[
-					-865.6186725421611,
-					923.3265840449719
-				],
-				[
-					-865.6186725421611,
-					919.2045903661991
-				],
-				[
-					-861.496678863389,
-					919.2045903661991
-				],
-				[
-					-857.3746851846167,
-					919.2045903661991
-				],
-				[
-					-849.1306978270725,
-					915.082596687427
-				],
-				[
-					-845.0087041483004,
-					915.082596687427
-				],
-				[
-					-840.8867104695281,
-					915.082596687427
-				],
-				[
-					-836.764716790756,
-					915.082596687427
-				],
-				[
-					-832.6427231119839,
-					915.082596687427
-				],
-				[
-					-828.5207294332116,
-					915.082596687427
-				],
-				[
-					-824.3987357544395,
-					915.082596687427
-				],
-				[
-					-816.1547483968948,
-					915.082596687427
-				],
-				[
-					-812.0327547181226,
-					915.082596687427
-				],
-				[
-					-807.9107610393505,
-					915.082596687427
-				],
-				[
-					-799.6667736818061,
-					915.082596687427
-				],
-				[
-					-795.544780003034,
-					915.082596687427
-				],
-				[
-					-787.3007926454897,
-					919.2045903661991
-				],
-				[
-					-783.1787989667175,
-					923.3265840449719
-				],
-				[
-					-774.9348116091728,
-					927.4485777237442
-				],
-				[
-					-766.6908242516286,
-					935.6925650812884
-				],
-				[
-					-762.5688305728563,
-					939.8145587600607
-				],
-				[
-					-758.4468368940842,
-					943.9365524388328
-				],
-				[
-					-754.3248432153121,
-					948.0585461176049
-				],
-				[
-					-750.2028495365398,
-					952.1805397963772
-				],
-				[
-					-746.0808558577677,
-					956.3025334751493
-				],
-				[
-					-741.9588621789956,
-					960.4245271539214
-				],
-				[
-					-741.9588621789956,
-					968.6685145114658
-				],
-				[
-					-737.8368685002233,
-					972.7905081902379
-				],
-				[
-					-733.7148748214508,
-					976.91250186901
-				],
-				[
-					-733.7148748214508,
-					981.0344955477823
-				],
-				[
-					-729.5928811426787,
-					985.1564892265544
-				],
-				[
-					-729.5928811426787,
-					993.4004765840988
-				],
-				[
-					-725.4708874639065,
-					1001.644463941643
-				],
-				[
-					-721.3488937851344,
-					1014.0104449779602
-				],
-				[
-					-721.3488937851344,
-					1022.2544323355046
-				],
-				[
-					-717.2269001063622,
-					1034.620413371821
-				],
-				[
-					-713.10490642759,
-					1046.9863944081376
-				],
-				[
-					-713.10490642759,
-					1051.1083880869098
-				],
-				[
-					-704.8609190700457,
-					1067.5963628019983
-				],
-				[
-					-704.8609190700457,
-					1079.9623438383148
-				],
-				[
-					-700.7389253912735,
-					1079.9623438383148
-				],
-				[
-					-696.6169317125014,
-					1096.4503185534036
-				],
-				[
-					-692.4949380337292,
-					1112.9382932684928
-				],
-				[
-					-692.4949380337292,
-					1117.060286947265
-				],
-				[
-					-688.3729443549566,
-					1133.5482616623538
-				],
-				[
-					-684.2509506761845,
-					1145.9142426986703
-				],
-				[
-					-680.1289569974124,
-					1158.2802237349867
-				],
-				[
-					-680.1289569974124,
-					1170.6462047713032
-				],
-				[
-					-680.1289569974124,
-					1178.8901921288475
-				],
-				[
-					-676.0069633186403,
-					1187.1341794863918
-				],
-				[
-					-676.0069633186403,
-					1195.3781668439367
-				],
-				[
-					-676.0069633186403,
-					1207.7441478802532
-				],
-				[
-					-671.884969639868,
-					1220.1101289165697
-				],
-				[
-					-671.884969639868,
-					1232.4761099528862
-				],
-				[
-					-667.7629759610959,
-					1244.8420909892027
-				],
-				[
-					-667.7629759610959,
-					1257.2080720255192
-				],
-				[
-					-667.7629759610959,
-					1273.696046740608
-				],
-				[
-					-667.7629759610959,
-					1281.9400340981529
-				],
-				[
-					-663.6409822823238,
-					1294.3060151344694
-				],
-				[
-					-663.6409822823238,
-					1310.793989849558
-				],
-				[
-					-659.5189886035515,
-					1323.1599708858746
-				],
-				[
-					-659.5189886035515,
-					1339.647945600963
-				],
-				[
-					-655.3969949247794,
-					1356.1359203160519
-				],
-				[
-					-655.3969949247794,
-					1368.501901352369
-				],
-				[
-					-655.3969949247794,
-					1384.9898760674578
-				],
-				[
-					-651.2750012460073,
-					1401.4778507825463
-				],
-				[
-					-647.153007567235,
-					1417.965825497635
-				],
-				[
-					-647.153007567235,
-					1434.4538002127238
-				],
-				[
-					-647.153007567235,
-					1450.9417749278123
-				],
-				[
-					-643.0310138884626,
-					1471.5517433216737
-				],
-				[
-					-643.0310138884626,
-					1483.9177243579902
-				],
-				[
-					-643.0310138884626,
-					1488.0397180367625
-				],
-				[
-					-643.0310138884626,
-					1508.6496864306232
-				],
-				[
-					-638.9090202096904,
-					1529.2596548244842
-				],
-				[
-					-638.9090202096904,
-					1549.8696232183459
-				],
-				[
-					-638.9090202096904,
-					1553.9916168971179
-				],
-				[
-					-638.9090202096904,
-					1570.4795916122066
-				],
-				[
-					-638.9090202096904,
-					1595.2115536848396
-				],
-				[
-					-634.7870265309182,
-					1615.8215220787004
-				],
-				[
-					-634.7870265309182,
-					1640.553484151334
-				],
-				[
-					-630.665032852146,
-					1665.285446223967
-				],
-				[
-					-626.5430391733739,
-					1685.8954146178278
-				],
-				[
-					-626.5430391733739,
-					1690.0174082966
-				],
-				[
-					-622.4210454946017,
-					1710.6273766904608
-				],
-				[
-					-622.4210454946017,
-					1731.2373450843222
-				],
-				[
-					-618.2990518158296,
-					1751.8473134781832
-				],
-				[
-					-618.2990518158296,
-					1755.9693071569552
-				],
-				[
-					-614.1770581370574,
-					1772.457281872044
-				],
-				[
-					-610.0550644582852,
-					1797.189243944677
-				],
-				[
-					-605.9330707795131,
-					1821.9212060173106
-				],
-				[
-					-601.8110771007409,
-					1846.6531680899436
-				],
-				[
-					-593.5670897431962,
-					1871.3851301625766
-				],
-				[
-					-589.4450960644241,
-					1891.9950985564374
-				],
-				[
-					-589.4450960644241,
-					1896.1170922352096
-				],
-				[
-					-577.0791150281076,
-					1933.2150353441598
-				],
-				[
-					-552.3471529554743,
-					1978.5569658106535
-				],
-				[
-					-552.3471529554743,
-					1982.6789594894258
-				],
-				[
-					-552.3471529554743,
-					1986.8009531681978
-				],
-				[
-					-519.3712035252969,
-					2019.7769025983757
-				],
-				[
-					-515.2492098465248,
-					2023.898896277148
-				],
-				[
-					-511.12721616775264,
-					2032.1428836346922
-				],
-				[
-					-474.0292730588028,
-					2060.9968393860972
-				],
-				[
-					-474.0292730588028,
-					2065.1188330648697
-				],
-				[
-					-432.80933627108084,
-					2093.9727888162756
-				],
-				[
-					-428.68734259230865,
-					2098.0947824950476
-				],
-				[
-					-383.3454121258145,
-					2118.7047508889086
-				],
-				[
-					-379.2234184470423,
-					2122.8267445676806
-				],
-				[
-					-375.10142476826985,
-					2122.8267445676806
-				],
-				[
-					-329.7594943017757,
-					2143.4367129615416
-				],
-				[
-					-321.51550694423133,
-					2147.5587066403136
-				],
-				[
-					-263.8075954414206,
-					2168.1686750341746
-				],
-				[
-					-255.56360808387623,
-					2168.1686750341746
-				],
-				[
-					-247.3196207263319,
-					2172.2906687129466
-				],
-				[
-					-193.7337029022931,
-					2184.656649749263
-				],
-				[
-					-189.6117092235209,
-					2188.778643428035
-				],
-				[
-					-136.02579139948278,
-					2201.1446244643525
-				],
-				[
-					-131.9037977207106,
-					2205.2666181431246
-				],
-				[
-					-70.07389253912747,
-					2221.754592858213
-				],
-				[
-					-65.9518988603553,
-					2221.754592858213
-				],
-				[
-					-16.487974715088658,
-					2229.9985802157576
-				],
-				[
-					12.365981036316494,
-					2234.1205738945296
-				],
-				[
-					16.487974715088658,
-					2234.1205738945296
-				],
-				[
-					53.58591782403814,
-					2234.1205738945296
-				],
-				[
-					74.19588621789964,
-					2234.1205738945296
-				],
-				[
-					90.6838609329883,
-					2234.1205738945296
-				],
-				[
-					94.80585461176045,
-					2234.1205738945296
-				],
-				[
-					98.92784829053262,
-					2229.9985802157576
-				],
-				[
-					103.0498419693048,
-					2225.8765865369855
-				],
-				[
-					107.17183564807695,
-					2221.754592858213
-				],
-				[
-					111.29382932684912,
-					2217.632599179441
-				],
-				[
-					115.41582300562128,
-					2213.510605500669
-				],
-				[
-					115.41582300562128,
-					2213.510605500669
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
+			]
 		}
 	],
 	"appState": {
@@ -196741,13 +193694,17 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1101.8808498790581,
-		"scrollY": 820.2846193069697,
+		"scrollX": 4364.037361539676,
+		"scrollY": 941.5317859523484,
 		"zoom": {
-			"value": 0.3
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
 		"currentStrokeOptions": null,
 		"previousGridSize": null,
 		"frameRendering": {
