@@ -1,7 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Obsidianite",
+  "cssTheme": "Things",
   "theme": "obsidian",
   "baseFontSize": 17,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "academic-pdf-export"
+  ]
 }
