@@ -57,12 +57,14 @@ O marketing de associação envolve a aliança com outras marcas ou eventos que 
 
 O marketing motivacional inspira e motiva os consumidores, conectando-se emocionalmente com eles. Essa estratégia é eficaz para construir uma imagem de marca positiva e duradoura.
 
-> [!example] Campanhas que promovem mensagens de superação, sustentabilidade ou responsabilidade social.
+> [!example]  Exemplo
+> Campanhas que promovem mensagens de superação, sustentabilidade ou responsabilidade social.
 > 
 > **Fatores a considerar**: A mensagem deve ser autêntica e ressoar com os valores dos consumidores. É importante que a empresa pratique o que prega para evitar críticas.
 > 
 > **Pontos a otimizar**: Incorporar histórias reais de clientes ou funcionários pode aumentar a credibilidade. Utilizar múltiplos canais de comunicação para reforçar a mensagem.
 
+---
 ## Conclusão
 
 Utilizar essas estratégias de marketing pode garantir uma vantagem competitiva ao consolidar a presença da empresa no mercado. Considerar fatores como público-alvo, contexto cultural e autenticidade é crucial. Otimizar pontos como integração com mídias sociais, storytelling, parcerias estratégicas e envolvimento da comunidade pode amplificar o impacto dessas estratégias.
