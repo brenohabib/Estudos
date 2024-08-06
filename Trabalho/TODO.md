@@ -23,8 +23,8 @@
 - [x] Configurar roteadores da Granja 2
 - [x] Configurar rádio da Granja 1
 - [x] Configurar roteador do caseiro da Granja 1
-- [ ] Configurar roteador do Sistema Fotovoltaico da Granja 1
-- [ ] Verificar sobre separar disjuntor câmera fundo da Granja 1
+- [x] Configurar roteador do Sistema Fotovoltaico da Granja 1
+- [x] Verificar sobre separar disjuntor câmera fundo da Granja 1
 
 ---
 
