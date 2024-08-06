@@ -14,10 +14,10 @@ public class Escola {
     }
 
     public Materia[] listar_materias() {
-
+        return null;
     }
 
     public Turma[] listar_turmas() {
-
+        return null;
     }
 }
