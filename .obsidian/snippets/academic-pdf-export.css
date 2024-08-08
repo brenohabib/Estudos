@@ -63,20 +63,6 @@ Auth: Nicklas Vraa
         font-weight: normal !important;
         margin-top: 6px !important;
     }
-    h2:before {
-        counter-increment: H2;
-        content: counter(H2) ". \0000a0";
-    }
-    h2 {counter-reset: H3;}
-    h3:before {
-        counter-increment: H3;
-        content: counter(H2) "." counter(H3) ". \0000a0";
-    }
-    h3 {counter-reset: H4;}
-    h4:before {
-        counter-increment: H4;
-        content: counter(H2) "." counter(H3) "." counter(H4) ". \0000a0";
-    }
 
     /* Credits. ---------------------------------------------------- */
 

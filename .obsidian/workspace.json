@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/At2.md",
+=======
+                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Empreendedorismo.md",
+>>>>>>> 40d1449a69ee844f013bd68655d9f6eaec6a478f
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/At2.md",
+=======
+                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Empreendedorismo.md",
+>>>>>>> 40d1449a69ee844f013bd68655d9f6eaec6a478f
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/At2.md",
+=======
+                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Empreendedorismo.md",
+>>>>>>> 40d1449a69ee844f013bd68655d9f6eaec6a478f
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/At2.md"
+=======
+                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Empreendedorismo.md"
+>>>>>>> 40d1449a69ee844f013bd68655d9f6eaec6a478f
               }
             }
           },
@@ -147,24 +163,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Trabalho/TODO.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/At2.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/At.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Relacionamentos.md",
+=======
+    "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Relacionamentos.md",
+    "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Empreendedorismo.md",
+>>>>>>> 40d1449a69ee844f013bd68655d9f6eaec6a478f
     "Faculdade Eng. Software/Matérias/4º Semestre/Orientação a Objeto/Atributos e Métodos de Automóvel.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Análise e Projeto Orientato a Objeto",
     "Faculdade Eng. Software/Matérias/4º Semestre/Sem título.md",
