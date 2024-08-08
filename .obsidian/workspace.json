@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/At2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/At2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/At2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/TODO.md"
+                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/At2.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Trabalho/TODO.md",
+    "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/At2.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/At.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Relacionamentos.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Orientação a Objeto/Atributos e Métodos de Automóvel.md",
@@ -175,7 +177,6 @@
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Equivalência.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Ementa.md",
-    "Trabalho/TODO.md",
     "Trabalho/Horário.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados",
     "Códigos/AtividadeJava/target/classes/xadras/Rook.class",
@@ -196,7 +197,6 @@
     "Trabalho/Diário/09-05-2024.md",
     "Trabalho/Diário/08-05-2024.md",
     "Trabalho/Diário/07-05-2024.md",
-    "Trabalho/Diário/06-05-2024.md",
     "Trabalho/Clientes/Sérgio Cunha - REDE.svg",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]

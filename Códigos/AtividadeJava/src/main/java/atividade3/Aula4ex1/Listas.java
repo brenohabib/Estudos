@@ -1,6 +1,7 @@
 package atividade3.Aula4ex1;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 import atividade3.Aula2ex2.Cachorro;
@@ -25,16 +26,9 @@ public class Listas {
                 new Peixe("Gill", 1.0F, "Peixe Cirurgião Moorish Idol")
         };
 
-        List<Cachorro> cachorrosList = new ArrayList<>();
-        List<Peixe> peixesList = new ArrayList<>();
+        List<Cachorro> cachorrosList = new ArrayList<>(Arrays.asList(cachorrosArray));
 
-        for (Cachorro cachorro : cachorrosArray) {
-            cachorrosList.add(cachorro);
-        }
-
-        for (Peixe peixe : peixesArray) {
-            peixesList.add(peixe);
-        }
+        List<Peixe> peixesList = new ArrayList<>(Arrays.asList(peixesArray));
 
         System.out.println("Cachorros:");
         for (Cachorro cachorro : cachorrosList) {
