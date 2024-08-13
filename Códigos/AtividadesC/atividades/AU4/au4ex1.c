@@ -6,8 +6,9 @@
 #define WIDTH 60
 #define HEIGHT 10
 
-#define SELECTED "\x1B[1;42m"
+#define SELECTED "\x1B[1;44m"
 #define RESET "\x1B[0;0;0m"
+#define LINEUP "\x1B[2A"
 
 void printline(const char ch, const int length) {
     for (int i = 0; i < length; i++) {
@@ -18,12 +19,12 @@ void printline(const char ch, const int length) {
 
 void printmainmenu(const int highlight, char* choices[], const int n_choices) {
     system("cls"); // Limpa a tela
-    // Imprime linha
-    printline('-', WIDTH);
+    printline('-', WIDTH); // Imprime linha
 
     // Imprime o menu
     for (int i = 0; i < n_choices; i++) {
         puts((i == highlight) ? SELECTED : RESET);
+        puts(LINEUP);
         putchar('|'); // Bordas laterais
         for (int j = 0; j < WIDTH - 2; j++) {
             if (i == highlight) {
@@ -43,6 +44,7 @@ void printmainmenu(const int highlight, char* choices[], const int n_choices) {
         putchar('|');
         putchar('\n');
     }
+    puts(LINEUP);
     puts(RESET);
     // Imprime linha
     printline('-', WIDTH);
