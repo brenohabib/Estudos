@@ -121,7 +121,7 @@
 - [ ] Realocar câmera sala Manipulação
 - [ ] Reinstalar câmera cozinha
 
-## CARA ALTO (BLUSA COR VINHO)
+## ALAOR
 
 - [ ] Arrumar câmeras; pararam de funcionar
 - obs: Câmeras ligadas, porém não conectadas
