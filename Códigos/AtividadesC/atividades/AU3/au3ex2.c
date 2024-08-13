@@ -23,14 +23,14 @@ int main() {
         getchar();
 
         for(int j = 0; j < sizeof(p[i].notas) / sizeof(p[i].notas[0]); ++j) {
-            printf("Digite a %d nota:n", j + 1);
+            printf("Digite a %d nota:", j + 1);
             scanf("%f", &p[i].notas[j]);
             getchar();
         }
     }
 
     for (int i = 0; i < sizeof(p) / sizeof(p[0]); ++i) {
-        float media = (p[i].notas[0] + p[i].notas[1] + p[i].notas[2]) / (sizeof(p[i].notas) / sizeof(p[i].notas[0]));
+        const float media = (p[i].notas[0] + p[i].notas[1] + p[i].notas[2]) / (sizeof(p[i].notas) / sizeof(p[i].notas[0]));
         printf("\nAluno %d:\n", i + 1);
         printf("Nome: %s\n", p[i].nome);
         printf("Idade: %d\n", p[i].idade);
