@@ -9,18 +9,17 @@
 #define SELECTED "\x1B[1;42m"
 #define RESET "\x1B[0;0;0m"
 
-void printLine(const char ch, const int length) {
+void printline(const char ch, const int length) {
     for (int i = 0; i < length; i++) {
         putchar(ch);
     }
     putchar('\n');
 }
 
-void printMenu(const int highlight, char* choices[], const int n_choices) {
+void printmainmenu(const int highlight, char* choices[], const int n_choices) {
     system("cls"); // Limpa a tela
-
     // Imprime linha
-    printLine('-', WIDTH);
+    printline('-', WIDTH);
 
     // Imprime o menu
     for (int i = 0; i < n_choices; i++) {
@@ -46,7 +45,7 @@ void printMenu(const int highlight, char* choices[], const int n_choices) {
     }
     puts(RESET);
     // Imprime linha
-    printLine('-', WIDTH);
+    printline('-', WIDTH);
 }
 
 int main() {
@@ -62,7 +61,7 @@ int main() {
     int choice = 0;
 
     while (1) {
-        printMenu(highlight, choices, n_choices);
+        printmainmenu(highlight, choices, n_choices);
 
         const int c = _getch(); // Espera por caracter
         switch (c) {
