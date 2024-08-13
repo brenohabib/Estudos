@@ -3,12 +3,34 @@
 #include <conio.h>
 #include <string.h>
 
+// Tamanho menu
 #define WIDTH 60
 #define HEIGHT 10
 
+// Cores
 #define SELECTED "\x1B[1;44m"
 #define RESET "\x1B[0;0;0m"
+
+// Cursor
 #define LINEUP "\x1B[2A"
+
+typedef struct{
+    int codigoproduto;
+    char descricao[200];
+    float valor;
+    int quantidade;
+}Produto;
+
+typedef struct{
+    int numeroitem;
+    int quantidade;
+    Produto* produto;
+    float valorunitario;
+    float valortotal;
+
+    int codigocarrinho = produto->codigoproduto;
+}Carrinho;
+
 
 void printline(const char ch, const int length) {
     for (int i = 0; i < length; i++) {
