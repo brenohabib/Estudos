@@ -28,7 +28,6 @@ typedef struct{
     float valorunitario;
     float valortotal;
 
-    int codigocarrinho = produto->codigoproduto;
 }Carrinho;
 
 
@@ -74,10 +73,8 @@ void printmainmenu(const int highlight, char* choices[], const int n_choices) {
 
 int main() {
     char* choices[] = {
-        "Adicionar produto",
-        "Adicionar ao carrinho",
-        "Exibir produto",
-        "Exibir carrinho",
+        "Cadastrar produto",
+        "Abrir venda",
         "Sair"
     };
     const int n_choices = sizeof(choices) / sizeof(char*);
