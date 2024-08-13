@@ -120,3 +120,8 @@
 - [x] Retirar fio de cerca elétrica
 - [ ] Realocar câmera sala Manipulação
 - [ ] Reinstalar câmera cozinha
+
+## CARA ALTO (BLUSA COR VINHO)
+
+- [ ] Arrumar câmeras; pararam de funcionar
+- obs: Câmeras ligadas, porém não conectadas

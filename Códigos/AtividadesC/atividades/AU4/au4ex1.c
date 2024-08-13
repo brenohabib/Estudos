@@ -6,8 +6,8 @@
 #define WIDTH 60
 #define HEIGHT 10
 
-#define SELECTED "\033[1;42m"
-#define RESET "\033[0;0;0m"
+#define SELECTED "\x1B[1;42m"
+#define RESET "\x1B[0;0;0m"
 
 void printLine(const char ch, const int length) {
     for (int i = 0; i < length; i++) {
@@ -24,8 +24,8 @@ void printMenu(const int highlight, char* choices[], const int n_choices) {
 
     // Imprime o menu
     for (int i = 0; i < n_choices; i++) {
-        putchar('|'); // Bordas laterais
         puts((i == highlight) ? SELECTED : RESET);
+        putchar('|'); // Bordas laterais
         for (int j = 0; j < WIDTH - 2; j++) {
             if (i == highlight) {
                 if (j < strlen(choices[i])) {
@@ -42,10 +42,9 @@ void printMenu(const int highlight, char* choices[], const int n_choices) {
             }
         }
         putchar('|');
-        putchar(' ');
         putchar('\n');
     }
-
+    puts(RESET);
     // Imprime linha
     printLine('-', WIDTH);
 }
