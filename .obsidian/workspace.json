@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Trabalho/Horário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/TODO.md"
+                "file": "Trabalho/Horário.md"
               }
             }
           }
@@ -158,8 +158,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b8092df97d5ff28b",
+  "active": "e87a8e305929b299",
   "lastOpenFiles": [
+    "Trabalho/TODO.md",
     "Códigos/AtividadesC/atividades/AU4/au4ex1.c~",
     "Trabalho/Impressão.md",
     "Trabalho/Horário.md"
