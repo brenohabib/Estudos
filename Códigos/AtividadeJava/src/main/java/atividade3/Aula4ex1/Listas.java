@@ -14,7 +14,7 @@ public class Listas {
                 new Cachorro("Mac", 4.7F, "Vira Lata"),
                 new Cachorro("Donald", 3.5F, "Puddle"),
                 new Cachorro("Lobinho", 20.5F, "Lobo"),
-                new Cachorro("Londer", 7.5F, "Rotweiler"),
+                new Cachorro("Londres", 7.5F, "Rottweiler"),
                 new Cachorro("Manjubinha", 8.6F, "Vira Lata")
         };
 
@@ -31,12 +31,12 @@ public class Listas {
 
         System.out.println("Cachorros:");
         for (Cachorro cachorro : cachorrosList) {
-            System.out.println(cachorro.getNome() + " - " + cachorro.getRaca());
+            System.out.println(cachorro.getNome() + " - " + cachorro.getRaca() + " - " + cachorro.getPeso());
         }
 
         System.out.println("\nPeixes:");
         for (Peixe peixe : peixesList) {
-            System.out.println(peixe.getNome() + " - " + peixe.getTipoHabitat());
+            System.out.println(peixe.getNome() + " - " + peixe.getTipoHabitat() + " - " + peixe.getPeso());
         }
     }
 }
