@@ -74,7 +74,7 @@ void printmenu(const int highlight, char* choices[], const int n_choices) {
 }
 
 // Função para inserir produto
-void inserir_produto() {
+void inprod() {
     if (total_produtos >= MAX_PRODUTOS) {
         printf("Limite de produtos atingido!\n");
         return;
@@ -97,7 +97,7 @@ void inserir_produto() {
 }
 
 // Função para procurar produto
-void procurar_produto() {
+void searchprod() {
     int codigo;
     printf("Digite o codigo do produto: ");
     scanf("%d", &codigo);
@@ -116,7 +116,7 @@ void procurar_produto() {
 }
 
 // Função para alterar produto
-void alterar_produto() {
+void changeprod() {
     int codigo;
     printf("Digite o codigo do produto: ");
     scanf("%d", &codigo);
@@ -138,7 +138,7 @@ void alterar_produto() {
 }
 
 // Função para listar produtos
-void listar_produtos() {
+void listprod() {
     printf("Lista de produtos:\n");
     for (int i = 0; i < total_produtos; i++) {
         printf("Codigo: %d, Descricao: %s, Valor: %.2f, Estoque: %d, Status: %s\n",
@@ -149,7 +149,7 @@ void listar_produtos() {
 }
 
 // Função para incluir item no carrinho
-void incluir_item() {
+void putprod() {
     if (total_itens_carrinho >= MAX_CARRINHO) {
         printf("Limite de itens no carrinho atingido!\n");
         return;
@@ -184,7 +184,7 @@ void incluir_item() {
 }
 
 // Função para fechar venda
-void fechar_venda() {
+void endcashier() {
     float total = 0.0;
     printf("Itens no carrinho:\n");
     for (int i = 0; i < total_itens_carrinho; i++) {
@@ -248,13 +248,13 @@ void main() {
                     }
                 } else if (current_choices == regchoices) {
                     if (highlight == 0) {
-                        inserir_produto();
+                        inprod();
                     } else if (highlight == 1) {
-                        procurar_produto();
+                        searchprod();
                     } else if (highlight == 2) {
-                        alterar_produto();
+                        changeprod();
                     } else if (highlight == 3) {
-                        listar_produtos();
+                        listprod();
                     } else if (highlight == 4) { // Sair do submenu Cadastro
                         current_choices = main_choices;
                         n_choices = sizeof(main_choices) / sizeof(char*);
@@ -262,9 +262,9 @@ void main() {
                     }
                 } else if (current_choices == salechoices) {
                     if (highlight == 0) {
-                        incluir_item();
+                        putprod();
                     } else if (highlight == 1) {
-                        fechar_venda();
+                        endcashier();
                     } else if (highlight == 2) { // Sair do submenu Venda
                         current_choices = main_choices;
                         n_choices = sizeof(main_choices) / sizeof(char*);
