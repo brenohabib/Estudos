@@ -5,9 +5,8 @@ public class Wolfy {
     public static void main(String[] args) {
         Menu menu = new Menu("Conversores", 80, 8);
         menu.start();
-        menu.text("Converter 30Cº em Fº: ", 2, Menu.Alignment.LEFT);
         double valor = convertToF(30.0);
-        menu.text(String.valueOf(valor), 3, Menu.Alignment.LEFT);
+        menu.text("Converter 30Cº em Fº: " + String.valueOf(valor) + "Fº", 2, Menu.Alignment.LEFT);
         menu.printMenu();
     }
     public static double convertToC(double F) {
