@@ -7,7 +7,7 @@ public class Wolfy {
         menu.start();
         menu.text("Converter 30Cº em Fº: ", 2);
         menu.text(String.valueOf(convertToF(30.0)), 3);
-
+        menu.printMenu();
     }
     public static double convertToC(double F) {
         return (F - 32) * ( 5.0 / 9.0);
