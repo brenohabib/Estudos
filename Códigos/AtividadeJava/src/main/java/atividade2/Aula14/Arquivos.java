@@ -15,13 +15,13 @@ public class Arquivos {
         
         while (running) {
             fileMenu.start();
-            fileMenu.text("Escolha uma opção:", 1);
-            fileMenu.text("1. Criar arquivo", 2, Menu.Alignment.LEFT);
-            fileMenu.text("2. Verificar se arquivo existe", 3, Menu.Alignment.LEFT);
-            fileMenu.text("3. Remover arquivo", 4, Menu.Alignment.LEFT);
-            fileMenu.text("4. Ler conteúdo de arquivo", 5, Menu.Alignment.LEFT);
-            fileMenu.text("5. Alterar arquivo", 6, Menu.Alignment.LEFT);
-            fileMenu.text("6. Sair", 7, Menu.Alignment.LEFT);
+            fileMenu.text("Escolha uma opção:", 1).left();
+            fileMenu.text("1. Criar arquivo", 2).left();
+            fileMenu.text("2. Verificar se arquivo existe", 3).left();
+            fileMenu.text("3. Remover arquivo", 4).left();
+            fileMenu.text("4. Ler conteúdo de arquivo", 5).left();
+            fileMenu.text("5. Alterar arquivo", 6).left();
+            fileMenu.text("6. Sair", 7).left();
 
             String opcao = fileMenu.input();
 
@@ -119,8 +119,8 @@ public class Arquivos {
                 while (leitor.hasNextLine() && lines <= 5) {
                     fileMenu.text(leitor.nextLine(), lines++);
                 }
-                fileMenu.text("next - 1", 10, Menu.Alignment.RIGHT);
-                fileMenu.text("stop - 2", 11, Menu.Alignment.RIGHT);
+                fileMenu.text("next - 1", 10).right();
+                fileMenu.text("stop - 2", 11).right();
                 options = fileMenu.input();
                 lines = 2;
                 if (!leitor.hasNextLine() || options.equals("2")) {

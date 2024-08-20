@@ -21,7 +21,7 @@ public class ConverterHtmlEmTxt {
             String linha;
             int i = 1;
             while ((linha = leitorTexto.readLine()) != null) {
-                mainMenu.text(linha, i++, Menu.Alignment.LEFT);
+                mainMenu.text(linha, i++).left();
             }
 
             leitorTexto.close();

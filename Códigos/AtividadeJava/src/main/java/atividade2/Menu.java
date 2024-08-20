@@ -24,7 +24,6 @@ public class Menu {
         }
         buildLine();
     }
-
     public void printMenu() {
         render();
     }
@@ -47,12 +46,8 @@ public class Menu {
         buildAlignedText(text);
     }
 
-    public void text(String text, int line) {
-        updateLine(line + 2, text, Alignment.CENTER);
-    }
-
-    public void text(String text, int line, Alignment position) {
-        updateLine(line + 2, text, position);
+    public TextAlignmentBuilder text(String text, int line) {
+        return new TextAlignmentBuilder(text, line + 2);
     }
 
     private void updateLine(int line, String text, Alignment position) {
@@ -105,5 +100,28 @@ public class Menu {
 
     public enum Alignment {
         LEFT, RIGHT, CENTER
+    }
+
+    // Classe interna para construir o alinhamento de texto
+    public class TextAlignmentBuilder {
+        private final String text;
+        private final int line;
+
+        public TextAlignmentBuilder(String text, int line) {
+            this.text = text;
+            this.line = line;
+        }
+
+        public void left() {
+            updateLine(line, text, Alignment.LEFT);
+        }
+
+        public void center() {
+            updateLine(line, text, Alignment.CENTER);
+        }
+
+        public void right() {
+            updateLine(line, text, Alignment.RIGHT);
+        }
     }
 }

@@ -3,10 +3,11 @@ import atividade2.Menu;
 
 public class Wolfy {
     public static void main(String[] args) {
+        double valor = convertToF(30.0);
+
         Menu menu = new Menu("Conversores", 80, 8);
         menu.start();
-        double valor = convertToF(30.0);
-        menu.text("Converter 30Cº em Fº: " + String.valueOf(valor) + "Fº", 2, Menu.Alignment.LEFT);
+        menu.text("Converter 30Cº em Fº: " + String.valueOf(valor) + "Fº", 2).left();
         menu.printMenu();
     }
     public static double convertToC(double F) {
