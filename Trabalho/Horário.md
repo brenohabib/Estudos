@@ -149,5 +149,6 @@
 
 - Dia 16
 	- Manhã
-		- Esqueci bater ponto almoço: 12:40 (Projeto Fabiano Ferrari em Minas)
+		- Esqueci bater ponto almoço: 12:40 (Preparando Projeto Fabiano Ferrari em Minas) (OBS: acho que esqueci outro horário)
+		
 
