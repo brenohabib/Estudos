@@ -94,26 +94,26 @@ public class Menu {
     public String input(String label) {
         int padding = calculatePadding(label.length(), Alignment.LEFT);
         Scanner scanner = new Scanner(System.in);
-        System.out.print("|" + " ".repeat(padding) + label + "\x1B7");
+        System.out.print("|" + " ".repeat(padding) + label + "\u001b7");
         System.out.println(" ".repeat(Math.max(sizeX - label.length() - padding - 2, 0)) + "|");
         printLine();
-        System.out.print("\x1B8");
+        System.out.print("\u001b8");
         return scanner.nextLine();
     }
 
     private void clearScreen() {
-        System.out.print("\x1B[H\x1B[0J");
+        System.out.print("\u001b[H\u001b[0J");
     }
 
     private void setCursorToLine(int line) {
-        System.out.print("\x1B7\x1B[H");
+        System.out.print("\u001b7\u001b[H");
         for (int i = 0; i < line; i++) {
-            System.out.print("\x1B[1B");
+            System.out.print("\u001b[1B");
         }
     }
 
     private void resetCursor() {
-        System.out.print("\x1B8");
+        System.out.print("\u001b8");
     }
 
     public void setSize(int x, int y) {
