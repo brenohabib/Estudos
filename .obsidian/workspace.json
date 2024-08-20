@@ -23,11 +23,9 @@
             "id": "8902e09c0f2fac4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Trabalho/Horário.md",
-                "mode": "source",
-                "source": false
+                "file": "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Horário.md",
+                "file": "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Horário.md",
+                "file": "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/Horário.md"
+                "file": "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md"
               }
             }
           }
@@ -173,14 +171,22 @@
   },
   "active": "8902e09c0f2fac4d",
   "lastOpenFiles": [
+    "Códigos/AtividadeJava/target/classes/atividade/Clean4/At2/A.txt",
+    "Códigos/AtividadeJava/target/classes/atividade/Clean4/At2/B.txt",
+    "Códigos/AtividadeJava/target/classes/atividade/Clean4/At1/B.txt",
+    "Códigos/AtividadeJava/target/classes/atividade/Clean4/At1/A.txt",
+    "Códigos/AtividadeJava/target/classes/atividade/TheInfinite/MandelbrotSet.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At4.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At3.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At2.class",
+    "Códigos/AtividadeJava/target/classes/atividade/Prova1/P1At1.class",
+    "Códigos/AtividadeJava/target/classes/atividade/CountingSort/CountingSort.class",
+    "Códigos/AtividadeJava/target/classes/atividade/CountingSort/Counting.class",
+    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.png",
+    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
+    "Trabalho/Horário.md",
     "Trabalho/Impressão.md",
     "Trabalho/TODO.md",
-    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
-    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.png",
-    "Trabalho/Horário.md",
-    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.svg",
-    "Trabalho/Clientes",
-    "Trabalho/Clientes/Fabiano Ferrari",
-    "Códigos/AtividadesC/atividades/AU4/au4ex1.c~"
+    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.svg"
   ]
 }
