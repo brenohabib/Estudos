@@ -27,12 +27,12 @@ public class Main {
                 "Dar aula"
         );
         Aula aulaDoGustavo2 = new Aula(
-                "Gustavo",
-                40,
-                "Feminino",
-                "Pauzanes",
+                "William",
+                16,
+                "MACHO",
+                "UniRV",
                 1,
-                "Dar aula"
+                "Dar cambalhotas"
         );
         Pagamento pagamento = new Pagamento(
                 0,
