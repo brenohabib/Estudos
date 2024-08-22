@@ -8,8 +8,8 @@ public class Wolfy {
         Menu menu = new Menu("Conversores");
         menu.text("Converter 30Cº em Fº: " + String.valueOf(valor) + "Fº", 2).left();
         menu.printMenu();
-        menu.setSize(10, 10);
-        menu.printMenu();
+        menu.input("diga algo: ");
+
     }
     public static double convertToC(double F) {
         return (F - 32) * ( 5.0 / 9.0);

@@ -17,6 +17,7 @@ public class Menu {
     }
 
     public void applyChanges() {
+        cleanBuffer();
         buildTitle();
         for (int i = 0; i < sizeY; i++) {
             buildEmptyLine();
@@ -24,7 +25,7 @@ public class Menu {
         buildLine();
     }
     private void cleanBuffer() {
-        menuBuffer.clear();
+        this.menuBuffer.clear();
     }
 
     public void printMenu() {
@@ -69,7 +70,6 @@ public class Menu {
         return "|" + " ".repeat(padding) + text +
                 " ".repeat(Math.max(sizeX - text.length() - padding - 2, 0)) + "|";
     }
-
     private int calculatePadding(int textLength, Alignment position) {
         int padding = switch (position) {
             case LEFT -> 1;
@@ -94,12 +94,12 @@ public class Menu {
         for (String line : menuBuffer) {
             System.out.println(line);
         }
-        cleanBuffer();
     }
 
     public void setSize(int x, int y) {
         this.sizeX = x;
         this.sizeY = y;
+        applyChanges();
     }
 
     public enum Alignment {
