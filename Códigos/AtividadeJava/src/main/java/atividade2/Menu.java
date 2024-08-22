@@ -23,6 +23,10 @@ public class Menu {
         }
         buildLine();
     }
+    private void cleanBuffer() {
+        menuBuffer.clear();
+    }
+
     public void printMenu() {
         applyChanges();
         render();
@@ -91,6 +95,7 @@ public class Menu {
         for (String line : menuBuffer) {
             System.out.println(line);
         }
+        cleanBuffer();
     }
 
     public void setSize(int x, int y) {
