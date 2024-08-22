@@ -23,9 +23,11 @@
             "id": "8902e09c0f2fac4d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md"
+                "file": "Trabalho/TODO.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
+                "file": "Trabalho/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
+                "file": "Trabalho/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md"
+                "file": "Trabalho/TODO.md"
               }
             }
           }
@@ -171,6 +173,7 @@
   },
   "active": "8902e09c0f2fac4d",
   "lastOpenFiles": [
+    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula16/ConverterHtmlEmTxt.class",
     "Códigos/AtividadeJava/target/classes/Wolfy.class",
     "Códigos/AtividadeJava/target/classes/atividade2/Menu.class",
@@ -181,9 +184,7 @@
     "Códigos/AtividadeJava/src/main/java/atividade2/Menu.java~",
     "Códigos/AtividadeJava/src/main/java/Wolfy.java~",
     "Códigos/AtividadeJava/target/classes/atividade/Clean4/At2/A.txt",
-    "Códigos/AtividadeJava/target/classes/atividade/Clean4/At2/B.txt",
     "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.png",
-    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
     "Trabalho/Horário.md",
     "Trabalho/Impressão.md",
     "Trabalho/TODO.md",

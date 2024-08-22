@@ -73,6 +73,8 @@
 ## CLARINDO
 
 - [ ] Realocar rack do DVR e colocá-la embaixo (tirar da laje)
+- [ ] Arrumar câmeras queimadas (trocar)
+- [ ] Trocar rádios Intelbras por Ubiquiti
 
 ## SHIRLEY
 
@@ -125,3 +127,7 @@
 
 - [ ] Arrumar câmeras; pararam de funcionar
 - obs: Câmeras ligadas, porém não conectadas
+
+## PETERCARRARI
+
+- [ ]  Instalar 2 câmeras
