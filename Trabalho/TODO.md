@@ -133,3 +133,6 @@
 - [ ]  Instalar 2 câmeras dome
 - [ ] Mudar 1 câmera de lugar
 
+## PEDRO PAULO
+
+- [ ] Instalar 3 câmeras dome
