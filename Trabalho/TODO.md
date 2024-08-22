@@ -130,4 +130,6 @@
 
 ## PETERCARRARI
 
-- [ ]  Instalar 2 câmeras
+- [ ]  Instalar 2 câmeras dome
+- [ ] Mudar 1 câmera de lugar
+
