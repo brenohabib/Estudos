@@ -9,12 +9,12 @@ import java.util.concurrent.TimeUnit;
 import atividade2.Menu;
 
 public class Arquivos {
-    static Menu fileMenu = new Menu("Super arquivo 3000", 100, 10);
+    static Menu fileMenu = new Menu("Super arquivo 3000");
     public static void main(String[] args) {
         boolean running = true;
         
         while (running) {
-            fileMenu.start();
+            fileMenu.applyChanges();
             fileMenu.text("Escolha uma opção:", 1).left();
             fileMenu.text("1. Criar arquivo", 2).left();
             fileMenu.text("2. Verificar se arquivo existe", 3).left();
@@ -27,35 +27,35 @@ public class Arquivos {
 
             switch (opcao) {
                 case "1":
-                    fileMenu.start();
+                    fileMenu.applyChanges();
                     fileMenu.text("Insira o nome do arquivo", 3);
                     String nomeArquivo = fileMenu.input();
                     criarArquivo(nomeArquivo);
                     break;
                 case "2":
-                    fileMenu.start();
+                    fileMenu.applyChanges();
                     fileMenu.text("Insira o nome do arquivo a ser verificado: ", 3);
                     String nomeArquivoVerificar = fileMenu.input();
                     verificarArquivo(nomeArquivoVerificar);
                     break;
                 case "3":
-                    fileMenu.start();
+                    fileMenu.applyChanges();
                     fileMenu.text("Insira o nome do arquivo a ser removido: ", 3);
                     String nomeArquivoRemover = fileMenu.input();
                     removerArquivo(nomeArquivoRemover);
                     break;
                 case "4":
-                    fileMenu.start();
+                    fileMenu.applyChanges();
                     fileMenu.text("Insira o nome do arquivo a ser lido: ", 3);
                     String nomeArquivoLer = fileMenu.input();
                     lerConteudoArquivo(nomeArquivoLer);
                     break;
                 case "5":
-                    fileMenu.start();
+                    fileMenu.applyChanges();
                     fileMenu.text("Insira o nome do arquivo a ser alterado", 3);
                     String nomeArquivoAlterar = fileMenu.input();
 
-                    fileMenu.start();
+                    fileMenu.applyChanges();
                     fileMenu.text("Insira o conteudo do arquivo", 3);
                     String conteudoArquivoAlterar = fileMenu.input();
                     alterarConteudoArquivo(nomeArquivoAlterar, conteudoArquivoAlterar);
@@ -115,7 +115,7 @@ public class Arquivos {
             String options = "";
             int lines = 2;
             while (reading) {
-                fileMenu.start();
+                fileMenu.applyChanges();
                 while (leitor.hasNextLine() && lines <= 5) {
                     fileMenu.text(leitor.nextLine(), lines++);
                 }

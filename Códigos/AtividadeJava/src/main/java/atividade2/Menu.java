@@ -6,18 +6,17 @@ import java.util.Scanner;
 
 public class Menu {
     private final String title;
-    private int sizeX;
-    private int sizeY;
+    private int sizeX = 80;
+    private int sizeY = 8;
     private final List<String> menuBuffer;
 
-    public Menu(String title, int sizeX, int sizeY) {
+    public Menu(String title) {
         this.title = title;
-        this.sizeX = sizeX;
-        this.sizeY = sizeY;
         this.menuBuffer = new ArrayList<>();
+        this.applyChanges();
     }
 
-    public void start() {
+    public void applyChanges() {
         buildTitle();
         for (int i = 0; i < sizeY; i++) {
             buildEmptyLine();
@@ -25,6 +24,7 @@ public class Menu {
         buildLine();
     }
     public void printMenu() {
+        applyChanges();
         render();
     }
 
