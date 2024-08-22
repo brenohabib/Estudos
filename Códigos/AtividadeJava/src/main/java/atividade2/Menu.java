@@ -13,7 +13,7 @@ public class Menu {
     public Menu(String title) {
         this.title = title;
         this.menuBuffer = new ArrayList<>();
-        this.applyChanges();
+        applyChanges();
     }
 
     public void applyChanges() {
@@ -28,7 +28,6 @@ public class Menu {
     }
 
     public void printMenu() {
-        applyChanges();
         render();
     }
 
