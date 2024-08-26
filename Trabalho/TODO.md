@@ -74,7 +74,6 @@
 
 - [ ] Realocar rack do DVR e colocá-la embaixo (tirar da laje)
 - [ ] Arrumar câmeras queimadas (trocar)
-- [ ] Trocar rádios Intelbras por Ubiquiti
 
 ## SHIRLEY
 
@@ -125,7 +124,8 @@
 ## ALAOR
 
 - [ ] Arrumar câmeras; pararam de funcionar
-- obs: Câmeras ligadas, porém não conectadas
+- [ ] Nobreak com conector queimado
+- obs: Câmeras ligadas, porém não conectadas; Trouxemos o nobreak
 
 ## PETERCARRARI
 
