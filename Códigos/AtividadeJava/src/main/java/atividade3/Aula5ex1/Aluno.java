@@ -1,6 +1,7 @@
 package atividade3.Aula5ex1;
 
 import java.time.LocalDate;
+import java.util.ArrayList;
 
 public class Aluno extends Pessoa{
 
@@ -8,6 +9,7 @@ public class Aluno extends Pessoa{
     private String plano;
     private LocalDate data_inicio;
     private LocalDate data_fim;
+    private Aula[] idAulas;
     private int quantidadeAulas;
 
     public Aluno(String nome,
@@ -44,5 +46,11 @@ public class Aluno extends Pessoa{
     }
     public int getQuantidadeAulas() {
         return quantidadeAulas;
+    }
+    public int getIdAulas() {
+        return idAulas.length;
+    }
+    public void adicionaAula(Aula aula) {
+
     }
 }

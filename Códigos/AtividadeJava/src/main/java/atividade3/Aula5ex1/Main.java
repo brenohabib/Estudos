@@ -1,6 +1,7 @@
 package atividade3.Aula5ex1;
 
 import java.time.LocalDate;
+import atividade2.Menu;
 
 public class Main {
     public static void main(String[] args) {
@@ -26,7 +27,7 @@ public class Main {
                 0,
                 "Dar aula"
         );
-        Aula aulaDoGustavo2 = new Aula(
+        Aula aulaDoWilliam = new Aula(
                 "William",
                 16,
                 "MACHO",
@@ -42,9 +43,12 @@ public class Main {
                 "Vencido"
         );
         aulaDoGustavo.inscreverAluno(breno);
-        aulaDoGustavo2.inscreverAluno(breno);
-        System.out.printf("Quantidade aulas: %d\n", breno.getQuantidadeAulas());
-        System.out.printf("Status Pagamento: %s\n", pagamento.getStatus());
-        System.out.printf("ID professor: %d", aulaDoGustavo.getIdProfessor());
+        aulaDoWilliam.inscreverAluno(breno);
+
+        Menu mainMenu = new Menu("TREINOOOOOOOO");
+        mainMenu.text("Quantidade aulas: " + breno.getQuantidadeAulas(), 2).left();
+        mainMenu.text("Status Pagamento: " + pagamento.getStatus(), 3).left();
+        mainMenu.text("ID professor: " + aulaDoGustavo.getIdProfessor(), 4).left();
+        mainMenu.printMenu();
     }
 }

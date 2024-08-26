@@ -15,6 +15,7 @@ public class Aula extends Professor{
 
     public void inscreverAluno(Aluno aluno) {
         aluno.setQuantidadeAulas(aluno.getQuantidadeAulas() + 1);
+        aluno.
     }
     public void cancelarInscricao() {
 
