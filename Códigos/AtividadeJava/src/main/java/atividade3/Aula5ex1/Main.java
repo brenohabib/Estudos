@@ -24,7 +24,7 @@ public class Main {
                 40,
                 "Feminino",
                 "Pauzanes",
-                0,
+                1,
                 "Dar aula"
         );
         Aula aulaDoWilliam = new Aula(
@@ -32,7 +32,7 @@ public class Main {
                 16,
                 "MACHO",
                 "UniRV",
-                1,
+                0,
                 "Dar cambalhotas"
         );
         Pagamento pagamento = new Pagamento(
@@ -48,7 +48,7 @@ public class Main {
         Menu mainMenu = new Menu("TREINOOOOOOOO");
         mainMenu.text("Quantidade aulas: " + breno.getQuantidadeAulas(), 2).left();
         mainMenu.text("Status Pagamento: " + pagamento.getStatus(), 3).left();
-        mainMenu.text("ID professor: " + aulaDoGustavo.getIdProfessor(), 4).left();
+        mainMenu.text("ID professor: " + breno.getAulas(), 4).left();
         mainMenu.printMenu();
     }
 }

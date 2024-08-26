@@ -9,7 +9,7 @@ public class Aluno extends Pessoa{
     private String plano;
     private LocalDate data_inicio;
     private LocalDate data_fim;
-    private Aula[] idAulas;
+    private final ArrayList<Aula> aulas = new ArrayList<>();
     private int quantidadeAulas;
 
     public Aluno(String nome,
@@ -47,10 +47,10 @@ public class Aluno extends Pessoa{
     public int getQuantidadeAulas() {
         return quantidadeAulas;
     }
-    public int getIdAulas() {
-        return idAulas.length;
+    public void addAula(Aula aula) {
+        aulas.add(aula);
     }
-    public void adicionaAula(Aula aula) {
-
+    public String getAulas() {
+        return aulas.toString();
     }
 }
