@@ -35,9 +35,9 @@
             "id": "31916196a70b7b53",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.png"
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md"
               }
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.png",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.png",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.png"
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md"
               }
             }
           }
@@ -181,10 +181,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e87a8e305929b299",
+  "active": "31916196a70b7b53",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.png",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.svg",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
