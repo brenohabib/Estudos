@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "31916196a70b7b53",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/TODO.md"
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.png"
               }
             }
           }
@@ -171,8 +181,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8902e09c0f2fac4d",
+  "active": "e87a8e305929b299",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.png",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Trabalho/TODO.md",
     "Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/Main.java~",
     "Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/Aluno.java~",
     "Códigos/AtividadeJava/target/classes/atividade3/Aula5ex1/Main.class",
@@ -183,12 +199,10 @@
     "Códigos/AtividadeJava/target/classes/atividade2/Menu$Alignment.class",
     "Códigos/AtividadeJava/src/main/java/atividade2/Menu.java~",
     "Códigos/AtividadeJava/target/classes/atividade2/Aula17/Ordenar.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula17/Unificar.class",
     "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
     "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.png",
     "Trabalho/Horário.md",
     "Trabalho/Impressão.md",
-    "Trabalho/TODO.md",
     "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.svg"
   ]
 }
