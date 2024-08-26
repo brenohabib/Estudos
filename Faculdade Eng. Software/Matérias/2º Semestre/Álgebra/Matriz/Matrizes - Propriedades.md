@@ -79,8 +79,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 	"elements": [
 		{
 			"type": "text",
-			"version": 654,
-			"versionNonce": 1942762280,
+			"version": 655,
+			"versionNonce": 276433416,
 			"isDeleted": false,
 			"id": "UDaACf2K",
 			"fillStyle": "hachure",
@@ -100,7 +100,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177361,
+			"updated": 1724684482682,
 			"link": null,
 			"locked": false,
 			"fontSize": 52.029047495902375,
@@ -116,8 +116,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 414,
-			"versionNonce": 614593368,
+			"version": 415,
+			"versionNonce": 1401518712,
 			"isDeleted": false,
 			"id": "82hipC3f",
 			"fillStyle": "hachure",
@@ -137,7 +137,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177364,
+			"updated": 1724684482683,
 			"link": null,
 			"locked": false,
 			"fontSize": 53.26659635183477,
@@ -153,8 +153,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 857,
-			"versionNonce": 1697353256,
+			"version": 858,
+			"versionNonce": 532384008,
 			"isDeleted": false,
 			"id": "HEfEDIiG",
 			"fillStyle": "hachure",
@@ -174,7 +174,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177366,
+			"updated": 1724684482684,
 			"link": null,
 			"locked": false,
 			"fontSize": 56.99516684596374,
@@ -190,8 +190,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 524,
-			"versionNonce": 2142881880,
+			"version": 525,
+			"versionNonce": 1919118200,
 			"isDeleted": false,
 			"id": "adlUJSzE",
 			"fillStyle": "hachure",
@@ -211,7 +211,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177368,
+			"updated": 1724684482685,
 			"link": null,
 			"locked": false,
 			"fontSize": 61.30429231801414,
@@ -315,8 +315,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 660,
-			"versionNonce": 1206356264,
+			"version": 661,
+			"versionNonce": 1752508424,
 			"isDeleted": false,
 			"id": "BGu3qmU9",
 			"fillStyle": "hachure",
@@ -336,7 +336,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177370,
+			"updated": 1724684482686,
 			"link": null,
 			"locked": false,
 			"fontSize": 61.30429231801415,
@@ -352,8 +352,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 982,
-			"versionNonce": 856620376,
+			"version": 983,
+			"versionNonce": 1658272888,
 			"isDeleted": false,
 			"id": "dNEzGYVz",
 			"fillStyle": "hachure",
@@ -373,7 +373,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177373,
+			"updated": 1724684482687,
 			"link": null,
 			"locked": false,
 			"fontSize": 53.266596351834764,
@@ -87957,8 +87957,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 636,
-			"versionNonce": 124527656,
+			"version": 637,
+			"versionNonce": 1185081096,
 			"isDeleted": false,
 			"id": "3LW383di",
 			"fillStyle": "hachure",
@@ -87978,7 +87978,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177375,
+			"updated": 1724684482688,
 			"link": null,
 			"locked": false,
 			"fontSize": 21.85444001125933,
@@ -87994,8 +87994,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 628,
-			"versionNonce": 267752024,
+			"version": 629,
+			"versionNonce": 380169592,
 			"isDeleted": false,
 			"id": "Oz30NpLx",
 			"fillStyle": "hachure",
@@ -88015,7 +88015,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177375,
+			"updated": 1724684482688,
 			"link": null,
 			"locked": false,
 			"fontSize": 21.239724759919433,
@@ -88031,8 +88031,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 692,
-			"versionNonce": 1101356840,
+			"version": 693,
+			"versionNonce": 918603272,
 			"isDeleted": false,
 			"id": "Kv6maspO",
 			"fillStyle": "hachure",
@@ -88052,7 +88052,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177375,
+			"updated": 1724684482688,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.71653482775999,
@@ -88068,8 +88068,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 613,
-			"versionNonce": 490833752,
+			"version": 614,
+			"versionNonce": 656178808,
 			"isDeleted": false,
 			"id": "QP0H4IVx",
 			"fillStyle": "hachure",
@@ -88089,7 +88089,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177376,
+			"updated": 1724684482688,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.829914592359554,
@@ -88105,8 +88105,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 655,
-			"versionNonce": 1996438056,
+			"version": 656,
+			"versionNonce": 1170916616,
 			"isDeleted": false,
 			"id": "RhE9Nxj5",
 			"fillStyle": "hachure",
@@ -88126,7 +88126,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177376,
+			"updated": 1724684482688,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.449467828637065,
@@ -88142,8 +88142,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 713,
-			"versionNonce": 1732697176,
+			"version": 714,
+			"versionNonce": 1693839224,
 			"isDeleted": false,
 			"id": "HlM3FzgB",
 			"fillStyle": "hachure",
@@ -88163,7 +88163,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177376,
+			"updated": 1724684482688,
 			"link": null,
 			"locked": false,
 			"fontSize": 19.8318162369134,
@@ -88175,12 +88175,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 809,
-			"versionNonce": 979744040,
+			"version": 810,
+			"versionNonce": 20767752,
 			"isDeleted": false,
 			"id": "QQFkCgJP",
 			"fillStyle": "hachure",
@@ -88200,7 +88200,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177376,
+			"updated": 1724684482688,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.193997011371945,
@@ -88212,12 +88212,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 760,
-			"versionNonce": 1339658584,
+			"version": 761,
+			"versionNonce": 1752776824,
 			"isDeleted": false,
 			"id": "RwtSbZpi",
 			"fillStyle": "hachure",
@@ -88237,7 +88237,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177376,
+			"updated": 1724684482688,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.332802546401485,
@@ -88253,8 +88253,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 762,
-			"versionNonce": 1631899688,
+			"version": 763,
+			"versionNonce": 1729307400,
 			"isDeleted": false,
 			"id": "sQckjdUZ",
 			"fillStyle": "hachure",
@@ -88274,7 +88274,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177376,
+			"updated": 1724684482688,
 			"link": null,
 			"locked": false,
 			"fontSize": 24.744406000037202,
@@ -88286,12 +88286,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 22
 		},
 		{
 			"type": "text",
-			"version": 676,
-			"versionNonce": 1582147160,
+			"version": 677,
+			"versionNonce": 560623992,
 			"isDeleted": false,
 			"id": "cnYjekf0",
 			"fillStyle": "hachure",
@@ -88311,7 +88311,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177377,
+			"updated": 1724684482688,
 			"link": null,
 			"locked": false,
 			"fontSize": 24.744406000037223,
@@ -88323,12 +88323,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 22
 		},
 		{
 			"type": "text",
-			"version": 671,
-			"versionNonce": 864586536,
+			"version": 672,
+			"versionNonce": 1439269384,
 			"isDeleted": false,
 			"id": "nA2IoqPj",
 			"fillStyle": "hachure",
@@ -88348,7 +88348,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177377,
+			"updated": 1724684482688,
 			"link": null,
 			"locked": false,
 			"fontSize": 29.847570069976072,
@@ -88360,12 +88360,12 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"containerId": null,
 			"originalText": "(1x3)",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
-			"version": 633,
-			"versionNonce": 259464024,
+			"version": 634,
+			"versionNonce": 1728938616,
 			"isDeleted": false,
 			"id": "tDtV8LeM",
 			"fillStyle": "hachure",
@@ -88385,7 +88385,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177377,
+			"updated": 1724684482688,
 			"link": null,
 			"locked": false,
 			"fontSize": 32.293296763737416,
@@ -99557,8 +99557,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 605,
-			"versionNonce": 463267368,
+			"version": 606,
+			"versionNonce": 2086404360,
 			"isDeleted": false,
 			"id": "Caf2PW8F",
 			"fillStyle": "hachure",
@@ -99578,7 +99578,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177377,
+			"updated": 1724684482688,
 			"link": null,
 			"locked": false,
 			"fontSize": 43.17367390931881,
@@ -178942,8 +178942,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 813,
-			"versionNonce": 631894104,
+			"version": 814,
+			"versionNonce": 136737656,
 			"isDeleted": false,
 			"id": "grkwECVV",
 			"fillStyle": "hachure",
@@ -178963,7 +178963,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177377,
+			"updated": 1724684482689,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -178979,8 +178979,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 826,
-			"versionNonce": 1450041640,
+			"version": 827,
+			"versionNonce": 1246142472,
 			"isDeleted": false,
 			"id": "10qKR4Ay",
 			"fillStyle": "hachure",
@@ -179000,7 +179000,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177377,
+			"updated": 1724684482689,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -179016,8 +179016,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 890,
-			"versionNonce": 2025465176,
+			"version": 891,
+			"versionNonce": 1526285432,
 			"isDeleted": false,
 			"id": "lZVS44iE",
 			"fillStyle": "hachure",
@@ -179037,7 +179037,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177377,
+			"updated": 1724684482689,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -179053,8 +179053,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 934,
-			"versionNonce": 593984552,
+			"version": 935,
+			"versionNonce": 1602576136,
 			"isDeleted": false,
 			"id": "Lvd50Aqf",
 			"fillStyle": "hachure",
@@ -179074,7 +179074,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177377,
+			"updated": 1724684482689,
 			"link": null,
 			"locked": false,
 			"fontSize": 33.36106101113392,
@@ -179090,8 +179090,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 884,
-			"versionNonce": 1174125144,
+			"version": 885,
+			"versionNonce": 1296692600,
 			"isDeleted": false,
 			"id": "L7CoBIND",
 			"fillStyle": "hachure",
@@ -179111,7 +179111,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177377,
+			"updated": 1724684482689,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -179127,8 +179127,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 884,
-			"versionNonce": 1953871656,
+			"version": 885,
+			"versionNonce": 2090089992,
 			"isDeleted": false,
 			"id": "jD4sVWEZ",
 			"fillStyle": "hachure",
@@ -179148,7 +179148,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177377,
+			"updated": 1724684482689,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -179164,8 +179164,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 872,
-			"versionNonce": 4370264,
+			"version": 873,
+			"versionNonce": 1952220792,
 			"isDeleted": false,
 			"id": "fn2izYDc",
 			"fillStyle": "hachure",
@@ -179185,7 +179185,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177377,
+			"updated": 1724684482689,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -179201,8 +179201,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 906,
-			"versionNonce": 503616040,
+			"version": 907,
+			"versionNonce": 1919892744,
 			"isDeleted": false,
 			"id": "purN0LuE",
 			"fillStyle": "hachure",
@@ -179222,7 +179222,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177378,
+			"updated": 1724684482689,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -179238,8 +179238,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 907,
-			"versionNonce": 534971480,
+			"version": 908,
+			"versionNonce": 485816184,
 			"isDeleted": false,
 			"id": "fQnpb8CU",
 			"fillStyle": "hachure",
@@ -179259,7 +179259,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177378,
+			"updated": 1724684482689,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.74981556598659,
@@ -192715,8 +192715,8 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		},
 		{
 			"type": "text",
-			"version": 216,
-			"versionNonce": 117443880,
+			"version": 217,
+			"versionNonce": 311581704,
 			"isDeleted": false,
 			"id": "nZhDgiWh",
 			"fillStyle": "hachure",
@@ -192736,7 +192736,7 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1722464177380,
+			"updated": 1724684482690,
 			"link": null,
 			"locked": false,
 			"fontSize": 118.98215877917387,
@@ -192861,822 +192861,6 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 					0
 				]
 			]
-		},
-		{
-			"type": "freedraw",
-			"version": 536,
-			"versionNonce": 743479500,
-			"isDeleted": true,
-			"id": "pHOk6uTxNOg_S8l7cgPYA",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 74.08218670793758,
-			"y": 1418.9615516105034,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 2.338658964107806,
-			"height": 20.11246709132695,
-			"seed": 319590805,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1724682745964,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.46773179282135935,
-					0
-				],
-				[
-					0.9354635856430551,
-					0.4677317928215276
-				],
-				[
-					0.9354635856430551,
-					1.403195378464667
-				],
-				[
-					1.4031953784644144,
-					2.806390756929334
-				],
-				[
-					1.8709271712861102,
-					4.677317928215571
-				],
-				[
-					1.8709271712861102,
-					6.0805133066802375
-				],
-				[
-					2.338658964107806,
-					8.419172270788001
-				],
-				[
-					2.338658964107806,
-					10.290099442074238
-				],
-				[
-					2.338658964107806,
-					12.628758406182046
-				],
-				[
-					2.338658964107806,
-					14.49968557746824
-				],
-				[
-					1.8709271712861102,
-					16.370612748754475
-				],
-				[
-					1.8709271712861102,
-					17.773808127219144
-				],
-				[
-					1.4031953784644144,
-					18.709271712862282
-				],
-				[
-					1.4031953784644144,
-					19.64473529850538
-				],
-				[
-					0.9354635856430551,
-					20.11246709132695
-				],
-				[
-					0.9354635856430551,
-					20.11246709132695
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 536,
-			"versionNonce": 2090161908,
-			"isDeleted": true,
-			"id": "mYqDtgc21Bxf7bQgGNH9n",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 70.3403323653647,
-			"y": 1426.91299208847,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 13.096490199003446,
-			"height": 2.3386589641077644,
-			"seed": 914461173,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1724682745519,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.46773179282169586,
-					0
-				],
-				[
-					0.9354635856430552,
-					0
-				],
-				[
-					1.403195378464751,
-					0
-				],
-				[
-					2.338658964107806,
-					0
-				],
-				[
-					2.806390756929502,
-					0.4677317928215276
-				],
-				[
-					4.209586135393917,
-					0.9354635856430973
-				],
-				[
-					5.145049721036973,
-					1.403195378464667
-				],
-				[
-					6.548245099501723,
-					1.8709271712861946
-				],
-				[
-					7.483708685144778,
-					1.8709271712861946
-				],
-				[
-					8.88690406360953,
-					2.3386589641077644
-				],
-				[
-					9.822367649252584,
-					2.3386589641077644
-				],
-				[
-					10.75783123489564,
-					2.3386589641077644
-				],
-				[
-					11.693294820539032,
-					2.3386589641077644
-				],
-				[
-					12.161026613360391,
-					2.3386589641077644
-				],
-				[
-					13.096490199003446,
-					2.3386589641077644
-				],
-				[
-					13.096490199003446,
-					2.3386589641077644
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 537,
-			"versionNonce": 1587362892,
-			"isDeleted": true,
-			"id": "W7v2_yam_gg_tu2JUbmrX",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 163.41895913685494,
-			"y": 1418.0260880248604,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 3.7418543425725574,
-			"height": 20.58019888414852,
-			"seed": 402703509,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1724682747140,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.46773179282169586,
-					0
-				],
-				[
-					0.9354635856430552,
-					0
-				],
-				[
-					1.403195378464751,
-					0.4677317928215697
-				],
-				[
-					1.8709271712861104,
-					1.403195378464667
-				],
-				[
-					2.338658964107806,
-					3.2741225497509037
-				],
-				[
-					2.806390756929502,
-					4.677317928215571
-				],
-				[
-					3.2741225497508615,
-					7.015976892323377
-				],
-				[
-					3.2741225497508615,
-					8.886904063609613
-				],
-				[
-					3.7418543425725574,
-					11.225563027717378
-				],
-				[
-					3.7418543425725574,
-					13.564221991825184
-				],
-				[
-					3.7418543425725574,
-					14.967417370289851
-				],
-				[
-					3.7418543425725574,
-					16.838344541576088
-				],
-				[
-					3.7418543425725574,
-					18.241539920040754
-				],
-				[
-					3.2741225497508615,
-					19.644735298505424
-				],
-				[
-					3.2741225497508615,
-					20.11246709132695
-				],
-				[
-					3.2741225497508615,
-					20.58019888414852
-				],
-				[
-					3.2741225497508615,
-					20.58019888414852
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 537,
-			"versionNonce": 833211252,
-			"isDeleted": true,
-			"id": "yxBA1xwFsZiObnar5mkIt",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 160.1448365871047,
-			"y": 1422.703405953076,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 21.515662469791618,
-			"height": 5.61278151385871,
-			"seed": 342380763,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1724682746743,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.8709271712861104,
-					1.8709271712862368
-				],
-				[
-					1.8709271712861104,
-					2.338658964107806
-				],
-				[
-					2.806390756929166,
-					2.338658964107806
-				],
-				[
-					3.7418543425725574,
-					2.806390756929334
-				],
-				[
-					4.677317928215612,
-					3.7418543425724735
-				],
-				[
-					6.548245099501723,
-					4.677317928215571
-				],
-				[
-					7.483708685144778,
-					5.14504972103714
-				],
-				[
-					8.88690406360953,
-					5.14504972103714
-				],
-				[
-					10.29009944207428,
-					5.61278151385871
-				],
-				[
-					12.161026613360391,
-					5.61278151385871
-				],
-				[
-					13.564221991825143,
-					5.61278151385871
-				],
-				[
-					15.902880955932948,
-					5.14504972103714
-				],
-				[
-					17.306076334397698,
-					4.677317928215571
-				],
-				[
-					19.17700350568381,
-					4.209586135394043
-				],
-				[
-					21.04793067696992,
-					3.7418543425724735
-				],
-				[
-					21.515662469791618,
-					3.7418543425724735
-				],
-				[
-					21.515662469791618,
-					3.7418543425724735
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 634,
-			"versionNonce": 2027512268,
-			"isDeleted": true,
-			"id": "Kjj3tj3meGFXvFIoXfRTr",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -282.8534501750473,
-			"y": 1515.074268628068,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 2.338658964107806,
-			"height": 20.11246709132695,
-			"seed": 476668795,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1724682743404,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.46773179282135935,
-					0
-				],
-				[
-					0.9354635856430551,
-					0.4677317928215276
-				],
-				[
-					0.9354635856430551,
-					1.403195378464667
-				],
-				[
-					1.4031953784644144,
-					2.806390756929334
-				],
-				[
-					1.8709271712861102,
-					4.677317928215571
-				],
-				[
-					1.8709271712861102,
-					6.0805133066802375
-				],
-				[
-					2.338658964107806,
-					8.419172270788001
-				],
-				[
-					2.338658964107806,
-					10.290099442074238
-				],
-				[
-					2.338658964107806,
-					12.628758406182046
-				],
-				[
-					2.338658964107806,
-					14.49968557746824
-				],
-				[
-					1.8709271712861102,
-					16.370612748754475
-				],
-				[
-					1.8709271712861102,
-					17.773808127219144
-				],
-				[
-					1.4031953784644144,
-					18.709271712862282
-				],
-				[
-					1.4031953784644144,
-					19.64473529850538
-				],
-				[
-					0.9354635856430551,
-					20.11246709132695
-				],
-				[
-					0.9354635856430551,
-					20.11246709132695
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 634,
-			"versionNonce": 1211063796,
-			"isDeleted": true,
-			"id": "c8-X9Wi4IwzX5hEubSLw2",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -286.5953045176202,
-			"y": 1523.0257091060346,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 13.096490199003446,
-			"height": 2.3386589641077644,
-			"seed": 1778727963,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1724682742310,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.46773179282169586,
-					0
-				],
-				[
-					0.9354635856430552,
-					0
-				],
-				[
-					1.403195378464751,
-					0
-				],
-				[
-					2.338658964107806,
-					0
-				],
-				[
-					2.806390756929502,
-					0.4677317928215276
-				],
-				[
-					4.209586135393917,
-					0.9354635856430973
-				],
-				[
-					5.145049721036973,
-					1.403195378464667
-				],
-				[
-					6.548245099501723,
-					1.8709271712861946
-				],
-				[
-					7.483708685144778,
-					1.8709271712861946
-				],
-				[
-					8.88690406360953,
-					2.3386589641077644
-				],
-				[
-					9.822367649252584,
-					2.3386589641077644
-				],
-				[
-					10.75783123489564,
-					2.3386589641077644
-				],
-				[
-					11.693294820539032,
-					2.3386589641077644
-				],
-				[
-					12.161026613360391,
-					2.3386589641077644
-				],
-				[
-					13.096490199003446,
-					2.3386589641077644
-				],
-				[
-					13.096490199003446,
-					2.3386589641077644
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 635,
-			"versionNonce": 1880008012,
-			"isDeleted": true,
-			"id": "6RzHCVunL_ddNjZ9d_Tr1",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -193.51667774613088,
-			"y": 1514.138805042425,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 3.7418543425725574,
-			"height": 20.58019888414852,
-			"seed": 731174555,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1724682744573,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.46773179282169586,
-					0
-				],
-				[
-					0.9354635856430552,
-					0
-				],
-				[
-					1.403195378464751,
-					0.4677317928215697
-				],
-				[
-					1.8709271712861104,
-					1.403195378464667
-				],
-				[
-					2.338658964107806,
-					3.2741225497509037
-				],
-				[
-					2.806390756929502,
-					4.677317928215571
-				],
-				[
-					3.2741225497508615,
-					7.015976892323377
-				],
-				[
-					3.2741225497508615,
-					8.886904063609613
-				],
-				[
-					3.7418543425725574,
-					11.225563027717378
-				],
-				[
-					3.7418543425725574,
-					13.564221991825184
-				],
-				[
-					3.7418543425725574,
-					14.967417370289851
-				],
-				[
-					3.7418543425725574,
-					16.838344541576088
-				],
-				[
-					3.7418543425725574,
-					18.241539920040754
-				],
-				[
-					3.2741225497508615,
-					19.644735298505424
-				],
-				[
-					3.2741225497508615,
-					20.11246709132695
-				],
-				[
-					3.2741225497508615,
-					20.58019888414852
-				],
-				[
-					3.2741225497508615,
-					20.58019888414852
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 635,
-			"versionNonce": 193802868,
-			"isDeleted": true,
-			"id": "xDqPaJ86GTRv-xQ73sWG4",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -196.79080029588113,
-			"y": 1518.8161229706407,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 21.515662469791618,
-			"height": 5.61278151385871,
-			"seed": 1704282939,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1724682744066,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.8709271712861104,
-					1.8709271712862368
-				],
-				[
-					1.8709271712861104,
-					2.338658964107806
-				],
-				[
-					2.806390756929166,
-					2.338658964107806
-				],
-				[
-					3.7418543425725574,
-					2.806390756929334
-				],
-				[
-					4.677317928215612,
-					3.7418543425724735
-				],
-				[
-					6.548245099501723,
-					4.677317928215571
-				],
-				[
-					7.483708685144778,
-					5.14504972103714
-				],
-				[
-					8.88690406360953,
-					5.14504972103714
-				],
-				[
-					10.29009944207428,
-					5.61278151385871
-				],
-				[
-					12.161026613360391,
-					5.61278151385871
-				],
-				[
-					13.564221991825143,
-					5.61278151385871
-				],
-				[
-					15.902880955932948,
-					5.14504972103714
-				],
-				[
-					17.306076334397698,
-					4.677317928215571
-				],
-				[
-					19.17700350568381,
-					4.209586135394043
-				],
-				[
-					21.04793067696992,
-					3.7418543425724735
-				],
-				[
-					21.515662469791618,
-					3.7418543425724735
-				],
-				[
-					21.515662469791618,
-					3.7418543425724735
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
 		}
 	],
 	"appState": {
@@ -193694,10 +192878,10 @@ Logo, (𝑀(3,1), + , ∙) é um espaço vetorial. ^nZhDgiWh
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 943.2121916584905,
-		"scrollY": -987.6022715619026,
+		"scrollX": 6154.642219938113,
+		"scrollY": 1330.1118030421922,
 		"zoom": {
-			"value": 0.8000000000000002
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
