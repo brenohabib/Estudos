@@ -23,8 +23,8 @@
 - [x] Configurar roteadores da Granja 2
 - [x] Configurar rádio da Granja 1
 - [x] Configurar roteador do caseiro da Granja 1
-- [ ] Configurar roteador do Sistema Fotovoltaico da Granja 1
-- [ ] Verificar sobre separar disjuntor câmera fundo da Granja 1
+- [x] Configurar roteador do Sistema Fotovoltaico da Granja 1
+- [x] Verificar sobre separar disjuntor câmera fundo da Granja 1
 
 ---
 
@@ -73,6 +73,7 @@
 ## CLARINDO
 
 - [ ] Realocar rack do DVR e colocá-la embaixo (tirar da laje)
+- [ ] Arrumar câmeras queimadas (trocar)
 
 ## SHIRLEY
 
@@ -88,10 +89,9 @@
 - [x] Verificar câmeras IP e Analógicas
 - [x] Verificar fonte das câmeras
 - [x] Verificar wifi outdoor
-- [ ] Fazer link entre casa e ponto com acesso a internet
+- [ ] Fazer link entre casa e caixa d'água
 - [ ] Colocar 1 ou 2 câmeras IP ao redor da casa
-- Pré-Notas: Levar 2 câmeras IP, 2 câmeras analógicas, par de rádio, mastro com suporte, fonte de 5A e 10A
-- Pós-Notas: Passei 10 metros de cabo de internet, troquei 1 fonte 12v 1A de uma câmera, troquei 1 fonte 48v 0.32A da speed; Acabei trazendo um nobreak que não estava funcionando; Nobreak com problemas no relé/microprocessador
+- Notas: Passei 10 metros de cabo de internet, troquei 1 fonte 12v 1A de uma câmera, troquei 1 fonte 48v 0.32A da speed; Acabei trazendo um nobreak que não estava funcionando; Nobreak com problemas no relé/microprocessador
 
 ## MARIA
 
@@ -120,3 +120,18 @@
 - [x] Retirar fio de cerca elétrica
 - [ ] Realocar câmera sala Manipulação
 - [ ] Reinstalar câmera cozinha
+
+## ALAOR
+
+- [ ] Arrumar câmeras; pararam de funcionar
+- [ ] Nobreak com conector queimado
+- obs: Câmeras ligadas, porém não conectadas; Trouxemos o nobreak
+
+## PETERCARRARI
+
+- [ ]  Instalar 2 câmeras dome
+- [ ] Mudar 1 câmera de lugar
+
+## PEDRO PAULO
+
+- [ ] Instalar 3 câmeras dome

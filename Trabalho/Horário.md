@@ -140,3 +140,15 @@
 - Dia 26
 	- Manhã/Tarde
 		- Fui com o Moisés para Santa Helena
+
+## Agosto
+
+- Dia 13
+	- Manhã/Tarde
+		- Sergio Cunha
+
+- Dia 16
+	- Manhã
+		- Esqueci bater ponto almoço: 12:40 (Preparando Projeto Fabiano Ferrari em Minas) (OBS: acho que esqueci outro horário)
+		
+

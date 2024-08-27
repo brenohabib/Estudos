@@ -11,12 +11,12 @@ public class ContagemRepeticao {
     public static void main(String[] args) {
         int quantidade;
         String texto;
-        Menu mainMenu = new Menu("Contador de palavras 5000", 90, 10);
-        mainMenu.start();
+        Menu mainMenu = new Menu("Contador de palavras 5000");
+        mainMenu.applyChanges();
         mainMenu.text("Escreva um texto para ser achado!", 3);
         quantidade = leitor(texto = mainMenu.input());
 
-        mainMenu.start();
+        mainMenu.applyChanges();
         mainMenu.text("Seu arquivo possui um total de " + quantidade + " palavras " + texto, 3);
     }
 

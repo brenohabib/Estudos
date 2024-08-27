@@ -11,17 +11,17 @@ import atividade2.Menu;
 
 public class ConverterHtmlEmTxt {
     public static void main(String[] args) {
-        Menu mainMenu = new Menu("Conversor de HTML 2000", 80, 10);
+        Menu mainMenu = new Menu("Conversor de HTML 2000");
         removeTags();
         try {
             FileReader arquivoTexto = new FileReader("index.txt");
             BufferedReader leitorTexto = new BufferedReader(arquivoTexto);
 
-            mainMenu.start();
+            mainMenu.applyChanges();
             String linha;
             int i = 1;
             while ((linha = leitorTexto.readLine()) != null) {
-                mainMenu.text(linha, i++, Menu.Alignment.LEFT);
+                mainMenu.text(linha, i++).left();
             }
 
             leitorTexto.close();

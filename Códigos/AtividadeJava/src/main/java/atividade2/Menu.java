@@ -1,83 +1,75 @@
 package atividade2;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Menu {
     private final String title;
-    private int sizeX;
-    private int sizeY;
+    private int sizeX = 80;
+    private int sizeY = 8;
+    private final List<String> menuBuffer;
 
-    public Menu(String title, int sizeX, int sizeY) {
+    public Menu(String title) {
         this.title = title;
-        this.sizeX = sizeX;
-        this.sizeY = sizeY;
+        this.menuBuffer = new ArrayList<>();
+        applyChanges();
     }
-    
-    public void start() {
-        clearScreen();
-        printTitle();
+
+    public void applyChanges() {
+        cleanBuffer();
+        buildTitle();
         for (int i = 0; i < sizeY; i++) {
-            printEmpty();
+            buildEmptyLine();
         }
-        printLine();
+        buildLine();
+    }
+    private void cleanBuffer() {
+        this.menuBuffer.clear();
     }
 
-    private void printTitle() {
-        printLine();
-        printCenteredText(title);
-        printLine();
+    public void printMenu() {
+        render();
     }
 
-    private void printLine() {
-        System.out.println("-".repeat(sizeX));
+    private void buildTitle() {
+        buildLine();
+        buildCenteredText(title);
+        buildLine();
     }
 
-    private void printEmpty() {
-        System.out.println("|" + " ".repeat(sizeX - 2) + "|");
+    private void buildLine() {
+        menuBuffer.add("-".repeat(sizeX));
     }
 
-    private void printCenteredText(String text) {
-        printAlignedText(text, Alignment.CENTER);
+    private void buildEmptyLine() {
+        menuBuffer.add("|" + " ".repeat(sizeX - 2) + "|");
     }
 
-    public void text(String text, int line) {
-        setCursorToLine(line + 2);
-        printCenteredText(text);
-        resetCursor();
+    private void buildCenteredText(String text) {
+        buildAlignedText(text);
     }
 
-    public void text(String text, int line, Alignment position) {
-        setCursorToLine(line + 2);
-        printAlignedText(text, position);
-        resetCursor();
+    public TextAlignmentBuilder text(String text, int line) {
+        return new TextAlignmentBuilder(text, line + 2);
     }
 
-    private void printAlignedText(String text, Alignment position) {
-        if (text.length() > sizeX - 2) {
-            for (String part : splitText(text)) {
-                printAlignedText(part, position);
-            }
-        } else {
-            int padding = calculatePadding(text.length(), position);
-            System.out.print("|" + " ".repeat(padding) + text);
-            System.out.println(" ".repeat(Math.max(sizeX - text.length() - padding - 2, 0)) + "|");
+    private void updateLine(int line, String text, Alignment position) {
+        if (line >= 0 && line < menuBuffer.size()) {
+            String alignedText = getAlignedText(text, position);
+            menuBuffer.set(line, alignedText);
         }
     }
 
-    private String[] splitText(String text) {
-        int maxLen = sizeX - 6;
-        int parts = (text.length() + maxLen - 1) / maxLen;
-        String[] result = new String[parts];
-
-        for (int i = 0; i < parts; i++) {
-            int start = i * maxLen;
-            int end = Math.min(start + maxLen, text.length());
-            result[i] = text.substring(start, end);
-        }
-
-        return result;
+    private void buildAlignedText(String text) {
+        menuBuffer.add(getAlignedText(text, Alignment.CENTER));
     }
 
+    private String getAlignedText(String text, Alignment position) {
+        int padding = calculatePadding(text.length(), position);
+        return "|" + " ".repeat(padding) + text +
+                " ".repeat(Math.max(sizeX - text.length() - padding - 2, 0)) + "|";
+    }
     private int calculatePadding(int textLength, Alignment position) {
         int padding = switch (position) {
             case LEFT -> 1;
@@ -92,36 +84,48 @@ public class Menu {
     }
 
     public String input(String label) {
-        int padding = calculatePadding(label.length(), Alignment.LEFT);
         Scanner scanner = new Scanner(System.in);
-        System.out.print("|" + " ".repeat(padding) + label + "\0337");
-        System.out.println(" ".repeat(Math.max(sizeX - label.length() - padding - 2, 0)) + "|");
-        printLine();
-        System.out.print("\0338");
+        buildLine();
+        System.out.print(label);
         return scanner.nextLine();
     }
 
-    private void clearScreen() {
-        System.out.print("\033[H\033[0J");
-    }
-
-    private void setCursorToLine(int line) {
-        System.out.print("\0337\033[H");
-        for (int i = 0; i < line; i++) {
-            System.out.print("\033[1B");
+    private void render() {
+        for (String line : menuBuffer) {
+            System.out.println(line);
         }
-    }
-
-    private void resetCursor() {
-        System.out.print("\0338");
     }
 
     public void setSize(int x, int y) {
         this.sizeX = x;
         this.sizeY = y;
+        applyChanges();
     }
 
     public enum Alignment {
         LEFT, RIGHT, CENTER
+    }
+
+    // Classe interna para construir o alinhamento de texto
+    public class TextAlignmentBuilder {
+        private final String text;
+        private final int line;
+
+        public TextAlignmentBuilder(String text, int line) {
+            this.text = text;
+            this.line = line;
+        }
+
+        public void left() {
+            updateLine(line, text, Alignment.LEFT);
+        }
+
+        public void center() {
+            updateLine(line, text, Alignment.CENTER);
+        }
+
+        public void right() {
+            updateLine(line, text, Alignment.RIGHT);
+        }
     }
 }

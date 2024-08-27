@@ -6,8 +6,8 @@ import atividade2.Menu;
 
 public class Ordenar {
     public static void main(String[] args) {
-        Menu mainMenu = new Menu("Ordenador", 80, 10);
-        mainMenu.start();
+        Menu mainMenu = new Menu("Ordenador");
+        mainMenu.applyChanges();
         ordenarNumeros();
         mainMenu.text("Texto ordenado com sucesso!", 4);
     }
