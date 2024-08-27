@@ -7,13 +7,8 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         boolean running = true;
-        int option = 0;
+        int option = 1;
 
-        Reader clientReader = new Reader("clients_p.csv");
-        List<Client> clients = clientReader.readClients();
-
-        Reader locationReader = new Reader("locations.csv");
-        List<Location> locations = locationReader.readLocations();
         while(running) {
             Menu mainMenu = new Menu("Leitor CSV");
             mainMenu.text("1 - Ler arquivo \"clients_p.csv\"", 2).left();
@@ -22,6 +17,15 @@ public class Main {
             mainMenu.printMenu();
             switch(option) {
                 case 1 -> {
+                    Reader clientReader = new Reader("clients_p.csv");
+                    List<Client> clients = clientReader.readClients();
+
+                    mainMenu.text("1 - Buscar por ID", 2).left();
+                    mainMenu.printMenu();
+                }
+                case 2 -> {
+                    Reader locationReader = new Reader("locations.csv");
+                    List<Location> locations = locationReader.readLocations();
 
                 }
                 default -> throw new IllegalStateException("Valor inesperado: " + option);
