@@ -8,13 +8,6 @@
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "962bda42074c1a39",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-=======
             "id": "b8092df97d5ff28b",
             "type": "leaf",
             "state": {
@@ -48,7 +41,6 @@
                 "mode": "source",
                 "source": false
               }
->>>>>>> 43026116d53797f1c3d2e87a3e604318bdf3cab4
             }
           }
         ],
@@ -126,10 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
                 "file": "Trabalho/TODO.md",
->>>>>>> 43026116d53797f1c3d2e87a3e604318bdf3cab4
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,10 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
                 "file": "Trabalho/TODO.md",
->>>>>>> 43026116d53797f1c3d2e87a3e604318bdf3cab4
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,13 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
                 "file": "Trabalho/TODO.md"
               }
->>>>>>> 43026116d53797f1c3d2e87a3e604318bdf3cab4
             }
           }
         ]
@@ -201,18 +183,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-<<<<<<< HEAD
-  "active": "962bda42074c1a39",
-  "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Empreendedorismo.md",
-    "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Relacionamentos.md",
-    "Faculdade Eng. Software/Matérias/4º Semestre/Orientação a Objeto/Atributos e Métodos de Automóvel.md",
-    "Faculdade Eng. Software/Matérias/4º Semestre/Análise e Projeto Orientato a Objeto",
-    "Faculdade Eng. Software/Matérias/4º Semestre/Sem título.md",
-=======
   "active": "31916196a70b7b53",
   "lastOpenFiles": [
->>>>>>> 43026116d53797f1c3d2e87a3e604318bdf3cab4
+    "Códigos/AtividadeJava/src/main/java/atividade3/Prova1/Location.java",
+    "Códigos/AtividadeJava/src/main/java/atividade3/Prova1/Reader.java",
+    "Códigos/AtividadeJava/src/main/java/atividade3/Prova1/Main.java",
+    "Códigos/AtividadeJava/src/main/java/atividade3/Prova1/Client.java",
+    "Códigos/AtividadeJava/src/main/java/atividade3/Prova1",
+    "Códigos/AtividadeJava/locations.csv",
+    "Códigos/AtividadeJava/clients_p.csv",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.png",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.svg",
@@ -224,12 +203,6 @@
     "Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/Aluno.java~",
     "Códigos/AtividadeJava/target/classes/atividade3/Aula5ex1/Main.class",
     "Códigos/AtividadeJava/target/classes/Wolfy.class",
-    "Códigos/AtividadeJava/src/main/java/Wolfy.java~",
-    "Códigos/AtividadeJava/target/classes/atividade2/Menu.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Menu$TextAlignmentBuilder.class",
-    "Códigos/AtividadeJava/target/classes/atividade2/Menu$Alignment.class",
-    "Códigos/AtividadeJava/src/main/java/atividade2/Menu.java~",
-    "Códigos/AtividadeJava/target/classes/atividade2/Aula17/Ordenar.class",
     "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
     "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.png",
     "Trabalho/Horário.md",

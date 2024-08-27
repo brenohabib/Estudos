@@ -32,7 +32,7 @@ void at3() {
     b = &a;
     c = &b;
     d = &c;
-    printf("Dobro: %d\n", 2 * (*b));
+    printf("Dobro: %d\n",2 * (*b));
     printf("Triplo: %d\n", 3 * (**c));
     printf("Quádruplo: %d\n", 4 * (***d));
 }
