@@ -14,7 +14,6 @@ public class Escola {
     }
 
     public Materia[] listar_materias() {
-<<<<<<< HEAD
 
         return new Materia[0];
     }
@@ -22,12 +21,6 @@ public class Escola {
     public Turma[] listar_turmas() {
 
         return new Turma[0];
-=======
-        return null;
     }
 
-    public Turma[] listar_turmas() {
-        return null;
->>>>>>> 43026116d53797f1c3d2e87a3e604318bdf3cab4
-    }
 }
