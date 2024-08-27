@@ -15,9 +15,11 @@ public class Escola {
 
     public Materia[] listar_materias() {
 
+        return new Materia[0];
     }
 
     public Turma[] listar_turmas() {
 
+        return new Turma[0];
     }
 }
