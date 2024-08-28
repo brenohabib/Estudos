@@ -13,19 +13,10 @@
     </properties>
     <dependencies>
         <dependency>
-<<<<<<< HEAD
             <groupId>com.opencsv</groupId>
             <artifactId>opencsv</artifactId>
             <version>5.7.1</version>
         </dependency>
     </dependencies>
 </project>
-=======
-            <groupId>org.jetbrains</groupId>
-            <artifactId>annotations</artifactId>
-            <version>RELEASE</version>
-            <scope>compile</scope>
-        </dependency>
-    </dependencies>
-</project>
->>>>>>> 43026116d53797f1c3d2e87a3e604318bdf3cab4
+
