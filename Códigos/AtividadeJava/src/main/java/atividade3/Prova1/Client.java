@@ -6,13 +6,15 @@ public class Client {
     String nome;
     String endereco;
     int idade;
+    String sexo;
     String preferencia_estadia;
 
-    public Client(int id, String nome, String endereco, int idade, String preferencia_estadia) {
+    public Client(int id, String nome, String endereco, int idade,String sexo, String preferencia_estadia) {
         this.id = id;
         this.nome = nome;
         this.endereco = endereco;
         this.idade = idade;
+        this.sexo = sexo;
         this.preferencia_estadia = preferencia_estadia;
     }
     public int getId() {
@@ -30,7 +32,9 @@ public class Client {
     public int getIdade() {
         return idade;
     }
-
+    public String getSexo() {
+        return sexo;
+    }
     public String getPreferencia_estadia() {
         return preferencia_estadia;
     }

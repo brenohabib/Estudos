@@ -29,7 +29,7 @@ public class Reader {
                 String sexo = values[4].trim();
                 String preferenciaEstadia = values[5].trim();
 
-                Client client = new Client(id, nome, endereco, idade, preferenciaEstadia);
+                Client client = new Client(id, nome, endereco, idade,sexo , preferenciaEstadia);
                 clients.add(client);
             }
         } catch (IOException | CsvException | NumberFormatException e) {

@@ -82,7 +82,4 @@ public class Location {
         return quantidadeCama;
     }
 
-    public int getQuantidadeRecomentacao() {
-        return quantidadeRecomentacao;
-    }
 }
