@@ -17,6 +17,15 @@
             <artifactId>opencsv</artifactId>
             <version>5.7.1</version>
         </dependency>
+<<<<<<< HEAD
+=======
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+>>>>>>> d4bee94953441b88e51290cd3528affb37092f9b
     </dependencies>
 </project>
 

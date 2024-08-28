@@ -8,11 +8,47 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "63d9f80050d24093",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
+=======
+            "id": "b8092df97d5ff28b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trabalho/Horário.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8902e09c0f2fac4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31916196a70b7b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trabalho/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> d4bee94953441b88e51290cd3528affb37092f9b
             }
           }
         ]
@@ -89,6 +125,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Trabalho/TODO.md",
+>>>>>>> d4bee94953441b88e51290cd3528affb37092f9b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +145,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Trabalho/TODO.md",
+>>>>>>> d4bee94953441b88e51290cd3528affb37092f9b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +170,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "Trabalho/TODO.md"
+              }
+>>>>>>> d4bee94953441b88e51290cd3528affb37092f9b
             }
           }
         ]
@@ -150,6 +200,35 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "63d9f80050d24093",
   "lastOpenFiles": []
+=======
+  "active": "31916196a70b7b53",
+  "lastOpenFiles": [
+    "Códigos/AtividadeJava/target/classes/atividade3/Prova1/Main.class",
+    "Códigos/AtividadeJava/src/main/java/atividade3/Prova1/Main.java~",
+    "Códigos/AtividadeJava/target/classes/Wolfy.class",
+    "Códigos/AtividadeJava/target/classes/atividade3/Prova1/Reader.class",
+    "Códigos/AtividadeJava/target/classes/atividade3/Prova1/Location.class",
+    "Códigos/AtividadeJava/target/classes/atividade3/Prova1/Client.class",
+    "Códigos/AtividadeJava/target/classes/atividade3/Aula5ex1/Treino.class",
+    "Códigos/AtividadeJava/target/classes/atividade3/Aula5ex1/Professor.class",
+    "Códigos/AtividadeJava/target/classes/atividade3/Aula5ex1/Plano.class",
+    "Códigos/AtividadeJava/target/classes/atividade3/Aula5ex1/Pessoa.class",
+    "Códigos/AtividadeJava/target/classes/atividade3/Aula5ex1/Pagamento.class",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.png",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.svg",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Trabalho/TODO.md",
+    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
+    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.png",
+    "Trabalho/Horário.md",
+    "Trabalho/Impressão.md",
+    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.svg"
+  ]
+>>>>>>> d4bee94953441b88e51290cd3528affb37092f9b
 }

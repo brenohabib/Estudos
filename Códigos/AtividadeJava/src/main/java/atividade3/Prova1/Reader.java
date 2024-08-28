@@ -26,7 +26,8 @@ public class Reader {
                 String nome = values[1].trim();
                 String endereco = values[2].trim();
                 int idade = Integer.parseInt(values[3].trim());
-                String preferenciaEstadia = values[4].trim();
+                String sexo = values[4].trim();
+                String preferenciaEstadia = values[5].trim();
 
                 Client client = new Client(id, nome, endereco, idade, preferenciaEstadia);
                 clients.add(client);
@@ -67,9 +68,8 @@ public class Reader {
         int quantidadeCama = Integer.parseInt(values[11].trim());
         int quantidadeRecomendacao = Integer.parseInt(values[12].trim());
 
-        Location location = new Location(id, tipoLocal, pontoReferencia, quantidadeQuarto, quantidadeBanheiro,
+        return new Location(id, tipoLocal, pontoReferencia, quantidadeQuarto, quantidadeBanheiro,
                 bairro, rua, quadra, lote, numero, quantidadeMaxHospede,
                 quantidadeCama, quantidadeRecomendacao);
-        return location;
     }
 }
