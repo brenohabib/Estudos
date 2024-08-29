@@ -129,8 +129,9 @@
 
 ## PETERCARRARI
 
-- [ ]  Instalar 2 câmeras dome
-- [ ] Mudar 1 câmera de lugar
+- [x]  Instalar 2 câmeras dome
+- [x] Mudar 1 câmera de lugar
+- Data: 28/08/2024
 
 ## PEDRO PAULO
 
