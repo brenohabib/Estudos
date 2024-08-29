@@ -24,7 +24,6 @@ typedef struct {
 Estudante* estudantes = NULL;
 int total_estudantes = 0;
 
-// Funções auxiliares para o menu
 void printline(const char ch, const int length) {
     for (int i = 0; i < length; i++) {
         putchar(ch);
@@ -34,7 +33,7 @@ void printline(const char ch, const int length) {
 
 void printmenu(const int highlight, char* choices[], const int n_choices) {
     system("cls"); // Limpa a tela
-    printline('-', WIDTH); // Imprime linha
+    printline('-', WIDTH);
 
     for (int i = 0; i < n_choices; i++) {
         puts((i == highlight) ? SELECTED : RESET);
@@ -130,7 +129,7 @@ int main() {
     while (running) {
         printmenu(highlight, choices, n_choices);
 
-        const int c = getch(); // Espera por caracter
+        const int c = getch();
         switch (c) {
             case 72: // Tecla cima
                 highlight = (highlight - 1 + n_choices) % n_choices;
@@ -138,14 +137,14 @@ int main() {
             case 80: // Tecla baixo
                 highlight = (highlight + 1) % n_choices;
                 break;
-            case 13: // Tecla Enter / confirmar opção
-                if (highlight == 0) { // Adicionar Estudante
+            case 13: // Tecla Enter
+                if (highlight == 0) {
                     adicionar_estudante();
-                } else if (highlight == 1) { // Remover Estudante
+                } else if (highlight == 1) {
                     remover_estudante();
-                } else if (highlight == 2) { // Listar Estudantes
+                } else if (highlight == 2) {
                     listar_estudantes();
-                } else if (highlight == 3) { // Sair
+                } else if (highlight == 3) {
                     running = false;
                 }
                 break;
@@ -157,7 +156,6 @@ int main() {
         }
     }
 
-    // Libera a memória alocada
     free(estudantes);
 
     return 0;
