@@ -79,6 +79,48 @@ build CMakeFiles/C.dir/AU3/au3ex2.c.obj: C_COMPILER__C_unscanned_Debug C$:/Users
   OBJECT_DIR = CMakeFiles\C.dir
   OBJECT_FILE_DIR = CMakeFiles\C.dir\AU3
 
+build CMakeFiles/C.dir/AU3/au3ex3.c.obj: C_COMPILER__C_unscanned_Debug C$:/Users/breno/OneDrive/Documentos/Estudos/Códigos/C/AU3/au3ex3.c || cmake_object_order_depends_target_C
+  DEP_FILE = CMakeFiles\C.dir\AU3\au3ex3.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C.dir
+  OBJECT_FILE_DIR = CMakeFiles\C.dir\AU3
+
+build CMakeFiles/C.dir/AU4/au4ex1.c.obj: C_COMPILER__C_unscanned_Debug C$:/Users/breno/OneDrive/Documentos/Estudos/Códigos/C/AU4/au4ex1.c || cmake_object_order_depends_target_C
+  DEP_FILE = CMakeFiles\C.dir\AU4\au4ex1.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C.dir
+  OBJECT_FILE_DIR = CMakeFiles\C.dir\AU4
+
+build CMakeFiles/C.dir/AU5/au5ex1.c.obj: C_COMPILER__C_unscanned_Debug C$:/Users/breno/OneDrive/Documentos/Estudos/Códigos/C/AU5/au5ex1.c || cmake_object_order_depends_target_C
+  DEP_FILE = CMakeFiles\C.dir\AU5\au5ex1.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C.dir
+  OBJECT_FILE_DIR = CMakeFiles\C.dir\AU5
+
+build CMakeFiles/C.dir/AU6/atividades.c.obj: C_COMPILER__C_unscanned_Debug C$:/Users/breno/OneDrive/Documentos/Estudos/Códigos/C/AU6/atividades.c || cmake_object_order_depends_target_C
+  DEP_FILE = CMakeFiles\C.dir\AU6\atividades.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C.dir
+  OBJECT_FILE_DIR = CMakeFiles\C.dir\AU6
+
+build CMakeFiles/C.dir/AU7/au7ex1.c.obj: C_COMPILER__C_unscanned_Debug C$:/Users/breno/OneDrive/Documentos/Estudos/Códigos/C/AU7/au7ex1.c || cmake_object_order_depends_target_C
+  DEP_FILE = CMakeFiles\C.dir\AU7\au7ex1.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C.dir
+  OBJECT_FILE_DIR = CMakeFiles\C.dir\AU7
+
+build CMakeFiles/C.dir/AU7/au7ex2.c.obj: C_COMPILER__C_unscanned_Debug C$:/Users/breno/OneDrive/Documentos/Estudos/Códigos/C/AU7/au7ex2.c || cmake_object_order_depends_target_C
+  DEP_FILE = CMakeFiles\C.dir\AU7\au7ex2.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C.dir
+  OBJECT_FILE_DIR = CMakeFiles\C.dir\AU7
+
+build CMakeFiles/C.dir/AU8/au8ex1.c.obj: C_COMPILER__C_unscanned_Debug C$:/Users/breno/OneDrive/Documentos/Estudos/Códigos/C/AU8/au8ex1.c || cmake_object_order_depends_target_C
+  DEP_FILE = CMakeFiles\C.dir\AU8\au8ex1.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C.dir
+  OBJECT_FILE_DIR = CMakeFiles\C.dir\AU8
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C
@@ -87,7 +129,7 @@ build CMakeFiles/C.dir/AU3/au3ex2.c.obj: C_COMPILER__C_unscanned_Debug C$:/Users
 #############################################
 # Link the executable C.exe
 
-build C.exe: C_EXECUTABLE_LINKER__C_Debug CMakeFiles/C.dir/main.c.obj CMakeFiles/C.dir/AU1/au1ex1.c.obj CMakeFiles/C.dir/AU2/au2ex1.c.obj CMakeFiles/C.dir/AU3/au3ex1.c.obj CMakeFiles/C.dir/AU3/au3ex2.c.obj
+build C.exe: C_EXECUTABLE_LINKER__C_Debug CMakeFiles/C.dir/main.c.obj CMakeFiles/C.dir/AU1/au1ex1.c.obj CMakeFiles/C.dir/AU2/au2ex1.c.obj CMakeFiles/C.dir/AU3/au3ex1.c.obj CMakeFiles/C.dir/AU3/au3ex2.c.obj CMakeFiles/C.dir/AU3/au3ex3.c.obj CMakeFiles/C.dir/AU4/au4ex1.c.obj CMakeFiles/C.dir/AU5/au5ex1.c.obj CMakeFiles/C.dir/AU6/atividades.c.obj CMakeFiles/C.dir/AU7/au7ex1.c.obj CMakeFiles/C.dir/AU7/au7ex2.c.obj CMakeFiles/C.dir/AU8/au8ex1.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C.dir

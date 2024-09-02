@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
+//#include <string.h>
 
 int main() {
     /*char palavra[20] = "Hello World";
@@ -34,4 +34,5 @@ int main() {
         ptr[i] = i;
         printf("%d", *ptr+i);
     }
+    free(ptr);
 }
