@@ -27,7 +27,7 @@ public class MenuFactory {
     }
     public static void createLocationInfoMenu(Location location) {
         Menu infoMenu = new Menu("Localização " + location.id);
-        infoMenu.setSize(80, 14);
+        infoMenu.setSize(80, 16);
         infoMenu.applyChanges();
         infoMenu.text("Informações da Localização",1).center();
         infoMenu.text("ID: " + location.getId(),2).left();
@@ -41,6 +41,9 @@ public class MenuFactory {
         infoMenu.text("Lote: " + location.getLote(), 10).left();
         infoMenu.text("Número: " + location.getNumero(), 11).left();
         infoMenu.text("Quantidade Máxima de Hospedes: " + location.getQuantidadeMaxHospede(), 12).left();
+        infoMenu.text("Quantidade de quartos: " + location.getQuantidadeQuarto(), 13).left();
+        infoMenu.text("Quantidade de banheiros: " + location.getQuantidadeBanheiro(), 14).left();
+        infoMenu.text("Quantidade de camas:" + location.getQuantidadeBanheiro(), 15).left();
         infoMenu.printMenu();
         infoMenu.input("Insira qualquer valor para continuar...");
     }

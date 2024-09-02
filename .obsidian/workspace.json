@@ -1,54 +1,18 @@
 {
   "main": {
-    "id": "3248116c8b41688b",
+    "id": "0bb28d6c366131ed",
     "type": "split",
     "children": [
       {
-        "id": "5fe6b89566609a45",
+        "id": "ca6a65412c521c94",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "63d9f80050d24093",
+            "id": "c85656df14807604",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-=======
-            "id": "b8092df97d5ff28b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trabalho/Horário.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8902e09c0f2fac4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31916196a70b7b53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trabalho/TODO.md",
-                "mode": "source",
-                "source": false
-              }
->>>>>>> d4bee94953441b88e51290cd3528affb37092f9b
             }
           }
         ]
@@ -57,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5118cdb8e52a50ed",
+    "id": "a7ae938b796ec67c",
     "type": "split",
     "children": [
       {
-        "id": "d0673fccc1e4235f",
+        "id": "2187fbb755664738",
         "type": "tabs",
         "children": [
           {
-            "id": "18ccc823add71471",
+            "id": "9b377809b98c6065",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -75,7 +39,7 @@
             }
           },
           {
-            "id": "e2050daac19bafa9",
+            "id": "1a7ebc568ecf0218",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -90,7 +54,7 @@
             }
           },
           {
-            "id": "5d16d05f1d53caa0",
+            "id": "486d8e26b16d7619",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "de3b784f2cdc678a",
+    "id": "dad0df64965af65a",
     "type": "split",
     "children": [
       {
-        "id": "a18be7dba4fc5b78",
+        "id": "a7b5e466d5c55f27",
         "type": "tabs",
         "children": [
           {
-            "id": "57f2eb8638c3db32",
+            "id": "bb1bdf3be4cd4b0b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -120,15 +84,11 @@
             }
           },
           {
-            "id": "66abae6b7a6386fa",
+            "id": "fc303b70b4684058",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Trabalho/TODO.md",
->>>>>>> d4bee94953441b88e51290cd3528affb37092f9b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,22 +100,18 @@
             }
           },
           {
-            "id": "06980a22d6fe68be",
+            "id": "498647c1cb895c73",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Trabalho/TODO.md",
->>>>>>> d4bee94953441b88e51290cd3528affb37092f9b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e6045b4384231b89",
+            "id": "9a2f868230666dbb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,17 +122,11 @@
             }
           },
           {
-            "id": "b2178058948cec02",
+            "id": "feec70458040ade2",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
               "state": {}
-=======
-              "state": {
-                "file": "Trabalho/TODO.md"
-              }
->>>>>>> d4bee94953441b88e51290cd3528affb37092f9b
             }
           }
         ]
@@ -192,43 +142,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-<<<<<<< HEAD
-  "active": "63d9f80050d24093",
+  "active": "c85656df14807604",
   "lastOpenFiles": []
-=======
-  "active": "31916196a70b7b53",
-  "lastOpenFiles": [
-    "Códigos/AtividadeJava/target/classes/atividade3/Prova1/Main.class",
-    "Códigos/AtividadeJava/src/main/java/atividade3/Prova1/Main.java~",
-    "Códigos/AtividadeJava/target/classes/Wolfy.class",
-    "Códigos/AtividadeJava/target/classes/atividade3/Prova1/Reader.class",
-    "Códigos/AtividadeJava/target/classes/atividade3/Prova1/Location.class",
-    "Códigos/AtividadeJava/target/classes/atividade3/Prova1/Client.class",
-    "Códigos/AtividadeJava/target/classes/atividade3/Aula5ex1/Treino.class",
-    "Códigos/AtividadeJava/target/classes/atividade3/Aula5ex1/Professor.class",
-    "Códigos/AtividadeJava/target/classes/atividade3/Aula5ex1/Plano.class",
-    "Códigos/AtividadeJava/target/classes/atividade3/Aula5ex1/Pessoa.class",
-    "Códigos/AtividadeJava/target/classes/atividade3/Aula5ex1/Pagamento.class",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.png",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.svg",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
-    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
-    "Trabalho/TODO.md",
-    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
-    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.png",
-    "Trabalho/Horário.md",
-    "Trabalho/Impressão.md",
-    "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.svg"
-  ]
->>>>>>> d4bee94953441b88e51290cd3528affb37092f9b
 }
