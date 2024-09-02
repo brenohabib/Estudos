@@ -91,8 +91,8 @@
 - [x] Verificar fonte das câmeras
 - [x] Verificar wifi outdoor
 - [ ] Fazer link entre casa e caixa d'água
-- [ ] Colocar 1 ou 2 câmeras IP ao redor da casa
-- Notas: Passei 10 metros de cabo de internet, troquei 1 fonte 12v 1A de uma câmera, troquei 1 fonte 48v 0.32A da speed; Acabei trazendo um nobreak que não estava funcionando; Nobreak com problemas no relé/microprocessador
+- [ ] Colocar 1 câmera IP na casa
+- Notas 1: Passei 10 metros de cabo de internet, troquei 1 fonte 12v 1A de uma câmera, troquei 1 fonte 48v 0.32A da speed; Acabei trazendo um nobreak que não estava funcionando; Nobreak com problemas no microprocessador
 
 ## MARIA
 
