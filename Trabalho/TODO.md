@@ -43,10 +43,11 @@
 ---
 ## PAULO GARCIA
 
-- [ ] Instalar 1 câmera IP
-- [ ] Instalar 1 câmera analógica
-- [ ] Levar 2 nobreak que arrumamos
-- [ ] Levar 1 nobreak novo
+- [x] Instalar 1 câmera IP
+- [x] Instalar 1 câmera analógica
+- [x] Levar 2 nobreak que arrumamos
+- [x] Levar 1 nobreak novo
+- Data: 30/08/2024
 
 ## OBJETIVA
 
