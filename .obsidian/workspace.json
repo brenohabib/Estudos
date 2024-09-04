@@ -11,11 +11,9 @@
             "id": "c85656df14807604",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Trabalho/TODO.md",
-                "mode": "source",
-                "source": false
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/TODO.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/TODO.md"
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md"
               }
             }
           }
@@ -160,6 +158,14 @@
   },
   "active": "c85656df14807604",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
+    "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Equivalência.md",
+    "Trabalho/Horário.md",
+    "Trabalho/TODO.md",
     "Códigos/C/cmake-build-debug/CMakeFiles/C.dir/AU8",
     "Códigos/C/CMakeLists.txt~",
     "Códigos/C/cmake-build-debug/CMakeFiles/C.dir/AU7",
@@ -169,7 +175,6 @@
     "Códigos/C/cmake-build-debug/AU8",
     "Códigos/C/cmake-build-debug/AU7",
     "Códigos/C/cmake-build-debug/AU6",
-    "Códigos/C/cmake-build-debug/AU5",
-    "Códigos/C/cmake-build-debug/AU4"
+    "Códigos/C/cmake-build-debug/AU5"
   ]
 }

@@ -197,8 +197,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 	"elements": [
 		{
 			"type": "text",
-			"version": 237,
-			"versionNonce": 787948108,
+			"version": 238,
+			"versionNonce": 2041911799,
 			"isDeleted": false,
 			"id": "Pb8sflLI",
 			"fillStyle": "hachure",
@@ -218,7 +218,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455955,
+			"updated": 1725288269753,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -230,12 +230,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1  2  3  4\n5  6  7  8",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "text",
-			"version": 253,
-			"versionNonce": 960231540,
+			"version": 254,
+			"versionNonce": 2067457273,
 			"isDeleted": false,
 			"id": "fCXoxxtU",
 			"fillStyle": "hachure",
@@ -255,7 +255,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455956,
+			"updated": 1725288269754,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -267,7 +267,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1  2\n3  4\n5  6\n7  8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "line",
@@ -527,8 +527,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 415,
-			"versionNonce": 49608908,
+			"version": 416,
+			"versionNonce": 369935127,
 			"isDeleted": false,
 			"id": "WRF4xsX4",
 			"fillStyle": "hachure",
@@ -537,8 +537,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.535419643102383,
-			"x": -380.14646843670056,
-			"y": -166.65272072513463,
+			"x": -385.2148118734011,
+			"y": -179.57106645026929,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 242.1664276123047,
@@ -548,7 +548,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455956,
+			"updated": 1725288269755,
 			"link": null,
 			"locked": false,
 			"fontSize": 19.13105235218648,
@@ -560,12 +560,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "vire e jogue ela na outra\n",
 			"lineHeight": 1.25,
-			"baseline": 40
+			"baseline": 41
 		},
 		{
 			"type": "text",
-			"version": 208,
-			"versionNonce": 227330548,
+			"version": 209,
+			"versionNonce": 811982297,
 			"isDeleted": false,
 			"id": "4jdsgBM3",
 			"fillStyle": "hachure",
@@ -585,7 +585,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455957,
+			"updated": 1725288269756,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -597,12 +597,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1°",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 63,
-			"versionNonce": 1978924876,
+			"version": 64,
+			"versionNonce": 1473398839,
 			"isDeleted": false,
 			"id": "awcMGjOo",
 			"fillStyle": "hachure",
@@ -622,7 +622,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455957,
+			"updated": 1725288269756,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -634,12 +634,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "2°",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 743,
-			"versionNonce": 315059060,
+			"version": 744,
+			"versionNonce": 2071902905,
 			"isDeleted": false,
 			"id": "NJXl1Z1l",
 			"fillStyle": "hachure",
@@ -659,7 +659,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455957,
+			"updated": 1725288269756,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -671,7 +671,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "multiplique posição com posição e some tudo\n",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "line",
@@ -779,8 +779,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 159,
-			"versionNonce": 1884173772,
+			"version": 160,
+			"versionNonce": 216672599,
 			"isDeleted": false,
 			"id": "8T3j1F6p",
 			"fillStyle": "hachure",
@@ -817,7 +817,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 					"type": "arrow"
 				}
 			],
-			"updated": 1724681455957,
+			"updated": 1725288269757,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -829,7 +829,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1  2\n3  4\n5  6\n7  8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "line",
@@ -937,8 +937,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 125,
-			"versionNonce": 724688116,
+			"version": 126,
+			"versionNonce": 757660569,
 			"isDeleted": false,
 			"id": "eWafsriM",
 			"fillStyle": "hachure",
@@ -975,7 +975,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 					"type": "arrow"
 				}
 			],
-			"updated": 1724681455958,
+			"updated": 1725288269757,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -987,12 +987,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1\n2\n3\n4",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "text",
-			"version": 114,
-			"versionNonce": 1058905164,
+			"version": 115,
+			"versionNonce": 1386800759,
 			"isDeleted": false,
 			"id": "czPX0pZj",
 			"fillStyle": "hachure",
@@ -1012,7 +1012,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455958,
+			"updated": 1725288269757,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1024,7 +1024,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "5\n6\n7\n8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "arrow",
@@ -1236,8 +1236,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 49,
-			"versionNonce": 5381748,
+			"version": 50,
+			"versionNonce": 899162233,
 			"isDeleted": false,
 			"id": "eBvm5HeA",
 			"fillStyle": "hachure",
@@ -1257,7 +1257,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455958,
+			"updated": 1725288269758,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1269,12 +1269,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1.1 + 2.3 + 3.5 + 4.7 = 50",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 140,
-			"versionNonce": 2084319948,
+			"version": 141,
+			"versionNonce": 668139415,
 			"isDeleted": false,
 			"id": "WOYpfPew",
 			"fillStyle": "hachure",
@@ -1294,7 +1294,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455959,
+			"updated": 1725288269758,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1306,12 +1306,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "3º",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 337,
-			"versionNonce": 451817460,
+			"version": 338,
+			"versionNonce": 848275801,
 			"isDeleted": false,
 			"id": "setcsLoO",
 			"fillStyle": "hachure",
@@ -1331,7 +1331,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455959,
+			"updated": 1725288269759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1343,7 +1343,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "esse seria o valor na pisição da matriz",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "line",
@@ -1451,8 +1451,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 184,
-			"versionNonce": 1984166220,
+			"version": 185,
+			"versionNonce": 1050473655,
 			"isDeleted": false,
 			"id": "sEcjJHGI",
 			"fillStyle": "hachure",
@@ -1472,7 +1472,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455959,
+			"updated": 1725288269759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1484,7 +1484,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1  2\n3  4\n5  6\n7  8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "line",
@@ -1592,8 +1592,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 145,
-			"versionNonce": 2064388468,
+			"version": 146,
+			"versionNonce": 1029903929,
 			"isDeleted": false,
 			"id": "3tchw8Rq",
 			"fillStyle": "hachure",
@@ -1630,7 +1630,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 					"type": "arrow"
 				}
 			],
-			"updated": 1724681455959,
+			"updated": 1725288269759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1642,12 +1642,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1\n2\n3\n4",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "text",
-			"version": 137,
-			"versionNonce": 412020684,
+			"version": 138,
+			"versionNonce": 246105559,
 			"isDeleted": false,
 			"id": "nligrxfL",
 			"fillStyle": "hachure",
@@ -1667,7 +1667,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455959,
+			"updated": 1725288269759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1679,7 +1679,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "5\n6\n7\n8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "arrow",
@@ -1891,8 +1891,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 69,
-			"versionNonce": 804373236,
+			"version": 70,
+			"versionNonce": 2029381401,
 			"isDeleted": false,
 			"id": "hcGIvGT7",
 			"fillStyle": "hachure",
@@ -1912,7 +1912,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455959,
+			"updated": 1725288269759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1924,7 +1924,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1.2 + 2.4 + 3.6 + 4.8 = 60",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "line",
@@ -2032,8 +2032,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 243,
-			"versionNonce": 1396119116,
+			"version": 244,
+			"versionNonce": 655520503,
 			"isDeleted": false,
 			"id": "cgEfpRza",
 			"fillStyle": "hachure",
@@ -2058,7 +2058,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 					"type": "arrow"
 				}
 			],
-			"updated": 1724681455959,
+			"updated": 1725288269759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2070,7 +2070,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1  2\n3  4\n5  6\n7  8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "line",
@@ -2178,8 +2178,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 203,
-			"versionNonce": 1881490548,
+			"version": 204,
+			"versionNonce": 1606130681,
 			"isDeleted": false,
 			"id": "2YDVR5E1",
 			"fillStyle": "hachure",
@@ -2212,7 +2212,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 					"type": "arrow"
 				}
 			],
-			"updated": 1724681455959,
+			"updated": 1725288269759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2224,12 +2224,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1\n2\n3\n4",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "text",
-			"version": 199,
-			"versionNonce": 51801292,
+			"version": 200,
+			"versionNonce": 1079442455,
 			"isDeleted": false,
 			"id": "EYeV176s",
 			"fillStyle": "hachure",
@@ -2266,7 +2266,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 					"type": "arrow"
 				}
 			],
-			"updated": 1724681455959,
+			"updated": 1725288269759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2278,7 +2278,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "5\n6\n7\n8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "arrow",
@@ -2542,8 +2542,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 262,
-			"versionNonce": 829199860,
+			"version": 263,
+			"versionNonce": 1370993881,
 			"isDeleted": false,
 			"id": "OBTbf5l3",
 			"fillStyle": "hachure",
@@ -2563,7 +2563,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455959,
+			"updated": 1725288269759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2575,7 +2575,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1  2\n3  4\n5  6\n7  8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "line",
@@ -2683,8 +2683,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 223,
-			"versionNonce": 1506210636,
+			"version": 224,
+			"versionNonce": 242049335,
 			"isDeleted": false,
 			"id": "7Y41jWf3",
 			"fillStyle": "hachure",
@@ -2717,7 +2717,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 					"type": "arrow"
 				}
 			],
-			"updated": 1724681455959,
+			"updated": 1725288269759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2729,12 +2729,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1\n2\n3\n4",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "text",
-			"version": 219,
-			"versionNonce": 1087223668,
+			"version": 220,
+			"versionNonce": 1652404665,
 			"isDeleted": false,
 			"id": "AAYYSZp2",
 			"fillStyle": "hachure",
@@ -2771,7 +2771,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 					"type": "arrow"
 				}
 			],
-			"updated": 1724681455959,
+			"updated": 1725288269759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2783,7 +2783,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "5\n6\n7\n8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "arrow",
@@ -3051,8 +3051,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 63,
-			"versionNonce": 1168288204,
+			"version": 64,
+			"versionNonce": 1387930199,
 			"isDeleted": false,
 			"id": "2UzBAhsS",
 			"fillStyle": "hachure",
@@ -3072,7 +3072,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455960,
+			"updated": 1725288269760,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3084,12 +3084,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "5.1 + 6.3 + 7.5 + 8.7 = 114",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 115,
-			"versionNonce": 1519298804,
+			"version": 116,
+			"versionNonce": 1731269273,
 			"isDeleted": false,
 			"id": "v7DG89Gk",
 			"fillStyle": "hachure",
@@ -3109,7 +3109,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455960,
+			"updated": 1725288269760,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3121,12 +3121,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "5.2 + 6.4 + 7.6 + 8.8 = 140",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 107,
-			"versionNonce": 1505988684,
+			"version": 108,
+			"versionNonce": 772915063,
 			"isDeleted": false,
 			"id": "uw3xjtbj",
 			"fillStyle": "hachure",
@@ -3146,7 +3146,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455960,
+			"updated": 1725288269760,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3158,7 +3158,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "50  60\n114  140",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "line",
@@ -3266,8 +3266,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 156,
-			"versionNonce": 1110796916,
+			"version": 157,
+			"versionNonce": 1149589369,
 			"isDeleted": false,
 			"id": "6QqBEAck",
 			"fillStyle": "hachure",
@@ -3276,8 +3276,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.6221266706597985,
-			"x": -333.72728758694234,
-			"y": 175.14165693522202,
+			"x": -333.99710061590787,
+			"y": 174.35529687394015,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 94.29991149902344,
@@ -3287,7 +3287,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455960,
+			"updated": 1725288269761,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3299,12 +3299,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1° posição",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 250,
-			"versionNonce": 906208972,
+			"version": 251,
+			"versionNonce": 850966679,
 			"isDeleted": false,
 			"id": "ytLS51uo",
 			"fillStyle": "hachure",
@@ -3313,8 +3313,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0.48331640327240954,
-			"x": 309.6012121454659,
-			"y": 178.0317780292842,
+			"x": 308.94937867863473,
+			"y": 180.67640190857443,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 103.11990356445312,
@@ -3324,7 +3324,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269761,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3336,12 +3336,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "2° posição",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 177,
-			"versionNonce": 1518861300,
+			"version": 178,
+			"versionNonce": 2092826713,
 			"isDeleted": false,
 			"id": "VqjVYlyr",
 			"fillStyle": "hachure",
@@ -3350,8 +3350,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.6221266706597985,
-			"x": -374.18357974937663,
-			"y": 477.6072456612381,
+			"x": -375.31708730059296,
+			"y": 474.30367996296434,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 102.49990844726562,
@@ -3361,7 +3361,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269761,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3373,12 +3373,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "3° posição",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 234,
-			"versionNonce": 1862069580,
+			"version": 235,
+			"versionNonce": 912494007,
 			"isDeleted": false,
 			"id": "6Cuvecrz",
 			"fillStyle": "hachure",
@@ -3387,8 +3387,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0.6563311708266717,
-			"x": 348.38950925803977,
-			"y": 486.0905308385309,
+			"x": 347.3567555461404,
+			"y": 489.1237905697013,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 101.67990112304688,
@@ -3398,7 +3398,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3410,7 +3410,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "4° posição",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "line",
@@ -3614,8 +3614,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 433,
-			"versionNonce": 1032609140,
+			"version": 434,
+			"versionNonce": 2108591417,
 			"isDeleted": false,
 			"id": "BcnZMzdf",
 			"fillStyle": "hachure",
@@ -3635,7 +3635,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3647,12 +3647,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1\n2\n3\n4",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "text",
-			"version": 422,
-			"versionNonce": 1980326860,
+			"version": 423,
+			"versionNonce": 1681309399,
 			"isDeleted": false,
 			"id": "emKOnUHq",
 			"fillStyle": "hachure",
@@ -3672,7 +3672,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3684,12 +3684,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "5\n6\n7\n8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "text",
-			"version": 429,
-			"versionNonce": 1418235636,
+			"version": 430,
+			"versionNonce": 783973913,
 			"isDeleted": false,
 			"id": "FCn3t6pC",
 			"fillStyle": "hachure",
@@ -3709,7 +3709,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3721,7 +3721,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1  2\n3  4\n5  6\n7  8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "line",
@@ -3977,8 +3977,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 435,
-			"versionNonce": 21170764,
+			"version": 436,
+			"versionNonce": 247909367,
 			"isDeleted": false,
 			"id": "wyO7yxQ7",
 			"fillStyle": "hachure",
@@ -3998,7 +3998,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4010,12 +4010,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1\n2\n3\n4",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "text",
-			"version": 424,
-			"versionNonce": 1879216244,
+			"version": 425,
+			"versionNonce": 1054167801,
 			"isDeleted": false,
 			"id": "0UI2IAVO",
 			"fillStyle": "hachure",
@@ -4035,7 +4035,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4047,7 +4047,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "5\n6\n7\n8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "line",
@@ -4103,8 +4103,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 507,
-			"versionNonce": 1938022604,
+			"version": 508,
+			"versionNonce": 1108882711,
 			"isDeleted": false,
 			"id": "qbVoEqiX",
 			"fillStyle": "hachure",
@@ -4124,7 +4124,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4136,7 +4136,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1  2\n3  4\n5  6\n7  8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "line",
@@ -4280,8 +4280,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 297,
-			"versionNonce": 1606443508,
+			"version": 298,
+			"versionNonce": 847416281,
 			"isDeleted": false,
 			"id": "5wwFvul7",
 			"fillStyle": "hachure",
@@ -4301,7 +4301,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4313,7 +4313,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1  2\n3  4\n5  6\n7  8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "line",
@@ -4421,8 +4421,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 285,
-			"versionNonce": 1147529036,
+			"version": 286,
+			"versionNonce": 362773047,
 			"isDeleted": false,
 			"id": "UqrP8CcY",
 			"fillStyle": "hachure",
@@ -4442,7 +4442,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4454,7 +4454,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1  2\n3  4\n5  6\n7  8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "line",
@@ -4666,8 +4666,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 248,
-			"versionNonce": 180880244,
+			"version": 249,
+			"versionNonce": 836085945,
 			"isDeleted": false,
 			"id": "kcN1C0IJ",
 			"fillStyle": "hachure",
@@ -4687,7 +4687,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4699,12 +4699,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1\n2\n3\n4",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "text",
-			"version": 237,
-			"versionNonce": 1749229004,
+			"version": 238,
+			"versionNonce": 1044454231,
 			"isDeleted": false,
 			"id": "4KywKkbD",
 			"fillStyle": "hachure",
@@ -4724,7 +4724,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4736,7 +4736,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "5\n6\n7\n8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "line",
@@ -4844,8 +4844,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 198,
-			"versionNonce": 123696372,
+			"version": 199,
+			"versionNonce": 376580505,
 			"isDeleted": false,
 			"id": "L3eXGNgU",
 			"fillStyle": "hachure",
@@ -4865,7 +4865,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4877,12 +4877,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1\n2\n3\n4",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "text",
-			"version": 187,
-			"versionNonce": 943031372,
+			"version": 188,
+			"versionNonce": 1615960183,
 			"isDeleted": false,
 			"id": "4BKcchsz",
 			"fillStyle": "hachure",
@@ -4902,7 +4902,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4914,7 +4914,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "5\n6\n7\n8",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "arrow",
@@ -4962,8 +4962,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 28,
-			"versionNonce": 856471156,
+			"version": 29,
+			"versionNonce": 965447289,
 			"isDeleted": false,
 			"id": "N7P2KFMn",
 			"fillStyle": "hachure",
@@ -4983,7 +4983,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4995,12 +4995,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "1°",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 30,
-			"versionNonce": 1511463628,
+			"version": 31,
+			"versionNonce": 563442071,
 			"isDeleted": false,
 			"id": "8rqmtIej",
 			"fillStyle": "hachure",
@@ -5020,7 +5020,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455961,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5032,12 +5032,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "2°",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 41,
-			"versionNonce": 1251330036,
+			"version": 42,
+			"versionNonce": 31807321,
 			"isDeleted": false,
 			"id": "ctiCMe4p",
 			"fillStyle": "hachure",
@@ -5057,7 +5057,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455962,
+			"updated": 1725288269762,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5069,12 +5069,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "3°",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 116,
-			"versionNonce": 679600460,
+			"version": 117,
+			"versionNonce": 2067867319,
 			"isDeleted": false,
 			"id": "AIgskFhP",
 			"fillStyle": "hachure",
@@ -5094,7 +5094,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455962,
+			"updated": 1725288269763,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5106,12 +5106,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "4°",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 127,
-			"versionNonce": 33597812,
+			"version": 128,
+			"versionNonce": 835912761,
 			"isDeleted": false,
 			"id": "g3ep2B2o",
 			"fillStyle": "hachure",
@@ -5131,7 +5131,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455962,
+			"updated": 1725288269763,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5143,12 +5143,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "fim",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 25,
-			"versionNonce": 449828812,
+			"version": 26,
+			"versionNonce": 1274623959,
 			"isDeleted": false,
 			"id": "jsxNvtz8",
 			"fillStyle": "hachure",
@@ -5168,7 +5168,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455962,
+			"updated": 1725288269763,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5180,12 +5180,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "A",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 409,
-			"versionNonce": 479419124,
+			"version": 410,
+			"versionNonce": 1966609689,
 			"isDeleted": false,
 			"id": "xyMwGlmT",
 			"fillStyle": "hachure",
@@ -5205,7 +5205,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455962,
+			"updated": 1725288269764,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5217,12 +5217,12 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "B",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 125,
-			"versionNonce": 756743756,
+			"version": 126,
+			"versionNonce": 701637879,
 			"isDeleted": false,
 			"id": "UGmZvecF",
 			"fillStyle": "hachure",
@@ -5242,7 +5242,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455963,
+			"updated": 1725288269764,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5254,7 +5254,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "A.B",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "freedraw",
@@ -5906,8 +5906,8 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		},
 		{
 			"type": "text",
-			"version": 130,
-			"versionNonce": 80993396,
+			"version": 131,
+			"versionNonce": 797444601,
 			"isDeleted": false,
 			"id": "Cms5VBMB",
 			"fillStyle": "hachure",
@@ -5927,7 +5927,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724681455963,
+			"updated": 1725288269764,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5939,7 +5939,7 @@ multiplica e soma o que sobrar ^Cms5VBMB
 			"containerId": null,
 			"originalText": "multiplica e soma o que sobrar",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		}
 	],
 	"appState": {
@@ -5957,10 +5957,10 @@ multiplica e soma o que sobrar ^Cms5VBMB
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1009.0096701708935,
-		"scrollY": 375.76676678430636,
+		"scrollX": 1041.6090518613926,
+		"scrollY": -1282.0399718668532,
 		"zoom": {
-			"value": 0.55
+			"value": 0.6000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
