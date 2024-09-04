@@ -158,13 +158,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c85656df14807604",
+  "active": "9b377809b98c6065",
   "lastOpenFiles": [
+    "Códigos/OSPrisao/src/main/java/org/ProvaPrograma/Verificador.java~",
+    "Códigos/OSPrisao/src/main/java/org/ProvaPrograma/Gerenciador.java",
+    "Códigos/OSPrisao/src/main/java/org/ProvaPrograma/Verificador.java",
+    "Códigos/OSPrisao/src/main/java/org/ProvaPrograma/Solicitacao.java",
+    "Códigos/OSPrisao/src/main/java/org/ProvaPrograma/Supervisor.java",
+    "Códigos/OSPrisao/src/main/java/org/ProvaPrograma/Prisioneiro.java",
+    "Códigos/OSPrisao/src/main/java/org/ProvaPrograma/Swing.java",
+    "Códigos/OSPrisao/src/main/java/org/ProvaPrograma/Pessoa.java",
+    "Códigos/OSPrisao/src/main/java/org/ProvaPrograma/Relatorio.java",
+    "Códigos/OSPrisao/src/main/java/org/ProvaPrograma/SGOS.java",
+    "Códigos/OSPrisao/src/main/java/org/ProvaPrograma/OrdemServico.java",
     "Trabalho/Impressão.md",
     "Trabalho/TODO.md",
     "Trabalho/Horário.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Modelo de Entidade e Relacionamento.md",
-    "Códigos/Diagramas/OSPrisao.simp.bak",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Relacionamentos.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Introdução.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/At2.md",
@@ -175,15 +185,6 @@
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Lógica/Álgebra Booleana.md",
     "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Introdução.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Equivalência.md",
-    "Códigos/C/cmake-build-debug/CMakeFiles/C.dir/AU8",
-    "Códigos/C/CMakeLists.txt~",
-    "Códigos/C/cmake-build-debug/CMakeFiles/C.dir/AU7",
-    "Códigos/C/cmake-build-debug/CMakeFiles/C.dir/AU6",
-    "Códigos/C/cmake-build-debug/CMakeFiles/C.dir/AU5",
-    "Códigos/C/cmake-build-debug/CMakeFiles/C.dir/AU4",
-    "Códigos/C/cmake-build-debug/AU8",
-    "Códigos/C/cmake-build-debug/AU7",
-    "Códigos/C/cmake-build-debug/AU6"
+    "Faculdade Eng. Software/Matérias/3º Semestre/Lógica Aplicada a Computação/Equivalência.md"
   ]
 }
