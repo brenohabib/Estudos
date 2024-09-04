@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sim-project version="14.60" multi-file="no" uid="simp7ce7cb8e9c454ecc9b604423ab5594fa" creation-date="09/03/2024 13:46:20">
+  <meta>
+    <name>OSPrisao</name>
+    <authors>breno habib</authors>
+    <description>Um sistema de gerenciamento de ordens de serviço de prisão</description>
+  </meta>
+  <counters models="1">
+    <entity-names>
+      <counter>
+        <item-type stereotype="struct" type-id="class" type="Class" />
+        <value>1</value>
+      </counter>
+      <counter>
+        <item-type type-id="class" type="Class" />
+        <value>13</value>
+      </counter>
+      <counter>
+        <item-type stereotype="interface" type-id="uml-interface-classifier" type="Interface" />
+        <value>1</value>
+      </counter>
+    </entity-names>
+    <entity-ids>
+      <counter>
+        <item-type type-id="class" type="Class" />
+        <value>15</value>
+      </counter>
+      <counter>
+        <item-type type-id="relationship" type="Association" />
+        <value>2</value>
+      </counter>
+      <counter>
+        <item-type type-id="property" type="Property" />
+        <value>5</value>
+      </counter>
+      <counter>
+        <item-type type-id="generalization" type="Generalization" />
+        <value>5</value>
+      </counter>
+      <counter>
+        <item-type type-id="uml-interface-classifier" type="Interface" />
+        <value>2</value>
+      </counter>
+    </entity-ids>
+    <diagrams>
+      <counter>
+        <type>SoftwareIdeasModeler.Core.Diagrams.UmlDiagrams.UmlClassDiagram</type>
+        <value>1</value>
+      </counter>
+    </diagrams>
+    <fields />
+  </counters>
+  <alias-groups />
+  <management uid="md-58487cc444a84751b8b66c2f1adc2317" name="" task-id-sequence="0">
+    <working-schedule uid="ws-d28e2643013c407aab210bb7275ab73b" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+    <persons>
+      <person id="">
+        <first-name>breno</first-name>
+        <last-name>habib</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+        <working-schedule uid="ws-e1c490af46594cc2b27fb49341e83310" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+      </person>
+      <person id="">
+        <first-name>breno</first-name>
+        <last-name>habib</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+      </person>
+    </persons>
+    <teams />
+    <sprints />
+    <projects />
+    <modules />
+    <tasks />
+    <to-dos />
+  </management>
+  <glossary id="glsr-1310876456274c0397a83c6ffc2af9bc" name="" order-index="-1" />
+  <types default="UML">
+    <type-sets>
+      <type-set file="UmlTypes.xml" />
+    </type-sets>
+    <custom-types>
+      <parameters />
+      <types>
+        <type id="Class:e37e1fc674f84baaa173e03a67bd859a" name="OrdemServico" class-ref="e37e1fc674f84baaa173e03a67bd859a" />
+      </types>
+    </custom-types>
+  </types>
+  <items />
+  <models>
+    <model id="pb18c43a7f5e84fdc971b357a59a9a0d4_638338478" name="Model1" namespace="" order-index="1">
+      <meta>
+        <authors>
+          <author> </author>
+        </authors>
+        <description />
+        <creation-date>09/03/2024 13:46:53</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+      <diagram type="uml-class" id="p492ce09b4895474dbcaa9852a7121cac_313146523" name="ClassDiagram1" order-index="1" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="-249,-117" zoom="0.6">
+        <style>
+          <background-color index="1" color="#FFFFFFFF" />
+          <background-color index="2" color="#FFFFFFFF" />
+          <background-type type="solid" />
+        </style>
+        <meta>
+          <authors>
+            <author> </author>
+          </authors>
+          <description />
+          <creation-date>09/03/2024 13:46:53</creation-date>
+          <change-date>09/04/2024 11:02:21</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <abstract-items>
+          <item id="d7d05a25e32d49d98045b451b1a8b3e1" cid="C012" type="class" name="Relatorio" creator="" creation-date="09/03/2024 20:23:03" visibility="undefined" />
+          <item id="ce6362fe1f4546479252ae24940a9795" cid="C014" type="class" name="DB" creator="" creation-date="09/04/2024 11:02:21" />
+          <item id="af55a264fe924dd9962f7f632a690712" cid="C007" type="class" name="Gerenciador" creator="" creation-date="09/03/2024 20:19:04" visibility="undefined" />
+          <item id="b6d896f1d6524f3485defefafae8bb54" cid="C008" type="class" name="Pessoa" creator="" creation-date="09/03/2024 20:20:45" visibility="undefined" />
+          <item id="89af514938444c67918b566b7dc85ef3" cid="C004" type="class" name="Prisioneiro" creator="" creation-date="09/03/2024 20:12:02" visibility="undefined" />
+          <item id="8e2f7d9e99304a1ebb3b8b5f963ee011" cid="C005" type="class" name="Solicitacao" creator="" creation-date="09/03/2024 20:17:46" visibility="undefined" />
+          <item id="d43885e8ae424e489ceb1b4c02c12627" cid="C013" type="class" name="SGOS" creator="" creation-date="09/04/2024 10:58:38" />
+          <item id="24e279e0b5c144e693468f33ccb7e6b5" cid="C006" type="class" name="Verificador" creator="" creation-date="09/03/2024 20:18:36" visibility="undefined" />
+          <item id="8fd49a0625c740f78ed09058c18a5658" cid="C010" type="class" name="Tecnico" creator="" creation-date="09/03/2024 20:21:02" visibility="undefined" />
+          <item id="b23eae273ad047ffaff22dbbec77008e" cid="C011" type="class" name="Swing" creator="" creation-date="09/03/2024 20:22:31" visibility="undefined" />
+          <item id="7d4615d5a65c44758ed19d57b6e3b01e" cid="C009" type="class" name="Supervisor" creator="" creation-date="09/03/2024 20:20:56" visibility="undefined" />
+          <item id="e37e1fc674f84baaa173e03a67bd859a" cid="C002" type="class" name="OrdemServico" creator="" creation-date="09/03/2024 20:10:49" visibility="undefined" />
+        </abstract-items>
+        <layer id="ba28a5ece9b6430cbb1e2b8f3af8b733" name="Default" visible="true" enabled="true" locked="false">
+          <item id="e37e1fc674f84baaa173e03a67bd859a" iid="2e90b98136c94d71b50bc96bacfb64b3" show-fields="true" creation-date="09/03/2024 20:10:49" order-index="0" type="entity">
+            <layout ax="506" ay="156" awidth="140" aheight="160" x="506" y="156" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="89af514938444c67918b566b7dc85ef3" iid="74bba6d9eecb42908a2deddec0d0f0f8" show-fields="true" creation-date="09/03/2024 20:12:02" order-index="3" type="entity">
+            <layout ax="194" ay="156" awidth="140" aheight="160" x="201" y="156" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="8e2f7d9e99304a1ebb3b8b5f963ee011" iid="1dfce0beca4c4806b2c6e1951e646fa6" show-fields="true" creation-date="09/03/2024 20:17:46" order-index="4" type="entity">
+            <layout ax="194" ay="402" awidth="140" aheight="160" x="194" y="402" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="24e279e0b5c144e693468f33ccb7e6b5" iid="bc8d7281238c402494e0f01e1a852498" show-fields="true" creation-date="09/03/2024 20:18:36" order-index="5" type="entity">
+            <layout ax="794" ay="156" awidth="174" aheight="160" x="794" y="156" width="174" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="af55a264fe924dd9962f7f632a690712" iid="7ecdc29e032442ae881985ac87fef7c1" show-fields="true" creation-date="09/03/2024 20:19:04" order-index="6" type="entity">
+            <layout ax="811" ay="402" awidth="140" aheight="160" x="811" y="402" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="b6d896f1d6524f3485defefafae8bb54" iid="d5818ede830b4761893ac62ba597887a" show-fields="true" creation-date="09/03/2024 20:20:45" order-index="7" type="entity">
+            <layout ax="-94" ay="-104" awidth="140" aheight="160" x="-94" y="-104" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="7d4615d5a65c44758ed19d57b6e3b01e" iid="6c58b5744be24a6baef15b1583683e97" show-fields="true" creation-date="09/03/2024 20:20:56" order-index="8" type="entity">
+            <layout ax="-94" ay="156" awidth="140" aheight="160" x="-94" y="156" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="8fd49a0625c740f78ed09058c18a5658" iid="46aab0bafe4d48668098a744323b1c02" show-fields="true" creation-date="09/03/2024 20:21:02" order-index="9" type="entity">
+            <layout ax="194" ay="-104" awidth="140" aheight="160" x="202" y="-110" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="b23eae273ad047ffaff22dbbec77008e" iid="866780fb9cce4e45a00dfb34afd2f19a" show-fields="true" creation-date="09/03/2024 20:22:31" order-index="10" type="entity">
+            <layout ax="811" ay="-104" awidth="140" aheight="160" x="816" y="-107" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="d7d05a25e32d49d98045b451b1a8b3e1" iid="597e75f17b3e45b394cb555564d5ac9e" show-fields="true" creation-date="09/03/2024 20:23:03" order-index="11" type="entity">
+            <layout ax="506" ay="402" awidth="140" aheight="160" x="506" y="402" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="d43885e8ae424e489ceb1b4c02c12627" iid="e6788350d72a4c6792a348d7e8f67aff" show-fields="true" creation-date="09/04/2024 10:58:38" order-index="12" type="entity">
+            <layout ax="506" ay="-104" awidth="140" aheight="160" x="499" y="-113" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="ce6362fe1f4546479252ae24940a9795" iid="4b2c4302f17c4092b256780258a82f62" show-fields="true" creation-date="09/04/2024 11:02:21" order-index="13" type="entity">
+            <layout ax="1126" ay="156" awidth="140" aheight="160" x="1132" y="153" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+        </layer>
+      </diagram>
+    </model>
+  </models>
+</sim-project>
