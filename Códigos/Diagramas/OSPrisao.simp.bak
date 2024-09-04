@@ -155,7 +155,7 @@
             <class />
           </item>
           <item id="24e279e0b5c144e693468f33ccb7e6b5" iid="bc8d7281238c402494e0f01e1a852498" show-fields="true" creation-date="09/03/2024 20:18:36" order-index="5" type="entity">
-            <layout ax="794" ay="156" awidth="174" aheight="160" x="794" y="156" width="174" height="160" />
+            <layout ax="811" ay="156" awidth="140" aheight="160" x="811" y="156" width="140" height="160" />
             <classifier />
             <class />
           </item>
@@ -195,7 +195,7 @@
             <class />
           </item>
           <item id="ce6362fe1f4546479252ae24940a9795" iid="4b2c4302f17c4092b256780258a82f62" show-fields="true" creation-date="09/04/2024 11:02:21" order-index="13" type="entity">
-            <layout ax="1126" ay="156" awidth="140" aheight="160" x="1132" y="153" width="140" height="160" />
+            <layout ax="1116" ay="-104" awidth="140" aheight="160" x="1116" y="-104" width="140" height="160" />
             <classifier />
             <class />
           </item>
