@@ -31,7 +31,7 @@
       </counter>
       <counter>
         <item-type type-id="property" type="Property" />
-        <value>5</value>
+        <value>6</value>
       </counter>
       <counter>
         <item-type type-id="generalization" type="Generalization" />
@@ -125,8 +125,16 @@
           <version />
         </meta>
         <abstract-items>
+          <item id="0874917ccc9a4e6a82cf5302bf7a38da" cid="PROP005" type="property" name="ID" owner="ce6362fe1f4546479252ae24940a9795" creator="" creation-date="09/04/2024 14:58:51" visibility="private">
+            <structural-feature type="Integer" type-id="Uml.Integer" />
+          </item>
           <item id="d7d05a25e32d49d98045b451b1a8b3e1" cid="C012" type="class" name="Relatorio" creator="" creation-date="09/03/2024 20:23:03" visibility="undefined" />
-          <item id="ce6362fe1f4546479252ae24940a9795" cid="C014" type="class" name="DB" creator="" creation-date="09/04/2024 11:02:21" />
+          <item id="ce6362fe1f4546479252ae24940a9795" cid="C014" type="class" name="DB" creator="" creation-date="09/04/2024 11:02:21">
+            <owned-items />
+            <attributes>
+              <attribute id="ac7fc2dcbc265426fa5ba29aaa3b4ea6c527" cid="PROP005" name="ID" creation-date="09/04/2024 14:58:51" property-ref="0874917ccc9a4e6a82cf5302bf7a38da" />
+            </attributes>
+          </item>
           <item id="af55a264fe924dd9962f7f632a690712" cid="C007" type="class" name="Gerenciador" creator="" creation-date="09/03/2024 20:19:04" visibility="undefined" />
           <item id="b6d896f1d6524f3485defefafae8bb54" cid="C008" type="class" name="Pessoa" creator="" creation-date="09/03/2024 20:20:45" visibility="undefined" />
           <item id="89af514938444c67918b566b7dc85ef3" cid="C004" type="class" name="Prisioneiro" creator="" creation-date="09/03/2024 20:12:02" visibility="undefined" />
@@ -195,7 +203,7 @@
             <class />
           </item>
           <item id="ce6362fe1f4546479252ae24940a9795" iid="4b2c4302f17c4092b256780258a82f62" show-fields="true" creation-date="09/04/2024 11:02:21" order-index="13" type="entity">
-            <layout ax="1116" ay="-104" awidth="140" aheight="160" x="1116" y="-104" width="140" height="160" />
+            <layout ax="1116" ay="156" awidth="140" aheight="160" x="1116" y="156" width="140" height="160" />
             <classifier />
             <class />
           </item>
