@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/Horário.md",
+                "file": "Faculdade Eng. Software/Matérias/5º Semestre/Qualidade de Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Horário"
+              "title": "Qualidade de Software"
+            }
+          },
+          {
+            "id": "4b5fa3da684895ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -176,22 +190,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cb12610be97322dc",
+  "active": "4b5fa3da684895ce",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/5º Semestre/Processo de Software.md",
+    "Faculdade Eng. Software/Matérias/5º Semestre/Estatística.md",
+    "Faculdade Eng. Software/Matérias/5º Semestre/Arquitetura de Software.md",
+    "Faculdade Eng. Software/Matérias/5º Semestre/Qualidade de Software.md",
+    "Faculdade Eng. Software/Matérias/5º Semestre/Sem título",
+    "Faculdade Eng. Software/Procedural/Fazenda.md",
+    "Faculdade Eng. Software/Matérias/5º Semestre",
+    "Trabalho/Horário.md",
+    "Faculdade Eng. Software/Procedural",
+    "Faculdade Eng. Software/Sem título.md",
     "Trabalho/TODO.md",
     "Trabalho/Impressão.md",
     "Códigos/OSPredial/src/main/java/org/atividadeJava/atividade3/Prova2e3/CSV/test.adoc",
     "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
-    "Trabalho/Horário.md",
     "Códigos/OSPredial/target/classes/org/atividadeJava/atividade3/Prova2e3/Menu/Control.class",
     "Códigos/OSPredial/target/classes/org/atividadeJava/atividade3/Prova2e3/Menu/Control$8.class",
     "Códigos/OSPredial/target/classes/org/atividadeJava/atividade3/Prova2e3/Menu/Control$7.class",
     "Códigos/OSPredial/target/classes/org/atividadeJava/atividade3/Prova2e3/Menu/Control$6.class",
     "Códigos/OSPredial/target/classes/org/atividadeJava/atividade3/Prova2e3/Menu/Control$5.class",
     "Códigos/OSPredial/target/classes/org/atividadeJava/atividade3/Prova2e3/Menu/Control$4.class",
-    "Códigos/OSPredial/target/classes/org/atividadeJava/atividade3/Prova2e3/Menu/Control$3.class",
-    "Códigos/OSPredial/target/classes/org/atividadeJava/atividade3/Prova2e3/Menu/Control$2.class",
-    "Códigos/OSPredial/target/classes/org/atividadeJava/atividade3/Prova2e3/Menu/Control$1.class",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matriz.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Matrizes - Propriedades.md",
     "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Exemplo Visualização Mult. Matrizes.md",
