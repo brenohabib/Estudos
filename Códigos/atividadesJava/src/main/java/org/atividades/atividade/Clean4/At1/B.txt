@@ -1,3 +1,0 @@
-int lerAvaliacao() {
-  return (numeroDeEntregasAtrasadas > 5 ? 2 : 1);
-}
