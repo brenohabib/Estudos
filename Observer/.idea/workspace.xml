@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b27344e8-834a-4b89-b7be-3e396004a3e7" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/../.obsidian/core-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/core-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/.idea/AtividadeJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/.idea/dictionaries/breno.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/clients_p.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/locations.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/Wolfy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/ArrayMultidimensional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula1/Au1Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula1/Au1Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula1/Au1Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula10/Au10Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula10/Au10Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula10/Au10Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula10/Au10Ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula11/Au11Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula11/Au11Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula11/Au11Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula11/Au11Ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula12/Au12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula13/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula13/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula13/SegmentPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula13/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula14/Au14Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula14/Au14Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula14/Au14Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula14/Au14Ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula15/Au15Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula16/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula2/Au2Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula2/Au2Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula2/Au2Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula2/Au2Ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula2/Au2Ex5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula3/Au3Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula3/Au3Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula3/Au3Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula3/Au3Ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula3/Au3Ex5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula4/Au4Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula4/Au4Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula4/Au4Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula5/Au5Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula5/Au5Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula5/Au5Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula5/Au5Ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula5/TesteMatriz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Au6Ex9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula6/Desafio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula7/Au7Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula7/Au7Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula7/Exemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula8/Au8Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula8/Au8Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula9/Au9Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula9/Au9Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Aula9/Au9Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Clean1/Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Clean1/Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Clean1/Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Clean2/ReporterConfig.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Clean3/Somatoria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Clean4/At1/A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Clean4/At1/B.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Clean4/At2/A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Clean4/At2/B.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/CountingSort/Counting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/CountingSort/CountingSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/IPTUCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Prova1/P1At1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Prova1/P1At2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Prova1/P1At3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/Prova1/P1At4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade/TheInfinite/MandelbrotSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula1/Au1Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula1/Au1Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula10/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula10/ContaCorrente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula10/PrincipalAluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula10/PrincipalContaCorrente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula11/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula11/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula11/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula11/MainAluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula11/MainAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula11/MainDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula11/MainRetangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula11/Retangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula12/Arquivos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula12/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula12/ConversorDeTemperatura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula12/MainCalculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula12/MainConversor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula12/MainValidador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula12/ValidadorDeIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Dividir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Null.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula13/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula14/Arquivos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula15/ContagemLetras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula16/ArmazenarVetor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula16/ContagemRepeticao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula16/ConverterHtmlEmTxt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula17/Ordenar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula17/Unificar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula2/Au2Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula2/Au2Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula2/Au2Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula2/Au2Ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula2/Au2Ex5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula3/Au3Ex6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula4/Au4Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula4/Au4Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula4/Au4Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula4/Au4Ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula5/Au5Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula5/Au5Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula5/Au5Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula5/Au5Ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula6/Au6Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula6/Au6Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula6/Au6Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula7/Au7Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula8/Au8Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula8/Au8Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula8/Au8Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula8/Au8Ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula9/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula9/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula9/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula9/PrincipalCalculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula9/PrincipalLivro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Aula9/PrincipalPessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade2/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula2ex1/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula2ex1/TestarFilme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula2ex2/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula2ex2/Cachorro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula2ex2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula2ex2/Peixe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula3ex1/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula3ex1/Escola.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula3ex1/Materia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula3ex1/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula3ex1/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula3ex1/Turma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula4ex1/Listas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/Aula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/AvaliacaoFisica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/Exercicio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/Horario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/Pagamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/Plano.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Aula5ex1/Treino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Prova1/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Prova1/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Prova1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Códigos/AtividadeJava/src/main/java/atividade3/Prova1/Reader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalho/Estudos/Redes/CFTV.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Trabalho/Estudos/Redes/CFTV.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalho/Estudos/Redes/Introdução.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Trabalho/Estudos/Redes/Introdução.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalho/Estudos/Segurança/Alarmes.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Trabalho/Estudos/Segurança/Alarmes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalho/Estudos/Segurança/DVR.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Trabalho/Estudos/Segurança/DVR.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalho/Estudos/Segurança/Speed Dome.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Trabalho/Estudos/Segurança/Speed Dome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalho/Horário.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Trabalho/Horário.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalho/TODO.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Trabalho/TODO.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;brenohabib&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/brenohabib/Estudos&quot;,
+    &quot;accountId&quot;: &quot;2929b186-76b3-4e11-a73a-1df89ebcef06&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2pWaeAgnIW7QqoiyRYhpZA2Q48g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Atividade1.executor": "Run",
+    "Application.Atividade2.executor": "Run",
+    "Application.Atividade3.executor": "Run",
+    "Application.Atividade4.executor": "Run",
+    "Application.Atividade5.executor": "Run",
+    "Application.Atividade6.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/breno/Documentos/Estudos/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "proofread",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.ProvaPrograma" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b27344e8-834a-4b89-b7be-3e396004a3e7" name="Changes" comment="" />
+      <created>1732884380914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732884380914</updated>
+      <workItem from="1732884382087" duration="9636000" />
+      <workItem from="1732918145032" duration="1056000" />
+      <workItem from="1732921481017" duration="1995000" />
+      <workItem from="1733194410116" duration="1559000" />
+      <workItem from="1733237884074" duration="594000" />
+      <workItem from="1733275891698" duration="11000" />
+      <workItem from="1733412471304" duration="96000" />
+      <workItem from="1733492239637" duration="2000" />
+      <workItem from="1733579894286" duration="594000" />
+      <workItem from="1733618212155" duration="258000" />
+      <workItem from="1733656618861" duration="6000" />
+      <workItem from="1733694218449" duration="1000" />
+      <workItem from="1733702564198" duration="105000" />
+      <workItem from="1733786321942" duration="10000" />
+      <workItem from="1733795332909" duration="219000" />
+      <workItem from="1733847892840" duration="3000" />
+      <workItem from="1733849192504" duration="11000" />
+      <workItem from="1733963262069" duration="621000" />
+      <workItem from="1734051187421" duration="1000" />
+      <workItem from="1734122623963" duration="6000" />
+      <workItem from="1734130294894" duration="1000" />
+      <workItem from="1734136888860" duration="6000" />
+      <workItem from="1734204990154" duration="1000" />
+      <workItem from="1734220389235" duration="2000" />
+      <workItem from="1734279394311" duration="522000" />
+      <workItem from="1734286883276" duration="2000" />
+      <workItem from="1734394210772" duration="15000" />
+      <workItem from="1734570539490" duration="1000" />
+      <workItem from="1734737319733" duration="1000" />
+      <workItem from="1734867810126" duration="63000" />
+      <workItem from="1734883262344" duration="595000" />
+      <workItem from="1734951779874" duration="11000" />
+      <workItem from="1734970569939" duration="2000" />
+      <workItem from="1735047842753" duration="2000" />
+      <workItem from="1735069783282" duration="1000" />
+      <workItem from="1735167225331" duration="5000" />
+      <workItem from="1735210921280" duration="146000" />
+      <workItem from="1735329210243" duration="1000" />
+      <workItem from="1735417553760" duration="1000" />
+      <workItem from="1735431962718" duration="2000" />
+      <workItem from="1735488751268" duration="15000" />
+      <workItem from="1735687884683" duration="1000" />
+      <workItem from="1735763659616" duration="1192000" />
+      <workItem from="1735782427700" duration="1000" />
+      <workItem from="1735851463340" duration="367000" />
+      <workItem from="1735918647066" duration="19000" />
+      <workItem from="1736000098645" duration="5000" />
+      <workItem from="1736014588976" duration="1153000" />
+      <workItem from="1736021991533" duration="32000" />
+      <workItem from="1736090793196" duration="23000" />
+      <workItem from="1736116462694" duration="1000" />
+      <workItem from="1736344583868" duration="171000" />
+      <workItem from="1736367608803" duration="554000" />
+      <workItem from="1736461596377" duration="7000" />
+      <workItem from="1736507570412" duration="1000" />
+      <workItem from="1736727516938" duration="593000" />
+      <workItem from="1736980217169" duration="1000" />
+      <workItem from="1736989986855" duration="2000" />
+      <workItem from="1737151691064" duration="77000" />
+      <workItem from="1737292912930" duration="2000" />
+      <workItem from="1737300961889" duration="2000" />
+      <workItem from="1737335908366" duration="399000" />
+      <workItem from="1737498512331" duration="5000" />
+      <workItem from="1737767308068" duration="1424000" />
+      <workItem from="1737820461225" duration="3000" />
+      <workItem from="1738279137370" duration="6000" />
+      <workItem from="1738448515761" duration="2000" />
+      <workItem from="1738699472154" duration="593000" />
+      <workItem from="1738929478528" duration="5000" />
+      <workItem from="1738931738730" duration="594000" />
+      <workItem from="1739034625020" duration="193000" />
+      <workItem from="1739034993436" duration="8995000" />
+      <workItem from="1739054301297" duration="16259000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1732923515122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732923515122</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
