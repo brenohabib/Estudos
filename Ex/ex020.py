@@ -1,0 +1,11 @@
+#Alterando frases str
+n = input('Digite seu nome completo: ')
+maiu = n.upper()
+print ('Seu nome com todas as letras maiúsculas: ', maiu)
+minu = n.lower()
+print ('Seu nome com todas as letras minúsculas: ', minu)
+tod = n.split()
+todo = ''.join(tod)
+print ('A quantidade de letras no seu nome: ',len(todo))
+qunt = n.split()
+print (('Seu primeiro nome é :'), qunt[0])
