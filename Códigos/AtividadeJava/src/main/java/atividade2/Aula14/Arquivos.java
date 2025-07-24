@@ -9,53 +9,53 @@ import java.util.concurrent.TimeUnit;
 import atividade2.Menu;
 
 public class Arquivos {
-    static Menu fileMenu = new Menu("Super arquivo 3000", 100, 10);
+    static Menu fileMenu = new Menu("Super arquivo 3000");
     public static void main(String[] args) {
         boolean running = true;
         
         while (running) {
-            fileMenu.start();
-            fileMenu.text("Escolha uma opção:", 1);
-            fileMenu.text("1. Criar arquivo", 2, Menu.Alignment.LEFT);
-            fileMenu.text("2. Verificar se arquivo existe", 3, Menu.Alignment.LEFT);
-            fileMenu.text("3. Remover arquivo", 4, Menu.Alignment.LEFT);
-            fileMenu.text("4. Ler conteúdo de arquivo", 5, Menu.Alignment.LEFT);
-            fileMenu.text("5. Alterar arquivo", 6, Menu.Alignment.LEFT);
-            fileMenu.text("6. Sair", 7, Menu.Alignment.LEFT);
+            fileMenu.applyChanges();
+            fileMenu.text("Escolha uma opção:", 1).left();
+            fileMenu.text("1. Criar arquivo", 2).left();
+            fileMenu.text("2. Verificar se arquivo existe", 3).left();
+            fileMenu.text("3. Remover arquivo", 4).left();
+            fileMenu.text("4. Ler conteúdo de arquivo", 5).left();
+            fileMenu.text("5. Alterar arquivo", 6).left();
+            fileMenu.text("6. Sair", 7).left();
 
             String opcao = fileMenu.input();
 
             switch (opcao) {
                 case "1":
-                    fileMenu.start();
+                    fileMenu.applyChanges();
                     fileMenu.text("Insira o nome do arquivo", 3);
                     String nomeArquivo = fileMenu.input();
                     criarArquivo(nomeArquivo);
                     break;
                 case "2":
-                    fileMenu.start();
+                    fileMenu.applyChanges();
                     fileMenu.text("Insira o nome do arquivo a ser verificado: ", 3);
                     String nomeArquivoVerificar = fileMenu.input();
                     verificarArquivo(nomeArquivoVerificar);
                     break;
                 case "3":
-                    fileMenu.start();
+                    fileMenu.applyChanges();
                     fileMenu.text("Insira o nome do arquivo a ser removido: ", 3);
                     String nomeArquivoRemover = fileMenu.input();
                     removerArquivo(nomeArquivoRemover);
                     break;
                 case "4":
-                    fileMenu.start();
+                    fileMenu.applyChanges();
                     fileMenu.text("Insira o nome do arquivo a ser lido: ", 3);
                     String nomeArquivoLer = fileMenu.input();
                     lerConteudoArquivo(nomeArquivoLer);
                     break;
                 case "5":
-                    fileMenu.start();
+                    fileMenu.applyChanges();
                     fileMenu.text("Insira o nome do arquivo a ser alterado", 3);
                     String nomeArquivoAlterar = fileMenu.input();
 
-                    fileMenu.start();
+                    fileMenu.applyChanges();
                     fileMenu.text("Insira o conteudo do arquivo", 3);
                     String conteudoArquivoAlterar = fileMenu.input();
                     alterarConteudoArquivo(nomeArquivoAlterar, conteudoArquivoAlterar);
@@ -115,12 +115,12 @@ public class Arquivos {
             String options = "";
             int lines = 2;
             while (reading) {
-                fileMenu.start();
+                fileMenu.applyChanges();
                 while (leitor.hasNextLine() && lines <= 5) {
                     fileMenu.text(leitor.nextLine(), lines++);
                 }
-                fileMenu.text("next - 1", 10, Menu.Alignment.RIGHT);
-                fileMenu.text("stop - 2", 11, Menu.Alignment.RIGHT);
+                fileMenu.text("next - 1", 10).right();
+                fileMenu.text("stop - 2", 11).right();
                 options = fileMenu.input();
                 lines = 2;
                 if (!leitor.hasNextLine() || options.equals("2")) {

@@ -37,8 +37,8 @@ public class ArmazenarVetor {
 
     public static void main(String[] args) {
         ArmazenarVetor armazenarVetor = new ArmazenarVetor();
-        Menu mainMenu = new Menu("Imprimidor de parabolas", 80, 10);
-        mainMenu.start();
+        Menu mainMenu = new Menu("Imprimidor de parabolas");
+        mainMenu.applyChanges();
         armazenarVetor.salvarParabola();
 
         mainMenu.text("Arquivo Vetor.txt criado com sucesso!", 4);

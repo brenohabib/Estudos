@@ -2,7 +2,7 @@ package atividade.Aula3;
 
 /**
  1) Crie um programa java que contenha um vetor de 5 posições do tipo String que armazenam
-nomes de objetos informados pelo usuário (Utilize o método next()). Após o vetor ser todo
+nomes de objetos informados pelo usuário (Utilize o método next()). Após o vetor ser
 preenchido, mostre na tela a quantidade de letras de cada uma das palavras informadas.
  */
 import java.util.Scanner;

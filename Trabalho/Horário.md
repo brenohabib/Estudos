@@ -124,3 +124,31 @@
 - Dia 05
 	- Manhã/Tarde
 		- Fui para o Sérgio Cunha, voltei 17:50
+
+- Dia 22
+	- Manhã/Tarde
+		- Fui no Reinaldo
+
+- Dia 23
+	- Manhã/Tarde
+		- Fui no Sérgio Nogueira, voltei 21:00
+
+- Dia 25
+	- Manhã/Tarde
+		- Fui com o Moisés para Santa Helena
+
+- Dia 26
+	- Manhã/Tarde
+		- Fui com o Moisés para Santa Helena
+
+## Agosto
+
+- Dia 14
+	- Manhã/Tarde
+		- Sergio Cunha
+
+- Dia 16
+	- Manhã
+		- Esqueci bater ponto almoço: 12:40 (Preparando Projeto Fabiano Ferrari em Minas) (OBS: acho que esqueci outro horário)
+		
+

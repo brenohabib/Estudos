@@ -1,0 +1,3 @@
+"C:\Inteli\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\AU15.dir/objects.a
+C:\Inteli\CLION2~1.4\bin\mingw\bin\ar.exe qc CMakeFiles\AU15.dir/objects.a @CMakeFiles\AU15.dir\objects1.rsp
+C:\Inteli\CLION2~1.4\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\AU15.dir/objects.a -Wl,--no-whole-archive -o AU15.exe -Wl,--out-implib,libAU15.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AU15.dir\linkLibs.rsp

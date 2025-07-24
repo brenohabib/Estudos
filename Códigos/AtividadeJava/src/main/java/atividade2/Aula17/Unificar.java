@@ -12,11 +12,11 @@ import java.io.FileNotFoundException;
 import atividade2.Menu;
 
 public class Unificar {
-    static Menu fileMenu = new Menu("Unificador", 80, 10);
+    static Menu fileMenu = new Menu("Unificador");
 
     public static void main(String[] args) {
 
-        fileMenu.start();
+        fileMenu.applyChanges();
 
         try {
             FileReader texto1 = new FileReader("texto1.txt");
