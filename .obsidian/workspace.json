@@ -184,6 +184,7 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Códigos/Integração/index.js",
     "Códigos/Integração/package.json",
     "Códigos/Integração/node_modules/@eslint/plugin-kit/node_modules/@eslint/core/dist/cjs/types.d.cts",
     "Códigos/Integração/node_modules/@eslint/plugin-kit/node_modules/@eslint/core/dist/esm/types.d.ts",
@@ -194,7 +195,6 @@
     "Códigos/Integração/node_modules/eslint/lib/languages/js/source-code/token-store/index.js",
     "Códigos/Integração/node_modules/eslint/lib/languages/js/source-code/token-store/forward-token-cursor.js",
     "Códigos/Integração/node_modules/eslint/lib/languages/js/source-code/token-store/forward-token-comment-cursor.js",
-    "Códigos/Integração/node_modules/eslint/lib/languages/js/source-code/token-store/filter-cursor.js",
     "Códigos/Integração/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/README.md",
     "Códigos/Integração/node_modules/@eslint/plugin-kit/node_modules/@eslint/core/README.md",
     "Códigos/Integração/node_modules/@typescript-eslint/typescript-estree/node_modules/minimatch/README.md",
