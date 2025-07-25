@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Introdução.md",
+                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Integração de Sistemas/Introdução.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Introdução.md",
+                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Integração de Sistemas/Introdução.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,15 +184,17 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Modelo de Entidade e Relacionamento.md",
+    "Faculdade Eng. Software/Matérias/6º Semestre/Des. Mobile/Introdução.md",
+    "Faculdade Eng. Software/Matérias/6º Semestre/Des. Web/Introdução.md",
+    "Faculdade Eng. Software/Matérias/6º Semestre/Integração de Sistemas/Introdução.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Introdução.md",
+    "Faculdade Eng. Software/Matérias/6º Semestre/Integração de Sistemas",
+    "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/Modelo de Entidade e Relacionamento.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Banco de Dados/estudo prova.md",
     "Faculdade Eng. Software/Matérias/5º Semestre/Processo de Software.md",
     "Faculdade Eng. Software/Matérias/5º Semestre/Qualidade de Software.md",
     "Faculdade Eng. Software/Matérias/5º Semestre/Estatística.md",
     "Faculdade Eng. Software/Matérias/5º Semestre/Arquitetura de Software.md",
-    "Faculdade Eng. Software/Matérias/6º Semestre/Des. Web/Introdução.md",
-    "Faculdade Eng. Software/Matérias/6º Semestre/Des. Mobile/Introdução.md",
     "Faculdade Eng. Software/Matérias/6º Semestre/Des. Web",
     "Códigos/Observer.zip",
     "Códigos/AtividadeJava/clients_p.csv",
@@ -202,7 +204,6 @@
     "Códigos/Observer/src/main/java/org/ProvaPrograma/WeatherDisplay.java",
     "Códigos/Observer/src/main/java/org/ProvaPrograma/EventManager.java",
     "Códigos/Observer/src/main/java/org/ProvaPrograma/EventListener.java",
-    "Códigos/Observer/src/main/java/org/ProvaPrograma",
     "Trabalho/Clientes/Fabiano Ferrari/Drawing 2024-08-17 08.35.17.excalidraw.md",
     "Faculdade Eng. Software/Matérias/4º Semestre/Orientação a Objeto/Atributos e Métodos de Automóvel.md",
     "Códigos/CRUD cliente java/src/images/logo_manutrack_sem_fundo_branca.png",
@@ -224,7 +225,6 @@
     "Trabalho/Diário/07-05-2024.md",
     "Trabalho/Diário/06-05-2024.md",
     "Trabalho/Diário/03-05-2024.md",
-    "Faculdade Eng. Software/Matérias/3º Semestre/Paradigmas de Programação/Atividade-15.md",
     "Trabalho/Clientes/Sérgio Cunha - REDE.svg",
     "Faculdade Eng. Software/Matérias/3º Semestre/Requisitos de Software/Requisitos Não Funcionais (canvas).canvas"
   ]

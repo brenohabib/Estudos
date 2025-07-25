@@ -4,8 +4,6 @@ tags:
 referências: 
 data: 2025-07-24
 ---
-## Introdução
-
 Neste semestre, exploraremos diversas tecnologias e conceitos fundamentais para o **desenvolvimento web** moderno, com foco tanto no front-end quanto no back-end. A seguir, apresentamos um panorama geral dos principais tópicos que serão estudados.
 
 ### React e o Virtual DOM
