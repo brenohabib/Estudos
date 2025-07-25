@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Integração de Sistemas/Introdução.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introdução"
+              "title": "Calculo entre Matrizes"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Integração de Sistemas/Introdução.md",
+                "file": "Faculdade Eng. Software/Matérias/2º Semestre/Álgebra/Matriz/Calculo entre Matrizes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introdução"
+              "title": "Outline of Calculo entre Matrizes"
             }
           },
           {
@@ -184,6 +184,7 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/6º Semestre/Integração de Sistemas/Introdução.md",
     "Códigos/Integração/index.js",
     "Códigos/Integração/package.json",
     "Códigos/Integração/node_modules/@eslint/plugin-kit/node_modules/@eslint/core/dist/cjs/types.d.cts",
@@ -194,7 +195,6 @@
     "Códigos/Integração/node_modules/eslint/lib/languages/js/source-code/token-store/limit-cursor.js",
     "Códigos/Integração/node_modules/eslint/lib/languages/js/source-code/token-store/index.js",
     "Códigos/Integração/node_modules/eslint/lib/languages/js/source-code/token-store/forward-token-cursor.js",
-    "Códigos/Integração/node_modules/eslint/lib/languages/js/source-code/token-store/forward-token-comment-cursor.js",
     "Códigos/Integração/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/README.md",
     "Códigos/Integração/node_modules/@eslint/plugin-kit/node_modules/@eslint/core/README.md",
     "Códigos/Integração/node_modules/@typescript-eslint/typescript-estree/node_modules/minimatch/README.md",
