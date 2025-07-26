@@ -22,7 +22,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <div className="card">
-        <input onChange={handleInputChange} value={input} />
+        <input onChange={handleInputChange} value={input} onKeyDown={console.log(input)}/>
         <p>O texto digitado é: {input}</p>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
