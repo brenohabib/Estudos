@@ -4,7 +4,11 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [input, setInput] = useState(0)
+  const [input, setInput] = useState('')
+
+  const handleInputChange = (e) => {
+    setInput(e.target.value)
+  }
 
   return (
     <>
@@ -18,9 +22,8 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <div className="card">
-        <input onChange={() => setInput((input) => input)}>
-          count is {input}
-        </input>
+        <input onChange={handleInputChange} value={input} />
+        <p>O texto digitado é: {input}</p>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
