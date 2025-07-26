@@ -6,6 +6,10 @@ import './App.css'
 function App() {
   const [input, setInput] = useState('')
 
+  const handleInputChange = (e) => {
+    setInput(e.target.value)
+  }
+
   return (
     <>
       <div>
@@ -18,7 +22,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <div className="card">
-        <input onChange={(e) => setInput(e.target.value)}/>
+        <input onChange={handleInputChange} value={input} onKeyDown={(e) => console.log(e.key)} />
         <p>O texto digitado é: {input}</p>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
