@@ -7,3 +7,5 @@ data: 2025-07-28
 Matriz GUT
 Qualidade MPSBR
 Certificações ISO 9000 e para frente
+5W2H
+Ciclo PDCA
