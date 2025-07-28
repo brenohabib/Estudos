@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade/Introdução.md",
+                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Estimativa de custos/Introdução.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade/Introdução.md",
+                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Estimativa de custos/Introdução.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,8 +184,10 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/6º Semestre/Des. Web/Introdução.md",
     "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade/Introdução.md",
+    "Faculdade Eng. Software/Matérias/6º Semestre/Estimativa de custos/Introdução.md",
+    "Faculdade Eng. Software/Matérias/6º Semestre/Estimativa de custos",
+    "Faculdade Eng. Software/Matérias/6º Semestre/Des. Web/Introdução.md",
     "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade",
     "Códigos/Web/vite-project/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/LICENSE",
     "Códigos/Web/vite-project/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/package.json",
@@ -196,7 +198,6 @@
     "Códigos/Web/vite-project/node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-keys/dist/visitor-keys.d.ts",
     "Códigos/Web/vite-project/node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-keys/dist",
     "Códigos/Web/vite-project/node_modules/eslint/lib/languages/js/validate-language-options.js",
-    "Códigos/Web/vite-project/node_modules/eslint/lib/cli-engine/formatters/formatters-meta.json",
     "Códigos/Web/vite-project/node_modules/@eslint/eslintrc/node_modules/globals/readme.md",
     "Códigos/Web/vite-project/node_modules/@vitejs/plugin-react/README.md",
     "Códigos/Web/vite-project/node_modules/@humanfs/node/README.md",
@@ -219,7 +220,6 @@
     "Códigos/Web/vite-project/node_modules/json5/README.md",
     "Códigos/Web/vite-project/node_modules/json-schema-traverse/README.md",
     "Códigos/Web/vite-project/node_modules/jsesc/README.md",
-    "Códigos/Web/vite-project/node_modules/import-fresh/readme.md",
     "Códigos/Web/vite-project/src/assets/react.svg",
     "Códigos/Web/vite-project/public/vite.svg",
     "Códigos/CRUD cliente java/src/images/logo_manutrack_sem_fundo_branca.png",
