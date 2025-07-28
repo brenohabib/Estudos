@@ -5,7 +5,6 @@ referências:
 data: 2025-07-24
 ---
 Neste semestre, exploraremos diversas tecnologias e conceitos fundamentais para o **desenvolvimento web** moderno, com foco tanto no front-end quanto no back-end. A seguir, apresentamos um panorama geral dos principais tópicos que serão estudados.
-
 ### React e o Virtual DOM
 
 React é uma biblioteca JavaScript criada pelo Facebook para construção de interfaces de usuário (UI). Um de seus principais diferenciais é o **Virtual DOM**, uma representação virtual da estrutura real da página (DOM). Isso permite que o React atualize apenas os elementos que realmente mudaram, otimizando a performance das aplicações web.
