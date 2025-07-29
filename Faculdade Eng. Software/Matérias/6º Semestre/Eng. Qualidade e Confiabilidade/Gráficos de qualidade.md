@@ -20,3 +20,4 @@ Histograma
 
 Gráfico de dispersão ou de Correlação
 
+ 
