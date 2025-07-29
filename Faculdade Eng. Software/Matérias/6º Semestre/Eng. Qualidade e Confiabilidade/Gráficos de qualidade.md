@@ -18,3 +18,5 @@ Folha de verificação
 
 Histograma
 
+Gráfico de dispersão ou de Correlação
+
