@@ -15,7 +15,8 @@ Estimar custo de desenvolvimento
 Estimar por empresas especializadas em availar
 Estimar por juízes (profissionais na área)
 Estimar por prototipagem
-COCOMO II
+
+COCOMO II - Estimativa boa
 
 Pontos de função
 	Entradas ou saídas externas
