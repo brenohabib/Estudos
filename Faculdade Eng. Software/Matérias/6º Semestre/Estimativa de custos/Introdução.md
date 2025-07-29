@@ -34,3 +34,9 @@ Interativos
 Monolíticos
 Recursivos
 
+Formas de solução de problemas
+Dividir p/ conquistar
+Método guloso
+Programação dinâmica
+Backtracking
+
