@@ -16,3 +16,5 @@ Diagrama de Ishikawa
 
 Folha de verificação
 
+Histograma
+
