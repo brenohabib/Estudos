@@ -33,4 +33,3 @@ O **5W2H** é uma ferramenta gerencial utilizada para estruturar planos de açã
 O **Ciclo PDCA** (Plan-Do-Check-Act), também conhecido como Ciclo de Deming, é uma metodologia iterativa de gestão que visa promover a melhoria contínua de processos. O ciclo é dividido em quatro etapas: **Planejar (Plan)**, onde são definidos os objetivos e os meios para alcançá-los; **Executar (Do)**, que consiste na implementação do plano; **Verificar (Check)**, em que se analisam os resultados obtidos em relação aos objetivos; e **Agir (Act)**, onde se tomam ações corretivas ou se padronizam os resultados positivos. O PDCA é amplamente utilizado em sistemas de gestão da qualidade e projetos de melhoria organizacional.
 
 ---
-
