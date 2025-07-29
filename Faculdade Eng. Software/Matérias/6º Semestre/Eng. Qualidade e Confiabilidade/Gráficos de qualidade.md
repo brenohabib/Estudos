@@ -10,7 +10,5 @@ BPN
 simbologia - tipos - exemplos
 Fluxograma
 
-
-
-Diagrama de paretto
+Diagrama de Pareto
 
