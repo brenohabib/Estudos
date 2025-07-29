@@ -26,3 +26,5 @@ Pontos de função
 
 Gerações de linguagem
 
+Sistemas embarcados
+Sistemas em tempo real
