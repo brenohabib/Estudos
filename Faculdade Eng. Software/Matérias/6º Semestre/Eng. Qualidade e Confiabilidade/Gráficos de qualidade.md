@@ -20,4 +20,4 @@ Histograma
 
 Gráfico de dispersão ou de Correlação
 
- 
+Controle estatístico do processo
