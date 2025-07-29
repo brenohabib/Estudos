@@ -23,3 +23,4 @@ Pontos de função
 	Arquivos internas
 	Arquivos externos
 
+Gerações de linguagem
