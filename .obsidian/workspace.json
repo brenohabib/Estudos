@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Estimativa de custos/Introdução.md",
+                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade/Introdução.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Estimativa de custos/Introdução.md",
+                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade/Introdução.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,10 +184,15 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
-    "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade/Introdução.md",
     "Faculdade Eng. Software/Matérias/6º Semestre/Estimativa de custos/Introdução.md",
-    "Faculdade Eng. Software/Matérias/6º Semestre/Estimativa de custos",
+    "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade/Introdução.md",
     "Faculdade Eng. Software/Matérias/6º Semestre/Des. Web/Introdução.md",
+    "Faculdade Eng. Software/Matérias/6º Semestre/Des. Mobile/Introdução.md",
+    "Faculdade Eng. Software/Matérias/5º Semestre/Qualidade de Software.md",
+    "Faculdade Eng. Software/Matérias/5º Semestre/Processo de Software.md",
+    "Faculdade Eng. Software/Matérias/5º Semestre/Estatística.md",
+    "Faculdade Eng. Software/Matérias/5º Semestre/Arquitetura de Software.md",
+    "Faculdade Eng. Software/Matérias/6º Semestre/Estimativa de custos",
     "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade",
     "Códigos/Web/vite-project/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/LICENSE",
     "Códigos/Web/vite-project/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/package.json",
@@ -215,11 +220,6 @@
     "Códigos/Web/vite-project/node_modules/path-key/readme.md",
     "Códigos/Web/vite-project/node_modules/optionator/CHANGELOG.md",
     "Códigos/Web/vite-project/node_modules/optionator/README.md",
-    "Códigos/Web/vite-project/node_modules/levn/README.md",
-    "Códigos/Web/vite-project/node_modules/json5/LICENSE.md",
-    "Códigos/Web/vite-project/node_modules/json5/README.md",
-    "Códigos/Web/vite-project/node_modules/json-schema-traverse/README.md",
-    "Códigos/Web/vite-project/node_modules/jsesc/README.md",
     "Códigos/Web/vite-project/src/assets/react.svg",
     "Códigos/Web/vite-project/public/vite.svg",
     "Códigos/CRUD cliente java/src/images/logo_manutrack_sem_fundo_branca.png",
