@@ -12,3 +12,5 @@ Fluxograma
 
 Diagrama de Pareto
 
+Diagrama de Ishikawa
+
