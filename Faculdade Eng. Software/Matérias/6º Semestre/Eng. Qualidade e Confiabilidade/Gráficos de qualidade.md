@@ -18,4 +18,3 @@ Folha de verificação
 
 Histograma
 
- 
