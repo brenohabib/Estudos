@@ -28,3 +28,9 @@ Gerações de linguagem
 
 Sistemas embarcados
 Sistemas em tempo real
+
+Tipos de programas
+Interativos
+Monolíticos
+Recursivos
+
