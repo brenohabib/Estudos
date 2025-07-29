@@ -8,3 +8,18 @@ SaaS - as Service
 SAP - as Product
 
 Estimar com equivalentes -> Imprecisa
+Estimar por funcionalidades
+Estimar por tesmpo gasto
+Estimar KLOC (linhas de código)
+Estimar custo de desenvolvimento
+Estimar por empresas especializadas em availar
+Estimar por juízes (profissionais na área)
+Estimar por prototipagem
+COCOMO II
+
+Pontos de função
+	Entradas ou saídas externas
+	Consultas externas
+	Arquivos internas
+	Arquivos externos
+
