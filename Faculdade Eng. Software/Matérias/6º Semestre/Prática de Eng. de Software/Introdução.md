@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - prática
 referências: 
 data: 2024-03-10
 ---
