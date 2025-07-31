@@ -68,3 +68,41 @@ Elicitação de Requisitos
 		Compreender domínio do problema
 		Definir escopo
 		Alinhar expectativas
+	Prioridade das fontes
+		Stakeholders (geralmente prioridade máxima)
+		Sistemas Legados (prioridade alta)
+		Documentos (prioridade variável, complementar)
+	Importância dos stakeholders
+		Identificar os stakeholders relevantes é uma tarefa central da ER
+		Não identificar ou não considerar stakeholders pode resultar em significativas repercussões negativas para o progresso do projeto, pois certos requisitos podem não ser detectados
+		Eles sabem o que precisa ser feito
+		Tomam decisões sobre escopo
+		Determinam o que é o sucesso para o sistema
+		Garantem aceitação e adoção do produto final
+		Representam diferentes perspectivas
+		Influenciam prioridades, orçamento e aceitação do sistema
+		Sem engajamento ativo, não há garantia de que o sistema terá valor real
+	Métodos para reconhecer todos os atores relevantes
+		Mapeamento organizacional
+		Entrevistas iniciais com patrocinadores
+		Análise de processos de negócio
+		Análise de sistemas legado
+	Risco de deixar um stakeholder de fora
+		Requisitos incompletos
+		Re-trabalho
+		Perda de credibilidade
+		Requisitos faltantes ou incorretos
+		Conflitos posteriores
+	Técnicas de elicitação
+		O principal objetivo das técnicas é auxiliar  engenheiro de requisitos a identificar o conhecimento e requisitos dos stakeholders
+		Diretas
+			Entrevistas
+			Questionários e formulários
+			Workshops
+			Observação direta
+		Indiretas
+			Análise de documento
+			Estudo de sistema legado
+		Colaborativas e interativas
+			Protótipos
+	
