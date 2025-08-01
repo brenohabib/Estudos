@@ -14,13 +14,11 @@ A Engenharia de Requisitos é uma abordagem sistemática e documentada voltada �
 
 Um requisito é uma condição ou capacidade necessária a um usuário ou sistema para resolver um problema ou atingir um objetivo. Esses requisitos podem ser funcionais (o que o sistema deve fazer) ou não funcionais (como o sistema deve se comportar).
 
----
 
 ### **Stakeholders**
 
 Stakeholders são indivíduos ou organizações que influenciam ou são impactados direta ou indiretamente pelos requisitos do sistema. Identificá-los corretamente é crucial para o sucesso do projeto, uma vez que suas necessidades guiam o desenvolvimento.
 
----
 
 ### **Objetivos da Engenharia de Requisitos**
 
@@ -33,7 +31,6 @@ Stakeholders são indivíduos ou organizações que influenciam ou são impactad
 - Alinhar as expectativas dos stakeholders com os objetivos do projeto.
     
 
----
 
 ### **Características da Engenharia de Requisitos**
 
@@ -46,19 +43,16 @@ Stakeholders são indivíduos ou organizações que influenciam ou são impactad
 - Não se trata de uma etapa isolada, estando integrada às demais fases do projeto.
     
 
----
 
 ### **Importância**
 
 A correção de um erro de requisito detectado em produção pode ser até 200 vezes mais onerosa do que sua identificação nas etapas iniciais. Isso reforça a importância de uma boa prática de elicitação, documentação e validação de requisitos.
 
----
 
 ### **Relação com o Ciclo de Vida de Software**
 
 Independentemente do modelo de desenvolvimento adotado — seja em cascata, incremental, iterativo ou ágil — a Engenharia de Requisitos está presente como etapa fundamental.
 
----
 
 ### **Conexão com a Qualidade de Software**
 
@@ -77,25 +71,21 @@ Independentemente do modelo de desenvolvimento adotado — seja em cascata, incr
 
 Consiste na arte e ciência de descobrir, entender e extrair as reais necessidades dos stakeholders. Vai além de simplesmente perguntar o que eles desejam, utilizando técnicas específicas para revelar requisitos muitas vezes implícitos ou não verbalizados.
 
----
 
 ### **Documentação**
 
 Refere-se ao registro dos requisitos de forma clara, precisa e organizada. Esse processo transforma informações coletadas em artefatos formais, servindo como base contratual e guia de desenvolvimento. Pode ser feito por meio de linguagem natural estruturada ou modelos formais e semi-formais.
 
----
 
 ### **Validação (ou Negociação)**
 
 Trata-se da verificação da consistência, completude, correção e viabilidade dos requisitos especificados. Essa etapa é essencial para garantir que os requisitos reflitam corretamente as necessidades dos stakeholders e estejam alinhados às capacidades do sistema.
 
----
 
 ### **Gerenciamento de Requisitos**
 
 Envolve o acompanhamento e o controle das mudanças nos requisitos ao longo do projeto. Inclui processos de versionamento, rastreabilidade e comunicação de alterações, assegurando alinhamento contínuo entre os envolvidos.
 
----
 
 ### **Restrições**
 
@@ -146,7 +136,6 @@ A elicitação é uma das principais atividades da Engenharia de Requisitos, res
 - Alinhar expectativas entre equipe técnica e stakeholders.
     
 
----
 
 ### **Fontes de Requisitos – Prioridades**
 
@@ -157,7 +146,6 @@ A elicitação é uma das principais atividades da Engenharia de Requisitos, res
 - **Documentação**: Prioridade complementar, varia conforme o contexto.
     
 
----
 
 ### **Importância dos Stakeholders**
 
@@ -179,7 +167,6 @@ A elicitação é uma das principais atividades da Engenharia de Requisitos, res
 - Conflitos futuros entre as partes interessadas.
     
 
----
 
 ### **Técnicas para Identificação de Stakeholders**
 
