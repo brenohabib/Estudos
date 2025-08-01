@@ -184,6 +184,7 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Códigos/Web/vite-project/src/components/FormButton.jsx",
     "Códigos/Web/vite-project/src/components/Layout.jsx",
     "Códigos/Web/vite-project/src/components/Card.jsx",
     "Códigos/Web/vite-project/src/components/FormInput.jsx",
@@ -207,7 +208,6 @@
     "Códigos/Web/vite-project/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/LICENSE",
     "Códigos/Web/vite-project/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/package.json",
     "Códigos/Web/vite-project/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/README.md",
-    "Códigos/Web/vite-project/node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-keys/dist/eslint-visitor-keys.d.cts",
     "Códigos/Web/vite-project/node_modules/@eslint/eslintrc/node_modules/globals/readme.md",
     "Códigos/Web/vite-project/node_modules/@vitejs/plugin-react/README.md",
     "Códigos/Web/vite-project/node_modules/@humanfs/node/README.md",
