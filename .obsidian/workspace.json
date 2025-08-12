@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Prática de Eng. de Software/Introdução.md",
+                "file": "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade/Controle Estatístico do Processo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introdução"
+              "title": "Controle Estatístico do Processo"
             }
           }
         ]
@@ -185,17 +185,18 @@
   },
   "active": "8493cd7a343247f7",
   "lastOpenFiles": [
+    "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade/Gráficos de qualidade.md",
+    "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade/Controle Estatístico do Processo.md",
+    "Faculdade Eng. Software/Matérias/6º Semestre/Métodos e Ferramentas/Introdução.md",
+    "Faculdade Eng. Software/Matérias/6º Semestre/Prática de Eng. de Software/Introdução.md",
     "Códigos/Web/vite-project/src/components/FormButton.jsx",
     "Códigos/Web/vite-project/src/components/Layout.jsx",
     "Códigos/Web/vite-project/src/components/Card.jsx",
     "Códigos/Web/vite-project/src/components/FormInput.jsx",
     "Códigos/Web/vite-project/src/components",
     "Faculdade Eng. Software/Matérias/6º Semestre/Des. Mobile/Estados.md",
-    "Faculdade Eng. Software/Matérias/6º Semestre/Prática de Eng. de Software/Introdução.md",
     "Faculdade Eng. Software/Matérias/6º Semestre/Prática de Eng. de Software",
     "Faculdade Eng. Software/Matérias/6º Semestre/Des. Mobile/Introdução.md",
-    "Faculdade Eng. Software/Matérias/6º Semestre/Métodos e Ferramentas/Introdução.md",
-    "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade/Gráficos de qualidade.md",
     "Faculdade Eng. Software/Matérias/6º Semestre/Métodos e Ferramentas",
     "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade/Introdução.md",
     "Faculdade Eng. Software/Matérias/6º Semestre/Estimativa de custos/Introdução.md",
@@ -207,7 +208,6 @@
     "Faculdade Eng. Software/Matérias/6º Semestre/Estimativa de custos",
     "Faculdade Eng. Software/Matérias/6º Semestre/Eng. Qualidade e Confiabilidade",
     "Códigos/Web/vite-project/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/LICENSE",
-    "Códigos/Web/vite-project/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/package.json",
     "Códigos/Web/vite-project/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/README.md",
     "Códigos/Web/vite-project/node_modules/@eslint/eslintrc/node_modules/globals/readme.md",
     "Códigos/Web/vite-project/node_modules/@vitejs/plugin-react/README.md",
