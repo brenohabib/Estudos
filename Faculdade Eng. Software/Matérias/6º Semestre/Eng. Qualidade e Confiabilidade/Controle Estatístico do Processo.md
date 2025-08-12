@@ -10,3 +10,4 @@ Como varia um processo
 
 Qualidade e desvio padrão: 6Sigma
 
+índice CP e CPK ; Considera a dispersão de valores ao longo da média
