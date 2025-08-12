@@ -1,7 +1,7 @@
 function TaskDescription(props) {
   return (
-    <div className="fixed inset-0 flex justify-center overflow-auto bg-blend-multiply bg-black/30">
-      <div className="bg-white p-6 rounded-lg shadow-lg max-w-2xl break-words">
+    <div className="fixed inset-0 flex justify-center justify-items-center bg-blend-multiply bg-black/30 p-8">
+      <div className="bg-white p-6 rounded-lg shadow-lg max-w-3xl overflow-auto">
         <h2 className="text-2xl font-bold break-words">{props.task.title}</h2>
         <p className="my-4 whitespace-pre-wrap break-words">
           {props.task.description}

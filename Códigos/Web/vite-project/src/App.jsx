@@ -69,11 +69,13 @@ function App() {
             onShowDescription={showTaskDescription}
           />
           <AddTask addTask={addTask} />
+          {selectedTask && (
+            <TaskDescription
+              task={selectedTask}
+              onClose={closeTaskDescription}
+            />
+          )}
         </div>
-
-        {selectedTask && (
-          <TaskDescription task={selectedTask} onClose={closeTaskDescription} />
-        )}
       </div>
     </div>
   );
