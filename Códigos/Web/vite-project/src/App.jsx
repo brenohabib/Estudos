@@ -56,19 +56,19 @@ function App() {
   }
 
   return (
-    <div className="w-screen h-screen bg-slate-500 flex justify-center">
+    <div className="min-h-screen w-full bg-slate-500 flex justify-center">
       <div className="w-2xl">
         <h1 className="text-3xl text-slate-100 font-bold text-center p-12">
           Gerenciador de tarefas
         </h1>
 
         <div className="flex flex-col space-y-4">
+          <AddTask addTask={addTask} />
           <Tasks
             tasks={tasks}
             onTaskClick={onTaskClick}
             onShowDescription={showTaskDescription}
           />
-          <AddTask addTask={addTask} />
           {selectedTask && (
             <TaskDescription
               task={selectedTask}
