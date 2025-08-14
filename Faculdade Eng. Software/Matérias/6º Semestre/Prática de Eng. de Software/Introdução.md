@@ -206,3 +206,6 @@ As técnicas têm por objetivo apoiar o engenheiro de requisitos na identificaç
 ### **Colaborativas/Interativas**
 
 - Criação e análise de protótipos.
+
+---
+
