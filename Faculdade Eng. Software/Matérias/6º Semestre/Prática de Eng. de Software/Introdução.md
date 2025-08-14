@@ -209,3 +209,8 @@ As técnicas têm por objetivo apoiar o engenheiro de requisitos na identificaç
 
 ---
 
+IEEE 29148
+IEEE 15289
+IEEE 830
+
+pesquisar alguns
