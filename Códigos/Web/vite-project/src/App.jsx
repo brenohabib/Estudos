@@ -1,26 +1,21 @@
-import { useState } from "react";
+import { useCallback, useState } from "react";
 import Tasks from "./components/Tasks";
 import AddTask from "./components/AddTask";
 import TaskDescription from "./components/TaskDescription";
 
 function App() {
-  const [tasks, setTasks] = useState([
-    {
-      id: 1,
-      title: "Fazer coisas",
-      description: "Estudar os conceitos básicos do React",
-      completed: false,
-    },
-    {
-      id: 2,
-      title: "Comprar coisas",
-      description: "Pastel, sorvete, café",
-
-      completed: false,
-    },
-  ]);
-
+  const [tasks, setTasks] = useState([]);
   const [selectedTask, setSelectedTask] = useState(null);
+  const [editingTask, setEditingTask] = useState({
+    title: "",
+    description: "",
+  });
+
+  const handleAddTask = useCallback(() => {
+    if (editingTask.title.trim() !== "") {
+      setEditingTask({ title: "", description: "" });
+    }
+  }, [editingTask]);
 
   function onTaskClick(taskId) {
     const newTasks = tasks.map((task) => {
@@ -46,6 +41,18 @@ function App() {
     setTasks([...tasks, newTask]);
   }
 
+  function deleteTask(taskId) {
+    const newTasks = tasks.filter((task) => task.id !== taskId);
+    setTasks(newTasks);
+    closeTaskDescription();
+  }
+
+  function editTask(taskId, title, description) {
+    setEditingTask({ title, description });
+    closeTaskDescription();
+    deleteTask(taskId);
+  }
+
   function showTaskDescription(taskId) {
     const task = tasks.find((task) => task.id === taskId);
     setSelectedTask(task);
@@ -63,7 +70,7 @@ function App() {
         </h1>
 
         <div className="flex flex-col space-y-4">
-          <AddTask addTask={addTask} />
+          <AddTask addTask={addTask} editingTask={editingTask} />
           <Tasks
             tasks={tasks}
             onTaskClick={onTaskClick}
@@ -73,6 +80,8 @@ function App() {
             <TaskDescription
               task={selectedTask}
               onClose={closeTaskDescription}
+              onDelete={deleteTask}
+              onEdit={editTask}
             />
           )}
         </div>

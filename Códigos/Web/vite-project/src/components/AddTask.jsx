@@ -1,8 +1,15 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 function AddTask(props) {
   const [title, setTitle] = useState("");
   const [description, setDescription] = useState("");
+
+  useEffect(() => {
+    if (props.editingTask) {
+      setTitle(props.editingTask.title);
+      setDescription(props.editingTask.description);
+    }
+  }, [props.editingTask]);
 
   const handleAddTask = () => {
     if (title.trim() !== "") {
